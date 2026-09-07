@@ -3,7 +3,8 @@ import type { KnowledgeRecord, LessonBundle, RelationshipGraph, WordCard } from 
 const CATALOG_ID = 'all-vocabulary';
 
 async function loadJson<T>(path: string): Promise<T> {
-  const response = await fetch(path);
+  // Reloading the graph must reflect the latest schema files, not a browser-cached copy.
+  const response = await fetch(path, { cache: 'no-store' });
   if (!response.ok) throw new Error('无法读取 ' + path + '：HTTP ' + response.status);
   return response.json() as Promise<T>;
 }
