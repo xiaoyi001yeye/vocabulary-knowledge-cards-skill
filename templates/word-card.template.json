@@ -1,0 +1,10 @@
+{
+  "id": "word-id",
+  "label": "核心释义",
+  "meaning": "词典级基础释义",
+  "family": "sound-shape-meaning-or-roots",
+  "lessonId": "lesson-id",
+  "classroomMethod": "按顺序记录提问、抓手、推导和落点",
+  "rehearsal": "30 秒可执行复现动作",
+  "caution": "助记法与词典事实的边界"
+}

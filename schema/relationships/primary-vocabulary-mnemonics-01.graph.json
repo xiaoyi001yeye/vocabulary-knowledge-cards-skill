@@ -1,0 +1,707 @@
+{
+  "id": "primary-vocabulary-mnemonics-01-graph",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "nodes": [
+    {
+      "id": "primary-vocabulary-mnemonics-01",
+      "type": "lesson",
+      "label": "小学英语词汇助记课",
+      "description": "助记路径图；并非严格词源图。"
+    },
+    {
+      "id": "compound",
+      "type": "knowledge",
+      "label": "组合拆分",
+      "description": "用可见的词或成分组合建立初步意义。"
+    },
+    {
+      "id": "shape",
+      "type": "knowledge",
+      "label": "画面与形状",
+      "description": "以图像、轮廓、字母形状或动作建立联想。"
+    },
+    {
+      "id": "sound",
+      "type": "knowledge",
+      "label": "读音与口形",
+      "description": "用朗读、口形或近似声音建立记忆抓手。"
+    },
+    {
+      "id": "family",
+      "type": "knowledge",
+      "label": "词族与对比",
+      "description": "通过亲属词、同类词或地区用语进行对比。"
+    },
+    {
+      "id": "meaning",
+      "type": "knowledge",
+      "label": "语义与场景",
+      "description": "从基本含义、使用场景和近义对比建立理解。"
+    },
+    {
+      "id": "review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "以朗读、口述、造句和间隔复习检验是否真正记住。"
+    },
+    {
+      "id": "pencil-case",
+      "type": "word",
+      "label": "铅笔盒；笔袋",
+      "group": "compound"
+    },
+    {
+      "id": "news",
+      "type": "word",
+      "label": "新闻；消息",
+      "group": "family"
+    },
+    {
+      "id": "newspaper",
+      "type": "word",
+      "label": "报纸",
+      "group": "compound"
+    },
+    {
+      "id": "storybook",
+      "type": "word",
+      "label": "故事书",
+      "group": "compound"
+    },
+    {
+      "id": "handwriting",
+      "type": "word",
+      "label": "手写字；笔迹",
+      "group": "compound"
+    },
+    {
+      "id": "sea-lion",
+      "type": "word",
+      "label": "海狮",
+      "group": "shape"
+    },
+    {
+      "id": "seal",
+      "type": "word",
+      "label": "海豹；密封",
+      "group": "shape"
+    },
+    {
+      "id": "mother",
+      "type": "word",
+      "label": "母亲；妈妈",
+      "group": "family"
+    },
+    {
+      "id": "grandma",
+      "type": "word",
+      "label": "祖母；外祖母；奶奶/姥姥",
+      "group": "family"
+    },
+    {
+      "id": "grandpa",
+      "type": "word",
+      "label": "祖父；外祖父；爷爷/姥爷",
+      "group": "family"
+    },
+    {
+      "id": "grand",
+      "type": "word",
+      "label": "宏大的；盛大的；伟大的",
+      "group": "family"
+    },
+    {
+      "id": "hot-dog",
+      "type": "word",
+      "label": "热狗",
+      "group": "shape"
+    },
+    {
+      "id": "student",
+      "type": "word",
+      "label": "学生",
+      "group": "family"
+    },
+    {
+      "id": "strawberry",
+      "type": "word",
+      "label": "草莓",
+      "group": "shape"
+    },
+    {
+      "id": "grass",
+      "type": "word",
+      "label": "草；草地",
+      "group": "meaning"
+    },
+    {
+      "id": "straw",
+      "type": "word",
+      "label": "稻草；吸管",
+      "group": "meaning"
+    },
+    {
+      "id": "bicycle",
+      "type": "word",
+      "label": "自行车",
+      "group": "compound"
+    },
+    {
+      "id": "circle",
+      "type": "word",
+      "label": "圆；圆圈",
+      "group": "sound"
+    },
+    {
+      "id": "walkman",
+      "type": "word",
+      "label": "随身听",
+      "group": "family"
+    },
+    {
+      "id": "night",
+      "type": "word",
+      "label": "夜晚",
+      "group": "sound"
+    },
+    {
+      "id": "computer",
+      "type": "word",
+      "label": "计算机",
+      "group": "family"
+    },
+    {
+      "id": "flat",
+      "type": "word",
+      "label": "平的；扁平的",
+      "group": "sound"
+    },
+    {
+      "id": "floor",
+      "type": "word",
+      "label": "地板；楼层",
+      "group": "shape"
+    },
+    {
+      "id": "classroom",
+      "type": "word",
+      "label": "教室",
+      "group": "compound"
+    },
+    {
+      "id": "mate",
+      "type": "word",
+      "label": "伙伴；同伴",
+      "group": "family"
+    },
+    {
+      "id": "classmate",
+      "type": "word",
+      "label": "同班同学",
+      "group": "compound"
+    },
+    {
+      "id": "all-right",
+      "type": "word",
+      "label": "没问题；好的",
+      "group": "meaning"
+    },
+    {
+      "id": "good-job",
+      "type": "word",
+      "label": "干得好",
+      "group": "meaning"
+    },
+    {
+      "id": "snowy",
+      "type": "word",
+      "label": "下雪的；多雪的",
+      "group": "family"
+    },
+    {
+      "id": "rainy",
+      "type": "word",
+      "label": "下雨的；多雨的",
+      "group": "family"
+    },
+    {
+      "id": "football",
+      "type": "word",
+      "label": "足球；（美式）橄榄球",
+      "group": "meaning"
+    },
+    {
+      "id": "soccer",
+      "type": "word",
+      "label": "足球",
+      "group": "meaning"
+    },
+    {
+      "id": "sunny",
+      "type": "word",
+      "label": "晴朗的；阳光充足的",
+      "group": "family"
+    },
+    {
+      "id": "drizzle",
+      "type": "word",
+      "label": "毛毛雨；下毛毛雨",
+      "group": "shape"
+    },
+    {
+      "id": "physical-education",
+      "type": "word",
+      "label": "体育（课）",
+      "group": "family"
+    },
+    {
+      "id": "footbridge",
+      "type": "word",
+      "label": "人行天桥；步行桥",
+      "group": "compound"
+    },
+    {
+      "id": "playground",
+      "type": "word",
+      "label": "操场；游乐场",
+      "group": "compound"
+    },
+    {
+      "id": "ground",
+      "type": "word",
+      "label": "地面；土地；场地",
+      "group": "meaning"
+    },
+    {
+      "id": "field",
+      "type": "word",
+      "label": "田地；场地；领域",
+      "group": "meaning"
+    },
+    {
+      "id": "kindergarten",
+      "type": "word",
+      "label": "幼儿园",
+      "group": "family"
+    },
+    {
+      "id": "net",
+      "type": "word",
+      "label": "网；净额的",
+      "group": "meaning"
+    },
+    {
+      "id": "nest",
+      "type": "word",
+      "label": "巢",
+      "group": "shape"
+    },
+    {
+      "id": "sand",
+      "type": "word",
+      "label": "沙；沙子",
+      "group": "sound"
+    },
+    {
+      "id": "sandcastle",
+      "type": "word",
+      "label": "沙堡",
+      "group": "compound"
+    },
+    {
+      "id": "castle",
+      "type": "word",
+      "label": "城堡",
+      "group": "meaning"
+    },
+    {
+      "id": "cast",
+      "type": "word",
+      "label": "投掷；铸造；演员阵容",
+      "group": "meaning"
+    },
+    {
+      "id": "secret",
+      "type": "word",
+      "label": "秘密；秘密的",
+      "group": "meaning"
+    },
+    {
+      "id": "secretary",
+      "type": "word",
+      "label": "秘书",
+      "group": "family"
+    },
+    {
+      "id": "sprout",
+      "type": "word",
+      "label": "嫩芽；发芽",
+      "group": "sound"
+    },
+    {
+      "id": "summer",
+      "type": "word",
+      "label": "夏天",
+      "group": "sound"
+    },
+    {
+      "id": "winter",
+      "type": "word",
+      "label": "冬天",
+      "group": "sound"
+    },
+    {
+      "id": "autumn",
+      "type": "word",
+      "label": "秋天",
+      "group": "family"
+    }
+  ],
+  "edges": [
+    {
+      "source": "primary-vocabulary-mnemonics-01",
+      "target": "compound",
+      "type": "teaches"
+    },
+    {
+      "source": "primary-vocabulary-mnemonics-01",
+      "target": "shape",
+      "type": "teaches"
+    },
+    {
+      "source": "primary-vocabulary-mnemonics-01",
+      "target": "sound",
+      "type": "teaches"
+    },
+    {
+      "source": "primary-vocabulary-mnemonics-01",
+      "target": "family",
+      "type": "teaches"
+    },
+    {
+      "source": "primary-vocabulary-mnemonics-01",
+      "target": "review",
+      "type": "teaches"
+    },
+    {
+      "source": "compound",
+      "target": "pencil-case",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "news",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "newspaper",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "storybook",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "handwriting",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "sea-lion",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "seal",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "mother",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "grandma",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "grandpa",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "grand",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "hot-dog",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "student",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "strawberry",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "grass",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "straw",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "bicycle",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "circle",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "walkman",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "night",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "computer",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "flat",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "floor",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "classroom",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "mate",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "classmate",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "all-right",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "good-job",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "snowy",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "rainy",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "football",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "soccer",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "sunny",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "drizzle",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "physical-education",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "footbridge",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "playground",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "ground",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "field",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "kindergarten",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "net",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "nest",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "sand",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "sandcastle",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "castle",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "cast",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "secret",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "secretary",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "sprout",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "summer",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "winter",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "autumn",
+      "type": "explains"
+    },
+    {
+      "source": "news",
+      "target": "newspaper",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "pencil-case",
+      "target": "classroom",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "grand",
+      "target": "grandma",
+      "type": "classroom-family"
+    },
+    {
+      "source": "grand",
+      "target": "grandpa",
+      "type": "classroom-family"
+    },
+    {
+      "source": "grass",
+      "target": "strawberry",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "straw",
+      "target": "strawberry",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "football",
+      "target": "soccer",
+      "type": "usage-contrast"
+    },
+    {
+      "source": "ground",
+      "target": "field",
+      "type": "usage-contrast"
+    },
+    {
+      "source": "net",
+      "target": "nest",
+      "type": "classroom-contrast"
+    },
+    {
+      "source": "secret",
+      "target": "secretary",
+      "type": "classroom-family"
+    },
+    {
+      "source": "sand",
+      "target": "sandcastle",
+      "type": "compound"
+    },
+    {
+      "source": "castle",
+      "target": "cast",
+      "type": "lesson-contrast"
+    }
+  ]
+}

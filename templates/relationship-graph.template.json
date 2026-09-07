@@ -1,0 +1,13 @@
+{
+  "id": "lesson-id-graph",
+  "lessonId": "lesson-id",
+  "nodes": [
+    { "id": "lesson-id", "type": "lesson", "label": "课程主题" },
+    { "id": "method-id", "type": "knowledge", "label": "方法名称" },
+    { "id": "word-id", "type": "word", "label": "核心释义", "group": "method-id" }
+  ],
+  "edges": [
+    { "source": "lesson-id", "target": "method-id", "type": "teaches" },
+    { "source": "method-id", "target": "word-id", "type": "explains" }
+  ]
+}

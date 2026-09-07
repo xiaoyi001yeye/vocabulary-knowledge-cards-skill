@@ -1,0 +1,12 @@
+{
+  "id": "example",
+  "title": "声音与矿物词族示例",
+  "sourceType": "example-text",
+  "summary": "用 bump 的声音和 mine 词族演示结构化卡片生成。",
+  "concepts": [
+    { "id": "sound", "label": "声音助记", "description": "先听声音，再推断意义。" },
+    { "id": "roots", "label": "词族扩展", "description": "从稳定核心成分扩展。" }
+  ],
+  "uncertainItems": [],
+  "reviewPlan": ["朗读 bump 并口述 mine 词族。"]
+}

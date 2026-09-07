@@ -1,0 +1,79 @@
+{
+  "id": "four-methods",
+  "title": "四大法门导学课",
+  "sourceType": "user-provided-transcript",
+  "summary": "课程以音、形、义、根缀四个入口组织英语词汇学习，并把理解、测试、错词本和间隔复习串成学习流程。",
+  "concepts": [
+    {
+      "id": "sound",
+      "label": "音",
+      "description": "从读音、拟声和谐音感受词义。"
+    },
+    {
+      "id": "shape",
+      "label": "形",
+      "description": "从字母外形、事物轮廓和视觉画面建立联想。"
+    },
+    {
+      "id": "meaning",
+      "label": "义",
+      "description": "从组合、拆分和概念关系理解单词。"
+    },
+    {
+      "id": "roots",
+      "label": "根缀",
+      "description": "从稳定核心成分扩展词族。"
+    },
+    {
+      "id": "review",
+      "label": "测试与复习",
+      "description": "通过测试、错词本和间隔复习巩固。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "Pack / 双肩包 / 后背",
+      "candidates": [
+        "backpack",
+        "back",
+        "pack"
+      ],
+      "reason": "转写把多个英文词混在一起。"
+    },
+    {
+      "source": "Sendpoint",
+      "candidates": [
+        "standpoint",
+        "viewpoint"
+      ],
+      "reason": "解释为站着的点和立场，但拼写不可靠。"
+    },
+    {
+      "source": "Job / JobDown",
+      "candidates": [
+        "drop",
+        "drown",
+        "drop down"
+      ],
+      "reason": "掉落相关词混淆。"
+    },
+    {
+      "source": "动物拟声段落",
+      "candidates": [
+        "wolf",
+        "hawk",
+        "sow",
+        "hound",
+        "lamb",
+        "mouse"
+      ],
+      "reason": "缺少可确认的原始拼写。"
+    }
+  ],
+  "reviewPlan": [
+    "先看图理解四个入口。",
+    "每次选 5 张卡片，复现课堂方法。",
+    "把犹豫项加入错词本。",
+    "当天、第 1 天、第 5 天和第 14 天复习。"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "example-graph",
+  "lessonId": "example",
+  "nodes": [
+    { "id": "example", "type": "lesson", "label": "示例课程" },
+    { "id": "sound", "type": "knowledge", "label": "声音助记" },
+    { "id": "roots", "type": "knowledge", "label": "词族扩展" },
+    { "id": "bump", "type": "word", "label": "碰撞；撞击", "group": "sound" },
+    { "id": "mineral", "type": "word", "label": "矿物质", "group": "roots" }
+  ],
+  "edges": [
+    { "source": "example", "target": "sound", "type": "teaches" },
+    { "source": "example", "target": "roots", "type": "teaches" },
+    { "source": "sound", "target": "bump", "type": "explains" },
+    { "source": "roots", "target": "mineral", "type": "explains" }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "primary-vocabulary-mnemonics-01",
+  "title": "小学英语词汇课：声音、画面、组合与词族助记",
+  "sourceType": "user-provided-transcript",
+  "summary": "从一段口语课堂转写中筛选出拼写、释义和助记过程均较清楚的 52 个词汇/短语；保留课堂的声音、图像、拆分与对比路径，并把不可靠转写和非严格词源说法显著隔离。",
+  "concepts": [
+    {
+      "id": "compound",
+      "label": "组合拆分",
+      "description": "用可见的词或成分组合建立初步意义。"
+    },
+    {
+      "id": "shape",
+      "label": "画面与形状",
+      "description": "以图像、轮廓、字母形状或动作建立联想。"
+    },
+    {
+      "id": "sound",
+      "label": "读音与口形",
+      "description": "用朗读、口形或近似声音建立记忆抓手。"
+    },
+    {
+      "id": "family",
+      "label": "词族与对比",
+      "description": "通过亲属词、同类词或地区用语进行对比。"
+    },
+    {
+      "id": "review",
+      "label": "输出式复习",
+      "description": "以朗读、口述、造句和间隔复习检验是否真正记住。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "“Catch/现金/盒子/签笔盒”段落",
+      "candidates": [
+        "cash",
+        "catch",
+        "case",
+        "pencil case"
+      ],
+      "reason": "转写将多个英文词与汉语谐音混在一起，无法可靠还原课堂的确切拼写与推导。正式卡片仅保留语境清楚的 pencil case。"
+    },
+    {
+      "source": "“teacher / teacher：一个对多个、一个对一个”段落",
+      "candidates": [
+        "teacher",
+        "tutor"
+      ],
+      "reason": "课堂意图很可能在对比 teacher 与 tutor，但转写未可靠写出 tutor 的拼写，故不固化为正式卡片。"
+    },
+    {
+      "source": "“floor/float”段落",
+      "candidates": [
+        "floor",
+        "float",
+        "flat"
+      ],
+      "reason": "语义应为地板，正式卡片采用 floor；课堂原始英文发音和拼写有混淆。"
+    },
+    {
+      "source": "“草/grass/straw/sgrace/死座”段落",
+      "candidates": [
+        "grass",
+        "straw",
+        "strawberry"
+      ],
+      "reason": "可确认 grass、straw 与 strawberry，但关于某些字母、草杆和“牵引/拉扯”的口述拼写不可靠。"
+    },
+    {
+      "source": "“castle/castle/铸造/演员表”段落",
+      "candidates": [
+        "castle",
+        "cast"
+      ],
+      "reason": "城堡、铸造、演员阵容被串联；castle 与 cast 的严格词源/构词关系不能从转写确认。"
+    },
+    {
+      "source": "“sand/汉语沙子来自英语”段落",
+      "candidates": [
+        "sand"
+      ],
+      "reason": "sand 的拼写与基本义明确，但课堂对中英文音义关系的断言不可靠，已在卡片中仅标为助记。"
+    }
+  ],
+  "reviewPlan": [
+    "先按「组合拆分—画面—读音—词族」四组各选 5 张卡片。",
+    "每张卡片先遮住中文，30 秒口述 classroomMethod，再做 rehearsal。",
+    "当天复习一次；第 1、5、14 天再次复现。",
+    "凡是不能说清 caution 的卡片，回到卡片重看“课堂联想”和“词典事实”的边界。"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "newspaper",
+  "label": "报纸",
+  "meaning": "newspaper",
+  "family": "compound",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "classroomMethod": "课堂把 news（新闻）和 paper（纸）连起来：印着新闻的纸就是 newspaper。",
+  "rehearsal": "遮住中文，口述 news + paper → 报纸。",
+  "caution": "这是助记拆分；报纸也可含有图片、广告等内容。"
+}

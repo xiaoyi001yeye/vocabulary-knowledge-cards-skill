@@ -1,0 +1,13 @@
+{
+  "id": "lesson-id",
+  "title": "课程标题",
+  "sourceType": "transcript-or-note",
+  "summary": "课程的一句话总结",
+  "concepts": [
+    { "id": "method-id", "label": "方法名称", "description": "方法说明" }
+  ],
+  "uncertainItems": [
+    { "source": "原始片段", "candidates": ["候选词"], "reason": "不确定原因" }
+  ],
+  "reviewPlan": ["复习动作"]
+}

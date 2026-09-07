@@ -1,0 +1,376 @@
+{
+  "id": "four-methods-graph",
+  "lessonId": "four-methods",
+  "nodes": [
+    {
+      "id": "four-methods",
+      "type": "lesson",
+      "label": "四大法门",
+      "description": "音、形、义、根缀与复习流程。"
+    },
+    {
+      "id": "sound",
+      "type": "knowledge",
+      "label": "音",
+      "description": "从读音、拟声和谐音感受词义。"
+    },
+    {
+      "id": "shape",
+      "type": "knowledge",
+      "label": "形",
+      "description": "从字母外形、事物轮廓和视觉画面建立联想。"
+    },
+    {
+      "id": "meaning",
+      "type": "knowledge",
+      "label": "义",
+      "description": "从组合、拆分和概念关系理解单词。"
+    },
+    {
+      "id": "roots",
+      "type": "knowledge",
+      "label": "根缀",
+      "description": "从稳定核心成分扩展词族。"
+    },
+    {
+      "id": "review",
+      "type": "knowledge",
+      "label": "测试与复习",
+      "description": "通过测试、错词本和间隔复习巩固。"
+    },
+    {
+      "id": "bump",
+      "type": "word",
+      "label": "碰撞；撞击",
+      "group": "sound"
+    },
+    {
+      "id": "bumper",
+      "type": "word",
+      "label": "保险杠",
+      "group": "sound"
+    },
+    {
+      "id": "lump",
+      "type": "word",
+      "label": "块；肿块",
+      "group": "sound"
+    },
+    {
+      "id": "plump",
+      "type": "word",
+      "label": "丰满的；圆胖的",
+      "group": "sound"
+    },
+    {
+      "id": "snake",
+      "type": "word",
+      "label": "蛇",
+      "group": "shape"
+    },
+    {
+      "id": "naked",
+      "type": "word",
+      "label": "赤裸的；无遮盖的",
+      "group": "shape"
+    },
+    {
+      "id": "antenna",
+      "type": "word",
+      "label": "天线；触角",
+      "group": "shape"
+    },
+    {
+      "id": "island",
+      "type": "word",
+      "label": "岛；岛屿",
+      "group": "meaning"
+    },
+    {
+      "id": "mine",
+      "type": "word",
+      "label": "矿；矿山",
+      "group": "roots"
+    },
+    {
+      "id": "miner",
+      "type": "word",
+      "label": "矿工",
+      "group": "roots"
+    },
+    {
+      "id": "mineral",
+      "type": "word",
+      "label": "矿物质",
+      "group": "roots"
+    },
+    {
+      "id": "mineral-water",
+      "type": "word",
+      "label": "矿泉水",
+      "group": "roots"
+    },
+    {
+      "id": "schoolboy",
+      "type": "word",
+      "label": "男学生",
+      "group": "meaning"
+    },
+    {
+      "id": "talker",
+      "type": "word",
+      "label": "说话者；健谈的人",
+      "group": "meaning"
+    },
+    {
+      "id": "catwalk",
+      "type": "word",
+      "label": "猫步；T 台",
+      "group": "meaning"
+    },
+    {
+      "id": "catfish",
+      "type": "word",
+      "label": "鲶鱼",
+      "group": "meaning"
+    },
+    {
+      "id": "salad",
+      "type": "word",
+      "label": "沙拉",
+      "group": "meaning"
+    },
+    {
+      "id": "flow",
+      "type": "word",
+      "label": "流动",
+      "group": "roots"
+    },
+    {
+      "id": "fluent",
+      "type": "word",
+      "label": "流利的",
+      "group": "roots"
+    },
+    {
+      "id": "influence",
+      "type": "word",
+      "label": "影响；影响力",
+      "group": "roots"
+    },
+    {
+      "id": "influential",
+      "type": "word",
+      "label": "有影响力的",
+      "group": "roots"
+    },
+    {
+      "id": "influenza",
+      "type": "word",
+      "label": "流行性感冒",
+      "group": "roots"
+    }
+  ],
+  "edges": [
+    {
+      "source": "four-methods",
+      "target": "sound",
+      "type": "teaches"
+    },
+    {
+      "source": "four-methods",
+      "target": "shape",
+      "type": "teaches"
+    },
+    {
+      "source": "four-methods",
+      "target": "meaning",
+      "type": "teaches"
+    },
+    {
+      "source": "four-methods",
+      "target": "roots",
+      "type": "teaches"
+    },
+    {
+      "source": "four-methods",
+      "target": "review",
+      "type": "teaches"
+    },
+    {
+      "source": "sound",
+      "target": "bump",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "bumper",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "lump",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "plump",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "snake",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "naked",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "antenna",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "island",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "mine",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "miner",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "mineral",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "mineral-water",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "schoolboy",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "talker",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "catwalk",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "catfish",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "salad",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "flow",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "fluent",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "influence",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "influential",
+      "type": "explains"
+    },
+    {
+      "source": "roots",
+      "target": "influenza",
+      "type": "explains"
+    },
+    {
+      "source": "bump",
+      "target": "bumper",
+      "type": "word-family"
+    },
+    {
+      "source": "bumper",
+      "target": "lump",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "lump",
+      "target": "plump",
+      "type": "lesson-chain"
+    },
+    {
+      "source": "mine",
+      "target": "miner",
+      "type": "word-family"
+    },
+    {
+      "source": "miner",
+      "target": "mineral",
+      "type": "word-family"
+    },
+    {
+      "source": "mineral",
+      "target": "mineral-water",
+      "type": "word-family"
+    },
+    {
+      "source": "flow",
+      "target": "fluent",
+      "type": "word-family"
+    },
+    {
+      "source": "flow",
+      "target": "influence",
+      "type": "word-family"
+    },
+    {
+      "source": "influence",
+      "target": "influential",
+      "type": "word-family"
+    },
+    {
+      "source": "flow",
+      "target": "influenza",
+      "type": "word-family"
+    },
+    {
+      "source": "review",
+      "target": "bump",
+      "type": "reviews"
+    },
+    {
+      "source": "review",
+      "target": "mine",
+      "type": "reviews"
+    },
+    {
+      "source": "review",
+      "target": "flow",
+      "type": "reviews"
+    }
+  ]
+}

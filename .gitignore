@@ -1,0 +1,8 @@
+input/*
+!input/.gitkeep
+__pycache__/
+.venv/
+node_modules/
+web/dist/
+web/public/schema/
+.DS_Store

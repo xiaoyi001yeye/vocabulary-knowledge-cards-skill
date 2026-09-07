@@ -1,0 +1,10 @@
+{
+  "id": "schoolboy",
+  "label": "男学生",
+  "meaning": "男学生",
+  "family": "meaning",
+  "lessonId": "four-methods",
+  "classroomMethod": "school 是学校，boy 是男孩，整体意义直接写在组成上。",
+  "rehearsal": "拆 school + boy 并合成意义。",
+  "caution": "显性会意。"
+}
