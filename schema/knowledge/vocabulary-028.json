@@ -1,0 +1,59 @@
+{
+  "id": "vocabulary-028",
+  "title": "词汇速记第 028 集：移动、目标与职业",
+  "sourceType": "user-provided-transcript",
+  "summary": "从第 028 集字幕中提取移动、交通、目标和职业相关的高置信词；保留课堂的画面和组合记忆，但不把它们写成词源事实。",
+  "concepts": [
+    {
+      "id": "compound",
+      "label": "组合与物件画面",
+      "description": "用移动的电话、汽车、猎人和账本等画面帮助复现。"
+    },
+    {
+      "id": "family",
+      "label": "词族扩展",
+      "description": "通过 account/accountant、accomplish 等相关词作课堂复习。"
+    },
+    {
+      "id": "scene",
+      "label": "职业与移动场景",
+      "description": "用可移动的物件、猎人和会计职业建立复现画面。"
+    },
+    {
+      "id": "meaning",
+      "label": "任务结果",
+      "description": "以完成任务的结果场景理解 accomplish。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "stature/statue 段",
+      "candidates": [
+        "stature",
+        "statue"
+      ],
+      "reason": "字幕和课堂发音对照不足以可靠区分拼写与释义。"
+    },
+    {
+      "source": "auto/otto 段",
+      "candidates": [
+        "auto",
+        "automobile"
+      ],
+      "reason": "auto 的课堂谐音和构词解释不可靠，只保留拼写与含义清楚的 automobile。"
+    },
+    {
+      "source": "castle/cast 段",
+      "candidates": [
+        "castle",
+        "cast"
+      ],
+      "reason": "两词已有正式卡片；课堂关系不作为严格构词事实重复固化。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，按本课的场景或词族路线口述每张卡片。",
+    "当天、第 1、5、14 天各复现一次；无法说明 caution 时回看边界提示。",
+    "对字幕中的 ASR 不确定词只复述待核对原因，不把它当作确定知识。"
+  ]
+}

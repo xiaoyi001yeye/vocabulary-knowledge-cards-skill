@@ -1,0 +1,42 @@
+{
+  "id": "vocabulary-008",
+  "title": "词汇速记 008：小包、口袋与实验室",
+  "sourceType": "user-provided-srt",
+  "summary": "保留包装形态、口袋容量和实验劳动场景清楚的词汇。",
+  "concepts": [
+    {
+      "id": "vocabulary-008-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-008-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "code / cold 段落",
+      "candidates": [
+        "code",
+        "cold"
+      ],
+      "reason": "字幕用 code 表示“冷酷”，与标准拼写 cold 冲突。"
+    },
+    {
+      "source": "laborary 段落",
+      "candidates": [
+        "laborary",
+        "library",
+        "laboratory"
+      ],
+      "reason": "laborary 不是标准目标拼写，字幕在讨论中混杂。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张卡片的英文词或短语。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不能说清 caution 时重新阅读卡片。"
+  ]
+}

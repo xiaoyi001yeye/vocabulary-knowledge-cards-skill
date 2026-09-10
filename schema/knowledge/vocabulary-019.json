@@ -1,0 +1,48 @@
+{
+  "id": "vocabulary-019",
+  "title": "词汇速记第 019 集：位置、出勤与升起的对比",
+  "summary": "第 019 集以空间位置、出勤对照和动作主体为线索；只保留字幕中拼写、基本义和课堂画面均明确的词。",
+  "concepts": [
+    {
+      "id": "scene",
+      "label": "生活场景",
+      "description": "用刷牙、邻居、日出等日常场景还原词义。"
+    },
+    {
+      "id": "contrast",
+      "label": "对照辨析",
+      "description": "用 present/absent 和 rise/raise 的并列对照复习。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "science / sense 段",
+      "candidates": [
+        "science",
+        "sense"
+      ],
+      "reason": "字幕把 science 称为 sense 的“家常版”；这种关系不可靠，未作为词族事实固化。"
+    },
+    {
+      "source": "advise 段",
+      "candidates": [
+        "advise",
+        "advice"
+      ],
+      "reason": "字幕把动词和名词的拼写、重音说明混在一起，未形成可靠卡片。"
+    },
+    {
+      "source": "breath 段",
+      "candidates": [
+        "breath",
+        "breathe"
+      ],
+      "reason": "转写未能稳定区分名词与动词形式。"
+    }
+  ],
+  "reviewPlan": [
+    "用 toothbrush、nearby 和 neighbor 各造一个简单场景。",
+    "交替说出 present / absent 与 rise / raise 的基本义和课堂对比。",
+    "当天、第 1、5、14 天复现。"
+  ]
+}

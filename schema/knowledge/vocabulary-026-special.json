@@ -1,0 +1,42 @@
+{
+  "id": "vocabulary-026-special",
+  "title": "词汇速记第 026 集特补：考古、好奇与展开",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 026 集特补字幕，整理考古主题、好奇心理和展开动作中拼写与基本义清楚的 4 个词汇。",
+  "concepts": [
+    {
+      "id": "history",
+      "label": "考古主题",
+      "description": "以古代遗物与研究场景建立主题。"
+    },
+    {
+      "id": "movement",
+      "label": "展开动作",
+      "description": "以折叠物打开的可复现动作建立记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "statue / stature 段",
+      "candidates": [
+        "statue",
+        "stature"
+      ],
+      "reason": "形近、音近但意义不同；字幕混淆时不建正式卡。"
+    },
+    {
+      "source": "课堂词族和单位换算段",
+      "candidates": [
+        "artifact",
+        "curiosity",
+        "unfold"
+      ],
+      "reason": "课堂联想不构成词源；字幕中的单位换算断言不可靠。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，口述每个词在课堂中的场景或动作。",
+    "把课堂联想与词典事实分开说明；不能确认的内容回到待核对项。",
+    "当天、第 1 天、第 5 天和第 14 天各复现一次。"
+  ]
+}

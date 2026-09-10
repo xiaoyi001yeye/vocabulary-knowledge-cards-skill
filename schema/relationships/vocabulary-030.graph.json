@@ -1,0 +1,107 @@
+{
+  "id": "vocabulary-030-graph",
+  "lessonId": "vocabulary-030",
+  "nodes": [
+    {
+      "id": "vocabulary-030",
+      "type": "lesson",
+      "label": "词汇速记第 030 集：差异、商业与结果",
+      "description": "课堂助记关系图；不是严格词源图。"
+    },
+    {
+      "id": "contrast",
+      "type": "knowledge",
+      "label": "对比与变化",
+      "description": "以 vary/variety、destroy/destruction 的对照建立复习路径。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "商业与物件场景",
+      "description": "把商业活动、礼物丝带和意外情况转化为画面。"
+    },
+    {
+      "id": "unexpected",
+      "type": "word",
+      "label": "意外的；未预料到的",
+      "group": "scene"
+    },
+    {
+      "id": "variety",
+      "type": "word",
+      "label": "多样；变化",
+      "group": "contrast"
+    },
+    {
+      "id": "destruction",
+      "type": "word",
+      "label": "破坏；毁灭",
+      "group": "contrast"
+    },
+    {
+      "id": "commerce",
+      "type": "word",
+      "label": "商业；贸易",
+      "group": "scene"
+    },
+    {
+      "id": "commercial",
+      "type": "word",
+      "label": "商业的；广告",
+      "group": "contrast"
+    },
+    {
+      "id": "ribbon",
+      "type": "word",
+      "label": "丝带；缎带",
+      "group": "scene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-030",
+      "target": "contrast",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-030",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "unexpected",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "variety",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "destruction",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "commerce",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "commercial",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "ribbon",
+      "type": "explains"
+    },
+    {
+      "source": "commerce",
+      "target": "commercial",
+      "type": "word-family"
+    }
+  ]
+}

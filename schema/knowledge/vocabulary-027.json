@@ -1,0 +1,49 @@
+{
+  "id": "vocabulary-027",
+  "title": "词汇速记第 027 集：标记、接待与调查",
+  "sourceType": "user-provided-transcript",
+  "summary": "从第 027 集字幕中保守筛出接待、标记、弯曲、调查和环岛等词；课堂多用声音、动作和词族对照作助记，不将其视为词源结论。",
+  "concepts": [
+    {
+      "id": "scene",
+      "label": "生活场景",
+      "description": "以接待台、弯曲物体、调查现场和环岛路线建立画面。"
+    },
+    {
+      "id": "family",
+      "label": "词族与对照",
+      "description": "通过 reception/receptionist、sign/signify/significant 等对照复习。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "sapt、avav/navy 等片段",
+      "candidates": [
+        "sapt",
+        "navy"
+      ],
+      "reason": "字幕拼写和释义混杂，无法可靠还原目标词。"
+    },
+    {
+      "source": "flat/flexible 段",
+      "candidates": [
+        "flat",
+        "flexible"
+      ],
+      "reason": "flat 已有正式卡片；课堂关于两词演变的说法仅为联想，未把它写成事实关系。"
+    },
+    {
+      "source": "vest/west 段",
+      "candidates": [
+        "vest",
+        "west"
+      ],
+      "reason": "转写将两个词的读音和释义混淆。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，按本课的场景或词族路线口述每张卡片。",
+    "当天、第 1、5、14 天各复现一次；无法说明 caution 时回看边界提示。",
+    "对字幕中的 ASR 不确定词只复述待核对原因，不把它当作确定知识。"
+  ]
+}

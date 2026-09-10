@@ -1,0 +1,161 @@
+{
+  "id": "vocabulary-023-graph",
+  "lessonId": "vocabulary-023",
+  "nodes": [
+    {
+      "id": "vocabulary-023",
+      "type": "lesson",
+      "label": "词汇速记第 023 集",
+      "description": "前缀、词族与情境助记；不作为严格词源图。"
+    },
+    {
+      "id": "prefix",
+      "type": "knowledge",
+      "label": "前缀与方向感",
+      "description": "课堂用 pro 的“向前”、in- 的否定感和 re 的“再次”作为记忆抓手。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "动作与场景",
+      "description": "把“挤出心里的话”“坐在前面主持会议”“两物成对”转化为可复现画面。"
+    },
+    {
+      "id": "family",
+      "type": "knowledge",
+      "label": "词族对比",
+      "description": "通过 govern/government、dependent/independent、president/resident 等对照复习。"
+    },
+    {
+      "id": "pronounce",
+      "type": "word",
+      "label": "发音；读出",
+      "group": "prefix"
+    },
+    {
+      "id": "government",
+      "type": "word",
+      "label": "政府；治理机构",
+      "group": "family"
+    },
+    {
+      "id": "govern",
+      "type": "word",
+      "label": "管理；治理",
+      "group": "family"
+    },
+    {
+      "id": "dependent",
+      "type": "word",
+      "label": "依赖的；取决于",
+      "group": "family"
+    },
+    {
+      "id": "independent",
+      "type": "word",
+      "label": "独立的；自主的",
+      "group": "prefix"
+    },
+    {
+      "id": "express",
+      "type": "word",
+      "label": "表达；快递",
+      "group": "scene"
+    },
+    {
+      "id": "president",
+      "type": "word",
+      "label": "总统；主席",
+      "group": "scene"
+    },
+    {
+      "id": "resident",
+      "type": "word",
+      "label": "居民；居住者",
+      "group": "family"
+    },
+    {
+      "id": "compare",
+      "type": "word",
+      "label": "比较；对比",
+      "group": "scene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-023",
+      "target": "prefix",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-023",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-023",
+      "target": "family",
+      "type": "teaches"
+    },
+    {
+      "source": "prefix",
+      "target": "pronounce",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "government",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "govern",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "dependent",
+      "type": "explains"
+    },
+    {
+      "source": "prefix",
+      "target": "independent",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "express",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "president",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "resident",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "compare",
+      "type": "explains"
+    },
+    {
+      "source": "government",
+      "target": "govern",
+      "type": "word-family"
+    },
+    {
+      "source": "dependent",
+      "target": "independent",
+      "type": "classroom-contrast"
+    },
+    {
+      "source": "president",
+      "target": "resident",
+      "type": "classroom-contrast"
+    }
+  ]
+}

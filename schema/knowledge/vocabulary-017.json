@@ -1,0 +1,46 @@
+{
+  "id": "vocabulary-017",
+  "title": "词汇速记第 017 集：时间、动作与讨论场景",
+  "sourceType": "user-provided-srt",
+  "summary": "从第 017 集保留长时间跨度、重拳声音与多人讨论的课堂场景。",
+  "concepts": [
+    {
+      "id": "vocabulary-017-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-017-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作和口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "第 017 集字幕",
+      "candidates": [
+        "owen（疑为 own）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 017 集字幕",
+      "candidates": [
+        "lose/loose 混用"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 017 集字幕",
+      "candidates": [
+        "tite（疑为 tight）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张正式卡片的英文。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不确定项先核对原视频或词典。"
+  ]
+}

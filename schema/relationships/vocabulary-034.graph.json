@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-034-graph",
+  "lessonId": "vocabulary-034",
+  "nodes": [
+    {
+      "id": "vocabulary-034",
+      "type": "lesson",
+      "label": "词汇速记第 034 集：签名与最高点画面",
+      "description": "从第 034 集字幕提炼的自写签名和空间顶点助记。"
+    },
+    {
+      "id": "vocabulary-034-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-034-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "autograph",
+      "type": "word",
+      "label": "亲笔签名",
+      "group": "vocabulary-034-mnemonic"
+    },
+    {
+      "id": "supreme",
+      "type": "word",
+      "label": "最高的；至高无上的",
+      "group": "vocabulary-034-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-034",
+      "target": "vocabulary-034-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-034",
+      "target": "vocabulary-034-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-034-mnemonic",
+      "target": "autograph",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-034-mnemonic",
+      "target": "supreme",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-034-review",
+      "target": "autograph",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-034-review",
+      "target": "supreme",
+      "type": "reviews"
+    }
+  ]
+}

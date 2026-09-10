@@ -1,0 +1,44 @@
+{
+  "id": "vocabulary-036",
+  "title": "词汇速记第 036 集：日程安排",
+  "sourceType": "user-provided-srt",
+  "summary": "来源：38.最新编辑1-4000词汇速记036.srt。从第 036 集字幕提炼的时间表与安排动作助记。",
+  "concepts": [
+    {
+      "id": "vocabulary-036-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-036-review",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "emotion / intel / intelligence 段落",
+      "candidates": [
+        "emotion",
+        "intel",
+        "intelligence"
+      ],
+      "reason": "以品牌 Intel 推导词义的课堂说法不适合作为本批正式卡。"
+    },
+    {
+      "source": "候选字符串",
+      "candidates": [
+        "eli",
+        "pou",
+        "moto",
+        "Dioran"
+      ],
+      "reason": "非标准或无法可靠识别。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，朗读词汇并先说出基础义。",
+    "复述课堂画面，完成卡片中的 rehearsal。",
+    "当天、第 1、5、14 天复习；不能说明 caution 时回看卡片。"
+  ]
+}

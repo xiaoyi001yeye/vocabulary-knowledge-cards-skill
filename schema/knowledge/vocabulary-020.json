@@ -1,0 +1,48 @@
+{
+  "id": "vocabulary-020",
+  "title": "词汇速记第 020 集：形状、空间与范围",
+  "summary": "第 020 集以线条、角色称谓和空间范围为课堂抓手，保留可稳定还原的基本词义与对比。",
+  "concepts": [
+    {
+      "id": "shape",
+      "label": "形状画面",
+      "description": "用细线、曲线等画面帮助记住词形和基本义。"
+    },
+    {
+      "id": "contrast",
+      "label": "范围与位置对照",
+      "description": "把中心/整体、沿着/在……之间等空间关系放在一起复现。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "ever / never 段",
+      "candidates": [
+        "ever",
+        "never"
+      ],
+      "reason": "字幕中的中文释义转写不稳定，未把其作为正式词卡。"
+    },
+    {
+      "source": "health / wealth 段",
+      "candidates": [
+        "health",
+        "wealth"
+      ],
+      "reason": "课堂叙述以人生故事联想为主，具体词形和推导不足以独立还原。"
+    },
+    {
+      "source": "decreate 段",
+      "candidates": [
+        "decrease",
+        "decreate"
+      ],
+      "reason": "字幕写作 decreate，目标拼写无法从该段可靠确认。"
+    }
+  ],
+  "reviewPlan": [
+    "画一条细弯线复现 slim 的课堂画面。",
+    "分别说出 central 与 general 的范围差异。",
+    "沿着桌边走一步说 along，再站在几件物品中间说 among。"
+  ]
+}

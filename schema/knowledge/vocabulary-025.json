@@ -1,0 +1,36 @@
+{
+  "id": "vocabulary-025",
+  "title": "词汇速记第 025 集：恰当、保证与私人空间",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 025 集字幕，保留 proper、assure、private 三个释义和课堂情境较清楚的词；不把课堂的拆分或形近联系视为词源。",
+  "concepts": [
+    {
+      "id": "judgment",
+      "label": "判断与保证",
+      "description": "以合适、保证和私人空间的场景复习。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "aboveboard 段",
+      "candidates": [
+        "aboveboard"
+      ],
+      "reason": "只有在音频能确认其被完整讲解为短语时才可建卡。"
+    },
+    {
+      "source": "词形/词根串联段",
+      "candidates": [
+        "proper",
+        "assure",
+        "private"
+      ],
+      "reason": "课堂可能给出构词联想；卡片仅保存核心义与情境。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，口述每个词在课堂中的场景或动作。",
+    "把课堂联想与词典事实分开说明；不能确认的内容回到待核对项。",
+    "当天、第 1 天、第 5 天和第 14 天各复现一次。"
+  ]
+}

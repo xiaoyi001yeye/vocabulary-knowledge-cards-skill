@@ -1,0 +1,47 @@
+{
+  "id": "vocabulary-010",
+  "title": "词汇速记 010：洗浴短语与居住空间",
+  "sourceType": "user-provided-srt",
+  "summary": "保留洗浴场景短语和公寓的分开居住画面。",
+  "concepts": [
+    {
+      "id": "vocabulary-010-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-010-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "waterlog 段落",
+      "candidates": [
+        "waterlog"
+      ],
+      "reason": "词形存在，但字幕的中文释义和洪水语境不清楚。"
+    },
+    {
+      "source": "yand it 段落",
+      "candidates": [
+        "yand it"
+      ],
+      "reason": "不是可可靠识别的英文词项。"
+    },
+    {
+      "source": "sapper 段落",
+      "candidates": [
+        "supper",
+        "sapper"
+      ],
+      "reason": "字幕多次把 supper 写成 sapper，未建立正式卡。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张卡片的英文词或短语。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不能说清 caution 时重新阅读卡片。"
+  ]
+}

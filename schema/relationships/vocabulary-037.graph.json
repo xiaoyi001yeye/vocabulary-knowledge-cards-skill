@@ -1,0 +1,52 @@
+{
+  "id": "vocabulary-037-graph",
+  "lessonId": "vocabulary-037",
+  "nodes": [
+    {
+      "id": "vocabulary-037",
+      "type": "lesson",
+      "label": "词汇速记第 037 集：轨道与液体画面",
+      "description": "从第 037 集字幕提炼的前进轨道和泄漏液体助记。"
+    },
+    {
+      "id": "vocabulary-037-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-037-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "liquid",
+      "type": "word",
+      "label": "液体",
+      "group": "vocabulary-037-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-037",
+      "target": "vocabulary-037-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-037",
+      "target": "vocabulary-037-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-037-mnemonic",
+      "target": "liquid",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-037-review",
+      "target": "liquid",
+      "type": "reviews"
+    }
+  ]
+}

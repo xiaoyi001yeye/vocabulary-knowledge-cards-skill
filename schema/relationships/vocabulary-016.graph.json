@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-016-graph",
+  "lessonId": "vocabulary-016",
+  "nodes": [
+    {
+      "id": "vocabulary-016",
+      "type": "lesson",
+      "label": "词汇速记第 016 集：美味与避开",
+      "description": "从第 016 集保留冰淇淋的美味画面与 void—avoid 的课堂联想。"
+    },
+    {
+      "id": "vocabulary-016-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-016-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "delicious",
+      "type": "word",
+      "label": "delicious",
+      "group": "vocabulary-016-mnemonic"
+    },
+    {
+      "id": "avoid",
+      "type": "word",
+      "label": "avoid",
+      "group": "vocabulary-016-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-016",
+      "target": "vocabulary-016-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-016",
+      "target": "vocabulary-016-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-016-mnemonic",
+      "target": "delicious",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-016-review",
+      "target": "delicious",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-016-mnemonic",
+      "target": "avoid",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-016-review",
+      "target": "avoid",
+      "type": "reviews"
+    }
+  ]
+}

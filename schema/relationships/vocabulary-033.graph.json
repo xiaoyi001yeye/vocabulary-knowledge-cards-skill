@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-033-graph",
+  "lessonId": "vocabulary-033",
+  "nodes": [
+    {
+      "id": "vocabulary-033",
+      "type": "lesson",
+      "label": "词汇速记第 033 集：整洁对比与奖项场景",
+      "description": "从第 033 集字幕提炼的拼写对比和颁奖场景助记。"
+    },
+    {
+      "id": "vocabulary-033-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-033-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "dirty",
+      "type": "word",
+      "label": "脏的",
+      "group": "vocabulary-033-mnemonic"
+    },
+    {
+      "id": "award",
+      "type": "word",
+      "label": "奖；奖项；授予（奖项）",
+      "group": "vocabulary-033-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-033",
+      "target": "vocabulary-033-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-033",
+      "target": "vocabulary-033-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-033-mnemonic",
+      "target": "dirty",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-033-mnemonic",
+      "target": "award",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-033-review",
+      "target": "dirty",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-033-review",
+      "target": "award",
+      "type": "reviews"
+    }
+  ]
+}

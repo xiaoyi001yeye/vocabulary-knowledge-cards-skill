@@ -1,0 +1,123 @@
+{
+  "id": "vocabulary-027-graph",
+  "lessonId": "vocabulary-027",
+  "nodes": [
+    {
+      "id": "vocabulary-027",
+      "type": "lesson",
+      "label": "词汇速记第 027 集：标记、接待与调查",
+      "description": "课堂助记关系图；不是严格词源图。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "生活场景",
+      "description": "以接待台、弯曲物体、调查现场和环岛路线建立画面。"
+    },
+    {
+      "id": "family",
+      "type": "knowledge",
+      "label": "词族与对照",
+      "description": "通过 reception/receptionist、sign/signify/significant 等对照复习。"
+    },
+    {
+      "id": "reception",
+      "type": "word",
+      "label": "接待；接待处",
+      "group": "scene"
+    },
+    {
+      "id": "receptionist",
+      "type": "word",
+      "label": "接待员；前台工作人员",
+      "group": "family"
+    },
+    {
+      "id": "signify",
+      "type": "word",
+      "label": "表示；意味着",
+      "group": "family"
+    },
+    {
+      "id": "significant",
+      "type": "word",
+      "label": "重要的；显著的",
+      "group": "family"
+    },
+    {
+      "id": "flexible",
+      "type": "word",
+      "label": "灵活的；可弯曲的",
+      "group": "scene"
+    },
+    {
+      "id": "investigate",
+      "type": "word",
+      "label": "调查；研究",
+      "group": "scene"
+    },
+    {
+      "id": "roundabout",
+      "type": "word",
+      "label": "环岛；迂回的",
+      "group": "scene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-027",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-027",
+      "target": "family",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "reception",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "receptionist",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "signify",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "significant",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "flexible",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "investigate",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "roundabout",
+      "type": "explains"
+    },
+    {
+      "source": "reception",
+      "target": "receptionist",
+      "type": "word-family"
+    },
+    {
+      "source": "signify",
+      "target": "significant",
+      "type": "word-family"
+    }
+  ]
+}

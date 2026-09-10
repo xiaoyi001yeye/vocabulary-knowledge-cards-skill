@@ -1,0 +1,58 @@
+{
+  "id": "vocabulary-025-graph",
+  "lessonId": "vocabulary-025",
+  "nodes": [
+    {
+      "id": "vocabulary-025",
+      "type": "lesson",
+      "label": "词汇速记第 025 集",
+      "description": "从字幕提炼的课堂助记；不作为严格词源图。"
+    },
+    {
+      "id": "judgment",
+      "type": "knowledge",
+      "label": "判断与保证",
+      "description": "以合适、保证和私人空间的场景复习。"
+    },
+    {
+      "id": "proper",
+      "type": "word",
+      "label": "合适的；恰当的",
+      "group": "judgment"
+    },
+    {
+      "id": "assure",
+      "type": "word",
+      "label": "使确信；保证",
+      "group": "judgment"
+    },
+    {
+      "id": "private",
+      "type": "word",
+      "label": "私人的；私下的",
+      "group": "judgment"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-025",
+      "target": "judgment",
+      "type": "teaches"
+    },
+    {
+      "source": "judgment",
+      "target": "proper",
+      "type": "explains"
+    },
+    {
+      "source": "judgment",
+      "target": "assure",
+      "type": "explains"
+    },
+    {
+      "source": "judgment",
+      "target": "private",
+      "type": "explains"
+    }
+  ]
+}

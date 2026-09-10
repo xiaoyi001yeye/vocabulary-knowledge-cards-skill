@@ -1,0 +1,124 @@
+{
+  "id": "vocabulary-019-graph",
+  "lessonId": "vocabulary-019",
+  "nodes": [
+    {
+      "id": "vocabulary-019",
+      "type": "lesson",
+      "label": "词汇速记第 019 集：位置、出勤与升起的对比",
+      "description": "基于课堂字幕的助记关系图；非严格词源图。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "生活场景",
+      "description": "用刷牙、邻居、日出等日常场景还原词义。"
+    },
+    {
+      "id": "contrast",
+      "type": "knowledge",
+      "label": "对照辨析",
+      "description": "用 present/absent 和 rise/raise 的并列对照复习。"
+    },
+    {
+      "id": "sense",
+      "type": "word",
+      "label": "感觉；理性",
+      "group": "scene"
+    },
+    {
+      "id": "toothbrush",
+      "type": "word",
+      "label": "牙刷",
+      "group": "scene"
+    },
+    {
+      "id": "nearby",
+      "type": "word",
+      "label": "附近的；在附近",
+      "group": "scene"
+    },
+    {
+      "id": "neighbor",
+      "type": "word",
+      "label": "邻居",
+      "group": "scene"
+    },
+    {
+      "id": "absent",
+      "type": "word",
+      "label": "缺席的；不在场的",
+      "group": "contrast"
+    },
+    {
+      "id": "present",
+      "type": "word",
+      "label": "出席的；在场的",
+      "group": "contrast"
+    },
+    {
+      "id": "rise",
+      "type": "word",
+      "label": "上升；升起",
+      "group": "contrast"
+    },
+    {
+      "id": "raise",
+      "type": "word",
+      "label": "举起；提高；筹集",
+      "group": "contrast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-019",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-019",
+      "target": "contrast",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "sense",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "toothbrush",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "nearby",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "neighbor",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "absent",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "present",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "rise",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "raise",
+      "type": "explains"
+    }
+  ]
+}

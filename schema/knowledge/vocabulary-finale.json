@@ -1,0 +1,54 @@
+{
+  "id": "vocabulary-finale",
+  "title": "词汇速记大结局：蒲公英的叶缘画面",
+  "sourceType": "user-provided-srt",
+  "summary": "来源：40.最新编辑1-4000词汇速记大结局.srt。从大结局字幕提炼的植物叶缘视觉助记。",
+  "concepts": [
+    {
+      "id": "vocabulary-finale-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-finale-review",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "开场 purified / strict / tendency 段落",
+      "candidates": [
+        "purified",
+        "strict",
+        "tendency"
+      ],
+      "reason": "字幕拼写和词义推导不完整，未建正式卡。"
+    },
+    {
+      "source": "axis / ox / patch / rap 段落",
+      "candidates": [
+        "axis",
+        "ox",
+        "patch",
+        "wrap"
+      ],
+      "reason": "字幕混杂、部分拼写错误或仅是片段解释。"
+    },
+    {
+      "source": "重复或已有候选",
+      "candidates": [
+        "footbridge",
+        "fantasy",
+        "subject",
+        "scribe"
+      ],
+      "reason": "已有卡或需要跨批次去重，未在本隔离批次重复创建。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，朗读词汇并先说出基础义。",
+    "复述课堂画面，完成卡片中的 rehearsal。",
+    "当天、第 1、5、14 天复习；不能说明 caution 时回看卡片。"
+  ]
+}

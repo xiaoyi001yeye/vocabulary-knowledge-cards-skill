@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-018-graph",
+  "lessonId": "vocabulary-018",
+  "nodes": [
+    {
+      "id": "vocabulary-018",
+      "type": "lesson",
+      "label": "词汇速记第 018 集：升降、旋涡与突出画面",
+      "description": "从第 018 集保留升降动作、水流旋涡和站得突出的课堂画面。"
+    },
+    {
+      "id": "vocabulary-018-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-018-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "lift",
+      "type": "word",
+      "label": "lift",
+      "group": "vocabulary-018-mnemonic"
+    },
+    {
+      "id": "swirl",
+      "type": "word",
+      "label": "swirl",
+      "group": "vocabulary-018-mnemonic"
+    },
+    {
+      "id": "outstanding",
+      "type": "word",
+      "label": "outstanding",
+      "group": "vocabulary-018-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-018",
+      "target": "vocabulary-018-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-018",
+      "target": "vocabulary-018-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-018-mnemonic",
+      "target": "lift",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-018-review",
+      "target": "lift",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-018-mnemonic",
+      "target": "swirl",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-018-review",
+      "target": "swirl",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-018-mnemonic",
+      "target": "outstanding",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-018-review",
+      "target": "outstanding",
+      "type": "reviews"
+    }
+  ]
+}

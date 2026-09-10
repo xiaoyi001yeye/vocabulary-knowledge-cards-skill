@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-008-graph",
+  "lessonId": "vocabulary-008",
+  "nodes": [
+    {
+      "id": "vocabulary-008",
+      "type": "lesson",
+      "label": "词汇速记 008：小包、口袋与实验室",
+      "description": "保留包装形态、口袋容量和实验劳动场景清楚的词汇。"
+    },
+    {
+      "id": "vocabulary-008-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-008-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "packet",
+      "type": "word",
+      "label": "小包；小袋",
+      "group": "vocabulary-008-mnemonic"
+    },
+    {
+      "id": "pocket",
+      "type": "word",
+      "label": "口袋",
+      "group": "vocabulary-008-mnemonic"
+    },
+    {
+      "id": "laboratory",
+      "type": "word",
+      "label": "实验室",
+      "group": "vocabulary-008-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-008",
+      "target": "vocabulary-008-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-008",
+      "target": "vocabulary-008-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-008-mnemonic",
+      "target": "packet",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-008-mnemonic",
+      "target": "pocket",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-008-mnemonic",
+      "target": "laboratory",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-008-review",
+      "target": "packet",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-008-review",
+      "target": "pocket",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-008-review",
+      "target": "laboratory",
+      "type": "reviews"
+    }
+  ]
+}

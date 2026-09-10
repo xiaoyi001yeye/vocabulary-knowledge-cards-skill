@@ -1,0 +1,33 @@
+{
+  "id": "vocabulary-005",
+  "title": "词汇速记 005：味觉、沸腾与交通设施",
+  "sourceType": "user-provided-srt",
+  "summary": "保留感官动作和物体画面清楚的课堂词汇。",
+  "concepts": [
+    {
+      "id": "vocabulary-005-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-005-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "levator 段落",
+      "candidates": [
+        "levator",
+        "elevator"
+      ],
+      "reason": "字幕把 levator 作为词项讲解；不适合作为本批独立基础词卡。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张卡片的英文词或短语。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不能说清 caution 时重新阅读卡片。"
+  ]
+}

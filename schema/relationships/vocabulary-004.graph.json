@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-004-graph",
+  "lessonId": "vocabulary-004",
+  "nodes": [
+    {
+      "id": "vocabulary-004",
+      "type": "lesson",
+      "label": "词汇速记 004：虫类与动物画面",
+      "description": "只保留拼写、基本义和可复现画面都清楚的动物及复合词。"
+    },
+    {
+      "id": "vocabulary-004-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-004-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "worm",
+      "type": "word",
+      "label": "虫；蠕虫",
+      "group": "vocabulary-004-mnemonic"
+    },
+    {
+      "id": "earthworm",
+      "type": "word",
+      "label": "蚯蚓",
+      "group": "vocabulary-004-mnemonic"
+    },
+    {
+      "id": "goat",
+      "type": "word",
+      "label": "山羊",
+      "group": "vocabulary-004-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-004",
+      "target": "vocabulary-004-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-004",
+      "target": "vocabulary-004-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-004-mnemonic",
+      "target": "worm",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-004-mnemonic",
+      "target": "earthworm",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-004-mnemonic",
+      "target": "goat",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-004-review",
+      "target": "worm",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-004-review",
+      "target": "earthworm",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-004-review",
+      "target": "goat",
+      "type": "reviews"
+    }
+  ]
+}

@@ -6,8 +6,12 @@ const root = document.querySelector<HTMLElement>('#app');
 if (!root) throw new Error('Missing #app root');
 
 const page = new ExplorerPage();
-new SchemaRepository().loadCatalog(['four-methods', 'primary-vocabulary-mnemonics-01'])
-  .then((bundle) => page.mount(root, bundle))
+const repository = new SchemaRepository();
+repository.loadCatalogIndex()
+  .then(async (catalog) => {
+    const bundle = await repository.loadLesson(catalog.defaultLessonId);
+    await page.mount(root, bundle, { catalog, loadLesson: (lessonId) => repository.loadLesson(lessonId) });
+  })
   .catch((error: unknown) => {
     root.innerHTML = '<main class="app-shell"><section class="error panel"><p class="eyebrow">LOAD ERROR</p><h1>无法加载知识图谱</h1><p>' + String(error) + '</p></section></main>';
   });

@@ -1,0 +1,46 @@
+{
+  "id": "vocabulary-018",
+  "title": "词汇速记第 018 集：升降、旋涡与突出画面",
+  "sourceType": "user-provided-srt",
+  "summary": "从第 018 集保留升降动作、水流旋涡和站得突出的课堂画面。",
+  "concepts": [
+    {
+      "id": "vocabulary-018-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-018-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作和口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "第 018 集字幕",
+      "candidates": [
+        "anemy（疑为 enemy）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 018 集字幕",
+      "candidates": [
+        "ethic（疑为 attic）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 018 集字幕",
+      "candidates": [
+        "cat peter（疑为 caterpillar）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张正式卡片的英文。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不确定项先核对原视频或词典。"
+  ]
+}

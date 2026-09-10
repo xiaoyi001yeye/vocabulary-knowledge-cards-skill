@@ -1,0 +1,32 @@
+{
+  "id": "vocabulary-007",
+  "title": "词汇速记 007：字形与记录场景",
+  "sourceType": "user-provided-srt",
+  "summary": "保留袖子字形画面与记录笔记的课堂联想。",
+  "concepts": [
+    {
+      "id": "vocabulary-007-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-007-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "Fearse 段落",
+      "candidates": [
+        "fierce"
+      ],
+      "reason": "字幕反复写作 Fearse，疑似 intended fierce；未核对音频前不建卡。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张卡片的英文词或短语。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不能说清 caution 时重新阅读卡片。"
+  ]
+}

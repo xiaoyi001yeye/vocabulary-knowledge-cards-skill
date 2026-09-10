@@ -1,0 +1,124 @@
+{
+  "id": "vocabulary-020-graph",
+  "lessonId": "vocabulary-020",
+  "nodes": [
+    {
+      "id": "vocabulary-020",
+      "type": "lesson",
+      "label": "词汇速记第 020 集：形状、空间与范围",
+      "description": "基于课堂字幕的助记关系图；非严格词源图。"
+    },
+    {
+      "id": "shape",
+      "type": "knowledge",
+      "label": "形状画面",
+      "description": "用细线、曲线等画面帮助记住词形和基本义。"
+    },
+    {
+      "id": "contrast",
+      "type": "knowledge",
+      "label": "范围与位置对照",
+      "description": "把中心/整体、沿着/在……之间等空间关系放在一起复现。"
+    },
+    {
+      "id": "slim",
+      "type": "word",
+      "label": "苗条的；纤细的",
+      "group": "shape"
+    },
+    {
+      "id": "actor",
+      "type": "word",
+      "label": "男演员；演员",
+      "group": "shape"
+    },
+    {
+      "id": "actress",
+      "type": "word",
+      "label": "女演员",
+      "group": "shape"
+    },
+    {
+      "id": "central",
+      "type": "word",
+      "label": "中心的；核心的",
+      "group": "contrast"
+    },
+    {
+      "id": "general",
+      "type": "word",
+      "label": "普遍的；总体的；将军",
+      "group": "contrast"
+    },
+    {
+      "id": "along",
+      "type": "word",
+      "label": "沿着",
+      "group": "shape"
+    },
+    {
+      "id": "among",
+      "type": "word",
+      "label": "在……之中",
+      "group": "shape"
+    },
+    {
+      "id": "increase",
+      "type": "word",
+      "label": "增加；增长",
+      "group": "shape"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-020",
+      "target": "shape",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-020",
+      "target": "contrast",
+      "type": "teaches"
+    },
+    {
+      "source": "shape",
+      "target": "slim",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "actor",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "actress",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "central",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "general",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "along",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "among",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "increase",
+      "type": "explains"
+    }
+  ]
+}

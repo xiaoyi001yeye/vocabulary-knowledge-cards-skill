@@ -1,0 +1,50 @@
+{
+  "id": "vocabulary-029",
+  "title": "词汇速记第 029 集：行李、操作与负载",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 029 集字幕，整理旅行行李、操作、让步与下载上传等高置信词汇；声音和拆分只作为课堂记忆抓手。",
+  "concepts": [
+    {
+      "id": "scene",
+      "label": "旅行与设备场景",
+      "description": "用行李、电脑下载和工作负荷建立可复现画面。"
+    },
+    {
+      "id": "contrast",
+      "label": "动作对比",
+      "description": "以 download/upload、operate/operation 等对照复习。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "cash/catching/orange/range 段",
+      "candidates": [
+        "cash",
+        "catch",
+        "range"
+      ],
+      "reason": "字幕把中文谐音和多个词混在一起，无法稳定还原教学对象。"
+    },
+    {
+      "source": "tuff/rough 段",
+      "candidates": [
+        "tough",
+        "rough"
+      ],
+      "reason": "ASR 拼写和课堂读音不可靠。"
+    },
+    {
+      "source": "x-ray/exit 段",
+      "candidates": [
+        "x-ray",
+        "exit"
+      ],
+      "reason": "出现的字母和口述不足以确认完整讲解。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，按本课的场景或词族路线口述每张卡片。",
+    "当天、第 1、5、14 天各复现一次；无法说明 caution 时回看边界提示。",
+    "对字幕中的 ASR 不确定词只复述待核对原因，不把它当作确定知识。"
+  ]
+}

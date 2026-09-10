@@ -1,0 +1,40 @@
+{
+  "id": "vocabulary-037",
+  "title": "词汇速记第 037 集：轨道与液体画面",
+  "sourceType": "user-provided-srt",
+  "summary": "来源：39.最新编辑1-4000词汇速记037.srt。从第 037 集字幕提炼的前进轨道和泄漏液体助记。",
+  "concepts": [
+    {
+      "id": "vocabulary-037-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-037-review",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "音译狗类段落",
+      "candidates": [
+        "beagle",
+        "dingo"
+      ],
+      "reason": "字幕以中文拟音反复出现，未保留稳定、可复现的正式教学过程。"
+    },
+    {
+      "source": "spiretie 段落",
+      "candidates": [
+        "spiretie"
+      ],
+      "reason": "疑似更长目标词的错误转写。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，朗读词汇并先说出基础义。",
+    "复述课堂画面，完成卡片中的 rehearsal。",
+    "当天、第 1、5、14 天复习；不能说明 caution 时回看卡片。"
+  ]
+}

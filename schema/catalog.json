@@ -1,0 +1,202 @@
+{
+  "id": "vocabulary-lessons",
+  "title": "英语词汇课程目录",
+  "defaultLessonId": "primary-vocabulary-mnemonics-01",
+  "lessons": [
+    {
+      "id": "primary-vocabulary-mnemonics-01",
+      "title": "小学英语词汇课：声音、画面、组合与词族助记",
+      "description": "课堂助记词汇与词族关系图。"
+    },
+    {
+      "id": "four-methods",
+      "title": "四大法门导学课",
+      "description": "音、形、义、根缀与复习的学习入口。"
+    },
+    {
+      "id": "vocabulary-023",
+      "title": "词汇速记第 023 集：前缀、词族与情境表达",
+      "description": "从第 023 集字幕提炼的前缀、动作画面与词族对照助记。"
+    },
+    {
+      "id": "vocabulary-002",
+      "title": "词汇速记第 002 集：日常活动与旅行词汇",
+      "description": "从第 002 集字幕提炼的活动、餐食与动作画面助记。"
+    },
+    {
+      "id": "vocabulary-003",
+      "title": "词汇速记第 003 集：活动、器具与形象联想",
+      "description": "从第 003 集字幕提炼的活动与物品词汇助记。"
+    },
+    {
+      "id": "vocabulary-004",
+      "title": "词汇速记第 004 集：动物、身体与声音联想",
+      "description": "从第 004 集字幕提炼的动物与动作词汇助记。"
+    },
+    {
+      "id": "vocabulary-005",
+      "title": "词汇速记第 005 集：食物、状态与场景词汇",
+      "description": "从第 005 集字幕提炼的感官与生活场景助记。"
+    },
+    {
+      "id": "vocabulary-006",
+      "title": "词汇速记第 006 集：形状、食物与物品词汇",
+      "description": "从第 006 集字幕提炼的形状和实物画面助记。"
+    },
+    {
+      "id": "vocabulary-007",
+      "title": "词汇速记第 007 集：衣物、文具与身体词汇",
+      "description": "从第 007 集字幕提炼的物品和形象助记。"
+    },
+    {
+      "id": "vocabulary-008",
+      "title": "词汇速记第 008 集：容器、口袋与学习场所",
+      "description": "从第 008 集字幕提炼的收纳和学习场景助记。"
+    },
+    {
+      "id": "vocabulary-010",
+      "title": "词汇速记第 010 集：日常起居与居住场景",
+      "description": "从第 010 集字幕提炼的生活动作和住所词汇助记。"
+    },
+    {
+      "id": "vocabulary-019",
+      "title": "词汇速记第 019 集：位置、出勤与升起的对比",
+      "description": "从第 019 集字幕提炼的生活场景与对照助记。"
+    },
+    {
+      "id": "vocabulary-020",
+      "title": "词汇速记第 020 集：形状、空间与范围",
+      "description": "从第 020 集字幕提炼的形状、空间与范围对照助记。"
+    },
+    {
+      "id": "vocabulary-021",
+      "title": "词汇速记第 021 集：包裹、提醒与大小对照",
+      "description": "从第 021 集字幕提炼的生活画面与表达对照助记。"
+    },
+    {
+      "id": "vocabulary-022",
+      "title": "词汇速记第 022 集：书写、重音与幻想画面",
+      "description": "从第 022 集字幕提炼的书写、声音与想象助记。"
+    },
+    {
+      "id": "vocabulary-027",
+      "title": "词汇速记第 027 集：标记、接待与调查",
+      "description": "从第 027 集字幕提炼的接待、标记和调查场景助记。"
+    },
+    {
+      "id": "vocabulary-028",
+      "title": "词汇速记第 028 集：移动、目标与职业",
+      "description": "从第 028 集字幕提炼的移动、目标和职业场景助记。"
+    },
+    {
+      "id": "vocabulary-029",
+      "title": "词汇速记第 029 集：行李、操作与负载",
+      "description": "从第 029 集字幕提炼的旅行、设备与负载词汇助记。"
+    },
+    {
+      "id": "vocabulary-030",
+      "title": "词汇速记第 030 集：差异、商业与结果",
+      "description": "从第 030 集字幕提炼的变化、商业和结果场景助记。"
+    },
+    {
+      "id": "vocabulary-031",
+      "title": "词汇速记第 031 集：材料、程序与提问",
+      "description": "从第 031 集字幕提炼的材料、程序和提问场景助记。"
+    },
+    {
+      "id": "vocabulary-011",
+      "title": "词汇速记第 011 集",
+      "description": "从第 011 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-012",
+      "title": "词汇速记第 012 集",
+      "description": "从第 012 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-013",
+      "title": "词汇速记第 013 集",
+      "description": "从第 013 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-014",
+      "title": "词汇速记第 014 集",
+      "description": "从第 014 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-015",
+      "title": "词汇速记第 015 集",
+      "description": "从第 015 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-016",
+      "title": "词汇速记第 016 集",
+      "description": "从第 016 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-017",
+      "title": "词汇速记第 017 集",
+      "description": "从第 017 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-018",
+      "title": "词汇速记第 018 集",
+      "description": "从第 018 集字幕提炼的保守词汇与课堂助记。"
+    },
+    {
+      "id": "vocabulary-024",
+      "title": "词汇速记第 024 集：旅行、路线与营养",
+      "description": "从第 024 集字幕提炼的旅行与路线情境助记。"
+    },
+    {
+      "id": "vocabulary-025",
+      "title": "词汇速记第 025 集：恰当、保证与私人空间",
+      "description": "从第 025 集字幕提炼的判断与沟通情境助记。"
+    },
+    {
+      "id": "vocabulary-026",
+      "title": "词汇速记第 026 集：恰当、差异与共同点",
+      "description": "从第 026 集字幕提炼的比较与判断助记。"
+    },
+    {
+      "id": "vocabulary-026-special",
+      "title": "词汇速记第 026 集特补：考古、好奇与展开",
+      "description": "从第 026 集特补字幕提炼的考古主题和动作助记。"
+    },
+    {
+      "id": "vocabulary-032",
+      "title": "词汇速记第 032 集：寻找与称量画面",
+      "description": "从第 032 集字幕提炼的寻找和称量画面助记。"
+    },
+    {
+      "id": "vocabulary-033",
+      "title": "词汇速记第 033 集：整洁对比与奖项场景",
+      "description": "从第 033 集字幕提炼的拼写对比和颁奖场景助记。"
+    },
+    {
+      "id": "vocabulary-034",
+      "title": "词汇速记第 034 集：签名与最高点画面",
+      "description": "从第 034 集字幕提炼的自写签名和空间顶点助记。"
+    },
+    {
+      "id": "vocabulary-035",
+      "title": "词汇速记第 035 集：中空与品牌表达",
+      "description": "从第 035 集字幕提炼的口形与视觉文本对比助记。"
+    },
+    {
+      "id": "vocabulary-036",
+      "title": "词汇速记第 036 集：日程安排",
+      "description": "从第 036 集字幕提炼的时间表与安排动作助记。"
+    },
+    {
+      "id": "vocabulary-037",
+      "title": "词汇速记第 037 集：轨道与液体画面",
+      "description": "从第 037 集字幕提炼的前进轨道和泄漏液体助记。"
+    },
+    {
+      "id": "vocabulary-finale",
+      "title": "词汇速记大结局：蒲公英的叶缘画面",
+      "description": "从大结局字幕提炼的植物叶缘视觉助记。"
+    }
+  ]
+}

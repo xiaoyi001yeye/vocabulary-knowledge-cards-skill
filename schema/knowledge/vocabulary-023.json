@@ -1,0 +1,53 @@
+{
+  "id": "vocabulary-023",
+  "title": "词汇速记第 023 集：前缀、词族与情境表达",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 023 集字幕，整理拼写、释义和课堂助记均清楚的 9 个词汇；课堂以 pro、in-、press、preside 与 pair 等可感知抓手串联词义，所有构词联想均仅作记忆提示。",
+  "concepts": [
+    {
+      "id": "prefix",
+      "label": "前缀与方向感",
+      "description": "课堂用 pro 的“向前”、in- 的否定感和 re 的“再次”作为记忆抓手。"
+    },
+    {
+      "id": "scene",
+      "label": "动作与场景",
+      "description": "把“挤出心里的话”“坐在前面主持会议”“两物成对”转化为可复现画面。"
+    },
+    {
+      "id": "family",
+      "label": "词族对比",
+      "description": "通过 govern/government、dependent/independent、president/resident 等对照复习。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "字幕中的 survive 段",
+      "candidates": [
+        "survive",
+        "Sewive"
+      ],
+      "reason": "自动转写把 survive 写成 Sewive，虽可推测目标词，但课堂细节不够可靠，未建卡。"
+    },
+    {
+      "source": "scar 段",
+      "candidates": [
+        "scar"
+      ],
+      "reason": "字幕将其释义与“威胁”等内容混杂，基本义和课堂推导无法可靠对应。"
+    },
+    {
+      "source": "Nous / nouse 段",
+      "candidates": [
+        "nose",
+        "knows"
+      ],
+      "reason": "英文拼写与中文口述混杂，无法确定课堂目标词。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，依次口述 pro、in-、press 与 pair 在本课中的课堂画面。",
+    "对 dependent / independent、president / resident 说出基本义与课堂对比，不把联想当作严格词源。",
+    "当天、第 1 天、第 5 天和第 14 天各用 30 秒复现一遍。"
+  ]
+}

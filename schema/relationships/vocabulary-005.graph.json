@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-005-graph",
+  "lessonId": "vocabulary-005",
+  "nodes": [
+    {
+      "id": "vocabulary-005",
+      "type": "lesson",
+      "label": "词汇速记 005：味觉、沸腾与交通设施",
+      "description": "保留感官动作和物体画面清楚的课堂词汇。"
+    },
+    {
+      "id": "vocabulary-005-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-005-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "sour",
+      "type": "word",
+      "label": "酸的",
+      "group": "vocabulary-005-mnemonic"
+    },
+    {
+      "id": "boil",
+      "type": "word",
+      "label": "沸腾；煮沸",
+      "group": "vocabulary-005-mnemonic"
+    },
+    {
+      "id": "escalator",
+      "type": "word",
+      "label": "自动扶梯",
+      "group": "vocabulary-005-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-005",
+      "target": "vocabulary-005-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-005",
+      "target": "vocabulary-005-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-005-mnemonic",
+      "target": "sour",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-005-mnemonic",
+      "target": "boil",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-005-mnemonic",
+      "target": "escalator",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-005-review",
+      "target": "sour",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-005-review",
+      "target": "boil",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-005-review",
+      "target": "escalator",
+      "type": "reviews"
+    }
+  ]
+}

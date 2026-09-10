@@ -1,0 +1,36 @@
+{
+  "id": "vocabulary-026",
+  "title": "词汇速记第 026 集：恰当、差异与共同点",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 026 集字幕，整理 appropriate、difference、common 三个可通过判断和比较场景复现的词汇。",
+  "concepts": [
+    {
+      "id": "comparison",
+      "label": "判断与比较",
+      "description": "以恰当、不同和共同点组织对照。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "pro 与其他短前缀片段",
+      "candidates": [
+        "pro"
+      ],
+      "reason": "字幕多为短成分或口述，不能独立固化成正式词卡。"
+    },
+    {
+      "source": "形近词与课堂词族段",
+      "candidates": [
+        "appropriate",
+        "difference",
+        "common"
+      ],
+      "reason": "不把相似拼写或课堂串联当作严格词源关系。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，口述每个词在课堂中的场景或动作。",
+    "把课堂联想与词典事实分开说明；不能确认的内容回到待核对项。",
+    "当天、第 1 天、第 5 天和第 14 天各复现一次。"
+  ]
+}
