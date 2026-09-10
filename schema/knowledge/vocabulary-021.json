@@ -1,0 +1,59 @@
+{
+  "id": "vocabulary-021",
+  "title": "词汇速记第 021 集：包裹、提醒与大小对照",
+  "summary": "第 021 集从包、身边、再次想起和大小变化等画面展开；严格隔离字幕中的错误词形与不可靠词源说法。",
+  "concepts": [
+    {
+      "id": "scene",
+      "label": "生活动作与画面",
+      "description": "用包裹、在旁边、再次想起等具体动作复现。"
+    },
+    {
+      "id": "contrast",
+      "label": "大小与表达对照",
+      "description": "通过 simple/simplify 与 ample/amplify 的课堂大小画面建立复习路径。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "backage 段",
+      "candidates": [
+        "baggage",
+        "package",
+        "backage"
+      ],
+      "reason": "字幕把行李写成 backage；正式拼写不能据此固化。"
+    },
+    {
+      "source": "fat / sin 段",
+      "candidates": [
+        "fat",
+        "thin",
+        "sin"
+      ],
+      "reason": "字幕中的“肥瘦”字母关系不可靠。"
+    },
+    {
+      "source": "cap / capital / captain 段",
+      "candidates": [
+        "cap",
+        "capital",
+        "captain"
+      ],
+      "reason": "课堂词根断言过强，未将其当作严格构词事实；仅保留能明确复现的 capital。"
+    },
+    {
+      "source": "truth / trust 段",
+      "candidates": [
+        "truth",
+        "trust"
+      ],
+      "reason": "课堂用音近联想连接两词，不能确定为可靠构词关系，未建卡。"
+    }
+  ],
+  "reviewPlan": [
+    "拿一个包，依次说 package、beside 和 remind 的课堂画面。",
+    "把复杂句缩短来复现 simplify，再把短句扩展来复现 amplify。",
+    "第 1、5、14 天遮住释义，只复述课堂画面与使用提醒。"
+  ]
+}

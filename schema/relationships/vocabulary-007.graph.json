@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-007-graph",
+  "lessonId": "vocabulary-007",
+  "nodes": [
+    {
+      "id": "vocabulary-007",
+      "type": "lesson",
+      "label": "词汇速记 007：字形与记录场景",
+      "description": "保留袖子字形画面与记录笔记的课堂联想。"
+    },
+    {
+      "id": "vocabulary-007-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-007-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "sleeve",
+      "type": "word",
+      "label": "袖子",
+      "group": "vocabulary-007-mnemonic"
+    },
+    {
+      "id": "note",
+      "type": "word",
+      "label": "笔记；注释；记下",
+      "group": "vocabulary-007-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-007",
+      "target": "vocabulary-007-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-007",
+      "target": "vocabulary-007-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-007-mnemonic",
+      "target": "sleeve",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-007-mnemonic",
+      "target": "note",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-007-review",
+      "target": "sleeve",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-007-review",
+      "target": "note",
+      "type": "reviews"
+    }
+  ]
+}

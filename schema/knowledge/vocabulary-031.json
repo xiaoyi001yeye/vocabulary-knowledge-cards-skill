@@ -1,0 +1,49 @@
+{
+  "id": "vocabulary-031",
+  "title": "词汇速记第 031 集：材料、程序与提问",
+  "sourceType": "user-provided-transcript",
+  "summary": "从第 031 集字幕中整理灵长类、材料、程序、喜爱和询问等高置信词；课堂声音和拆分均被限定为助记。",
+  "concepts": [
+    {
+      "id": "family",
+      "label": "词族与派生",
+      "description": "通过 program/programmer、adore/adorable 等对照复习。"
+    },
+    {
+      "id": "scene",
+      "label": "动作与物件画面",
+      "description": "以布料、打字、提问和时间同在的场景帮助复现。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "primate/prime/me 段",
+      "candidates": [
+        "primate",
+        "prime"
+      ],
+      "reason": "课堂拆分属于联想，未将其当作严格词源。"
+    },
+    {
+      "source": "punk/punctro 段",
+      "candidates": [
+        "punctual",
+        "puncture"
+      ],
+      "reason": "ASR 拼写和课堂目标词不清。"
+    },
+    {
+      "source": "minwhile/contemporary 段",
+      "candidates": [
+        "meanwhile",
+        "contemporary"
+      ],
+      "reason": "meanwhile 被误写为 minwhile；只保留字幕中拼写与基本义相对清楚的 contemporary。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，按本课的场景或词族路线口述每张卡片。",
+    "当天、第 1、5、14 天各复现一次；无法说明 caution 时回看边界提示。",
+    "对字幕中的 ASR 不确定词只复述待核对原因，不把它当作确定知识。"
+  ]
+}

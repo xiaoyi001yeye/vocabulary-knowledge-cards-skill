@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-012-graph",
+  "lessonId": "vocabulary-012",
+  "nodes": [
+    {
+      "id": "vocabulary-012",
+      "type": "lesson",
+      "label": "词汇速记第 012 集：组合、画面与坚持表达",
+      "description": "从第 012 集保留头脑风暴、果核与坚持的可复现课堂画面。"
+    },
+    {
+      "id": "vocabulary-012-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-012-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "brainstorm",
+      "type": "word",
+      "label": "brainstorm",
+      "group": "vocabulary-012-mnemonic"
+    },
+    {
+      "id": "core",
+      "type": "word",
+      "label": "core",
+      "group": "vocabulary-012-mnemonic"
+    },
+    {
+      "id": "insist",
+      "type": "word",
+      "label": "insist",
+      "group": "vocabulary-012-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-012",
+      "target": "vocabulary-012-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-012",
+      "target": "vocabulary-012-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-012-mnemonic",
+      "target": "brainstorm",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-012-review",
+      "target": "brainstorm",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-012-mnemonic",
+      "target": "core",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-012-review",
+      "target": "core",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-012-mnemonic",
+      "target": "insist",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-012-review",
+      "target": "insist",
+      "type": "reviews"
+    }
+  ]
+}

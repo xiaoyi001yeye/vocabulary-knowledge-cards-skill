@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-013-graph",
+  "lessonId": "vocabulary-013",
+  "nodes": [
+    {
+      "id": "vocabulary-013",
+      "type": "lesson",
+      "label": "词汇速记第 013 集：分离、职责与交换",
+      "description": "从第 013 集保留分开动作、do it 声音提示与交换画面。"
+    },
+    {
+      "id": "vocabulary-013-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-013-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "separate",
+      "type": "word",
+      "label": "separate",
+      "group": "vocabulary-013-mnemonic"
+    },
+    {
+      "id": "duty",
+      "type": "word",
+      "label": "duty",
+      "group": "vocabulary-013-mnemonic"
+    },
+    {
+      "id": "exchange",
+      "type": "word",
+      "label": "exchange",
+      "group": "vocabulary-013-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-013",
+      "target": "vocabulary-013-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-013",
+      "target": "vocabulary-013-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-013-mnemonic",
+      "target": "separate",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-013-review",
+      "target": "separate",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-013-mnemonic",
+      "target": "duty",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-013-review",
+      "target": "duty",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-013-mnemonic",
+      "target": "exchange",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-013-review",
+      "target": "exchange",
+      "type": "reviews"
+    }
+  ]
+}

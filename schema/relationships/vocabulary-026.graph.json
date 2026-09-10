@@ -1,0 +1,58 @@
+{
+  "id": "vocabulary-026-graph",
+  "lessonId": "vocabulary-026",
+  "nodes": [
+    {
+      "id": "vocabulary-026",
+      "type": "lesson",
+      "label": "词汇速记第 026 集",
+      "description": "从字幕提炼的课堂助记；不作为严格词源图。"
+    },
+    {
+      "id": "comparison",
+      "type": "knowledge",
+      "label": "判断与比较",
+      "description": "以恰当、不同和共同点组织对照。"
+    },
+    {
+      "id": "appropriate",
+      "type": "word",
+      "label": "合适的；恰当的",
+      "group": "comparison"
+    },
+    {
+      "id": "difference",
+      "type": "word",
+      "label": "差别；不同",
+      "group": "comparison"
+    },
+    {
+      "id": "common",
+      "type": "word",
+      "label": "常见的；共同的",
+      "group": "comparison"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-026",
+      "target": "comparison",
+      "type": "teaches"
+    },
+    {
+      "source": "comparison",
+      "target": "appropriate",
+      "type": "explains"
+    },
+    {
+      "source": "comparison",
+      "target": "difference",
+      "type": "explains"
+    },
+    {
+      "source": "comparison",
+      "target": "common",
+      "type": "explains"
+    }
+  ]
+}

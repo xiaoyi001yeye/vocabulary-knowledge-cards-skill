@@ -1,0 +1,90 @@
+{
+  "id": "vocabulary-026-special-graph",
+  "lessonId": "vocabulary-026-special",
+  "nodes": [
+    {
+      "id": "vocabulary-026-special",
+      "type": "lesson",
+      "label": "词汇速记第 026 集特补",
+      "description": "从字幕提炼的课堂助记；不作为严格词源图。"
+    },
+    {
+      "id": "history",
+      "type": "knowledge",
+      "label": "考古主题",
+      "description": "以古代遗物与研究场景建立主题。"
+    },
+    {
+      "id": "movement",
+      "type": "knowledge",
+      "label": "展开动作",
+      "description": "以折叠物打开的可复现动作建立记忆。"
+    },
+    {
+      "id": "archaeology",
+      "type": "word",
+      "label": "考古学",
+      "group": "history"
+    },
+    {
+      "id": "artifact",
+      "type": "word",
+      "label": "人工制品；文物",
+      "group": "history"
+    },
+    {
+      "id": "curiosity",
+      "type": "word",
+      "label": "好奇心；奇物",
+      "group": "history"
+    },
+    {
+      "id": "unfold",
+      "type": "word",
+      "label": "展开；打开",
+      "group": "movement"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-026-special",
+      "target": "history",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-026-special",
+      "target": "movement",
+      "type": "teaches"
+    },
+    {
+      "source": "history",
+      "target": "archaeology",
+      "type": "explains"
+    },
+    {
+      "source": "history",
+      "target": "artifact",
+      "type": "explains"
+    },
+    {
+      "source": "history",
+      "target": "curiosity",
+      "type": "explains"
+    },
+    {
+      "source": "movement",
+      "target": "unfold",
+      "type": "explains"
+    },
+    {
+      "source": "archaeology",
+      "target": "artifact",
+      "type": "classroom-theme"
+    },
+    {
+      "source": "curiosity",
+      "target": "unfold",
+      "type": "classroom-sequence"
+    }
+  ]
+}

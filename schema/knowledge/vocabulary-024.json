@@ -1,0 +1,36 @@
+{
+  "id": "vocabulary-024",
+  "title": "词汇速记第 024 集：旅行、路线与营养",
+  "sourceType": "user-provided-transcript",
+  "summary": "根据第 024 集字幕，保留拼写、基本义与课堂情境均清楚的 3 个词汇；课堂以出国、可跟随路线与饮食营养作助记画面。",
+  "concepts": [
+    {
+      "id": "travel",
+      "label": "旅行场景",
+      "description": "以出国、路线与移动场景组织词义。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "kingston 段",
+      "candidates": [
+        "Kingston"
+      ],
+      "reason": "可能是专名或举例，不作为普通词汇卡。"
+    },
+    {
+      "source": "字幕中的孤立词根与音近片段",
+      "candidates": [
+        "mouse",
+        "nutrition",
+        "track"
+      ],
+      "reason": "仅保留语境完整且拼写清楚的 nutrition、abroad、track；其余需回看音频。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，口述每个词在课堂中的场景或动作。",
+    "把课堂联想与词典事实分开说明；不能确认的内容回到待核对项。",
+    "当天、第 1 天、第 5 天和第 14 天各复现一次。"
+  ]
+}

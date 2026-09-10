@@ -1,0 +1,50 @@
+{
+  "id": "vocabulary-022",
+  "title": "词汇速记第 022 集：书写、重音与幻想画面",
+  "summary": "第 022 集涉及书写、重音、幻想和常见名词；仅采纳字幕中拼写与基本义稳定、且课堂画面可复现的项目。",
+  "concepts": [
+    {
+      "id": "meaning",
+      "label": "含义与使用场景",
+      "description": "用段落、重音和三明治等明确场景建立基本义。"
+    },
+    {
+      "id": "sound",
+      "label": "声音与文化联想",
+      "description": "用重读和音译作品名称帮助记忆，但明确区分课堂联想和词典事实。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "meter / metric 段",
+      "candidates": [
+        "meter",
+        "metric"
+      ],
+      "reason": "字幕包含“汉语米来自英语”等不可靠断言，未建卡。"
+    },
+    {
+      "source": "calcine / calcium / chalk 段",
+      "candidates": [
+        "calcine",
+        "calcium",
+        "chalk"
+      ],
+      "reason": "课堂关系和中文谐音说明不可靠，未固化。"
+    },
+    {
+      "source": "pence / penny / shilling 段",
+      "candidates": [
+        "pence",
+        "penny",
+        "shilling"
+      ],
+      "reason": "货币单位的释义和历史背景在转写中不完整，暂列待核对。"
+    }
+  ],
+  "reviewPlan": [
+    "写一个三句小段落，朗读 paragraph。",
+    "在一句话中夸张读重一个词，复现 accent 的课堂“强调”动作。",
+    "想象一个幻想场景，再区分 fantasy 与 fantastic 的基本义。"
+  ]
+}

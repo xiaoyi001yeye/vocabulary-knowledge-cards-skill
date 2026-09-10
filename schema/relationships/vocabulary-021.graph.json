@@ -1,0 +1,135 @@
+{
+  "id": "vocabulary-021-graph",
+  "lessonId": "vocabulary-021",
+  "nodes": [
+    {
+      "id": "vocabulary-021",
+      "type": "lesson",
+      "label": "词汇速记第 021 集：包裹、提醒与大小对照",
+      "description": "基于课堂字幕的助记关系图；非严格词源图。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "生活动作与画面",
+      "description": "用包裹、在旁边、再次想起等具体动作复现。"
+    },
+    {
+      "id": "contrast",
+      "type": "knowledge",
+      "label": "大小与表达对照",
+      "description": "通过 simple/simplify 与 ample/amplify 的课堂大小画面建立复习路径。"
+    },
+    {
+      "id": "package",
+      "type": "word",
+      "label": "包裹；一包",
+      "group": "scene"
+    },
+    {
+      "id": "beside",
+      "type": "word",
+      "label": "在……旁边",
+      "group": "scene"
+    },
+    {
+      "id": "remind",
+      "type": "word",
+      "label": "提醒；使想起",
+      "group": "scene"
+    },
+    {
+      "id": "mention",
+      "type": "word",
+      "label": "提到；说起",
+      "group": "contrast"
+    },
+    {
+      "id": "palace",
+      "type": "word",
+      "label": "宫殿",
+      "group": "scene"
+    },
+    {
+      "id": "capital",
+      "type": "word",
+      "label": "首都；资本；大写字母",
+      "group": "scene"
+    },
+    {
+      "id": "simple",
+      "type": "word",
+      "label": "简单的",
+      "group": "contrast"
+    },
+    {
+      "id": "simplify",
+      "type": "word",
+      "label": "使简化",
+      "group": "contrast"
+    },
+    {
+      "id": "amplify",
+      "type": "word",
+      "label": "放大；扩充；增强",
+      "group": "contrast"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-021",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-021",
+      "target": "contrast",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "package",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "beside",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "remind",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "mention",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "palace",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "capital",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "simple",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "simplify",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "amplify",
+      "type": "explains"
+    }
+  ]
+}

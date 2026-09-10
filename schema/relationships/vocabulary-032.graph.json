@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-032-graph",
+  "lessonId": "vocabulary-032",
+  "nodes": [
+    {
+      "id": "vocabulary-032",
+      "type": "lesson",
+      "label": "词汇速记第 032 集：寻找与称量画面",
+      "description": "从第 032 集字幕提炼的寻找和称量画面助记。"
+    },
+    {
+      "id": "vocabulary-032-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-032-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "seek",
+      "type": "word",
+      "label": "寻找；寻求",
+      "group": "vocabulary-032-mnemonic"
+    },
+    {
+      "id": "scale",
+      "type": "word",
+      "label": "秤；天平",
+      "group": "vocabulary-032-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-032",
+      "target": "vocabulary-032-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-032",
+      "target": "vocabulary-032-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-032-mnemonic",
+      "target": "seek",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-032-mnemonic",
+      "target": "scale",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-032-review",
+      "target": "seek",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-032-review",
+      "target": "scale",
+      "type": "reviews"
+    }
+  ]
+}

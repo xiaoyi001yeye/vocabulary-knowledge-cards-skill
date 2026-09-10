@@ -1,0 +1,145 @@
+{
+  "id": "vocabulary-031-graph",
+  "lessonId": "vocabulary-031",
+  "nodes": [
+    {
+      "id": "vocabulary-031",
+      "type": "lesson",
+      "label": "词汇速记第 031 集：材料、程序与提问",
+      "description": "课堂助记关系图；不是严格词源图。"
+    },
+    {
+      "id": "family",
+      "type": "knowledge",
+      "label": "词族与派生",
+      "description": "通过 program/programmer、adore/adorable 等对照复习。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "动作与物件画面",
+      "description": "以布料、打字、提问和时间同在的场景帮助复现。"
+    },
+    {
+      "id": "primate",
+      "type": "word",
+      "label": "灵长类动物；灵长目动物",
+      "group": "scene"
+    },
+    {
+      "id": "fabric",
+      "type": "word",
+      "label": "织物；布料",
+      "group": "scene"
+    },
+    {
+      "id": "fiber",
+      "type": "word",
+      "label": "纤维",
+      "group": "scene"
+    },
+    {
+      "id": "program",
+      "type": "word",
+      "label": "程序；计划；节目",
+      "group": "family"
+    },
+    {
+      "id": "programmer",
+      "type": "word",
+      "label": "程序员",
+      "group": "family"
+    },
+    {
+      "id": "adore",
+      "type": "word",
+      "label": "喜爱；热爱",
+      "group": "scene"
+    },
+    {
+      "id": "adorable",
+      "type": "word",
+      "label": "可爱的；讨人喜欢的",
+      "group": "family"
+    },
+    {
+      "id": "inquire",
+      "type": "word",
+      "label": "询问；查询",
+      "group": "scene"
+    },
+    {
+      "id": "contemporary",
+      "type": "word",
+      "label": "当代的；同时代的",
+      "group": "scene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-031",
+      "target": "family",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-031",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "primate",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "fabric",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "fiber",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "program",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "programmer",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "adore",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "adorable",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "inquire",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "contemporary",
+      "type": "explains"
+    },
+    {
+      "source": "program",
+      "target": "programmer",
+      "type": "word-family"
+    },
+    {
+      "source": "adore",
+      "target": "adorable",
+      "type": "word-family"
+    }
+  ]
+}

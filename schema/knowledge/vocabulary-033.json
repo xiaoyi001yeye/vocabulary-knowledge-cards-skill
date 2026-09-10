@@ -1,0 +1,44 @@
+{
+  "id": "vocabulary-033",
+  "title": "词汇速记第 033 集：整洁对比与奖项场景",
+  "sourceType": "user-provided-srt",
+  "summary": "来源：35.最新编辑1-4000词汇速记033.srt。从第 033 集字幕提炼的拼写对比和颁奖场景助记。",
+  "concepts": [
+    {
+      "id": "vocabulary-033-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-033-review",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "loyal / royal 段落",
+      "candidates": [
+        "loyal",
+        "royal"
+      ],
+      "reason": "对照出现但本批没有足够完整、可复现的目标讲解。"
+    },
+    {
+      "source": "孤立英文示例",
+      "candidates": [
+        "journey",
+        "speed",
+        "sign",
+        "broadcast",
+        "drama"
+      ],
+      "reason": "字幕未保留明确的目标释义和助记步骤。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，朗读词汇并先说出基础义。",
+    "复述课堂画面，完成卡片中的 rehearsal。",
+    "当天、第 1、5、14 天复习；不能说明 caution 时回看卡片。"
+  ]
+}

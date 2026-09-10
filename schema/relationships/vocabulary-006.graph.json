@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-006-graph",
+  "lessonId": "vocabulary-006",
+  "nodes": [
+    {
+      "id": "vocabulary-006",
+      "type": "lesson",
+      "label": "词汇速记 006：形状与物品对比",
+      "description": "保留弧形、面包和软垫的课堂对比画面。"
+    },
+    {
+      "id": "vocabulary-006-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-006-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "arch",
+      "type": "word",
+      "label": "拱；拱形",
+      "group": "vocabulary-006-mnemonic"
+    },
+    {
+      "id": "loaf",
+      "type": "word",
+      "label": "一条（面包）",
+      "group": "vocabulary-006-mnemonic"
+    },
+    {
+      "id": "cushion",
+      "type": "word",
+      "label": "软垫；缓冲物",
+      "group": "vocabulary-006-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-006",
+      "target": "vocabulary-006-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-006",
+      "target": "vocabulary-006-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-006-mnemonic",
+      "target": "arch",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-006-mnemonic",
+      "target": "loaf",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-006-mnemonic",
+      "target": "cushion",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-006-review",
+      "target": "arch",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-006-review",
+      "target": "loaf",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-006-review",
+      "target": "cushion",
+      "type": "reviews"
+    }
+  ]
+}

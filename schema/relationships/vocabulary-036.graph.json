@@ -1,0 +1,52 @@
+{
+  "id": "vocabulary-036-graph",
+  "lessonId": "vocabulary-036",
+  "nodes": [
+    {
+      "id": "vocabulary-036",
+      "type": "lesson",
+      "label": "词汇速记第 036 集：日程安排",
+      "description": "从第 036 集字幕提炼的时间表与安排动作助记。"
+    },
+    {
+      "id": "vocabulary-036-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-036-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "schedule",
+      "type": "word",
+      "label": "日程表；安排；排定",
+      "group": "vocabulary-036-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-036",
+      "target": "vocabulary-036-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-036",
+      "target": "vocabulary-036-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-036-mnemonic",
+      "target": "schedule",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-036-review",
+      "target": "schedule",
+      "type": "reviews"
+    }
+  ]
+}

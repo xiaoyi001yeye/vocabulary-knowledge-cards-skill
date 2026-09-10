@@ -1,0 +1,24 @@
+{
+  "id": "vocabulary-006",
+  "title": "词汇速记 006：形状与物品对比",
+  "sourceType": "user-provided-srt",
+  "summary": "保留弧形、面包和软垫的课堂对比画面。",
+  "concepts": [
+    {
+      "id": "vocabulary-006-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-006-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [],
+  "reviewPlan": [
+    "先遮住中文，朗读每张卡片的英文词或短语。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不能说清 caution 时重新阅读卡片。"
+  ]
+}

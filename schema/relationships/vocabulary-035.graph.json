@@ -1,0 +1,68 @@
+{
+  "id": "vocabulary-035-graph",
+  "lessonId": "vocabulary-035",
+  "nodes": [
+    {
+      "id": "vocabulary-035",
+      "type": "lesson",
+      "label": "词汇速记第 035 集：中空与品牌表达",
+      "description": "从第 035 集字幕提炼的口形与视觉文本对比助记。"
+    },
+    {
+      "id": "vocabulary-035-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-035-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "hollow",
+      "type": "word",
+      "label": "空的；中空的",
+      "group": "vocabulary-035-mnemonic"
+    },
+    {
+      "id": "slogan",
+      "type": "word",
+      "label": "标语；口号",
+      "group": "vocabulary-035-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-035",
+      "target": "vocabulary-035-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-035",
+      "target": "vocabulary-035-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-035-mnemonic",
+      "target": "hollow",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-035-mnemonic",
+      "target": "slogan",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-035-review",
+      "target": "hollow",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-035-review",
+      "target": "slogan",
+      "type": "reviews"
+    }
+  ]
+}

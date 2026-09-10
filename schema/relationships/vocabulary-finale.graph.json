@@ -1,0 +1,52 @@
+{
+  "id": "vocabulary-finale-graph",
+  "lessonId": "vocabulary-finale",
+  "nodes": [
+    {
+      "id": "vocabulary-finale",
+      "type": "lesson",
+      "label": "词汇速记大结局：蒲公英的叶缘画面",
+      "description": "从大结局字幕提炼的植物叶缘视觉助记。"
+    },
+    {
+      "id": "vocabulary-finale-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-finale-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    },
+    {
+      "id": "dandelion",
+      "type": "word",
+      "label": "蒲公英",
+      "group": "vocabulary-finale-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-finale",
+      "target": "vocabulary-finale-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-finale",
+      "target": "vocabulary-finale-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-finale-mnemonic",
+      "target": "dandelion",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-finale-review",
+      "target": "dandelion",
+      "type": "reviews"
+    }
+  ]
+}

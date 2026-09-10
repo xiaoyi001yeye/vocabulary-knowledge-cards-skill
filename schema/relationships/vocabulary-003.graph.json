@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-003-graph",
+  "lessonId": "vocabulary-003",
+  "nodes": [
+    {
+      "id": "vocabulary-003",
+      "type": "lesson",
+      "label": "词汇速记 003：词形扩展与组合物品",
+      "description": "保留词形变化和复合词画面明确的课堂词汇。"
+    },
+    {
+      "id": "vocabulary-003-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-003-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "activity",
+      "type": "word",
+      "label": "活动",
+      "group": "vocabulary-003-mnemonic"
+    },
+    {
+      "id": "keyboard",
+      "type": "word",
+      "label": "键盘",
+      "group": "vocabulary-003-mnemonic"
+    },
+    {
+      "id": "chopsticks",
+      "type": "word",
+      "label": "筷子",
+      "group": "vocabulary-003-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-003",
+      "target": "vocabulary-003-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-003",
+      "target": "vocabulary-003-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-003-mnemonic",
+      "target": "activity",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-003-mnemonic",
+      "target": "keyboard",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-003-mnemonic",
+      "target": "chopsticks",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-003-review",
+      "target": "activity",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-003-review",
+      "target": "keyboard",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-003-review",
+      "target": "chopsticks",
+      "type": "reviews"
+    }
+  ]
+}

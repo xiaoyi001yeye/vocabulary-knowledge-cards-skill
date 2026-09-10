@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-015-graph",
+  "lessonId": "vocabulary-015",
+  "nodes": [
+    {
+      "id": "vocabulary-015",
+      "type": "lesson",
+      "label": "词汇速记第 015 集：洗浴、图书馆与实验",
+      "description": "从第 015 集保留结冰、理论—实践对照与做实验的课堂提示。"
+    },
+    {
+      "id": "vocabulary-015-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-015-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "freeze",
+      "type": "word",
+      "label": "freeze",
+      "group": "vocabulary-015-mnemonic"
+    },
+    {
+      "id": "library",
+      "type": "word",
+      "label": "library",
+      "group": "vocabulary-015-mnemonic"
+    },
+    {
+      "id": "experiment",
+      "type": "word",
+      "label": "experiment",
+      "group": "vocabulary-015-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-015",
+      "target": "vocabulary-015-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-015",
+      "target": "vocabulary-015-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-015-mnemonic",
+      "target": "freeze",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-015-review",
+      "target": "freeze",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-015-mnemonic",
+      "target": "library",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-015-review",
+      "target": "library",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-015-mnemonic",
+      "target": "experiment",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-015-review",
+      "target": "experiment",
+      "type": "reviews"
+    }
+  ]
+}

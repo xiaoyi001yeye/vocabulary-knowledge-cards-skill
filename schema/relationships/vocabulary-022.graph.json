@@ -1,0 +1,91 @@
+{
+  "id": "vocabulary-022-graph",
+  "lessonId": "vocabulary-022",
+  "nodes": [
+    {
+      "id": "vocabulary-022",
+      "type": "lesson",
+      "label": "词汇速记第 022 集：书写、重音与幻想画面",
+      "description": "基于课堂字幕的助记关系图；非严格词源图。"
+    },
+    {
+      "id": "meaning",
+      "type": "knowledge",
+      "label": "含义与使用场景",
+      "description": "用段落、重音和三明治等明确场景建立基本义。"
+    },
+    {
+      "id": "sound",
+      "type": "knowledge",
+      "label": "声音与文化联想",
+      "description": "用重读和音译作品名称帮助记忆，但明确区分课堂联想和词典事实。"
+    },
+    {
+      "id": "paragraph",
+      "type": "word",
+      "label": "段落",
+      "group": "meaning"
+    },
+    {
+      "id": "accent",
+      "type": "word",
+      "label": "口音；重音",
+      "group": "sound"
+    },
+    {
+      "id": "fantasy",
+      "type": "word",
+      "label": "幻想；奇幻作品",
+      "group": "sound"
+    },
+    {
+      "id": "fantastic",
+      "type": "word",
+      "label": "极好的；奇异的",
+      "group": "meaning"
+    },
+    {
+      "id": "sandwich",
+      "type": "word",
+      "label": "三明治",
+      "group": "meaning"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-022",
+      "target": "meaning",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-022",
+      "target": "sound",
+      "type": "teaches"
+    },
+    {
+      "source": "meaning",
+      "target": "paragraph",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "accent",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "fantasy",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "fantastic",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "sandwich",
+      "type": "explains"
+    }
+  ]
+}

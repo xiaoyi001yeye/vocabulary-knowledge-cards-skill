@@ -1,0 +1,58 @@
+{
+  "id": "vocabulary-024-graph",
+  "lessonId": "vocabulary-024",
+  "nodes": [
+    {
+      "id": "vocabulary-024",
+      "type": "lesson",
+      "label": "词汇速记第 024 集",
+      "description": "从字幕提炼的课堂助记；不作为严格词源图。"
+    },
+    {
+      "id": "travel",
+      "type": "knowledge",
+      "label": "旅行场景",
+      "description": "以出国、路线与移动场景组织词义。"
+    },
+    {
+      "id": "nutrition",
+      "type": "word",
+      "label": "营养；营养学",
+      "group": "travel"
+    },
+    {
+      "id": "abroad",
+      "type": "word",
+      "label": "在国外；到国外",
+      "group": "travel"
+    },
+    {
+      "id": "track",
+      "type": "word",
+      "label": "轨道；踪迹；赛道",
+      "group": "travel"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-024",
+      "target": "travel",
+      "type": "teaches"
+    },
+    {
+      "source": "travel",
+      "target": "nutrition",
+      "type": "explains"
+    },
+    {
+      "source": "travel",
+      "target": "abroad",
+      "type": "explains"
+    },
+    {
+      "source": "travel",
+      "target": "track",
+      "type": "explains"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-017-graph",
+  "lessonId": "vocabulary-017",
+  "nodes": [
+    {
+      "id": "vocabulary-017",
+      "type": "lesson",
+      "label": "词汇速记第 017 集：时间、动作与讨论场景",
+      "description": "从第 017 集保留长时间跨度、重拳声音与多人讨论的课堂场景。"
+    },
+    {
+      "id": "vocabulary-017-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-017-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "during",
+      "type": "word",
+      "label": "during",
+      "group": "vocabulary-017-mnemonic"
+    },
+    {
+      "id": "punch",
+      "type": "word",
+      "label": "punch",
+      "group": "vocabulary-017-mnemonic"
+    },
+    {
+      "id": "discuss",
+      "type": "word",
+      "label": "discuss",
+      "group": "vocabulary-017-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-017",
+      "target": "vocabulary-017-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-017",
+      "target": "vocabulary-017-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-017-mnemonic",
+      "target": "during",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-017-review",
+      "target": "during",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-017-mnemonic",
+      "target": "punch",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-017-review",
+      "target": "punch",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-017-mnemonic",
+      "target": "discuss",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-017-review",
+      "target": "discuss",
+      "type": "reviews"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "vocabulary-016",
+  "title": "词汇速记第 016 集：美味与避开",
+  "sourceType": "user-provided-srt",
+  "summary": "从第 016 集保留冰淇淋的美味画面与 void—avoid 的课堂联想。",
+  "concepts": [
+    {
+      "id": "vocabulary-016-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-016-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作和口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "第 016 集字幕",
+      "candidates": [
+        "bridge（桥梁／边／韧／梁混杂）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 016 集字幕",
+      "candidates": [
+        "ribbon（已由现有卡片覆盖，本批不重复创建）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张正式卡片的英文。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不确定项先核对原视频或词典。"
+  ]
+}

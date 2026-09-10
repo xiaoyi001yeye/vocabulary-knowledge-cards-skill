@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-014-graph",
+  "lessonId": "vocabulary-014",
+  "nodes": [
+    {
+      "id": "vocabulary-014",
+      "type": "lesson",
+      "label": "词汇速记第 014 集：切分、薄片与通道",
+      "description": "从第 014 集保留 chop/chip 对比与 passage 的通道—段落画面。"
+    },
+    {
+      "id": "vocabulary-014-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "声音、画面、动作或组合路径；并非严格词源。"
+    },
+    {
+      "id": "vocabulary-014-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "朗读、动作与口述画面。"
+    },
+    {
+      "id": "chop",
+      "type": "word",
+      "label": "chop",
+      "group": "vocabulary-014-mnemonic"
+    },
+    {
+      "id": "chip",
+      "type": "word",
+      "label": "chip",
+      "group": "vocabulary-014-mnemonic"
+    },
+    {
+      "id": "passage",
+      "type": "word",
+      "label": "passage",
+      "group": "vocabulary-014-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-014",
+      "target": "vocabulary-014-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-014",
+      "target": "vocabulary-014-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-014-mnemonic",
+      "target": "chop",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-014-review",
+      "target": "chop",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-014-mnemonic",
+      "target": "chip",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-014-review",
+      "target": "chip",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-014-mnemonic",
+      "target": "passage",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-014-review",
+      "target": "passage",
+      "type": "reviews"
+    }
+  ]
+}

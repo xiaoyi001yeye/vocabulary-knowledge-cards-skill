@@ -1,0 +1,43 @@
+{
+  "id": "vocabulary-035",
+  "title": "词汇速记第 035 集：中空与品牌表达",
+  "sourceType": "user-provided-srt",
+  "summary": "来源：37.最新编辑1-4000词汇速记035.srt。从第 035 集字幕提炼的口形与视觉文本对比助记。",
+  "concepts": [
+    {
+      "id": "vocabulary-035-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "以课堂声音、画面、动作或对比帮助复习；这些关联不是严格词源。"
+    },
+    {
+      "id": "vocabulary-035-review",
+      "label": "输出式复习",
+      "description": "通过朗读、手势和口述画面检验记忆。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "physical / psychology / physiology 段落",
+      "candidates": [
+        "physical",
+        "psychology",
+        "physiology"
+      ],
+      "reason": "课堂以字母对称解释词义，不能作为可靠词源或构词事实。"
+    },
+    {
+      "source": "候选字符串",
+      "candidates": [
+        "poi",
+        "poi-sum",
+        "mater"
+      ],
+      "reason": "无法从字幕可靠识别。"
+    }
+  ],
+  "reviewPlan": [
+    "遮住中文，朗读词汇并先说出基础义。",
+    "复述课堂画面，完成卡片中的 rehearsal。",
+    "当天、第 1、5、14 天复习；不能说明 caution 时回看卡片。"
+  ]
+}

@@ -6,91 +6,595 @@
       "id": "primary-vocabulary-mnemonics-01",
       "type": "lesson",
       "label": "小学英语词汇助记课",
-      "description": "助记路径图；并非严格词源图。"
+      "description": "全量小学英语词汇助记图谱；课堂联想仅作记忆提示，并非严格词源图。"
     },
     {
       "id": "compound",
       "type": "knowledge",
       "label": "组合拆分",
-      "description": "用可见的词或成分组合建立初步意义。"
+      "description": "通过可见的词、词缀或拼写组合建立初步记忆。"
     },
     {
       "id": "shape",
       "type": "knowledge",
       "label": "画面与形状",
-      "description": "以图像、轮廓、字母形状或动作建立联想。"
+      "description": "通过图像、动作、场景或字母轮廓建立记忆画面。"
     },
     {
       "id": "sound",
       "type": "knowledge",
       "label": "读音与口形",
-      "description": "用朗读、口形或近似声音建立记忆抓手。"
+      "description": "通过朗读、口形和近似声音建立记忆抓手。"
     },
     {
       "id": "family",
       "type": "knowledge",
       "label": "词族与对比",
-      "description": "通过亲属词、同类词或地区用语进行对比。"
+      "description": "通过词族、对照、近义或相反关系建立辨析。"
     },
     {
       "id": "meaning",
       "type": "knowledge",
       "label": "语义与场景",
-      "description": "从基本含义、使用场景和近义对比建立理解。"
+      "description": "通过基本含义、使用场景和复现动作建立理解。"
     },
     {
-      "id": "review",
-      "type": "knowledge",
-      "label": "输出式复习",
-      "description": "以朗读、口述、造句和间隔复习检验是否真正记住。"
-    },
-    {
-      "id": "pencil-case",
+      "id": "abroad",
       "type": "word",
-      "label": "铅笔盒；笔袋",
-      "group": "compound"
+      "label": "在国外；到国外",
+      "group": "meaning"
     },
     {
-      "id": "news",
+      "id": "absent",
       "type": "word",
-      "label": "新闻；消息",
+      "label": "缺席的；不在场的",
       "group": "family"
     },
     {
-      "id": "newspaper",
+      "id": "accent",
       "type": "word",
-      "label": "报纸",
-      "group": "compound"
+      "label": "口音；重音",
+      "group": "sound"
     },
     {
-      "id": "storybook",
+      "id": "accomplish",
       "type": "word",
-      "label": "故事书",
-      "group": "compound"
+      "label": "完成；实现",
+      "group": "meaning"
     },
     {
-      "id": "handwriting",
+      "id": "accountant",
       "type": "word",
-      "label": "手写字；笔迹",
-      "group": "compound"
-    },
-    {
-      "id": "sea-lion",
-      "type": "word",
-      "label": "海狮",
+      "label": "会计；会计师",
       "group": "shape"
     },
     {
-      "id": "seal",
+      "id": "active",
       "type": "word",
-      "label": "海豹；密封",
-      "group": "shape"
+      "label": "活跃的；积极的",
+      "group": "meaning"
     },
     {
-      "id": "mother",
+      "id": "activity",
       "type": "word",
-      "label": "母亲；妈妈",
+      "label": "活动",
+      "group": "compound"
+    },
+    {
+      "id": "actor",
+      "type": "word",
+      "label": "男演员；演员",
       "group": "family"
+    },
+    {
+      "id": "actress",
+      "type": "word",
+      "label": "女演员",
+      "group": "family"
+    },
+    {
+      "id": "adorable",
+      "type": "word",
+      "label": "可爱的；讨人喜欢的",
+      "group": "family"
+    },
+    {
+      "id": "adore",
+      "type": "word",
+      "label": "喜爱；热爱",
+      "group": "shape"
+    },
+    {
+      "id": "all-right",
+      "type": "word",
+      "label": "没问题；好的",
+      "group": "meaning"
+    },
+    {
+      "id": "along",
+      "type": "word",
+      "label": "沿着",
+      "group": "shape"
+    },
+    {
+      "id": "among",
+      "type": "word",
+      "label": "在……之中",
+      "group": "shape"
+    },
+    {
+      "id": "amplify",
+      "type": "word",
+      "label": "放大；扩充；增强",
+      "group": "family"
+    },
+    {
+      "id": "antenna",
+      "type": "word",
+      "label": "天线；触角",
+      "group": "shape"
+    },
+    {
+      "id": "apartment",
+      "type": "word",
+      "label": "公寓",
+      "group": "shape"
+    },
+    {
+      "id": "appropriate",
+      "type": "word",
+      "label": "合适的；恰当的",
+      "group": "meaning"
+    },
+    {
+      "id": "arch",
+      "type": "word",
+      "label": "拱；拱形",
+      "group": "family"
+    },
+    {
+      "id": "archaeology",
+      "type": "word",
+      "label": "考古学",
+      "group": "meaning"
+    },
+    {
+      "id": "armchair",
+      "type": "word",
+      "label": "扶手椅",
+      "group": "compound"
+    },
+    {
+      "id": "artifact",
+      "type": "word",
+      "label": "人工制品；文物",
+      "group": "meaning"
+    },
+    {
+      "id": "assure",
+      "type": "word",
+      "label": "使确信；向……保证",
+      "group": "meaning"
+    },
+    {
+      "id": "autograph",
+      "type": "word",
+      "label": "亲笔签名",
+      "group": "compound"
+    },
+    {
+      "id": "automobile",
+      "type": "word",
+      "label": "汽车",
+      "group": "compound"
+    },
+    {
+      "id": "autumn",
+      "type": "word",
+      "label": "秋天",
+      "group": "meaning"
+    },
+    {
+      "id": "avoid",
+      "type": "word",
+      "label": "避免；避开",
+      "group": "meaning"
+    },
+    {
+      "id": "award",
+      "type": "word",
+      "label": "奖；奖项；授予（奖项）",
+      "group": "shape"
+    },
+    {
+      "id": "baggage",
+      "type": "word",
+      "label": "行李",
+      "group": "shape"
+    },
+    {
+      "id": "beside",
+      "type": "word",
+      "label": "在……旁边",
+      "group": "shape"
+    },
+    {
+      "id": "bicycle",
+      "type": "word",
+      "label": "自行车",
+      "group": "compound"
+    },
+    {
+      "id": "boil",
+      "type": "word",
+      "label": "沸腾；煮沸",
+      "group": "sound"
+    },
+    {
+      "id": "brainstorm",
+      "type": "word",
+      "label": "头脑风暴",
+      "group": "compound"
+    },
+    {
+      "id": "brunch",
+      "type": "word",
+      "label": "早午餐",
+      "group": "compound"
+    },
+    {
+      "id": "bump",
+      "type": "word",
+      "label": "碰撞；撞击",
+      "group": "sound"
+    },
+    {
+      "id": "bumper",
+      "type": "word",
+      "label": "保险杠",
+      "group": "sound"
+    },
+    {
+      "id": "capital",
+      "type": "word",
+      "label": "首都；资本；大写字母",
+      "group": "meaning"
+    },
+    {
+      "id": "cast",
+      "type": "word",
+      "label": "投掷；铸造；演员阵容",
+      "group": "family"
+    },
+    {
+      "id": "castle",
+      "type": "word",
+      "label": "城堡",
+      "group": "meaning"
+    },
+    {
+      "id": "catfish",
+      "type": "word",
+      "label": "鲶鱼",
+      "group": "meaning"
+    },
+    {
+      "id": "catwalk",
+      "type": "word",
+      "label": "猫步；T 台",
+      "group": "meaning"
+    },
+    {
+      "id": "central",
+      "type": "word",
+      "label": "中心的；核心的",
+      "group": "family"
+    },
+    {
+      "id": "chip",
+      "type": "word",
+      "label": "薄片；薯片；芯片",
+      "group": "family"
+    },
+    {
+      "id": "chop",
+      "type": "word",
+      "label": "砍；剁",
+      "group": "sound"
+    },
+    {
+      "id": "chopsticks",
+      "type": "word",
+      "label": "筷子",
+      "group": "compound"
+    },
+    {
+      "id": "circle",
+      "type": "word",
+      "label": "圆；圆圈",
+      "group": "sound"
+    },
+    {
+      "id": "classmate",
+      "type": "word",
+      "label": "同班同学",
+      "group": "compound"
+    },
+    {
+      "id": "classroom",
+      "type": "word",
+      "label": "教室",
+      "group": "compound"
+    },
+    {
+      "id": "commerce",
+      "type": "word",
+      "label": "商业；贸易",
+      "group": "shape"
+    },
+    {
+      "id": "commercial",
+      "type": "word",
+      "label": "商业的；广告",
+      "group": "family"
+    },
+    {
+      "id": "common",
+      "type": "word",
+      "label": "常见的；共同的",
+      "group": "family"
+    },
+    {
+      "id": "compare",
+      "type": "word",
+      "label": "比较；对比",
+      "group": "shape"
+    },
+    {
+      "id": "compromise",
+      "type": "word",
+      "label": "妥协；折中",
+      "group": "shape"
+    },
+    {
+      "id": "computer",
+      "type": "word",
+      "label": "计算机",
+      "group": "family"
+    },
+    {
+      "id": "contemporary",
+      "type": "word",
+      "label": "当代的；同时代的",
+      "group": "shape"
+    },
+    {
+      "id": "core",
+      "type": "word",
+      "label": "核心；核",
+      "group": "shape"
+    },
+    {
+      "id": "curiosity",
+      "type": "word",
+      "label": "好奇心；奇物",
+      "group": "meaning"
+    },
+    {
+      "id": "cushion",
+      "type": "word",
+      "label": "软垫；缓冲物",
+      "group": "family"
+    },
+    {
+      "id": "dandelion",
+      "type": "word",
+      "label": "蒲公英",
+      "group": "shape"
+    },
+    {
+      "id": "delicious",
+      "type": "word",
+      "label": "美味的",
+      "group": "meaning"
+    },
+    {
+      "id": "dependent",
+      "type": "word",
+      "label": "依赖的；取决于",
+      "group": "family"
+    },
+    {
+      "id": "destruction",
+      "type": "word",
+      "label": "破坏；毁灭",
+      "group": "family"
+    },
+    {
+      "id": "difference",
+      "type": "word",
+      "label": "差别；不同",
+      "group": "family"
+    },
+    {
+      "id": "dirty",
+      "type": "word",
+      "label": "脏的",
+      "group": "family"
+    },
+    {
+      "id": "discuss",
+      "type": "word",
+      "label": "讨论",
+      "group": "shape"
+    },
+    {
+      "id": "download",
+      "type": "word",
+      "label": "下载",
+      "group": "family"
+    },
+    {
+      "id": "drizzle",
+      "type": "word",
+      "label": "毛毛雨；下毛毛雨",
+      "group": "shape"
+    },
+    {
+      "id": "during",
+      "type": "word",
+      "label": "在……期间",
+      "group": "sound"
+    },
+    {
+      "id": "duty",
+      "type": "word",
+      "label": "职责；应做的事",
+      "group": "sound"
+    },
+    {
+      "id": "earthworm",
+      "type": "word",
+      "label": "蚯蚓",
+      "group": "compound"
+    },
+    {
+      "id": "escalator",
+      "type": "word",
+      "label": "自动扶梯",
+      "group": "family"
+    },
+    {
+      "id": "exchange",
+      "type": "word",
+      "label": "交换；交换",
+      "group": "shape"
+    },
+    {
+      "id": "experiment",
+      "type": "word",
+      "label": "实验",
+      "group": "meaning"
+    },
+    {
+      "id": "express",
+      "type": "word",
+      "label": "表达；快递",
+      "group": "shape"
+    },
+    {
+      "id": "fabric",
+      "type": "word",
+      "label": "织物；布料",
+      "group": "shape"
+    },
+    {
+      "id": "fantastic",
+      "type": "word",
+      "label": "极好的；奇异的",
+      "group": "family"
+    },
+    {
+      "id": "fantasy",
+      "type": "word",
+      "label": "幻想；奇幻作品",
+      "group": "sound"
+    },
+    {
+      "id": "fiber",
+      "type": "word",
+      "label": "纤维",
+      "group": "shape"
+    },
+    {
+      "id": "field",
+      "type": "word",
+      "label": "田地；场地；领域",
+      "group": "meaning"
+    },
+    {
+      "id": "flat",
+      "type": "word",
+      "label": "平的；扁平的",
+      "group": "sound"
+    },
+    {
+      "id": "flexible",
+      "type": "word",
+      "label": "灵活的；可弯曲的",
+      "group": "shape"
+    },
+    {
+      "id": "floor",
+      "type": "word",
+      "label": "地板；楼层",
+      "group": "shape"
+    },
+    {
+      "id": "flow",
+      "type": "word",
+      "label": "流动",
+      "group": "compound"
+    },
+    {
+      "id": "fluent",
+      "type": "word",
+      "label": "流利的",
+      "group": "compound"
+    },
+    {
+      "id": "football",
+      "type": "word",
+      "label": "足球；（美式）橄榄球",
+      "group": "meaning"
+    },
+    {
+      "id": "footbridge",
+      "type": "word",
+      "label": "人行天桥；步行桥",
+      "group": "compound"
+    },
+    {
+      "id": "freeze",
+      "type": "word",
+      "label": "冻结",
+      "group": "meaning"
+    },
+    {
+      "id": "general",
+      "type": "word",
+      "label": "普遍的；总体的；将军",
+      "group": "family"
+    },
+    {
+      "id": "goat",
+      "type": "word",
+      "label": "山羊",
+      "group": "shape"
+    },
+    {
+      "id": "good-job",
+      "type": "word",
+      "label": "干得好",
+      "group": "meaning"
+    },
+    {
+      "id": "govern",
+      "type": "word",
+      "label": "管理；治理",
+      "group": "family"
+    },
+    {
+      "id": "government",
+      "type": "word",
+      "label": "政府；治理机构",
+      "group": "family"
+    },
+    {
+      "id": "grand",
+      "type": "word",
+      "label": "宏大的；盛大的；伟大的",
+      "group": "meaning"
     },
     {
       "id": "grandma",
@@ -105,10 +609,40 @@
       "group": "family"
     },
     {
-      "id": "grand",
+      "id": "grass",
       "type": "word",
-      "label": "宏大的；盛大的；伟大的",
+      "label": "草；草地",
+      "group": "meaning"
+    },
+    {
+      "id": "ground",
+      "type": "word",
+      "label": "地面；土地；场地",
+      "group": "meaning"
+    },
+    {
+      "id": "handwriting",
+      "type": "word",
+      "label": "手写字；笔迹",
+      "group": "compound"
+    },
+    {
+      "id": "have-a-bath",
+      "type": "word",
+      "label": "泡澡",
       "group": "family"
+    },
+    {
+      "id": "have-a-shower",
+      "type": "word",
+      "label": "冲澡",
+      "group": "shape"
+    },
+    {
+      "id": "hollow",
+      "type": "word",
+      "label": "空的；中空的",
+      "group": "sound"
     },
     {
       "id": "hot-dog",
@@ -117,46 +651,214 @@
       "group": "shape"
     },
     {
-      "id": "student",
+      "id": "hunter",
       "type": "word",
-      "label": "学生",
-      "group": "family"
-    },
-    {
-      "id": "strawberry",
-      "type": "word",
-      "label": "草莓",
+      "label": "猎人",
       "group": "shape"
     },
     {
-      "id": "grass",
+      "id": "increase",
       "type": "word",
-      "label": "草；草地",
+      "label": "增加；增长",
       "group": "meaning"
     },
     {
-      "id": "straw",
+      "id": "independent",
       "type": "word",
-      "label": "稻草；吸管",
-      "group": "meaning"
-    },
-    {
-      "id": "bicycle",
-      "type": "word",
-      "label": "自行车",
+      "label": "独立的；自主的",
       "group": "compound"
     },
     {
-      "id": "circle",
+      "id": "influence",
       "type": "word",
-      "label": "圆；圆圈",
+      "label": "影响；影响力",
+      "group": "compound"
+    },
+    {
+      "id": "influential",
+      "type": "word",
+      "label": "有影响力的",
+      "group": "compound"
+    },
+    {
+      "id": "influenza",
+      "type": "word",
+      "label": "流行性感冒",
+      "group": "compound"
+    },
+    {
+      "id": "inquire",
+      "type": "word",
+      "label": "询问；查询",
+      "group": "shape"
+    },
+    {
+      "id": "insist",
+      "type": "word",
+      "label": "坚持；坚决要求",
+      "group": "shape"
+    },
+    {
+      "id": "investigate",
+      "type": "word",
+      "label": "调查；研究",
+      "group": "shape"
+    },
+    {
+      "id": "island",
+      "type": "word",
+      "label": "岛；岛屿",
+      "group": "meaning"
+    },
+    {
+      "id": "keyboard",
+      "type": "word",
+      "label": "键盘",
+      "group": "compound"
+    },
+    {
+      "id": "kindergarten",
+      "type": "word",
+      "label": "幼儿园",
+      "group": "compound"
+    },
+    {
+      "id": "laboratory",
+      "type": "word",
+      "label": "实验室",
+      "group": "shape"
+    },
+    {
+      "id": "library",
+      "type": "word",
+      "label": "图书馆",
+      "group": "meaning"
+    },
+    {
+      "id": "lift",
+      "type": "word",
+      "label": "举起；升降梯",
+      "group": "shape"
+    },
+    {
+      "id": "liquid",
+      "type": "word",
+      "label": "液体",
+      "group": "shape"
+    },
+    {
+      "id": "loaf",
+      "type": "word",
+      "label": "一条（面包）",
+      "group": "family"
+    },
+    {
+      "id": "luggage",
+      "type": "word",
+      "label": "行李",
+      "group": "shape"
+    },
+    {
+      "id": "lump",
+      "type": "word",
+      "label": "块；肿块",
       "group": "sound"
     },
     {
-      "id": "walkman",
+      "id": "mate",
       "type": "word",
-      "label": "随身听",
+      "label": "伙伴；同伴",
+      "group": "meaning"
+    },
+    {
+      "id": "mention",
+      "type": "word",
+      "label": "提到；说起",
       "group": "family"
+    },
+    {
+      "id": "mine",
+      "type": "word",
+      "label": "矿；矿山",
+      "group": "compound"
+    },
+    {
+      "id": "miner",
+      "type": "word",
+      "label": "矿工",
+      "group": "compound"
+    },
+    {
+      "id": "mineral",
+      "type": "word",
+      "label": "矿物质",
+      "group": "compound"
+    },
+    {
+      "id": "mineral-water",
+      "type": "word",
+      "label": "矿泉水",
+      "group": "compound"
+    },
+    {
+      "id": "mobile",
+      "type": "word",
+      "label": "可移动的；手机",
+      "group": "shape"
+    },
+    {
+      "id": "mother",
+      "type": "word",
+      "label": "母亲；妈妈",
+      "group": "meaning"
+    },
+    {
+      "id": "naked",
+      "type": "word",
+      "label": "赤裸的；无遮盖的",
+      "group": "shape"
+    },
+    {
+      "id": "nearby",
+      "type": "word",
+      "label": "附近的；在附近",
+      "group": "shape"
+    },
+    {
+      "id": "needle",
+      "type": "word",
+      "label": "针",
+      "group": "family"
+    },
+    {
+      "id": "neighbor",
+      "type": "word",
+      "label": "邻居",
+      "group": "shape"
+    },
+    {
+      "id": "nest",
+      "type": "word",
+      "label": "巢",
+      "group": "shape"
+    },
+    {
+      "id": "net",
+      "type": "word",
+      "label": "网；净额的",
+      "group": "meaning"
+    },
+    {
+      "id": "news",
+      "type": "word",
+      "label": "新闻；消息",
+      "group": "compound"
+    },
+    {
+      "id": "newspaper",
+      "type": "word",
+      "label": "报纸",
+      "group": "compound"
     },
     {
       "id": "night",
@@ -165,99 +867,75 @@
       "group": "sound"
     },
     {
-      "id": "computer",
+      "id": "noodle",
       "type": "word",
-      "label": "计算机",
+      "label": "面条",
       "group": "family"
     },
     {
-      "id": "flat",
+      "id": "note",
       "type": "word",
-      "label": "平的；扁平的",
-      "group": "sound"
-    },
-    {
-      "id": "floor",
-      "type": "word",
-      "label": "地板；楼层",
+      "label": "笔记；注释；记下",
       "group": "shape"
     },
     {
-      "id": "classroom",
+      "id": "nutrition",
       "type": "word",
-      "label": "教室",
-      "group": "compound"
-    },
-    {
-      "id": "mate",
-      "type": "word",
-      "label": "伙伴；同伴",
-      "group": "family"
-    },
-    {
-      "id": "classmate",
-      "type": "word",
-      "label": "同班同学",
-      "group": "compound"
-    },
-    {
-      "id": "all-right",
-      "type": "word",
-      "label": "没问题；好的",
+      "label": "营养；营养学",
       "group": "meaning"
     },
     {
-      "id": "good-job",
+      "id": "operation",
       "type": "word",
-      "label": "干得好",
-      "group": "meaning"
-    },
-    {
-      "id": "snowy",
-      "type": "word",
-      "label": "下雪的；多雪的",
+      "label": "操作；手术；运作",
       "group": "family"
     },
     {
-      "id": "rainy",
+      "id": "outstanding",
       "type": "word",
-      "label": "下雨的；多雨的",
-      "group": "family"
-    },
-    {
-      "id": "football",
-      "type": "word",
-      "label": "足球；（美式）橄榄球",
-      "group": "meaning"
-    },
-    {
-      "id": "soccer",
-      "type": "word",
-      "label": "足球",
-      "group": "meaning"
-    },
-    {
-      "id": "sunny",
-      "type": "word",
-      "label": "晴朗的；阳光充足的",
-      "group": "family"
-    },
-    {
-      "id": "drizzle",
-      "type": "word",
-      "label": "毛毛雨；下毛毛雨",
+      "label": "杰出的",
       "group": "shape"
+    },
+    {
+      "id": "package",
+      "type": "word",
+      "label": "包裹；一包",
+      "group": "shape"
+    },
+    {
+      "id": "packet",
+      "type": "word",
+      "label": "小包；小袋",
+      "group": "shape"
+    },
+    {
+      "id": "palace",
+      "type": "word",
+      "label": "宫殿",
+      "group": "shape"
+    },
+    {
+      "id": "paragraph",
+      "type": "word",
+      "label": "段落",
+      "group": "meaning"
+    },
+    {
+      "id": "passage",
+      "type": "word",
+      "label": "通道；（文章）段落",
+      "group": "shape"
+    },
+    {
+      "id": "pencil-case",
+      "type": "word",
+      "label": "铅笔盒；笔袋",
+      "group": "compound"
     },
     {
       "id": "physical-education",
       "type": "word",
       "label": "体育（课）",
-      "group": "family"
-    },
-    {
-      "id": "footbridge",
-      "type": "word",
-      "label": "人行天桥；步行桥",
       "group": "compound"
     },
     {
@@ -267,34 +945,130 @@
       "group": "compound"
     },
     {
-      "id": "ground",
+      "id": "plump",
       "type": "word",
-      "label": "地面；土地；场地",
-      "group": "meaning"
+      "label": "丰满的；圆胖的",
+      "group": "sound"
     },
     {
-      "id": "field",
+      "id": "pocket",
       "type": "word",
-      "label": "田地；场地；领域",
-      "group": "meaning"
-    },
-    {
-      "id": "kindergarten",
-      "type": "word",
-      "label": "幼儿园",
+      "label": "口袋",
       "group": "family"
     },
     {
-      "id": "net",
+      "id": "present",
       "type": "word",
-      "label": "网；净额的",
+      "label": "出席的；在场的",
+      "group": "family"
+    },
+    {
+      "id": "president",
+      "type": "word",
+      "label": "总统；主席",
+      "group": "shape"
+    },
+    {
+      "id": "primate",
+      "type": "word",
+      "label": "灵长类动物；灵长目动物",
       "group": "meaning"
     },
     {
-      "id": "nest",
+      "id": "private",
       "type": "word",
-      "label": "巢",
+      "label": "私人的；私下的",
+      "group": "meaning"
+    },
+    {
+      "id": "program",
+      "type": "word",
+      "label": "程序；计划；节目",
+      "group": "family"
+    },
+    {
+      "id": "programmer",
+      "type": "word",
+      "label": "程序员",
+      "group": "family"
+    },
+    {
+      "id": "pronounce",
+      "type": "word",
+      "label": "发音；读出",
+      "group": "compound"
+    },
+    {
+      "id": "proper",
+      "type": "word",
+      "label": "合适的；恰当的",
+      "group": "meaning"
+    },
+    {
+      "id": "punch",
+      "type": "word",
+      "label": "重拳",
+      "group": "sound"
+    },
+    {
+      "id": "rainy",
+      "type": "word",
+      "label": "下雨的；多雨的",
+      "group": "compound"
+    },
+    {
+      "id": "raise",
+      "type": "word",
+      "label": "举起；提高；筹集",
+      "group": "family"
+    },
+    {
+      "id": "reception",
+      "type": "word",
+      "label": "接待；接待处",
       "group": "shape"
+    },
+    {
+      "id": "receptionist",
+      "type": "word",
+      "label": "接待员；前台工作人员",
+      "group": "family"
+    },
+    {
+      "id": "remind",
+      "type": "word",
+      "label": "提醒；使想起",
+      "group": "shape"
+    },
+    {
+      "id": "resident",
+      "type": "word",
+      "label": "居民；居住者",
+      "group": "family"
+    },
+    {
+      "id": "ribbon",
+      "type": "word",
+      "label": "丝带；缎带",
+      "group": "shape"
+    },
+    {
+      "id": "rise",
+      "type": "word",
+      "label": "上升；升起",
+      "group": "family"
+    },
+    {
+      "id": "roundabout",
+      "type": "word",
+      "label": "环岛；迂回的",
+      "group": "shape"
+    },
+    {
+      "id": "salad",
+      "type": "word",
+      "label": "沙拉",
+      "group": "meaning"
     },
     {
       "id": "sand",
@@ -309,16 +1083,40 @@
       "group": "compound"
     },
     {
-      "id": "castle",
+      "id": "sandwich",
       "type": "word",
-      "label": "城堡",
+      "label": "三明治",
       "group": "meaning"
     },
     {
-      "id": "cast",
+      "id": "scale",
       "type": "word",
-      "label": "投掷；铸造；演员阵容",
+      "label": "秤；天平",
+      "group": "shape"
+    },
+    {
+      "id": "schedule",
+      "type": "word",
+      "label": "日程表；安排；排定",
+      "group": "shape"
+    },
+    {
+      "id": "schoolboy",
+      "type": "word",
+      "label": "男学生",
       "group": "meaning"
+    },
+    {
+      "id": "sea-lion",
+      "type": "word",
+      "label": "海狮",
+      "group": "shape"
+    },
+    {
+      "id": "seal",
+      "type": "word",
+      "label": "海豹；密封",
+      "group": "shape"
     },
     {
       "id": "secret",
@@ -333,10 +1131,118 @@
       "group": "family"
     },
     {
+      "id": "seek",
+      "type": "word",
+      "label": "寻找；寻求",
+      "group": "shape"
+    },
+    {
+      "id": "sense",
+      "type": "word",
+      "label": "感觉；理性",
+      "group": "meaning"
+    },
+    {
+      "id": "separate",
+      "type": "word",
+      "label": "分开；使分离",
+      "group": "shape"
+    },
+    {
+      "id": "significant",
+      "type": "word",
+      "label": "重要的；显著的",
+      "group": "family"
+    },
+    {
+      "id": "signify",
+      "type": "word",
+      "label": "表示；意味着",
+      "group": "family"
+    },
+    {
+      "id": "simple",
+      "type": "word",
+      "label": "简单的",
+      "group": "family"
+    },
+    {
+      "id": "simplify",
+      "type": "word",
+      "label": "使简化",
+      "group": "family"
+    },
+    {
+      "id": "sleeve",
+      "type": "word",
+      "label": "袖子",
+      "group": "shape"
+    },
+    {
+      "id": "slim",
+      "type": "word",
+      "label": "苗条的；纤细的",
+      "group": "shape"
+    },
+    {
+      "id": "slogan",
+      "type": "word",
+      "label": "标语；口号",
+      "group": "family"
+    },
+    {
+      "id": "snake",
+      "type": "word",
+      "label": "蛇",
+      "group": "shape"
+    },
+    {
+      "id": "snowy",
+      "type": "word",
+      "label": "下雪的；多雪的",
+      "group": "compound"
+    },
+    {
+      "id": "soccer",
+      "type": "word",
+      "label": "足球",
+      "group": "meaning"
+    },
+    {
+      "id": "sour",
+      "type": "word",
+      "label": "酸的",
+      "group": "shape"
+    },
+    {
       "id": "sprout",
       "type": "word",
       "label": "嫩芽；发芽",
       "group": "sound"
+    },
+    {
+      "id": "storybook",
+      "type": "word",
+      "label": "故事书",
+      "group": "compound"
+    },
+    {
+      "id": "straw",
+      "type": "word",
+      "label": "稻草；吸管",
+      "group": "meaning"
+    },
+    {
+      "id": "strawberry",
+      "type": "word",
+      "label": "草莓",
+      "group": "compound"
+    },
+    {
+      "id": "student",
+      "type": "word",
+      "label": "学生",
+      "group": "compound"
     },
     {
       "id": "summer",
@@ -345,16 +1251,94 @@
       "group": "sound"
     },
     {
+      "id": "sunny",
+      "type": "word",
+      "label": "晴朗的；阳光充足的",
+      "group": "compound"
+    },
+    {
+      "id": "supreme",
+      "type": "word",
+      "label": "最高的；至高无上的",
+      "group": "shape"
+    },
+    {
+      "id": "swing",
+      "type": "word",
+      "label": "秋千；摇摆",
+      "group": "shape"
+    },
+    {
+      "id": "swirl",
+      "type": "word",
+      "label": "旋转；打转",
+      "group": "shape"
+    },
+    {
+      "id": "talker",
+      "type": "word",
+      "label": "说话者；健谈的人",
+      "group": "meaning"
+    },
+    {
+      "id": "toothbrush",
+      "type": "word",
+      "label": "牙刷",
+      "group": "compound"
+    },
+    {
+      "id": "track",
+      "type": "word",
+      "label": "轨道；踪迹；赛道",
+      "group": "shape"
+    },
+    {
+      "id": "unexpected",
+      "type": "word",
+      "label": "意外的；未预料到的",
+      "group": "meaning"
+    },
+    {
+      "id": "unfold",
+      "type": "word",
+      "label": "展开；打开",
+      "group": "shape"
+    },
+    {
+      "id": "upload",
+      "type": "word",
+      "label": "上传",
+      "group": "family"
+    },
+    {
+      "id": "variety",
+      "type": "word",
+      "label": "多样；变化",
+      "group": "family"
+    },
+    {
+      "id": "walkman",
+      "type": "word",
+      "label": "随身听",
+      "group": "meaning"
+    },
+    {
       "id": "winter",
       "type": "word",
       "label": "冬天",
       "group": "sound"
     },
     {
-      "id": "autumn",
+      "id": "workload",
       "type": "word",
-      "label": "秋天",
-      "group": "family"
+      "label": "工作量",
+      "group": "compound"
+    },
+    {
+      "id": "worm",
+      "type": "word",
+      "label": "虫；蠕虫",
+      "group": "shape"
     }
   ],
   "edges": [
@@ -380,47 +1364,472 @@
     },
     {
       "source": "primary-vocabulary-mnemonics-01",
-      "target": "review",
+      "target": "meaning",
       "type": "teaches"
     },
     {
-      "source": "compound",
-      "target": "pencil-case",
+      "source": "meaning",
+      "target": "abroad",
       "type": "explains"
     },
     {
       "source": "family",
-      "target": "news",
+      "target": "absent",
       "type": "explains"
     },
     {
-      "source": "compound",
-      "target": "newspaper",
+      "source": "sound",
+      "target": "accent",
       "type": "explains"
     },
     {
-      "source": "compound",
-      "target": "storybook",
-      "type": "explains"
-    },
-    {
-      "source": "compound",
-      "target": "handwriting",
+      "source": "meaning",
+      "target": "accomplish",
       "type": "explains"
     },
     {
       "source": "shape",
-      "target": "sea-lion",
+      "target": "accountant",
       "type": "explains"
     },
     {
-      "source": "shape",
-      "target": "seal",
+      "source": "meaning",
+      "target": "active",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "activity",
       "type": "explains"
     },
     {
       "source": "family",
-      "target": "mother",
+      "target": "actor",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "actress",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "adorable",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "adore",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "all-right",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "along",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "among",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "amplify",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "antenna",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "apartment",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "appropriate",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "arch",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "archaeology",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "armchair",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "artifact",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "assure",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "autograph",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "automobile",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "autumn",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "avoid",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "award",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "baggage",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "beside",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "bicycle",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "boil",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "brainstorm",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "brunch",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "bump",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "bumper",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "capital",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "cast",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "castle",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "catfish",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "catwalk",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "central",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "chip",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "chop",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "chopsticks",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "circle",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "classmate",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "classroom",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "commerce",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "commercial",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "common",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "compare",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "compromise",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "computer",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "contemporary",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "core",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "curiosity",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "cushion",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "dandelion",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "delicious",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "dependent",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "destruction",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "difference",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "dirty",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "discuss",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "download",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "drizzle",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "during",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "duty",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "earthworm",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "escalator",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "exchange",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "experiment",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "express",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "fabric",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "fantastic",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "fantasy",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "fiber",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "field",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "flat",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "flexible",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "floor",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "flow",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "fluent",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "football",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "footbridge",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "freeze",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "general",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "goat",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "good-job",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "govern",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "government",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "grand",
       "type": "explains"
     },
     {
@@ -434,8 +1843,33 @@
       "type": "explains"
     },
     {
+      "source": "meaning",
+      "target": "grass",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "ground",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "handwriting",
+      "type": "explains"
+    },
+    {
       "source": "family",
-      "target": "grand",
+      "target": "have-a-bath",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "have-a-shower",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "hollow",
       "type": "explains"
     },
     {
@@ -444,38 +1878,178 @@
       "type": "explains"
     },
     {
-      "source": "family",
-      "target": "student",
-      "type": "explains"
-    },
-    {
       "source": "shape",
-      "target": "strawberry",
+      "target": "hunter",
       "type": "explains"
     },
     {
       "source": "meaning",
-      "target": "grass",
-      "type": "explains"
-    },
-    {
-      "source": "meaning",
-      "target": "straw",
+      "target": "increase",
       "type": "explains"
     },
     {
       "source": "compound",
-      "target": "bicycle",
+      "target": "independent",
       "type": "explains"
     },
     {
-      "source": "sound",
-      "target": "circle",
+      "source": "compound",
+      "target": "influence",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "influential",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "influenza",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "inquire",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "insist",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "investigate",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "island",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "keyboard",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "kindergarten",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "laboratory",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "library",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "lift",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "liquid",
       "type": "explains"
     },
     {
       "source": "family",
-      "target": "walkman",
+      "target": "loaf",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "luggage",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "lump",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "mate",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "mention",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "mine",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "miner",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "mineral",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "mineral-water",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "mobile",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "mother",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "naked",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "nearby",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "needle",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "neighbor",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "nest",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "net",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "news",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "newspaper",
       "type": "explains"
     },
     {
@@ -485,82 +2059,62 @@
     },
     {
       "source": "family",
-      "target": "computer",
-      "type": "explains"
-    },
-    {
-      "source": "sound",
-      "target": "flat",
+      "target": "noodle",
       "type": "explains"
     },
     {
       "source": "shape",
-      "target": "floor",
-      "type": "explains"
-    },
-    {
-      "source": "compound",
-      "target": "classroom",
-      "type": "explains"
-    },
-    {
-      "source": "family",
-      "target": "mate",
-      "type": "explains"
-    },
-    {
-      "source": "compound",
-      "target": "classmate",
+      "target": "note",
       "type": "explains"
     },
     {
       "source": "meaning",
-      "target": "all-right",
-      "type": "explains"
-    },
-    {
-      "source": "meaning",
-      "target": "good-job",
+      "target": "nutrition",
       "type": "explains"
     },
     {
       "source": "family",
-      "target": "snowy",
-      "type": "explains"
-    },
-    {
-      "source": "family",
-      "target": "rainy",
-      "type": "explains"
-    },
-    {
-      "source": "meaning",
-      "target": "football",
-      "type": "explains"
-    },
-    {
-      "source": "meaning",
-      "target": "soccer",
-      "type": "explains"
-    },
-    {
-      "source": "family",
-      "target": "sunny",
+      "target": "operation",
       "type": "explains"
     },
     {
       "source": "shape",
-      "target": "drizzle",
+      "target": "outstanding",
       "type": "explains"
     },
     {
-      "source": "family",
+      "source": "shape",
+      "target": "package",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "packet",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "palace",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "paragraph",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "passage",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "pencil-case",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
       "target": "physical-education",
-      "type": "explains"
-    },
-    {
-      "source": "compound",
-      "target": "footbridge",
       "type": "explains"
     },
     {
@@ -569,28 +2123,108 @@
       "type": "explains"
     },
     {
-      "source": "meaning",
-      "target": "ground",
-      "type": "explains"
-    },
-    {
-      "source": "meaning",
-      "target": "field",
+      "source": "sound",
+      "target": "plump",
       "type": "explains"
     },
     {
       "source": "family",
-      "target": "kindergarten",
+      "target": "pocket",
       "type": "explains"
     },
     {
-      "source": "meaning",
-      "target": "net",
+      "source": "family",
+      "target": "present",
       "type": "explains"
     },
     {
       "source": "shape",
-      "target": "nest",
+      "target": "president",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "primate",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "private",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "program",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "programmer",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "pronounce",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "proper",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "punch",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "rainy",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "raise",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "reception",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "receptionist",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "remind",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "resident",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "ribbon",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "rise",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "roundabout",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "salad",
       "type": "explains"
     },
     {
@@ -605,12 +2239,32 @@
     },
     {
       "source": "meaning",
-      "target": "castle",
+      "target": "sandwich",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "scale",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "schedule",
       "type": "explains"
     },
     {
       "source": "meaning",
-      "target": "cast",
+      "target": "schoolboy",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "sea-lion",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "seal",
       "type": "explains"
     },
     {
@@ -624,8 +2278,98 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "seek",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "sense",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "separate",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "significant",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "signify",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "simple",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "simplify",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "sleeve",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "slim",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "slogan",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "snake",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "snowy",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "soccer",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "sour",
+      "type": "explains"
+    },
+    {
       "source": "sound",
       "target": "sprout",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "storybook",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "straw",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "strawberry",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "student",
       "type": "explains"
     },
     {
@@ -634,74 +2378,79 @@
       "type": "explains"
     },
     {
+      "source": "compound",
+      "target": "sunny",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "supreme",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "swing",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "swirl",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "talker",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "toothbrush",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "track",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "unexpected",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "unfold",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "upload",
+      "type": "explains"
+    },
+    {
+      "source": "family",
+      "target": "variety",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "walkman",
+      "type": "explains"
+    },
+    {
       "source": "sound",
       "target": "winter",
       "type": "explains"
     },
     {
-      "source": "family",
-      "target": "autumn",
+      "source": "compound",
+      "target": "workload",
       "type": "explains"
     },
     {
-      "source": "news",
-      "target": "newspaper",
-      "type": "lesson-chain"
-    },
-    {
-      "source": "pencil-case",
-      "target": "classroom",
-      "type": "lesson-chain"
-    },
-    {
-      "source": "grand",
-      "target": "grandma",
-      "type": "classroom-family"
-    },
-    {
-      "source": "grand",
-      "target": "grandpa",
-      "type": "classroom-family"
-    },
-    {
-      "source": "grass",
-      "target": "strawberry",
-      "type": "lesson-chain"
-    },
-    {
-      "source": "straw",
-      "target": "strawberry",
-      "type": "lesson-chain"
-    },
-    {
-      "source": "football",
-      "target": "soccer",
-      "type": "usage-contrast"
-    },
-    {
-      "source": "ground",
-      "target": "field",
-      "type": "usage-contrast"
-    },
-    {
-      "source": "net",
-      "target": "nest",
-      "type": "classroom-contrast"
-    },
-    {
-      "source": "secret",
-      "target": "secretary",
-      "type": "classroom-family"
-    },
-    {
-      "source": "sand",
-      "target": "sandcastle",
-      "type": "compound"
-    },
-    {
-      "source": "castle",
-      "target": "cast",
-      "type": "lesson-contrast"
+      "source": "shape",
+      "target": "worm",
+      "type": "explains"
     }
   ]
 }

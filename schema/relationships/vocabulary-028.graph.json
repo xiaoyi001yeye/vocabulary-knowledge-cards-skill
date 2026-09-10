@@ -1,0 +1,113 @@
+{
+  "id": "vocabulary-028-graph",
+  "lessonId": "vocabulary-028",
+  "nodes": [
+    {
+      "id": "vocabulary-028",
+      "type": "lesson",
+      "label": "词汇速记第 028 集：移动、目标与职业",
+      "description": "课堂助记关系图；不是严格词源图。"
+    },
+    {
+      "id": "compound",
+      "type": "knowledge",
+      "label": "组合与物件画面",
+      "description": "用移动的电话、汽车、猎人和账本等画面帮助复现。"
+    },
+    {
+      "id": "family",
+      "type": "knowledge",
+      "label": "词族扩展",
+      "description": "通过 account/accountant、accomplish 等相关词作课堂复习。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "职业与移动场景",
+      "description": "用可移动的物件、猎人和会计职业建立复现画面。"
+    },
+    {
+      "id": "meaning",
+      "type": "knowledge",
+      "label": "任务结果",
+      "description": "以完成任务的结果场景理解 accomplish。"
+    },
+    {
+      "id": "mobile",
+      "type": "word",
+      "label": "可移动的；手机",
+      "group": "scene"
+    },
+    {
+      "id": "automobile",
+      "type": "word",
+      "label": "汽车",
+      "group": "compound"
+    },
+    {
+      "id": "hunter",
+      "type": "word",
+      "label": "猎人",
+      "group": "scene"
+    },
+    {
+      "id": "accountant",
+      "type": "word",
+      "label": "会计；会计师",
+      "group": "scene"
+    },
+    {
+      "id": "accomplish",
+      "type": "word",
+      "label": "完成；实现",
+      "group": "meaning"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-028",
+      "target": "compound",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-028",
+      "target": "family",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-028",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-028",
+      "target": "meaning",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "mobile",
+      "type": "explains"
+    },
+    {
+      "source": "compound",
+      "target": "automobile",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "hunter",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "accountant",
+      "type": "explains"
+    },
+    {
+      "source": "meaning",
+      "target": "accomplish",
+      "type": "explains"
+    }
+  ]
+}

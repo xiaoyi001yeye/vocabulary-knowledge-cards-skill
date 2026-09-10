@@ -1,0 +1,48 @@
+{
+  "id": "vocabulary-030",
+  "title": "词汇速记第 030 集：差异、商业与结果",
+  "sourceType": "user-provided-transcript",
+  "summary": "从第 030 集字幕中保守提取差异、破坏、商业和丝带等词；将课堂声音、形状和词族说法显著标为助记。",
+  "concepts": [
+    {
+      "id": "contrast",
+      "label": "对比与变化",
+      "description": "以 vary/variety、destroy/destruction 的对照建立复习路径。"
+    },
+    {
+      "id": "scene",
+      "label": "商业与物件场景",
+      "description": "把商业活动、礼物丝带和意外情况转化为画面。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "woodpacker 段",
+      "candidates": [
+        "woodpecker",
+        "woodpacker"
+      ],
+      "reason": "ASR 将 woodpecker 写成 woodpacker，课堂拆分也不可靠。"
+    },
+    {
+      "source": "spect/spy 段",
+      "candidates": [
+        "spect",
+        "spy"
+      ],
+      "reason": "拼写片段和释义不足以生成正式词卡。"
+    },
+    {
+      "source": "voiage 段",
+      "candidates": [
+        "voyage"
+      ],
+      "reason": "ASR 漏写字母，未建立正式卡片。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，按本课的场景或词族路线口述每张卡片。",
+    "当天、第 1、5、14 天各复现一次；无法说明 caution 时回看边界提示。",
+    "对字幕中的 ASR 不确定词只复述待核对原因，不把它当作确定知识。"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-002-graph",
+  "lessonId": "vocabulary-002",
+  "nodes": [
+    {
+      "id": "vocabulary-002",
+      "type": "lesson",
+      "label": "词汇速记 002：动作、合成词与旅行表达",
+      "description": "从课堂转写中保留动作、合成和画面清楚的词汇助记；不把课堂的声音联想或构词分析当作严格词源。"
+    },
+    {
+      "id": "vocabulary-002-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-002-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "active",
+      "type": "word",
+      "label": "活跃的；积极的",
+      "group": "vocabulary-002-mnemonic"
+    },
+    {
+      "id": "brunch",
+      "type": "word",
+      "label": "早午餐",
+      "group": "vocabulary-002-mnemonic"
+    },
+    {
+      "id": "swing",
+      "type": "word",
+      "label": "秋千；摇摆",
+      "group": "vocabulary-002-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-002",
+      "target": "vocabulary-002-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-002",
+      "target": "vocabulary-002-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-002-mnemonic",
+      "target": "active",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-002-mnemonic",
+      "target": "brunch",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-002-mnemonic",
+      "target": "swing",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-002-review",
+      "target": "active",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-002-review",
+      "target": "brunch",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-002-review",
+      "target": "swing",
+      "type": "reviews"
+    }
+  ]
+}

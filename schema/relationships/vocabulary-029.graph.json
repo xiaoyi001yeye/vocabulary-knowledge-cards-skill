@@ -1,0 +1,123 @@
+{
+  "id": "vocabulary-029-graph",
+  "lessonId": "vocabulary-029",
+  "nodes": [
+    {
+      "id": "vocabulary-029",
+      "type": "lesson",
+      "label": "词汇速记第 029 集：行李、操作与负载",
+      "description": "课堂助记关系图；不是严格词源图。"
+    },
+    {
+      "id": "scene",
+      "type": "knowledge",
+      "label": "旅行与设备场景",
+      "description": "用行李、电脑下载和工作负荷建立可复现画面。"
+    },
+    {
+      "id": "contrast",
+      "type": "knowledge",
+      "label": "动作对比",
+      "description": "以 download/upload、operate/operation 等对照复习。"
+    },
+    {
+      "id": "baggage",
+      "type": "word",
+      "label": "行李",
+      "group": "scene"
+    },
+    {
+      "id": "luggage",
+      "type": "word",
+      "label": "行李",
+      "group": "scene"
+    },
+    {
+      "id": "operation",
+      "type": "word",
+      "label": "操作；手术；运作",
+      "group": "contrast"
+    },
+    {
+      "id": "compromise",
+      "type": "word",
+      "label": "妥协；折中",
+      "group": "scene"
+    },
+    {
+      "id": "download",
+      "type": "word",
+      "label": "下载",
+      "group": "contrast"
+    },
+    {
+      "id": "upload",
+      "type": "word",
+      "label": "上传",
+      "group": "contrast"
+    },
+    {
+      "id": "workload",
+      "type": "word",
+      "label": "工作量",
+      "group": "scene"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-029",
+      "target": "scene",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-029",
+      "target": "contrast",
+      "type": "teaches"
+    },
+    {
+      "source": "scene",
+      "target": "baggage",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "luggage",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "operation",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "compromise",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "download",
+      "type": "explains"
+    },
+    {
+      "source": "contrast",
+      "target": "upload",
+      "type": "explains"
+    },
+    {
+      "source": "scene",
+      "target": "workload",
+      "type": "explains"
+    },
+    {
+      "source": "baggage",
+      "target": "luggage",
+      "type": "word-family"
+    },
+    {
+      "source": "download",
+      "target": "upload",
+      "type": "word-family"
+    }
+  ]
+}

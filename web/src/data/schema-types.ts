@@ -16,6 +16,7 @@ export type WordCard = {
   meaning: string;
   family: string;
   lessonId: string;
+  source: string;
   classroomMethod: string;
   rehearsal: string;
   caution: string;
@@ -42,4 +43,17 @@ export type LessonBundle = {
   lesson: KnowledgeRecord;
   graph: RelationshipGraph;
   words: Map<string, WordCard>;
+};
+
+export type LessonCatalogEntry = {
+  id: string;
+  title: string;
+  description?: string;
+};
+
+export type LessonCatalog = {
+  id: string;
+  title: string;
+  defaultLessonId: string;
+  lessons: LessonCatalogEntry[];
 };

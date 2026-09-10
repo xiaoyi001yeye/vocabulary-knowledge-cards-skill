@@ -1,0 +1,84 @@
+{
+  "id": "vocabulary-010-graph",
+  "lessonId": "vocabulary-010",
+  "nodes": [
+    {
+      "id": "vocabulary-010",
+      "type": "lesson",
+      "label": "词汇速记 010：洗浴短语与居住空间",
+      "description": "保留洗浴场景短语和公寓的分开居住画面。"
+    },
+    {
+      "id": "vocabulary-010-mnemonic",
+      "type": "knowledge",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-010-review",
+      "type": "knowledge",
+      "label": "输出式复习",
+      "description": "通过朗读、动作、口述画面复现词汇。"
+    },
+    {
+      "id": "have-a-shower",
+      "type": "word",
+      "label": "冲澡",
+      "group": "vocabulary-010-mnemonic"
+    },
+    {
+      "id": "have-a-bath",
+      "type": "word",
+      "label": "泡澡",
+      "group": "vocabulary-010-mnemonic"
+    },
+    {
+      "id": "apartment",
+      "type": "word",
+      "label": "公寓",
+      "group": "vocabulary-010-mnemonic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "vocabulary-010",
+      "target": "vocabulary-010-mnemonic",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-010",
+      "target": "vocabulary-010-review",
+      "type": "teaches"
+    },
+    {
+      "source": "vocabulary-010-mnemonic",
+      "target": "have-a-shower",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-010-mnemonic",
+      "target": "have-a-bath",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-010-mnemonic",
+      "target": "apartment",
+      "type": "explains"
+    },
+    {
+      "source": "vocabulary-010-review",
+      "target": "have-a-shower",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-010-review",
+      "target": "have-a-bath",
+      "type": "reviews"
+    },
+    {
+      "source": "vocabulary-010-review",
+      "target": "apartment",
+      "type": "reviews"
+    }
+  ]
+}

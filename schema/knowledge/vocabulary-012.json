@@ -1,0 +1,46 @@
+{
+  "id": "vocabulary-012",
+  "title": "词汇速记第 012 集：组合、画面与坚持表达",
+  "sourceType": "user-provided-srt",
+  "summary": "从第 012 集保留头脑风暴、果核与坚持的可复现课堂画面。",
+  "concepts": [
+    {
+      "id": "vocabulary-012-mnemonic",
+      "label": "课堂助记与复现",
+      "description": "保留可复现的课堂声音、画面、动作或组合路径；不把它们当作严格词源。"
+    },
+    {
+      "id": "vocabulary-012-review",
+      "label": "输出式复习",
+      "description": "通过朗读、动作和口述画面复现词汇。"
+    }
+  ],
+  "uncertainItems": [
+    {
+      "source": "第 012 集字幕",
+      "candidates": [
+        "PASSER BITE（疑为 passer-by）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 012 集字幕",
+      "candidates": [
+        "unbreller（疑为 umbrella）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    },
+    {
+      "source": "第 012 集字幕",
+      "candidates": [
+        "scuff 被释为头巾（疑为 scarf）"
+      ],
+      "reason": "字幕拼写、释义或课堂推导不足以建立可靠正式卡片，需核对原视频或词典。"
+    }
+  ],
+  "reviewPlan": [
+    "先遮住中文，朗读每张正式卡片的英文。",
+    "复述 classroomMethod，并完成 rehearsal 中的动作或画面。",
+    "当天、第 1、5、14 天各复习一次；不确定项先核对原视频或词典。"
+  ]
+}
