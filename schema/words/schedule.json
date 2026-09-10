@@ -4,8 +4,40 @@
   "meaning": "日程表；安排；排定",
   "family": "日常计划",
   "lessonId": "vocabulary-036",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂先从“时间表”建立名词画面，再将其连接到按表推进、安排进度的动作。",
   "rehearsal": "写下一项时间表，再口述“schedule the task”。",
   "caution": "名词到动词的连接是课堂复习抓手；具体搭配以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "schedule",
+    "mentionIds": [
+      "source-622171f243572270:116:0:deterministic-srt-v1",
+      "source-622171f243572270:118:0:deterministic-srt-v1",
+      "source-622171f243572270:120:0:deterministic-srt-v1",
+      "source-622171f243572270:121:0:deterministic-srt-v1",
+      "source-622171f243572270:123:0:deterministic-srt-v1",
+      "source-622171f243572270:124:0:deterministic-srt-v1",
+      "source-622171f243572270:125:0:deterministic-srt-v1",
+      "source-622171f243572270:126:0:deterministic-srt-v1",
+      "source-622171f243572270:127:0:deterministic-srt-v1",
+      "source-622171f243572270:128:0:deterministic-srt-v1",
+      "source-622171f243572270:129:0:deterministic-srt-v1",
+      "source-622171f243572270:130:0:deterministic-srt-v1",
+      "source-622171f243572270:131:0:deterministic-srt-v1",
+      "source-622171f243572270:132:0:deterministic-srt-v1",
+      "source-622171f243572270:133:0:deterministic-srt-v1",
+      "source-622171f243572270:134:0:deterministic-srt-v1",
+      "source-622171f243572270:135:0:deterministic-srt-v1",
+      "source-622171f243572270:136:0:deterministic-srt-v1",
+      "source-622171f243572270:137:0:deterministic-srt-v1",
+      "source-622171f243572270:138:0:deterministic-srt-v1",
+      "source-622171f243572270:139:0:deterministic-srt-v1",
+      "source-622171f243572270:140:0:deterministic-srt-v1",
+      "source-622171f243572270:141:0:deterministic-srt-v1",
+      "source-622171f243572270:142:0:deterministic-srt-v1",
+      "source-622171f243572270:143:2:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

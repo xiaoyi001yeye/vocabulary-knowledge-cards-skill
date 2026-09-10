@@ -1,0 +1,36 @@
+{
+  "id": "labor",
+  "label": "劳动；劳力",
+  "meaning": "劳动；劳力",
+  "family": "语义与场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接给出 labor 与“劳动”的对应关系；先说中文“劳动”，再读出 labor。",
+  "rehearsal": "做一个劳动的动作，朗读 labor，并说“劳动”。",
+  "caution": "课堂中英对应是助记线索；词性与具体用法以词典为准。",
+  "evidence": {
+    "lexemeId": "labor",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:414:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:438:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:443:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:493:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:495:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:1388:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:514:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:518:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:518:1:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:2188:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:4:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:8:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:9:1:deterministic-srt-v1",
+      "source-6160c887bab4dead:252:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:658:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:563:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:567:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:587:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

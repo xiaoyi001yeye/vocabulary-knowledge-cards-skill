@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 permanent，并用持续很久的状态帮助理解。",
   "rehearsal": "说 permanent，再口述“永久的”。",
-  "caution": "permanent 的程度和搭配需以词典例句核对。"
+  "caution": "permanent 的程度和搭配需以词典例句核对。",
+  "evidence": {
+    "lexemeId": "permanent",
+    "mentionIds": [
+      "source-1286da1d410e31f1:336:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "circle",
+  "headword": "circle",
+  "status": "confirmed",
+  "cardId": "circle",
+  "mentionIds": [
+    "source-149a15ed602adec6:876:0:deterministic-srt-v1",
+    "source-366220025a701762:36:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1428:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1429:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1432:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1433:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1435:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1436:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1444:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1455:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1457:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1460:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:893:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:895:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:897:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:898:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:945:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:472:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "circle",
+    "label": "圆；圆圈",
+    "meaning": "circle",
+    "family": "sound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂要求读 circle 时感受卷舌，让发音和“圆圈卷起来”的形状形成联想。",
+    "rehearsal": "夸张卷舌读 circle，同时用手画圆。",
+    "caution": "发音动作只是记忆钩子；不要据此推断词义来源。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/circle.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

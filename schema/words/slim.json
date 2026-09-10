@@ -4,8 +4,17 @@
   "meaning": "苗条的；纤细的",
   "family": "shape",
   "lessonId": "vocabulary-020",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把线变细、再做成 S 形曲线，得到 slim 的纤细画面。",
   "rehearsal": "在纸上画一条细 S 线，朗读 slim，说“苗条/纤细”。",
   "caution": "字母形状联想只是课堂记忆法，并非词源解释。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "slim",
+    "mentionIds": [
+      "source-da443cb0d0c37ebd:21:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:25:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "id": "bump",
+  "headword": "bump",
+  "status": "confirmed",
+  "cardId": "bump",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "bump",
+    "label": "碰撞；撞击",
+    "meaning": "碰撞；撞击",
+    "family": "sound",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "老师先让学生听 bump bump bump 的声音，再在动作选项中猜出碰撞。",
+    "rehearsal": "读三遍 bump，同时模拟物体相撞。",
+    "caution": "拟声助记，不等同于严格词源。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/bump.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

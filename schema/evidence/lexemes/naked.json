@@ -1,0 +1,29 @@
+{
+  "id": "naked",
+  "headword": "naked",
+  "status": "confirmed",
+  "cardId": "naked",
+  "mentionIds": [
+    "source-96d8bf479a3cd23d:1269:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:1279:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "naked",
+    "label": "赤裸的；无遮盖的",
+    "meaning": "赤裸的；无遮盖的",
+    "family": "shape",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把没有毛、没有覆盖物的裸露画面与 naked 相连。",
+    "rehearsal": "先想无遮盖的物体，再说词义。",
+    "caution": "转写中的拆字细节不够清晰。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "shape",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/naked.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

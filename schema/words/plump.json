@@ -4,8 +4,14 @@
   "meaning": "丰满的；圆胖的",
   "family": "sound",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "老师用小孩身体饱满、小屁股鼓起来的画面，把 lump 的块迁移到 plump 的丰满。",
   "rehearsal": "先想鼓起和饱满，再读 plump。",
   "caution": "课堂画面为助记。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "plump",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

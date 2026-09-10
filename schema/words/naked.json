@@ -4,8 +4,17 @@
   "meaning": "赤裸的；无遮盖的",
   "family": "shape",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把没有毛、没有覆盖物的裸露画面与 naked 相连。",
   "rehearsal": "先想无遮盖的物体，再说词义。",
   "caution": "转写中的拆字细节不够清晰。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "naked",
+    "mentionIds": [
+      "source-96d8bf479a3cd23d:1269:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:1279:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

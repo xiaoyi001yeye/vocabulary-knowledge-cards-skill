@@ -20,6 +20,12 @@ export type WordCard = {
   classroomMethod: string;
   rehearsal: string;
   caution: string;
+  evidence: {
+    lexemeId: string;
+    mentionIds: string[];
+    reviewIds: string[];
+    provenanceStatus: 'candidate-token-match' | 'needs-evidence-link';
+  };
 };
 
 export type SchemaNode = {

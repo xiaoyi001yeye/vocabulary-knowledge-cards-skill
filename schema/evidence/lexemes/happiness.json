@@ -1,0 +1,30 @@
+{
+  "id": "happiness",
+  "headword": "happiness",
+  "status": "confirmed",
+  "cardId": "happiness",
+  "mentionIds": [
+    "source-632feac3831b11d8:827:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:832:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:17:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "happiness",
+    "label": "幸福；快乐",
+    "meaning": "幸福；快乐",
+    "family": "family",
+    "lessonId": "vocabulary-024",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 happiness 作为表示幸福/快乐的名词呈现。",
+    "rehearsal": "朗读 happiness，说“幸福”，再想一件让你开心的事。",
+    "caution": "词尾相关课堂提示仅作助记；拼写和词性以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-024",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/happiness.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

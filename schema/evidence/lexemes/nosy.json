@@ -1,0 +1,29 @@
+{
+  "id": "nosy",
+  "headword": "nosy",
+  "status": "confirmed",
+  "cardId": "nosy",
+  "mentionIds": [
+    "source-b7a5f1e565950e5b:342:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:348:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "nosy",
+    "label": "爱管闲事的；好打听的",
+    "meaning": "nosy",
+    "family": "scene",
+    "lessonId": "vocabulary-027",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 nose“鼻子”的形象出发，把总想把鼻子凑进别人事情里的人记为 nosy。",
+    "rehearsal": "做出把鼻子凑近的动作，说 nosy，再说“爱打听别人的事”。",
+    "caution": "“鼻子凑近”是课堂形象助记，不是严格词源说明。"
+  },
+  "legacyLessonId": "vocabulary-027",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/nosy.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

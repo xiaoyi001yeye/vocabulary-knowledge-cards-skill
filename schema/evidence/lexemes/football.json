@@ -1,0 +1,28 @@
+{
+  "id": "football",
+  "headword": "football",
+  "status": "confirmed",
+  "cardId": "football",
+  "mentionIds": [
+    "source-e51c67807adb6e8c:127:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "football",
+    "label": "足球；（美式）橄榄球",
+    "meaning": "football",
+    "family": "usage",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂提示要查图和语境：football 在不同地区可指足球，也常指美式橄榄球。",
+    "rehearsal": "分别说 British football / American football，并说明需看地区。",
+    "caution": "这是地区用语差异；不能笼统断言 football 只指其中一种运动。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "usage",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/football.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

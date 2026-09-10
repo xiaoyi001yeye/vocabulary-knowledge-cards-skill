@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 tend“往前去的感觉”引出 tendency，并明确给出“倾向、趋向”。",
   "rehearsal": "先做向前伸手的动作说 tend，再说 tendency“倾向”。",
-  "caution": "课堂方向感是助记，不是严格词源或构词结论。"
+  "caution": "课堂方向感是助记，不是严格词源或构词结论。",
+  "evidence": {
+    "lexemeId": "tendency",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:3:1:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:5:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

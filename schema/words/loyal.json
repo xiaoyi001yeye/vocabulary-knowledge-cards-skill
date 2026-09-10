@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“对王室忠诚”的小故事，将 loyal 与 royal 并置对照。",
   "rehearsal": "说出“忠诚于朋友”的情境，再朗读 loyal。",
-  "caution": "课堂故事只帮助区分 loyal 和 royal；语义和搭配以词典为准。"
+  "caution": "课堂故事只帮助区分 loyal 和 royal；语义和搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "loyal",
+    "mentionIds": [
+      "source-8e85860baa296563:17:0:deterministic-srt-v1",
+      "source-8e85860baa296563:18:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

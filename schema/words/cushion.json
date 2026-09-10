@@ -4,8 +4,21 @@
   "meaning": "软垫；缓冲物",
   "family": "物体对比",
   "lessonId": "vocabulary-006",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂与 pad 对比：pad 被说成较硬的垫，cushion 是柔软座垫，因此能“缓冲”。",
   "rehearsal": "摸想象中的软垫并做按压动作，读 cushion。",
   "caution": "硬软对比为教学画面，不是语言学规则。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "cushion",
+    "mentionIds": [
+      "source-d748ac8183a6c4bc:1397:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1402:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1431:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1474:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1479:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1482:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

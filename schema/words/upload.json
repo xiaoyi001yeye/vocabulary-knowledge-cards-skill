@@ -4,8 +4,17 @@
   "meaning": "upload",
   "family": "contrast",
   "lessonId": "vocabulary-029",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 upload 与 download 对照，记为把本地内容送到网络或服务器。",
   "rehearsal": "做出从手机向上推出的手势，说 upload“上传”。",
   "caution": "方向图像只是助记，不代表所有技术流程。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "upload",
+    "mentionIds": [
+      "source-8e85860baa296563:728:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:154:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

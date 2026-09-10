@@ -1,0 +1,26 @@
+{
+  "id": "playground",
+  "headword": "playground",
+  "status": "confirmed",
+  "cardId": "playground",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "playground",
+    "label": "操场；游乐场",
+    "meaning": "playground",
+    "family": "compound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 play（玩）+ ground（地）理解为“玩耍的地方”。",
+    "rehearsal": "说 play + ground，再描述 children in the playground。",
+    "caution": "playground 可偏操场或游乐场，具体设施由语境决定。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "compound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/playground.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

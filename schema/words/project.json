@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 project，并放在需要完成的计划或工程中。",
   "rehearsal": "说 a school project，再口述“项目”。",
-  "caution": "project 还可作动词；本卡只记录基础名词义。"
+  "caution": "project 还可作动词；本卡只记录基础名词义。",
+  "evidence": {
+    "lexemeId": "project",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:3421:0:deterministic-srt-v1",
+      "source-366220025a701762:276:0:deterministic-srt-v1",
+      "source-366220025a701762:277:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

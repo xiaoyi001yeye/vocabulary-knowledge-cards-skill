@@ -1,0 +1,52 @@
+{
+  "id": "silly",
+  "headword": "silly",
+  "status": "confirmed",
+  "cardId": "silly",
+  "mentionIds": [
+    "source-622171f243572270:993:0:deterministic-srt-v1",
+    "source-622171f243572270:994:0:deterministic-srt-v1",
+    "source-622171f243572270:995:0:deterministic-srt-v1",
+    "source-622171f243572270:996:0:deterministic-srt-v1",
+    "source-622171f243572270:997:0:deterministic-srt-v1",
+    "source-622171f243572270:997:1:deterministic-srt-v1",
+    "source-622171f243572270:1003:0:deterministic-srt-v1",
+    "source-622171f243572270:1515:0:deterministic-srt-v1",
+    "source-622171f243572270:1516:0:deterministic-srt-v1",
+    "source-622171f243572270:1517:0:deterministic-srt-v1",
+    "source-622171f243572270:1518:0:deterministic-srt-v1",
+    "source-622171f243572270:1519:0:deterministic-srt-v1",
+    "source-622171f243572270:1520:0:deterministic-srt-v1",
+    "source-622171f243572270:1521:0:deterministic-srt-v1",
+    "source-622171f243572270:1522:0:deterministic-srt-v1",
+    "source-622171f243572270:1523:0:deterministic-srt-v1",
+    "source-622171f243572270:1524:0:deterministic-srt-v1",
+    "source-622171f243572270:1525:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:609:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:610:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:611:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:616:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:617:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:618:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:622:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "silly",
+    "label": "糊涂的；傻的",
+    "meaning": "糊涂的；傻的",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂反复朗读 silly，并直接说明“silly，糊涂”，抓住一个犯傻、糊涂的状态。",
+    "rehearsal": "做一个犯糊涂的表情，朗读 silly，并说“糊涂的”。",
+    "caution": "课堂状态画面用于助记；语气和具体使用场合以词典为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/silly.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

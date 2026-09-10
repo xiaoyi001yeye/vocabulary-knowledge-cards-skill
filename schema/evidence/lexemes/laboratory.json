@@ -1,0 +1,38 @@
+{
+  "id": "laboratory",
+  "headword": "laboratory",
+  "status": "confirmed",
+  "cardId": "laboratory",
+  "mentionIds": [
+    "source-0e8ccb05819e8652:412:1:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:442:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:447:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:480:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:492:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:494:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:498:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:609:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:588:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:597:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:615:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "laboratory",
+    "label": "实验室",
+    "meaning": "实验室",
+    "family": "劳动场景",
+    "lessonId": "vocabulary-008",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 labor“劳动”出发，想象动手混合、测试的实验工作发生在 laboratory。",
+    "rehearsal": "口述“动手实验的地方”，再读 laboratory。",
+    "caution": "labor 与 laboratory 的解释仅作为课堂抓手；后续压缩拼写说法不保留。"
+  },
+  "legacyLessonId": "vocabulary-008",
+  "legacyMnemonicCategory": "劳动场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/laboratory.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

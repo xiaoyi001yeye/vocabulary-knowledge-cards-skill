@@ -4,8 +4,17 @@
   "meaning": "泡澡",
   "family": "日常对比",
   "lessonId": "vocabulary-010",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接与 have a shower 对比：泡在浴缸里是 have a bath，站着被水冲是 have a shower。",
   "rehearsal": "分别用手势表示泡在浴缸和站立冲水，完整说两句短语。",
   "caution": "这是短语卡；不把画面当作语法规则。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "have-a-bath",
+    "mentionIds": [
+      "source-270fd0178a19029e:160:0:deterministic-srt-v1",
+      "source-612f45bb404ee53f:86:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

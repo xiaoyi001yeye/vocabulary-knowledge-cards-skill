@@ -1,0 +1,33 @@
+{
+  "id": "flower",
+  "label": "花",
+  "meaning": "花",
+  "family": "读音与口形",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂反复把“花”和 flower 对应朗读，用中英文配对记住 flower。",
+  "rehearsal": "想象一朵花，朗读 flower，并说“花”。",
+  "caution": "中英文配对朗读是课堂助记，不是词源解释。",
+  "evidence": {
+    "lexemeId": "flower",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:1509:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1571:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1319:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1326:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1329:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1330:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1341:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1357:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1372:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1374:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1374:1:deterministic-srt-v1",
+      "source-632feac3831b11d8:1378:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1388:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1415:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1416:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

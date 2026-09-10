@@ -1,0 +1,28 @@
+{
+  "id": "influential",
+  "headword": "influential",
+  "status": "confirmed",
+  "cardId": "influential",
+  "mentionIds": [
+    "source-6160c887bab4dead:585:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "influential",
+    "label": "有影响力的",
+    "meaning": "有影响力的",
+    "family": "roots",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "在 influence 后扩展为形容词，得到有影响力的。",
+    "rehearsal": "先说影响力，再说有影响力的。",
+    "caution": "和 influence 成对复习。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "roots",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/influential.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

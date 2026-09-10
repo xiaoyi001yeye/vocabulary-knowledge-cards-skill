@@ -4,8 +4,14 @@
   "meaning": "sea-lion",
   "family": "shape",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 sea lion 与 seal 放在一起比较：较大的动物记作 sea lion。",
   "rehearsal": "先数 sea lion 的 7 个字母（不计空格），再说“较大的海狮”。",
   "caution": "字母数量和体型没有语言学关系；海狮与海豹的区分应以动物特征为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "sea-lion",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

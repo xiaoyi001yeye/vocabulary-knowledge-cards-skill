@@ -4,8 +4,14 @@
   "meaning": "男学生",
   "family": "meaning",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "school 是学校，boy 是男孩，整体意义直接写在组成上。",
   "rehearsal": "拆 school + boy 并合成意义。",
   "caution": "显性会意。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "schoolboy",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

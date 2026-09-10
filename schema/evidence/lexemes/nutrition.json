@@ -1,0 +1,35 @@
+{
+  "id": "nutrition",
+  "headword": "nutrition",
+  "status": "confirmed",
+  "cardId": "nutrition",
+  "mentionIds": [
+    "source-23363ceac2a543da:1053:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:676:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:678:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:703:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:709:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:711:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:716:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:813:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "nutrition",
+    "label": "营养；营养学",
+    "meaning": "nutrition",
+    "family": "health",
+    "lessonId": "vocabulary-024",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 nutrition 放在饮食、食物与身体需要的语境中辨认；把它当作“食物带来的营养”整体画面记忆。",
+    "rehearsal": "说出 nutrition，并口述：食物给身体提供营养。",
+    "caution": "课堂语境画面只用于助记；拼写、词性和实际搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-024",
+  "legacyMnemonicCategory": "health",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/nutrition.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

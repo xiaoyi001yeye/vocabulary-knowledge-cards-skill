@@ -4,8 +4,32 @@
   "meaning": "液体",
   "family": "泄漏画面",
   "lessonId": "vocabulary-037",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“泄漏”的画面帮助记住 liquid：能漏、会流动的东西是液体。",
   "rehearsal": "想象水从杯子漏出，朗读 liquid 并说“液体”。",
   "caution": "leak 与 liquid 的联系只是课堂联想。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "liquid",
+    "mentionIds": [
+      "source-366220025a701762:346:0:deterministic-srt-v1",
+      "source-612049534432ae7e:511:0:deterministic-srt-v1",
+      "source-612049534432ae7e:514:0:deterministic-srt-v1",
+      "source-612049534432ae7e:522:0:deterministic-srt-v1",
+      "source-612049534432ae7e:523:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:99:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:102:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:820:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:821:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:822:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:823:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:840:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:841:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:842:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:847:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:848:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:849:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

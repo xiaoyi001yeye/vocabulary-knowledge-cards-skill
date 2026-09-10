@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 ZOO 中两个 O 想成两层动物围栏：外圈温顺动物，内圈猛兽，因此是动物园。",
   "rehearsal": "写下 ZOO，把两个 O 画成围栏并说“动物园”。",
-  "caution": "字母图形的解释仅作拼写助记。"
+  "caution": "字母图形的解释仅作拼写助记。",
+  "evidence": {
+    "lexemeId": "zoo",
+    "mentionIds": [
+      "source-fd8941ac9793a0ae:192:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:194:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

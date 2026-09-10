@@ -4,8 +4,20 @@
   "meaning": "artifact",
   "family": "history",
   "lessonId": "vocabulary-026-special",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂以考古挖到、可研究的人工制品或文物画面讲解 artifact。",
   "rehearsal": "想象考古现场发现一件物品，朗读 artifact 并说出“人工制品/文物”。",
   "caution": "课堂与 archaeology 的主题关系可用于助记，不应替代词典释义。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "artifact",
+    "mentionIds": [
+      "source-366220025a701762:8:0:deterministic-srt-v1",
+      "source-366220025a701762:12:0:deterministic-srt-v1",
+      "source-366220025a701762:13:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:1516:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:1525:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

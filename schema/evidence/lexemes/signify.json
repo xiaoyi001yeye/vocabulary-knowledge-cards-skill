@@ -1,0 +1,29 @@
+{
+  "id": "signify",
+  "headword": "signify",
+  "status": "confirmed",
+  "cardId": "signify",
+  "mentionIds": [
+    "source-b7a5f1e565950e5b:86:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:105:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "signify",
+    "label": "表示；意味着",
+    "meaning": "signify",
+    "family": "family",
+    "lessonId": "vocabulary-027",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 sign“标记”延伸，提示 signify 可记为“表示、意味着”。",
+    "rehearsal": "看一个路标，先说 sign，再用一句话说：It signifies danger。",
+    "caution": "词族联想用于复习；拼写、搭配和词义范围请以词典核对。"
+  },
+  "legacyLessonId": "vocabulary-027",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/signify.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -4,8 +4,16 @@
   "meaning": "女演员",
   "family": "family",
   "lessonId": "vocabulary-020",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 actress 与 actor 并列，作为女演员的称谓。",
   "rehearsal": "交替读 actor / actress，说出两者在课堂中的称谓对照。",
   "caution": "职业称谓存在语体与使用偏好差异，请按语境选择。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "actress",
+    "mentionIds": [
+      "source-da443cb0d0c37ebd:28:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

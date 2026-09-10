@@ -1,0 +1,35 @@
+{
+  "id": "sour",
+  "headword": "sour",
+  "status": "confirmed",
+  "cardId": "sour",
+  "mentionIds": [
+    "source-d748ac8183a6c4bc:1645:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1647:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:481:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:483:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:489:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:511:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:512:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:523:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "sour",
+    "label": "酸的",
+    "meaning": "酸的",
+    "family": "味觉动作",
+    "lessonId": "vocabulary-005",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂让学习者想象吃柠檬时无法保持无表情、脸会皱起来，以酸味表情记住 sour。",
+    "rehearsal": "做出吃酸东西时皱脸的表情，再朗读 sour。",
+    "caution": "表情与发音关联是课堂助记，不是词源结论。"
+  },
+  "legacyLessonId": "vocabulary-005",
+  "legacyMnemonicCategory": "味觉动作",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/sour.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

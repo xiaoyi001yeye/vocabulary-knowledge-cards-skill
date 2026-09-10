@@ -1,0 +1,28 @@
+{
+  "id": "snake",
+  "headword": "snake",
+  "status": "confirmed",
+  "cardId": "snake",
+  "mentionIds": [
+    "source-96d8bf479a3cd23d:993:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "snake",
+    "label": "蛇",
+    "meaning": "蛇",
+    "family": "shape",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "S 同时像蛇弯曲的形状和嘶嘶声，课堂以此说明音和形能共同传递信息。",
+    "rehearsal": "写 S，先说形，再模仿嘶嘶声。",
+    "caution": "音形双入口示例。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "shape",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/snake.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

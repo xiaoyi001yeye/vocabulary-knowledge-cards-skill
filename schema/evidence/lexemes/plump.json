@@ -1,0 +1,26 @@
+{
+  "id": "plump",
+  "headword": "plump",
+  "status": "confirmed",
+  "cardId": "plump",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "plump",
+    "label": "丰满的；圆胖的",
+    "meaning": "丰满的；圆胖的",
+    "family": "sound",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "老师用小孩身体饱满、小屁股鼓起来的画面，把 lump 的块迁移到 plump 的丰满。",
+    "rehearsal": "先想鼓起和饱满，再读 plump。",
+    "caution": "课堂画面为助记。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/plump.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "accomplish",
+  "headword": "accomplish",
+  "status": "confirmed",
+  "cardId": "accomplish",
+  "mentionIds": [
+    "source-23363ceac2a543da:418:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:422:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "accomplish",
+    "label": "完成；实现",
+    "meaning": "accomplish",
+    "family": "meaning",
+    "lessonId": "vocabulary-028",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 accomplish 放在任务“做完、达成”的结果场景中记忆。",
+    "rehearsal": "选一个小任务，做完后说：I accomplish it，再口述“完成”。",
+    "caution": "示例句只是复现动作；实际搭配和语法请核对词典。"
+  },
+  "legacyLessonId": "vocabulary-028",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/accomplish.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -7,5 +7,20 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 cucumber 的重复起伏音感联想为黄瓜表面凹凸的触感。",
   "rehearsal": "想象摸黄瓜表面的凹凸，朗读 cucumber 并说“黄瓜”。",
-  "caution": "声音与表面触感的联系是课堂助记，不是词源。"
+  "caution": "声音与表面触感的联系是课堂助记，不是词源。",
+  "evidence": {
+    "lexemeId": "cucumber",
+    "mentionIds": [
+      "source-d748ac8183a6c4bc:1124:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1131:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1147:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1148:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1158:1:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1159:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1197:1:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:2028:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

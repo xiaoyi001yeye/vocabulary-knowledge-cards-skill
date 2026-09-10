@@ -4,8 +4,19 @@
   "meaning": "luggage",
   "family": "scene",
   "lessonId": "vocabulary-029",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 luggage 和旅行收纳的情境相连，作为“行李”记忆。",
   "rehearsal": "指向旅行箱，交替说 baggage / luggage。",
   "caution": "两词都可指行李，但具体用法、可数性和地区差异请查词典。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "luggage",
+    "mentionIds": [
+      "source-622171f243572270:337:0:deterministic-srt-v1",
+      "source-622171f243572270:338:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:63:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:64:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

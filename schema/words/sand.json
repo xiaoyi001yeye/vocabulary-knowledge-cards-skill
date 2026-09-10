@@ -4,8 +4,19 @@
   "meaning": "sand",
   "family": "sound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用 sand 与“沙子”的近似音感受词义，并放在沙滩画面中重复朗读。",
   "rehearsal": "摸想象中的沙粒，连续读 sand 三遍。",
   "caution": "中英文近似音只是助记；汉语“沙子”不是由英语 sand 翻译音变而来。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "sand",
+    "mentionIds": [
+      "source-fc5804a317f88303:1114:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1115:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1116:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1118:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

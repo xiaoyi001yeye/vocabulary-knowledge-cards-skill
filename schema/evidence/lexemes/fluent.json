@@ -1,0 +1,26 @@
+{
+  "id": "fluent",
+  "headword": "fluent",
+  "status": "confirmed",
+  "cardId": "fluent",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "fluent",
+    "label": "流利的",
+    "meaning": "流利的",
+    "family": "roots",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "从 flow 的流得顺畅，迁移到语言说得顺畅，再对应 Fluent English。",
+    "rehearsal": "先想水流顺畅，再想语言顺畅。",
+    "caution": "构词细节以词典为准。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "roots",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/fluent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

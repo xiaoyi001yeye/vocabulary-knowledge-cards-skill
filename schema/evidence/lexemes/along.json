@@ -1,0 +1,36 @@
+{
+  "id": "along",
+  "headword": "along",
+  "status": "confirmed",
+  "cardId": "along",
+  "mentionIds": [
+    "source-149a15ed602adec6:573:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:116:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:129:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1301:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1309:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1313:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1314:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1316:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1321:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "along",
+    "label": "沿着",
+    "meaning": "沿着",
+    "family": "scene",
+    "lessonId": "vocabulary-020",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用沿着小河走一条长路的动作，记住 along。",
+    "rehearsal": "用手沿桌边移动，说 walk along the table。",
+    "caution": "课堂的“长路”画面帮助记忆，不替代介词搭配规则。"
+  },
+  "legacyLessonId": "vocabulary-020",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/along.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

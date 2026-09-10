@@ -1,0 +1,30 @@
+{
+  "id": "couple",
+  "headword": "couple",
+  "status": "confirmed",
+  "cardId": "couple",
+  "mentionIds": [
+    "source-d70e0af1dc1fb370:164:6:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:164:7:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:165:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "couple",
+    "label": "一对；夫妻",
+    "meaning": "一对；夫妻",
+    "family": "quantity",
+    "lessonId": "vocabulary-021",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以父母是一对为画面记 couple。",
+    "rehearsal": "想两个成对的人或物，朗读 couple，说“一对”。",
+    "caution": "课堂与 double 的并列是助记，不是严格构词解释。"
+  },
+  "legacyLessonId": "vocabulary-021",
+  "legacyMnemonicCategory": "quantity",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/couple.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

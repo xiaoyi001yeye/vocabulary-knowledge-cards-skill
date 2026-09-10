@@ -7,5 +7,25 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂以长期走出的道路和工作发展来理解 career。",
   "rehearsal": "说出一个想从事的职业，朗读 career，再说“职业生涯”。",
-  "caution": "career 的搭配和与 job 的差异需以词典例句核对。"
+  "caution": "career 的搭配和与 job 的差异需以词典例句核对。",
+  "evidence": {
+    "lexemeId": "career",
+    "mentionIds": [
+      "source-9f7314f00761b13d:1187:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1209:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1222:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1224:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1229:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1237:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1256:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1258:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1280:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1282:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1288:0:deterministic-srt-v1",
+      "source-a5018fd792d84e0f:77:0:deterministic-srt-v1",
+      "source-a5018fd792d84e0f:109:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

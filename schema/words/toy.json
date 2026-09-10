@@ -1,0 +1,28 @@
+{
+  "id": "toy",
+  "label": "玩具",
+  "meaning": "玩具",
+  "family": "读音与口形",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接说明 toy 是“玩具”，并提示它与另一近似读音作比较来记住发音。",
+  "rehearsal": "拿起或想象一个玩具，朗读 toy 三次，并说“玩具”。",
+  "caution": "近似读音比较仅用于课堂助记，不表示词源关系。",
+  "evidence": {
+    "lexemeId": "toy",
+    "mentionIds": [
+      "source-142ed3e72b9ecbb9:847:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:848:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1039:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1052:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1060:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1062:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1067:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1069:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1077:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:1106:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

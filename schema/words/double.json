@@ -7,5 +7,25 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接把 double 记为“两个”，再用于一对人的画面。",
   "rehearsal": "伸出两根手指，说 double，再说“两个”。",
-  "caution": "double 可作不同词性；本卡保留基础数量义。"
+  "caution": "double 可作不同词性；本卡保留基础数量义。",
+  "evidence": {
+    "lexemeId": "double",
+    "mentionIds": [
+      "source-23363ceac2a543da:810:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:811:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:812:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:846:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:880:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:15:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:16:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:16:1:deterministic-srt-v1",
+      "source-6160c887bab4dead:18:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:672:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:164:4:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:164:5:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:165:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

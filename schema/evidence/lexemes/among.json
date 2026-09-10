@@ -1,0 +1,31 @@
+{
+  "id": "among",
+  "headword": "among",
+  "status": "confirmed",
+  "cardId": "among",
+  "mentionIds": [
+    "source-da443cb0d0c37ebd:124:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:127:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:128:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:130:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "among",
+    "label": "在……之中",
+    "meaning": "在……之中",
+    "family": "scene",
+    "lessonId": "vocabulary-020",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“我在大伙之间”的站位，记住 among。",
+    "rehearsal": "把三件物品围成一圈，指向中间说 among them。",
+    "caution": "among 的具体搭配和与 between 的差异需以词典例句为准。"
+  },
+  "legacyLessonId": "vocabulary-020",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/among.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

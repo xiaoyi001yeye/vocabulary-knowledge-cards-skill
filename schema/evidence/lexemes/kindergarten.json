@@ -1,0 +1,30 @@
+{
+  "id": "kindergarten",
+  "headword": "kindergarten",
+  "status": "confirmed",
+  "cardId": "kindergarten",
+  "mentionIds": [
+    "source-a5018fd792d84e0f:147:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:151:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:158:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "kindergarten",
+    "label": "幼儿园",
+    "meaning": "kindergarten",
+    "family": "compound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 kindergarten 拆成 kind（孩子）+ garten（花园）的德语来源印象，理解为“孩子们的花园”。",
+    "rehearsal": "说 kindergarten，并想象孩子在花园里活动。",
+    "caution": "kindergarten 来自德语；kind 在这里不是英语“善良的”，garten 也不是英语 garden 的简单拼写变体。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "compound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/kindergarten.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

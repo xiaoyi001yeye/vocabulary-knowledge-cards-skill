@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用 form = 形状，想象相同形状反复出现，提示 uniform 的“统一形状”与制服。",
   "rehearsal": "画出三件相同形状的衣服，朗读 uniform。",
-  "caution": "课堂形状联想不构成严格词源解释。"
+  "caution": "课堂形状联想不构成严格词源解释。",
+  "evidence": {
+    "lexemeId": "uniform",
+    "mentionIds": [
+      "source-0759dd85e8a2a5af:1397:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:1399:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:1401:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

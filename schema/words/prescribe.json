@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“有话说在前面、先写”提示 prescribe 的规定或开处方。",
   "rehearsal": "先说一条规则，再朗读 prescribe。",
-  "caution": "“先写”是课堂联想；具体义项与搭配以词典为准。"
+  "caution": "“先写”是课堂联想；具体义项与搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "prescribe",
+    "mentionIds": [
+      "source-c884a08f37ae1da1:1023:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1042:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

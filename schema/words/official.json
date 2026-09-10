@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 office 扩展到 official 的官方/官员概念。",
   "rehearsal": "先说 office“办公室”，再说 official“官方的/官员”。",
-  "caution": "二者的课堂联想不应当作严格构词或词源事实。"
+  "caution": "二者的课堂联想不应当作严格构词或词源事实。",
+  "evidence": {
+    "lexemeId": "official",
+    "mentionIds": [
+      "source-366220025a701762:309:0:deterministic-srt-v1",
+      "source-366220025a701762:312:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

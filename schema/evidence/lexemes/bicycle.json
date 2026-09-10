@@ -1,0 +1,28 @@
+{
+  "id": "bicycle",
+  "headword": "bicycle",
+  "status": "confirmed",
+  "cardId": "bicycle",
+  "mentionIds": [
+    "source-149a15ed602adec6:874:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "bicycle",
+    "label": "自行车",
+    "meaning": "bicycle",
+    "family": "word-form",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 cycle（轮、循环）与 bi-（二）入手，想象两个轮子组成自行车。",
+    "rehearsal": "写 bi + cycle，数出两个轮子并说 bicycle。",
+    "caution": "bicycle 的构词分析可作记忆；cycle 本身不等于“圆圈”的所有用法。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "word-form",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/bicycle.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

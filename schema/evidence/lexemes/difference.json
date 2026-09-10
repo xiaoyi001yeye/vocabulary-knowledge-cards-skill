@@ -1,0 +1,29 @@
+{
+  "id": "difference",
+  "headword": "difference",
+  "status": "confirmed",
+  "cardId": "difference",
+  "mentionIds": [
+    "source-23363ceac2a543da:1581:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:1583:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "difference",
+    "label": "差别；不同",
+    "meaning": "difference",
+    "family": "comparison",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将两个对象并排比较，要求找出它们的 difference。",
+    "rehearsal": "任选两个物品，说出 one difference。",
+    "caution": "课堂的对比动作是助记；可数性和搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "comparison",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/difference.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

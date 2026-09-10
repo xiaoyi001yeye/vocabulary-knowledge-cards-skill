@@ -1,0 +1,35 @@
+{
+  "id": "autograph",
+  "headword": "autograph",
+  "status": "confirmed",
+  "cardId": "autograph",
+  "mentionIds": [
+    "source-9b2057d0a839eee7:1846:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1852:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1855:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1861:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1881:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1882:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1886:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1924:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "autograph",
+    "label": "亲笔签名",
+    "meaning": "亲笔签名",
+    "family": "组合场景",
+    "lessonId": "vocabulary-034",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 auto 联想为“自己”、graph 联想为“写”，并用明星在照片上亲手签名的画面记住 autograph。",
+    "rehearsal": "在空中签下名字，读 autograph，并与 autobiography“自传”作区分。",
+    "caution": "auto 与 graph 的拆分为课堂助记，不替代严格构词或词源说明。"
+  },
+  "legacyLessonId": "vocabulary-034",
+  "legacyMnemonicCategory": "组合场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/autograph.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

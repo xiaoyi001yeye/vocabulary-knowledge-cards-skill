@@ -1,0 +1,26 @@
+{
+  "id": "rainy",
+  "headword": "rainy",
+  "status": "confirmed",
+  "cardId": "rainy",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "rainy",
+    "label": "下雨的；多雨的",
+    "meaning": "rainy",
+    "family": "suffix",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 rainy 放进“有雨、雨多”的天气画面，与 snow/snowy 的方式并列。",
+    "rehearsal": "说 rain → rainy，并造句 It is rainy today.",
+    "caution": "-y 的意义依赖词汇和语境；不要套用为固定的“多”。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "suffix",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/rainy.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "passion",
+  "label": "热情；激情",
+  "meaning": "热情；激情",
+  "family": "日常场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂在描述老师更有 passion 的语境中使用该词，抓住投入、热情的状态来理解。",
+  "rehearsal": "用更有精神的语气朗读 passion，并说“对学习有热情”。",
+  "caution": "课堂状态场景用于助记；具体搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "passion",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:4145:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1837:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1839:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1841:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1842:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1845:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1846:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1848:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1849:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1850:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1852:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1854:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1858:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1862:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1864:0:deterministic-srt-v1",
+      "source-48d247490d750a6e:1865:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "id": "source-manifest-v1",
+  "files": [
+    {
+      "fileName": "03.最新编辑1-4000词汇速记002-b4297b5241b1.srt",
+      "sourceId": "source-e51c67807adb6e8c",
+      "contentHash": "e51c67807adb6e8c09c18250a61fb570c98efa1cc769d39afad749d8a5d80792",
+      "byteLength": 111651
+    },
+    {
+      "fileName": "03.最新编辑1-4000词汇速记002.srt",
+      "sourceId": "source-e51c67807adb6e8c",
+      "contentHash": "e51c67807adb6e8c09c18250a61fb570c98efa1cc769d39afad749d8a5d80792",
+      "byteLength": 111651
+    },
+    {
+      "fileName": "04.最新编辑1-4000词汇速记003-df32c7bf52aa.srt",
+      "sourceId": "source-632feac3831b11d8",
+      "contentHash": "632feac3831b11d8a70cf606273929a1faaf4de93ff00b1ff571dac9a925f30b",
+      "byteLength": 97186
+    },
+    {
+      "fileName": "04.最新编辑1-4000词汇速记003.srt",
+      "sourceId": "source-632feac3831b11d8",
+      "contentHash": "632feac3831b11d8a70cf606273929a1faaf4de93ff00b1ff571dac9a925f30b",
+      "byteLength": 97186
+    },
+    {
+      "fileName": "05.最新编辑1-4000词汇速记004-903346143d35.srt",
+      "sourceId": "source-96d8bf479a3cd23d",
+      "contentHash": "96d8bf479a3cd23db5da29117360446e0212dd7188e99f6739bc110538df3568",
+      "byteLength": 95610
+    },
+    {
+      "fileName": "05.最新编辑1-4000词汇速记004.srt",
+      "sourceId": "source-96d8bf479a3cd23d",
+      "contentHash": "96d8bf479a3cd23db5da29117360446e0212dd7188e99f6739bc110538df3568",
+      "byteLength": 95610
+    },
+    {
+      "fileName": "06.最新编辑1-4000词汇速记005-a0c572e82516.srt",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "contentHash": "fd8941ac9793a0aeaee5b1af204e35f22a6f802b644c76fc428875fcefd9879c",
+      "byteLength": 107837
+    },
+    {
+      "fileName": "06.最新编辑1-4000词汇速记005.srt",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "contentHash": "fd8941ac9793a0aeaee5b1af204e35f22a6f802b644c76fc428875fcefd9879c",
+      "byteLength": 107837
+    },
+    {
+      "fileName": "07.最新编辑1-4000词汇速记006-3a2ed7cbe509.srt",
+      "sourceId": "source-d748ac8183a6c4bc",
+      "contentHash": "d748ac8183a6c4bc4417ae2804ab5729077814138eedc242dedf3c056276141c",
+      "byteLength": 118247
+    },
+    {
+      "fileName": "07.最新编辑1-4000词汇速记006.srt",
+      "sourceId": "source-d748ac8183a6c4bc",
+      "contentHash": "d748ac8183a6c4bc4417ae2804ab5729077814138eedc242dedf3c056276141c",
+      "byteLength": 118247
+    },
+    {
+      "fileName": "08.最新编辑1-4000词汇速记007-de72553f3ebf.srt",
+      "sourceId": "source-d9a7b5c2219a9fc4",
+      "contentHash": "d9a7b5c2219a9fc4444a3c02471247c1c1ae8e2f9b90918ac9492374d8fbb1d6",
+      "byteLength": 95599
+    },
+    {
+      "fileName": "08.最新编辑1-4000词汇速记007.srt",
+      "sourceId": "source-d9a7b5c2219a9fc4",
+      "contentHash": "d9a7b5c2219a9fc4444a3c02471247c1c1ae8e2f9b90918ac9492374d8fbb1d6",
+      "byteLength": 95599
+    },
+    {
+      "fileName": "09.最新编辑1-4000词汇速记008-1f0695c8d246.srt",
+      "sourceId": "source-0e8ccb05819e8652",
+      "contentHash": "0e8ccb05819e8652953bf03fa721d21a793af3ea959eb2ff481d594eaf107882",
+      "byteLength": 113506
+    },
+    {
+      "fileName": "09.最新编辑1-4000词汇速记008.srt",
+      "sourceId": "source-0e8ccb05819e8652",
+      "contentHash": "0e8ccb05819e8652953bf03fa721d21a793af3ea959eb2ff481d594eaf107882",
+      "byteLength": 113506
+    },
+    {
+      "fileName": "11.最新编辑1-4000词汇速记010.srt",
+      "sourceId": "source-612f45bb404ee53f",
+      "contentHash": "612f45bb404ee53f12bbb06a1d094e65472e62ae383320608b81deeedfd7c0cb",
+      "byteLength": 86362
+    },
+    {
+      "fileName": "12.最新编辑1-4000词汇速记011.srt",
+      "sourceId": "source-38da6b51185af49e",
+      "contentHash": "38da6b51185af49e56007329aa14e146211e59e4eaa14d4231c521f933e57119",
+      "byteLength": 73228
+    },
+    {
+      "fileName": "13.最新编辑1-4000词汇速记012（调整）.srt",
+      "sourceId": "source-149a15ed602adec6",
+      "contentHash": "149a15ed602adec6be9cf3737f9a7ed84cacc637acf9dd11fb93ed73adb371b3",
+      "byteLength": 83961
+    },
+    {
+      "fileName": "14.最新编辑1-4000词汇速记013.srt",
+      "sourceId": "source-fc5804a317f88303",
+      "contentHash": "fc5804a317f883037e4d3175e4bdd731ec8a866e8af4e4d8723cff7463428a14",
+      "byteLength": 86355
+    },
+    {
+      "fileName": "15.最新编辑1-4000词汇速记014.srt",
+      "sourceId": "source-0759dd85e8a2a5af",
+      "contentHash": "0759dd85e8a2a5af21e5fc1e3387bff5149e0de167c59d2c14d147b668c1090b",
+      "byteLength": 88253
+    },
+    {
+      "fileName": "16.最新编辑1-4000词汇速记015.srt",
+      "sourceId": "source-85b656cb74ac8c7a",
+      "contentHash": "85b656cb74ac8c7a1bffd61f1fbf5a8847d3293245c06207ae868c24b3b118f1",
+      "byteLength": 97483
+    },
+    {
+      "fileName": "17.最新编辑1-4000词汇速记016.srt",
+      "sourceId": "source-6160c887bab4dead",
+      "contentHash": "6160c887bab4dead4b72abc9a600a9e63345be73e443af3967ed9a6e36f17b44",
+      "byteLength": 103527
+    },
+    {
+      "fileName": "18.最新编辑1-4000词汇速记017.srt",
+      "sourceId": "source-a07e3afb28e15970",
+      "contentHash": "a07e3afb28e1597060ba546be644425ac84c52f69492c6e1214e124db5385d21",
+      "byteLength": 87098
+    },
+    {
+      "fileName": "19.最新编辑1-4000词汇速记018.srt",
+      "sourceId": "source-c884a08f37ae1da1",
+      "contentHash": "c884a08f37ae1da11b29e8ccd0d27762ba55fa8b54b642981503cfc34428b1ba",
+      "byteLength": 95849
+    },
+    {
+      "fileName": "20.最新编辑1-4000词汇速记019.srt",
+      "sourceId": "source-142ed3e72b9ecbb9",
+      "contentHash": "142ed3e72b9ecbb94cdf4669492b33106a74ddee550ee30f2962eb19e64ba89c",
+      "byteLength": 89097
+    },
+    {
+      "fileName": "21.最新编辑1-4000词汇速记020.srt",
+      "sourceId": "source-da443cb0d0c37ebd",
+      "contentHash": "da443cb0d0c37ebdbbee8f65c9dc47b797d3d14aec5251d2c5f99e7ca225cdf9",
+      "byteLength": 100880
+    },
+    {
+      "fileName": "22.最新编辑1-4000词汇速记021.srt",
+      "sourceId": "source-d70e0af1dc1fb370",
+      "contentHash": "d70e0af1dc1fb3704104c0afefc3a31327708b3e11f76af842508c64add4d3ee",
+      "byteLength": 76378
+    },
+    {
+      "fileName": "23.最新编辑1-4000词汇速记022.srt",
+      "sourceId": "source-270fd0178a19029e",
+      "contentHash": "270fd0178a19029e17362831c6444e292b5e24fadc246e78090a6fc1c4382363",
+      "byteLength": 141052
+    },
+    {
+      "fileName": "24.最新编辑1-4000词汇速记023.srt",
+      "sourceId": "source-9f7314f00761b13d",
+      "contentHash": "9f7314f00761b13d314f660cbd6b08468de9b36ef343556eaaf55afacac2ce06",
+      "byteLength": 80944
+    },
+    {
+      "fileName": "25.最新编辑1-4000词汇速记024.srt",
+      "sourceId": "source-a5018fd792d84e0f",
+      "contentHash": "a5018fd792d84e0fbf709d69ffcb28cc064a9b26310938ecb043f55cba60d7be",
+      "byteLength": 116557
+    },
+    {
+      "fileName": "26.最新编辑1-4000词汇速记025.srt",
+      "sourceId": "source-1286da1d410e31f1",
+      "contentHash": "1286da1d410e31f1da8d63811b441c8117922daf779ddc91c36925822f9282a1",
+      "byteLength": 88176
+    },
+    {
+      "fileName": "27.最新编辑1-4000词汇速记026.srt",
+      "sourceId": "source-43876b3383b9858d",
+      "contentHash": "43876b3383b9858de3e3233620448a3a32aae281b05ee2acd9d3d650ad34bf8c",
+      "byteLength": 89756
+    },
+    {
+      "fileName": "28.最新编辑1-4000词汇速记026（特补）.srt",
+      "sourceId": "source-366220025a701762",
+      "contentHash": "366220025a701762bbe7539483a626bc2d14fce5743bba293d7e51eb2c6a9ef5",
+      "byteLength": 60135
+    },
+    {
+      "fileName": "29.最新编辑1-4000词汇速记027.srt",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "contentHash": "b7a5f1e565950e5b82f5bf35065e560a1b79b1701421ecbb77ef3aea7b06ee55",
+      "byteLength": 56364
+    },
+    {
+      "fileName": "30.最新编辑1-4000词汇速记028.srt",
+      "sourceId": "source-23363ceac2a543da",
+      "contentHash": "23363ceac2a543da7116038c7ce629171732186ef9bfb4de2d7ebc504d751ceb",
+      "byteLength": 109321
+    },
+    {
+      "fileName": "31.最新编辑1-4000词汇速记029.srt",
+      "sourceId": "source-a16e1bfcf6d30d55",
+      "contentHash": "a16e1bfcf6d30d55147277984a6f309aeec2aad7226a46ce68e0cb26fbe2ad5f",
+      "byteLength": 97707
+    },
+    {
+      "fileName": "32.最新编辑1-4000词汇速记030.srt",
+      "sourceId": "source-465469b62dd00822",
+      "contentHash": "465469b62dd00822d51fb7e86f24a431400c7023e3fa685fdae2feb84a6d575b",
+      "byteLength": 89186
+    },
+    {
+      "fileName": "33.最新编辑1-4000词汇速记031.srt",
+      "sourceId": "source-7f5185c9dd3fe186",
+      "contentHash": "7f5185c9dd3fe18658734e71b7b58c0fe45d705f3aa848d4de3e624e49e1dbb1",
+      "byteLength": 100363
+    },
+    {
+      "fileName": "34.最新编辑1-4000词汇速记032.srt",
+      "sourceId": "source-48d247490d750a6e",
+      "contentHash": "48d247490d750a6e3a72d2207424024fa08a6ee7d6b56b399acb02ee5bba3143",
+      "byteLength": 124273
+    },
+    {
+      "fileName": "35.最新编辑1-4000词汇速记033.srt",
+      "sourceId": "source-8e85860baa296563",
+      "contentHash": "8e85860baa296563e346adc5fb36228990bcb11d5f1e85293969409a2ef769a4",
+      "byteLength": 81971
+    },
+    {
+      "fileName": "36.最新编辑1-4000词汇速记034.srt",
+      "sourceId": "source-9b2057d0a839eee7",
+      "contentHash": "9b2057d0a839eee7ec8c96d37a7952badf5514d1a490fea795b518d53234751d",
+      "byteLength": 122239
+    },
+    {
+      "fileName": "37.最新编辑1-4000词汇速记035.srt",
+      "sourceId": "source-1da33e32e5e8d7ff",
+      "contentHash": "1da33e32e5e8d7ff8bef193518b8bf2b53058661c9443bdad948a7a594a2bf18",
+      "byteLength": 92792
+    },
+    {
+      "fileName": "38.最新编辑1-4000词汇速记036.srt",
+      "sourceId": "source-622171f243572270",
+      "contentHash": "622171f243572270af778abeb1c7a5c638042f7b570108a149e02a2b64ebad41",
+      "byteLength": 112740
+    },
+    {
+      "fileName": "39.最新编辑1-4000词汇速记037.srt",
+      "sourceId": "source-612049534432ae7e",
+      "contentHash": "612049534432ae7ec6775fa2c4acc8e6cefc4a7a44b408f6f11ab76a6024bb44",
+      "byteLength": 86172
+    },
+    {
+      "fileName": "40.最新编辑1-4000词汇速记大结局.srt",
+      "sourceId": "source-17a7a82bcbf5d395",
+      "contentHash": "17a7a82bcbf5d3959924e82fb547b167fa2fcfeebeb567257af4fe6786017730",
+      "byteLength": 244088
+    }
+  ],
+  "uniqueSourceIds": [
+    "source-0759dd85e8a2a5af",
+    "source-0e8ccb05819e8652",
+    "source-1286da1d410e31f1",
+    "source-142ed3e72b9ecbb9",
+    "source-149a15ed602adec6",
+    "source-17a7a82bcbf5d395",
+    "source-1da33e32e5e8d7ff",
+    "source-23363ceac2a543da",
+    "source-270fd0178a19029e",
+    "source-366220025a701762",
+    "source-38da6b51185af49e",
+    "source-43876b3383b9858d",
+    "source-465469b62dd00822",
+    "source-48d247490d750a6e",
+    "source-612049534432ae7e",
+    "source-612f45bb404ee53f",
+    "source-6160c887bab4dead",
+    "source-622171f243572270",
+    "source-632feac3831b11d8",
+    "source-7f5185c9dd3fe186",
+    "source-85b656cb74ac8c7a",
+    "source-8e85860baa296563",
+    "source-96d8bf479a3cd23d",
+    "source-9b2057d0a839eee7",
+    "source-9f7314f00761b13d",
+    "source-a07e3afb28e15970",
+    "source-a16e1bfcf6d30d55",
+    "source-a5018fd792d84e0f",
+    "source-b7a5f1e565950e5b",
+    "source-c884a08f37ae1da1",
+    "source-d70e0af1dc1fb370",
+    "source-d748ac8183a6c4bc",
+    "source-d9a7b5c2219a9fc4",
+    "source-da443cb0d0c37ebd",
+    "source-e51c67807adb6e8c",
+    "source-fc5804a317f88303",
+    "source-fd8941ac9793a0ae"
+  ]
+}

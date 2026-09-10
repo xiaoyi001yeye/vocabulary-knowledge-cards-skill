@@ -4,8 +4,14 @@
   "meaning": "winter",
   "family": "sound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂让学生从 winter 的声音和画面联想寒风、冰雪的冬日。",
   "rehearsal": "想风雪，读 winter，并说 in winter。",
   "caution": "词形与“风”的联想不是词源解释。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "winter",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

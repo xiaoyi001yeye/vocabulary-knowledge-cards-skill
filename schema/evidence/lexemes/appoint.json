@@ -1,0 +1,32 @@
+{
+  "id": "appoint",
+  "headword": "appoint",
+  "status": "confirmed",
+  "cardId": "appoint",
+  "mentionIds": [
+    "source-43876b3383b9858d:333:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:353:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:357:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:382:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:391:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "appoint",
+    "label": "任命；约定",
+    "meaning": "任命；约定",
+    "family": "action",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂多次用 appoint 引出指定人或时间的动作。",
+    "rehearsal": "想象任命一位负责人，朗读 appoint，说“任命”。",
+    "caution": "appoint 也可表示约定；具体义项依语境判断。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "action",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/appoint.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

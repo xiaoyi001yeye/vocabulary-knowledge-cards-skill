@@ -1,0 +1,38 @@
+{
+  "id": "coach",
+  "headword": "coach",
+  "status": "confirmed",
+  "cardId": "coach",
+  "mentionIds": [
+    "source-1da33e32e5e8d7ff:93:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:112:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:113:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:140:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1329:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1352:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:1693:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:1758:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:1774:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:1784:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:1794:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "coach",
+    "label": "教练；长途客车",
+    "meaning": "教练；长途客车",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 coach 说明为“长途客车和训练”，保留它既可指长途客车、也可指教练的多义提示。",
+    "rehearsal": "先模仿教练指导动作，再想一辆长途车，朗读 coach。",
+    "caution": "coach 的不同义项须结合语境判断。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/coach.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

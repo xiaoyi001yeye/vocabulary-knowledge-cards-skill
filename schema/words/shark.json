@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用鲨鱼尖头的画面，并与 sharp 的“锋利”建立对比记忆。",
   "rehearsal": "画出鲨鱼尖头，交替朗读 shark / sharp。",
-  "caution": "声音相近和尖头画面仅作助记。"
+  "caution": "声音相近和尖头画面仅作助记。",
+  "evidence": {
+    "lexemeId": "shark",
+    "mentionIds": [
+      "source-c884a08f37ae1da1:1592:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

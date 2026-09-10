@@ -4,8 +4,21 @@
   "meaning": "针",
   "family": "对比",
   "lessonId": "vocabulary-011",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 needle 与 noodle 对照：needle 的口形更细，联想细针。",
   "rehearsal": "交替朗读 needle / noodle，并指出细针与粗面条的区别。",
   "caution": "口形与物体粗细只是课堂联想，不是词源说明。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "needle",
+    "mentionIds": [
+      "source-38da6b51185af49e:852:1:deterministic-srt-v1",
+      "source-38da6b51185af49e:858:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:860:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:869:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:882:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:897:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

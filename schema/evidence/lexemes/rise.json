@@ -1,0 +1,47 @@
+{
+  "id": "rise",
+  "headword": "rise",
+  "status": "confirmed",
+  "cardId": "rise",
+  "mentionIds": [
+    "source-142ed3e72b9ecbb9:299:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:309:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:319:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:340:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:343:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:227:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1190:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1353:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1354:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1355:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1359:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1365:0:deterministic-srt-v1",
+    "source-8e85860baa296563:1366:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:491:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:491:1:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:491:2:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:491:3:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:14:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:17:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:18:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "rise",
+    "label": "上升；升起",
+    "meaning": "上升；升起",
+    "family": "contrast",
+    "lessonId": "vocabulary-019",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用没有外力、太阳自然升起的画面记 rise。",
+    "rehearsal": "伸手向上做太阳升起的动作，说 The sun rises。",
+    "caution": "rise/raise 的课堂对照用于基本辨析，实际语法搭配请以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-019",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/rise.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

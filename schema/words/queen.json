@@ -1,0 +1,29 @@
+{
+  "id": "queen",
+  "label": "王后；女王",
+  "meaning": "王后；女王",
+  "family": "语义与场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接把 queen 解释为“王后”，用王室人物场景建立词义。",
+  "rehearsal": "想象王冠和王后，朗读 queen，并说“王后”。",
+  "caution": "王室画面是课堂助记；具体称谓范围以词典为准。",
+  "evidence": {
+    "lexemeId": "queen",
+    "mentionIds": [
+      "source-da443cb0d0c37ebd:555:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:557:1:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:562:1:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:564:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:566:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:596:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:623:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:630:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:630:1:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:631:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:631:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "goat",
+  "headword": "goat",
+  "status": "confirmed",
+  "cardId": "goat",
+  "mentionIds": [
+    "source-96d8bf479a3cd23d:1399:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:1420:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "goat",
+    "label": "山羊",
+    "meaning": "山羊",
+    "family": "动作画面",
+    "lessonId": "vocabulary-004",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用山羊会上山、甚至会上树的强烈动作画面，并用近似拟音帮助回忆 goat。",
+    "rehearsal": "模仿山羊爬坡的动作，朗读 goat 并说“山羊”。",
+    "caution": "拟音不是词源证据；仅保留为课堂助记。"
+  },
+  "legacyLessonId": "vocabulary-004",
+  "legacyMnemonicCategory": "动作画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/goat.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

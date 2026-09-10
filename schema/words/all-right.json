@@ -4,8 +4,16 @@
   "meaning": "all right",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 all right 解释为“所有东西都正确/都好”，落到“没问题”。",
   "rehearsal": "对一个请求回答 All right.",
   "caution": "标准拼写通常写作 all right；alright 在非正式用法中也常见。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "all-right",
+    "mentionIds": [
+      "source-96d8bf479a3cd23d:571:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

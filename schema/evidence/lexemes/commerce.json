@@ -1,0 +1,28 @@
+{
+  "id": "commerce",
+  "headword": "commerce",
+  "status": "confirmed",
+  "cardId": "commerce",
+  "mentionIds": [
+    "source-465469b62dd00822:376:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "commerce",
+    "label": "商业；贸易",
+    "meaning": "commerce",
+    "family": "scene",
+    "lessonId": "vocabulary-030",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 commerce 放在买卖、市场和商业活动的场景中。",
+    "rehearsal": "想象市场里的买卖，说 commerce“商业”。",
+    "caution": "课堂联想只覆盖基本义；搭配和语域请查词典。"
+  },
+  "legacyLessonId": "vocabulary-030",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/commerce.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

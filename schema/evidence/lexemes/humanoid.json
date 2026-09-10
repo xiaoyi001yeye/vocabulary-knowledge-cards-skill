@@ -1,0 +1,36 @@
+{
+  "id": "humanoid",
+  "headword": "humanoid",
+  "status": "confirmed",
+  "cardId": "humanoid",
+  "mentionIds": [
+    "source-1286da1d410e31f1:119:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:120:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:121:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:124:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:127:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:136:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:148:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:160:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:170:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "humanoid",
+    "label": "类人的；类人机器人",
+    "meaning": "类人的；类人机器人",
+    "family": "shape",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以像人的机器人形象反复讲解 humanoid。",
+    "rehearsal": "想象一个外形像人的机器人，朗读 humanoid，说“类人的”。",
+    "caution": "humanoid 的词性和技术语境以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "shape",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/humanoid.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

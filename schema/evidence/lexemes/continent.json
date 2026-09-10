@@ -1,0 +1,29 @@
+{
+  "id": "continent",
+  "headword": "continent",
+  "status": "confirmed",
+  "cardId": "continent",
+  "mentionIds": [
+    "source-366220025a701762:394:0:deterministic-srt-v1",
+    "source-366220025a701762:405:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "continent",
+    "label": "大陆",
+    "meaning": "大陆",
+    "family": "geography",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂明确给出 continent，并放在连成大片陆地的地理画面中。",
+    "rehearsal": "看地图上一大片陆地，朗读 continent，说“大陆”。",
+    "caution": "课堂的字形联想不是严格词源说明。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "geography",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/continent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

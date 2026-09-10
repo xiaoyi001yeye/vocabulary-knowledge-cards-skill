@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 legal 与法律相关的基本义。",
   "rehearsal": "朗读 legal，说“合法的/法律的”。",
-  "caution": "legal 与 lawful 等词的细微差别需按词典例句理解。"
+  "caution": "legal 与 lawful 等词的细微差别需按词典例句理解。",
+  "evidence": {
+    "lexemeId": "legal",
+    "mentionIds": [
+      "source-43876b3383b9858d:286:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:293:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

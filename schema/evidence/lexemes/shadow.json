@@ -1,0 +1,48 @@
+{
+  "id": "shadow",
+  "headword": "shadow",
+  "status": "confirmed",
+  "cardId": "shadow",
+  "mentionIds": [
+    "source-9b2057d0a839eee7:782:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:783:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:784:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:785:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:786:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:788:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:789:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:803:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:807:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:808:1:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:809:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:810:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:816:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:825:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1881:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1883:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1896:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1900:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1901:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1903:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1905:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "shadow",
+    "label": "阴影",
+    "meaning": "阴影",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂通过提问“shadow 是啥东西”后直接回答“阴影”，用物体遮光后出现的暗处理解。",
+    "rehearsal": "想象阳光下自己身后的暗影，朗读 shadow，并说“阴影”。",
+    "caution": "画面用于助记；与 shade 等近义词的区别应结合词典和上下文。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/shadow.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

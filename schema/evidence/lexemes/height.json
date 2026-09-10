@@ -1,0 +1,32 @@
+{
+  "id": "height",
+  "headword": "height",
+  "status": "confirmed",
+  "cardId": "height",
+  "mentionIds": [
+    "source-366220025a701762:422:0:deterministic-srt-v1",
+    "source-366220025a701762:427:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:51:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:986:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:989:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "height",
+    "label": "高度；身高",
+    "meaning": "高度；身高",
+    "family": "measurement",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 height 与 weight 并列，用身高和体重的测量场景记忆。",
+    "rehearsal": "指向从脚到头的距离，朗读 height，说“身高”。",
+    "caution": "height 与 weight 的课堂对照仅作记忆；实际用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "measurement",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/height.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

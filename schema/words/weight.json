@@ -7,5 +7,18 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接把 weight 放在物体轻重的测量场景中。",
   "rehearsal": "拿起一个物品估计轻重，朗读 weight，说“重量”。",
-  "caution": "weight 的发音、拼写和单位搭配以词典/教材为准。"
+  "caution": "weight 的发音、拼写和单位搭配以词典/教材为准。",
+  "evidence": {
+    "lexemeId": "weight",
+    "mentionIds": [
+      "source-366220025a701762:418:0:deterministic-srt-v1",
+      "source-366220025a701762:429:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:53:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:985:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:987:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:990:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 bakery 放在烘焙发生的地方，明确说成“面包房”。",
   "rehearsal": "想象走进面包房，闻到烘焙香味，说 bakery。",
-  "caution": "bake/bakery 的课堂词族联系仅作记忆提示。"
+  "caution": "bake/bakery 的课堂词族联系仅作记忆提示。",
+  "evidence": {
+    "lexemeId": "bakery",
+    "mentionIds": [
+      "source-612049534432ae7e:1:7:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

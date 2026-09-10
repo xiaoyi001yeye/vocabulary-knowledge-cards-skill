@@ -1,0 +1,45 @@
+{
+  "id": "naughty",
+  "headword": "naughty",
+  "status": "confirmed",
+  "cardId": "naughty",
+  "mentionIds": [
+    "source-1da33e32e5e8d7ff:1355:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1356:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1357:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1358:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1359:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1360:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1361:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1362:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1363:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:1364:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:828:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:829:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:832:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:833:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:834:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:838:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:839:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:840:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "naughty",
+    "label": "淘气的；顽皮的",
+    "meaning": "淘气的；顽皮的",
+    "family": "日常场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“孩子怎么这么 naughty”的行为场景引出“淘气的；顽皮的”。",
+    "rehearsal": "想象一个调皮孩子做小恶作剧，朗读 naughty，并说“淘气的”。",
+    "caution": "场景联想用于记忆，不代替词典释义和语法判断。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "日常场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/naughty.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

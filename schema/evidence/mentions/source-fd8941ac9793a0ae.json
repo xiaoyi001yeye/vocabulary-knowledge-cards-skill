@@ -1,0 +1,6272 @@
+{
+  "sourceId": "source-fd8941ac9793a0ae",
+  "scanner": "deterministic-srt-v1",
+  "mentions": [
+    {
+      "id": "source-fd8941ac9793a0ae:1:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000001",
+      "rawToken": "Kate",
+      "rawText": "风筝叫Kate",
+      "normalizedCandidates": [
+        "kate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "kate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:22:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000022",
+      "rawToken": "Kate",
+      "rawText": "做了个Kate叫风筝",
+      "normalizedCandidates": [
+        "kate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "kate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:39:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000039",
+      "rawToken": "Kate",
+      "rawText": "所以Kate的各种隐身含义",
+      "normalizedCandidates": [
+        "kate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "kate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:46:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000046",
+      "rawToken": "Kate",
+      "rawText": "所以Kate是一个声音",
+      "normalizedCandidates": [
+        "kate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "kate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:52:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000052",
+      "rawToken": "Bling",
+      "rawText": "Bling",
+      "normalizedCandidates": [
+        "bling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:53:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000053",
+      "rawToken": "Bling",
+      "rawText": "Bling",
+      "normalizedCandidates": [
+        "bling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:56:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000056",
+      "rawToken": "Pling",
+      "rawText": "Pling",
+      "normalizedCandidates": [
+        "pling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:58:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000058",
+      "rawToken": "Blocked",
+      "rawText": "Blocked",
+      "normalizedCandidates": [
+        "blocked"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blocked",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:61:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000061",
+      "rawToken": "Pling",
+      "rawText": "Pling",
+      "normalizedCandidates": [
+        "pling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:62:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000062",
+      "rawToken": "Pling",
+      "rawText": "而是Pling",
+      "normalizedCandidates": [
+        "pling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:64:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000064",
+      "rawToken": "Pling",
+      "rawText": "Pling",
+      "normalizedCandidates": [
+        "pling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:82:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000082",
+      "rawToken": "Air",
+      "rawText": "Air",
+      "normalizedCandidates": [
+        "air"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "air",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:83:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000083",
+      "rawToken": "Airplane",
+      "rawText": "咱们再加个Airplane",
+      "normalizedCandidates": [
+        "airplane"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "airplane",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:86:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000086",
+      "rawToken": "Airplane",
+      "rawText": "所以正经正统的飞机是Airplane",
+      "normalizedCandidates": [
+        "airplane"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "airplane",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 10,
+        "end": 18
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:87:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000087",
+      "rawToken": "Pling",
+      "rawText": "只是有的人他简写成Pling而已",
+      "normalizedCandidates": [
+        "pling"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pling",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:88:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000088",
+      "rawToken": "Banana",
+      "rawText": "香蕉Banana",
+      "normalizedCandidates": [
+        "banana"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "banana",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:90:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000090",
+      "rawToken": "Banana",
+      "rawText": "香蕉Banana",
+      "normalizedCandidates": [
+        "banana"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "banana",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:96:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000096",
+      "rawToken": "Banana",
+      "rawText": "Banana",
+      "normalizedCandidates": [
+        "banana"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "banana",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:100:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000100",
+      "rawToken": "Bar",
+      "rawText": "叫Bar",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:101:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000101",
+      "rawToken": "Bar",
+      "rawText": "还是Bar呢",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:102:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000102",
+      "rawToken": "Bar",
+      "rawText": "Bar叫做小木Bar呢",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:102:1:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000102",
+      "rawToken": "Bar",
+      "rawText": "Bar叫做小木Bar呢",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:104:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000104",
+      "rawToken": "Bar",
+      "rawText": "小木Bar叫Bar",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:104:1:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000104",
+      "rawToken": "Bar",
+      "rawText": "小木Bar叫Bar",
+      "normalizedCandidates": [
+        "bar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "bar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:106:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000106",
+      "rawToken": "Banana",
+      "rawText": "所以Banana",
+      "normalizedCandidates": [
+        "banana"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "banana",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:107:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000107",
+      "rawToken": "Banana",
+      "rawText": "Banana",
+      "normalizedCandidates": [
+        "banana"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "banana",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:108:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000108",
+      "rawToken": "Apple",
+      "rawText": "苹果叫Apple",
+      "normalizedCandidates": [
+        "apple"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "apple",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:111:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000111",
+      "rawToken": "Apple",
+      "rawText": "Apple",
+      "normalizedCandidates": [
+        "apple"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "apple",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:124:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000124",
+      "rawToken": "Apple",
+      "rawText": "所以Apple应该是个女生效果",
+      "normalizedCandidates": [
+        "apple"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "apple",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:125:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000125",
+      "rawToken": "Pair",
+      "rawText": "你包括Pair",
+      "normalizedCandidates": [
+        "pair"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pair",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:126:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000126",
+      "rawToken": "Pair",
+      "rawText": "Pair什么特点",
+      "normalizedCandidates": [
+        "pair"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pair",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:130:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000130",
+      "rawToken": "Pair",
+      "rawText": "Pair",
+      "normalizedCandidates": [
+        "pair"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pair",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:148:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000148",
+      "rawToken": "Pair",
+      "rawText": "Pair",
+      "normalizedCandidates": [
+        "pair"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pair",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:149:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000149",
+      "rawToken": "Air",
+      "rawText": "Air",
+      "normalizedCandidates": [
+        "air"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "air",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:150:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000150",
+      "rawToken": "Air",
+      "rawText": "一个Air的感觉",
+      "normalizedCandidates": [
+        "air"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "air",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:151:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000151",
+      "rawToken": "Pair",
+      "rawText": "所以这是Pair",
+      "normalizedCandidates": [
+        "pair"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pair",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:154:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000154",
+      "rawToken": "Watermelon",
+      "rawText": "Watermelon不说了西瓜",
+      "normalizedCandidates": [
+        "watermelon"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "watermelon",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:192:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000192",
+      "rawToken": "ZOO",
+      "rawText": "这个ZOO",
+      "normalizedCandidates": [
+        "zoo"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "zoo",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:194:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000194",
+      "rawToken": "ZOO",
+      "rawText": "这叫ZOO",
+      "normalizedCandidates": [
+        "zoo"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "zoo",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:202:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000202",
+      "rawToken": "TOW",
+      "rawText": "高叫TOW啊",
+      "normalizedCandidates": [
+        "tow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:206:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000206",
+      "rawToken": "TOW",
+      "rawText": "TOW可能吗",
+      "normalizedCandidates": [
+        "tow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:207:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000207",
+      "rawToken": "TOW",
+      "rawText": "肯定是TOW",
+      "normalizedCandidates": [
+        "tow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:210:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000210",
+      "rawToken": "TOW",
+      "rawText": "TOW",
+      "normalizedCandidates": [
+        "tow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:213:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000213",
+      "rawToken": "WOW",
+      "rawText": "WOW",
+      "normalizedCandidates": [
+        "wow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "wow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:215:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000215",
+      "rawToken": "HOW",
+      "rawText": "HOW",
+      "normalizedCandidates": [
+        "how"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "how",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:228:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000228",
+      "rawToken": "WOW",
+      "rawText": "所以WOW",
+      "normalizedCandidates": [
+        "wow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "wow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:236:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000236",
+      "rawToken": "BALL",
+      "rawText": "叫BALL",
+      "normalizedCandidates": [
+        "ball"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ball",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:237:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000237",
+      "rawToken": "BALL",
+      "rawText": "BALL也是",
+      "normalizedCandidates": [
+        "ball"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ball",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:239:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000239",
+      "rawToken": "BALL",
+      "rawText": "BALL",
+      "normalizedCandidates": [
+        "ball"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ball",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:240:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000240",
+      "rawToken": "ABC",
+      "rawText": "这样什么叫做ABC",
+      "normalizedCandidates": [
+        "abc"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "abc",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:241:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000241",
+      "rawToken": "CALL",
+      "rawText": "叫CALL",
+      "normalizedCandidates": [
+        "call"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "call",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:242:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000242",
+      "rawToken": "CALL",
+      "rawText": "CALL是喊的意思",
+      "normalizedCandidates": [
+        "call"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "call",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:248:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000248",
+      "rawToken": "FALL",
+      "rawText": "FALL",
+      "normalizedCandidates": [
+        "fall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:259:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000259",
+      "rawToken": "FALL",
+      "rawText": "所以FALL",
+      "normalizedCandidates": [
+        "fall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:262:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000262",
+      "rawToken": "from tall",
+      "rawText": "from tall",
+      "normalizedCandidates": [
+        "from-tall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "from-tall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:266:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000266",
+      "rawToken": "FJ",
+      "rawText": "FJ",
+      "normalizedCandidates": [
+        "fj"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fj",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:270:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000270",
+      "rawToken": "HALL",
+      "rawText": "HALL",
+      "normalizedCandidates": [
+        "hall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:271:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000271",
+      "rawToken": "H-I-J-K",
+      "rawText": "H-I-J-K",
+      "normalizedCandidates": [
+        "h-i-j-k"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "h-i-j-k",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:272:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000272",
+      "rawToken": "MALL",
+      "rawText": "MALL",
+      "normalizedCandidates": [
+        "mall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "mall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:273:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000273",
+      "rawToken": "MALL",
+      "rawText": "MALL叫啥",
+      "normalizedCandidates": [
+        "mall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "mall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:274:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000274",
+      "rawToken": "MALL",
+      "rawText": "MALL叫商场",
+      "normalizedCandidates": [
+        "mall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "mall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:280:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000280",
+      "rawToken": "market",
+      "rawText": "叫做market",
+      "normalizedCandidates": [
+        "market"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "market",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:281:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000281",
+      "rawToken": "market",
+      "rawText": "是由market",
+      "normalizedCandidates": [
+        "market"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "market",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:283:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000283",
+      "rawToken": "HALL",
+      "rawText": "HALL叫大厅",
+      "normalizedCandidates": [
+        "hall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:286:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000286",
+      "rawToken": "market",
+      "rawText": "market",
+      "normalizedCandidates": [
+        "market"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "market",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:287:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000287",
+      "rawToken": "market",
+      "rawText": "market叫市场",
+      "normalizedCandidates": [
+        "market"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "market",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:288:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000288",
+      "rawToken": "HALL",
+      "rawText": "HALL",
+      "normalizedCandidates": [
+        "hall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:289:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000289",
+      "rawToken": "HALL",
+      "rawText": "HALL叫大厅",
+      "normalizedCandidates": [
+        "hall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:297:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000297",
+      "rawToken": "market",
+      "rawText": "所以是个market",
+      "normalizedCandidates": [
+        "market"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "market",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:298:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000298",
+      "rawToken": "HALL",
+      "rawText": "HALL",
+      "normalizedCandidates": [
+        "hall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:300:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000300",
+      "rawToken": "MALL",
+      "rawText": "MALL",
+      "normalizedCandidates": [
+        "mall"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "mall",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:304:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000304",
+      "rawToken": "POPQ",
+      "rawText": "POPQ",
+      "normalizedCandidates": [
+        "popq"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "popq",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:305:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000305",
+      "rawToken": "RST",
+      "rawText": "RST",
+      "normalizedCandidates": [
+        "rst"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "rst",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:311:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000311",
+      "rawToken": "ALL",
+      "rawText": "有ALL结尾的词",
+      "normalizedCandidates": [
+        "all"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "all",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:318:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000318",
+      "rawToken": "TOW",
+      "rawText": "TOW",
+      "normalizedCandidates": [
+        "tow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:321:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000321",
+      "rawToken": "Dress",
+      "rawText": "Dress",
+      "normalizedCandidates": [
+        "dress"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dress",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:333:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000333",
+      "rawToken": "Dress",
+      "rawText": "跟Dress",
+      "normalizedCandidates": [
+        "dress"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dress",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:341:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000341",
+      "rawToken": "humor",
+      "rawText": "比如说humor",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:344:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000344",
+      "rawToken": "humor",
+      "rawText": "英语叫humor",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:347:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000347",
+      "rawToken": "humor",
+      "rawText": "英语叫humor",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:348:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000348",
+      "rawToken": "humor",
+      "rawText": "还有叫humor",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:349:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000349",
+      "rawToken": "facical",
+      "rawText": "英语叫做facical",
+      "normalizedCandidates": [
+        "facical"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "facical",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:352:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000352",
+      "rawToken": "facical",
+      "rawText": "但是一旦到了facical",
+      "normalizedCandidates": [
+        "facical"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "facical",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:354:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000354",
+      "rawToken": "facsy",
+      "rawText": "facsy",
+      "normalizedCandidates": [
+        "facsy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "facsy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:366:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000366",
+      "rawToken": "facsy",
+      "rawText": "英语叫facsy",
+      "normalizedCandidates": [
+        "facsy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "facsy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:391:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000391",
+      "rawToken": "facsy",
+      "rawText": "所以当英语叫facsy",
+      "normalizedCandidates": [
+        "facsy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "facsy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:394:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000394",
+      "rawToken": "humor",
+      "rawText": "当英语叫做humor",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:395:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000395",
+      "rawToken": "humor",
+      "rawText": "humor的时候",
+      "normalizedCandidates": [
+        "humor"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "humor",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:397:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000397",
+      "rawToken": "flard",
+      "rawText": "那么当英语叫flard",
+      "normalizedCandidates": [
+        "flard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:398:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000398",
+      "rawToken": "flard",
+      "rawText": "flard的时候",
+      "normalizedCandidates": [
+        "flard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:401:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000401",
+      "rawToken": "flard",
+      "rawText": "在flard的这一排翻译当中",
+      "normalizedCandidates": [
+        "flard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:413:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000413",
+      "rawToken": "flard",
+      "rawText": "在flard的翻译当中",
+      "normalizedCandidates": [
+        "flard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:417:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000417",
+      "rawToken": "flard",
+      "rawText": "你叫flard",
+      "normalizedCandidates": [
+        "flard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:474:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000474",
+      "rawToken": "dress",
+      "rawText": "dress",
+      "normalizedCandidates": [
+        "dress"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dress",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:475:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000475",
+      "rawToken": "dress",
+      "rawText": "dress",
+      "normalizedCandidates": [
+        "dress"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dress",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:476:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000476",
+      "rawToken": "dress",
+      "rawText": "dress",
+      "normalizedCandidates": [
+        "dress"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dress",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:481:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000481",
+      "rawToken": "sour",
+      "rawText": "sour",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:483:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000483",
+      "rawToken": "sour",
+      "rawText": "sour",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:489:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000489",
+      "rawToken": "sour",
+      "rawText": "sour",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:511:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000511",
+      "rawToken": "sour",
+      "rawText": "sour",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:512:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000512",
+      "rawToken": "sour",
+      "rawText": "sour",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:521:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000521",
+      "rawToken": "so",
+      "rawText": "so了吗",
+      "normalizedCandidates": [
+        "so"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "so",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:522:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000522",
+      "rawToken": "so",
+      "rawText": "所以我们的so了",
+      "normalizedCandidates": [
+        "so"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "so",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:523:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000523",
+      "rawToken": "sour",
+      "rawText": "就是这个sour的意思啊",
+      "normalizedCandidates": [
+        "sour"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sour",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:524:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000524",
+      "rawToken": "blouse",
+      "rawText": "blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:535:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000535",
+      "rawToken": "blouse",
+      "rawText": "当我搜索blouse的时候",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:543:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000543",
+      "rawToken": "blouse",
+      "rawText": "宽松的上衣叫blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:548:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000548",
+      "rawToken": "blouse",
+      "rawText": "blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:554:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000554",
+      "rawToken": "blouse",
+      "rawText": "你看blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:556:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000556",
+      "rawToken": "blouse",
+      "rawText": "blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:559:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000559",
+      "rawToken": "blouse",
+      "rawText": "blouse",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:572:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000572",
+      "rawToken": "blouse",
+      "rawText": "blouse叫上衣",
+      "normalizedCandidates": [
+        "blouse"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "blouse",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:575:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000575",
+      "rawToken": "escalator",
+      "rawText": "escalator",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:577:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000577",
+      "rawToken": "escalator",
+      "rawText": "escalator叫电梯",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:578:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000578",
+      "rawToken": "escalator",
+      "rawText": "我们先不写escalator",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:579:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000579",
+      "rawToken": "escalator",
+      "rawText": "咱们就escalator",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:581:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000581",
+      "rawToken": "elevator",
+      "rawText": "elevator",
+      "normalizedCandidates": [
+        "elevator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elevator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:592:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000592",
+      "rawToken": "escalator",
+      "rawText": "当我搜索escalator的时候",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:600:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000600",
+      "rawToken": "elevator",
+      "rawText": "而当我搜索elevator的时候",
+      "normalizedCandidates": [
+        "elevator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elevator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:603:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000603",
+      "rawToken": "elevator",
+      "rawText": "这种电梯的elevator",
+      "normalizedCandidates": [
+        "elevator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elevator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:604:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000604",
+      "rawToken": "levator",
+      "rawText": "但当我搜索levator的时候",
+      "normalizedCandidates": [
+        "levator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "levator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:645:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000645",
+      "rawToken": "lever",
+      "rawText": "叫做lever",
+      "normalizedCandidates": [
+        "lever"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "lever",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:653:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000653",
+      "rawToken": "lever",
+      "rawText": "所以lever这个词",
+      "normalizedCandidates": [
+        "lever"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "lever",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:658:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000658",
+      "rawToken": "lever",
+      "rawText": "所以lever叫杠杆",
+      "normalizedCandidates": [
+        "lever"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "lever",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:665:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000665",
+      "rawToken": "lift",
+      "rawText": "那么lift",
+      "normalizedCandidates": [
+        "lift"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "lift",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:677:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000677",
+      "rawToken": "escalator",
+      "rawText": "那个escalator",
+      "normalizedCandidates": [
+        "escalator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "escalator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:679:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000679",
+      "rawToken": "elevator",
+      "rawText": "那个elevator",
+      "normalizedCandidates": [
+        "elevator"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elevator",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:684:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000684",
+      "rawToken": "beast",
+      "rawText": "beast",
+      "normalizedCandidates": [
+        "beast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "beast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:690:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000690",
+      "rawToken": "heast",
+      "rawText": "heast什么意思呢",
+      "normalizedCandidates": [
+        "heast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "heast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:691:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000691",
+      "rawToken": "heast",
+      "rawText": "heast就是你生词",
+      "normalizedCandidates": [
+        "heast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "heast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:718:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000718",
+      "rawToken": "pose",
+      "rawText": "你pose把它学好",
+      "normalizedCandidates": [
+        "pose"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pose",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:726:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000726",
+      "rawToken": "OPPO",
+      "rawText": "那么OPPO",
+      "normalizedCandidates": [
+        "oppo"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "oppo",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:728:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000728",
+      "rawToken": "pose",
+      "rawText": "pose叫摆放",
+      "normalizedCandidates": [
+        "pose"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "pose",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:734:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000734",
+      "rawToken": "opposite",
+      "rawText": "opposite",
+      "normalizedCandidates": [
+        "opposite"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "opposite",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:738:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000738",
+      "rawToken": "Irior",
+      "rawText": "Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:743:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000743",
+      "rawToken": "Irior",
+      "rawText": "Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:758:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000758",
+      "rawToken": "Irior",
+      "rawText": "而我读这个Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:759:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000759",
+      "rawToken": "Irior",
+      "rawText": "Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:762:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000762",
+      "rawToken": "Irior",
+      "rawText": "叫Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:765:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000765",
+      "rawToken": "Irior",
+      "rawText": "区域Irior",
+      "normalizedCandidates": [
+        "irior"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "irior",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:766:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000766",
+      "rawToken": "Cotton",
+      "rawText": "Cotton叫棉花",
+      "normalizedCandidates": [
+        "cotton"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cotton",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:774:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000774",
+      "rawToken": "Cotton",
+      "rawText": "Cotton呢",
+      "normalizedCandidates": [
+        "cotton"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cotton",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:776:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000776",
+      "rawToken": "Cotton",
+      "rawText": "Cotton",
+      "normalizedCandidates": [
+        "cotton"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cotton",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:779:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000779",
+      "rawToken": "Tomato",
+      "rawText": "你包括Tomato",
+      "normalizedCandidates": [
+        "tomato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tomato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:783:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000783",
+      "rawToken": "Tomato",
+      "rawText": "一个是Tomato",
+      "normalizedCandidates": [
+        "tomato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tomato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:784:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000784",
+      "rawToken": "Tomato",
+      "rawText": "一个是Tomato",
+      "normalizedCandidates": [
+        "tomato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tomato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:785:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000785",
+      "rawToken": "Potato",
+      "rawText": "一个是Potato",
+      "normalizedCandidates": [
+        "potato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "potato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:808:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000808",
+      "rawToken": "Tado",
+      "rawText": "Tado啊",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:809:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000809",
+      "rawToken": "Potato",
+      "rawText": "所以Potato",
+      "normalizedCandidates": [
+        "potato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "potato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:810:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000810",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:811:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000811",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:815:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000815",
+      "rawToken": "Tado",
+      "rawText": "就是Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:816:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000816",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:817:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000817",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:818:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000818",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:819:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000819",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:820:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000820",
+      "rawToken": "Tado",
+      "rawText": "Tado",
+      "normalizedCandidates": [
+        "tado"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tado",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:857:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000857",
+      "rawToken": "orange",
+      "rawText": "橘子不叫orange",
+      "normalizedCandidates": [
+        "orange"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "orange",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:858:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000858",
+      "rawToken": "tangerine",
+      "rawText": "橘子叫tangerine啊",
+      "normalizedCandidates": [
+        "tangerine"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tangerine",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:859:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000859",
+      "rawToken": "tangerine",
+      "rawText": "当橘子叫tangerine的时候",
+      "normalizedCandidates": [
+        "tangerine"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tangerine",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:860:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000860",
+      "rawToken": "tang",
+      "rawText": "这前面这个tang就是什么呢",
+      "normalizedCandidates": [
+        "tang"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tang",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:868:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000868",
+      "rawToken": "tangerine",
+      "rawText": "tangerine就这样出现了橘子和那个荔枝这些玩意",
+      "normalizedCandidates": [
+        "tangerine"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tangerine",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:871:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000871",
+      "rawToken": "long",
+      "rawText": "如果这个词叫long眼啊",
+      "normalizedCandidates": [
+        "long"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "long",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:874:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000874",
+      "rawToken": "long",
+      "rawText": "long眼",
+      "normalizedCandidates": [
+        "long"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "long",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:875:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000875",
+      "rawToken": "long",
+      "rawText": "long眼龙眼",
+      "normalizedCandidates": [
+        "long"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "long",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:906:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000906",
+      "rawToken": "tato",
+      "rawText": "叫tato",
+      "normalizedCandidates": [
+        "tato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:914:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000914",
+      "rawToken": "potato",
+      "rawText": "所以potato",
+      "normalizedCandidates": [
+        "potato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "potato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:916:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000916",
+      "rawToken": "tomato",
+      "rawText": "tomato",
+      "normalizedCandidates": [
+        "tomato"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tomato",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:935:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000935",
+      "rawToken": "tobacco",
+      "rawText": "还有一个叫tobacco啊",
+      "normalizedCandidates": [
+        "tobacco"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tobacco",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:936:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000936",
+      "rawToken": "tobacco",
+      "rawText": "tobacco什么东西呢",
+      "normalizedCandidates": [
+        "tobacco"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tobacco",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:939:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000939",
+      "rawToken": "tobata",
+      "rawText": "你个tobata",
+      "normalizedCandidates": [
+        "tobata"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tobata",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:957:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000957",
+      "rawToken": "cotton",
+      "rawText": "而cotton叫棉花",
+      "normalizedCandidates": [
+        "cotton"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cotton",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:965:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000965",
+      "rawToken": "FIX",
+      "rawText": "FIX",
+      "normalizedCandidates": [
+        "fix"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fix",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:995:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s000995",
+      "rawToken": "FIX",
+      "rawText": "所以FIX",
+      "normalizedCandidates": [
+        "fix"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fix",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1006:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001006",
+      "rawToken": "FIX",
+      "rawText": "所以FIX",
+      "normalizedCandidates": [
+        "fix"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fix",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1018:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001018",
+      "rawToken": "FI",
+      "rawText": "那你说这个FI什么东西呢",
+      "normalizedCandidates": [
+        "fi"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fi",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1027:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001027",
+      "rawToken": "loop",
+      "rawText": "那么loop",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1029:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001029",
+      "rawToken": "LOOP",
+      "rawText": "LOOP",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1031:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001031",
+      "rawToken": "HOOP",
+      "rawText": "HOOP",
+      "normalizedCandidates": [
+        "hoop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hoop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1037:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001037",
+      "rawToken": "loop",
+      "rawText": "当我搜索loop的时候",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1048:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001048",
+      "rawToken": "loop",
+      "rawText": "loop",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1070:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001070",
+      "rawToken": "loop",
+      "rawText": "用的就是这个词叫loop",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1071:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001071",
+      "rawToken": "whoop",
+      "rawText": "那whoop什么东西呢",
+      "normalizedCandidates": [
+        "whoop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "whoop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1072:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001072",
+      "rawToken": "whoop",
+      "rawText": "whoop什么东西",
+      "normalizedCandidates": [
+        "whoop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "whoop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1104:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001104",
+      "rawToken": "whoop",
+      "rawText": "所以whoop",
+      "normalizedCandidates": [
+        "whoop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "whoop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1107:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001107",
+      "rawToken": "loop",
+      "rawText": "而loop",
+      "normalizedCandidates": [
+        "loop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "loop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1119:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001119",
+      "rawToken": "whoop",
+      "rawText": "你这是whoop",
+      "normalizedCandidates": [
+        "whoop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "whoop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1141:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001141",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1142:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001142",
+      "rawToken": "auro",
+      "rawText": "当你现在想去读出auro的时候",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1144:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001144",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1147:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001147",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1148:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001148",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1151:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001151",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1152:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001152",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1156:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001156",
+      "rawToken": "au",
+      "rawText": "au",
+      "normalizedCandidates": [
+        "au"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "au",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1157:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001157",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1161:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001161",
+      "rawToken": "auro",
+      "rawText": "口语就叫做auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1162:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001162",
+      "rawToken": "english",
+      "rawText": "english",
+      "normalizedCandidates": [
+        "english"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "english",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1166:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001166",
+      "rawToken": "auro",
+      "rawText": "叫auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1167:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001167",
+      "rawToken": "english",
+      "rawText": "english",
+      "normalizedCandidates": [
+        "english"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "english",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1172:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001172",
+      "rawToken": "auro",
+      "rawText": "auro的话",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1182:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001182",
+      "rawToken": "auro",
+      "rawText": "所以auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1183:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001183",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1184:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001184",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1185:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001185",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1194:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001194",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1195:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001195",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1209:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001209",
+      "rawToken": "au",
+      "rawText": "au是长得非常像的",
+      "normalizedCandidates": [
+        "au"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "au",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1215:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001215",
+      "rawToken": "auro",
+      "rawText": "auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1221:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001221",
+      "rawToken": "auro",
+      "rawText": "所以auro",
+      "normalizedCandidates": [
+        "auro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "auro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1243:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001243",
+      "rawToken": "boil",
+      "rawText": "所以这个boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1244:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001244",
+      "rawToken": "boil",
+      "rawText": "boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1245:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001245",
+      "rawToken": "boil",
+      "rawText": "boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1257:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001257",
+      "rawToken": "boil",
+      "rawText": "所以boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1258:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001258",
+      "rawToken": "boil",
+      "rawText": "boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1263:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001263",
+      "rawToken": "boil",
+      "rawText": "叫做boil",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1272:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001272",
+      "rawToken": "boil",
+      "rawText": "就是boil吗",
+      "normalizedCandidates": [
+        "boil"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boil",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1282:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001282",
+      "rawToken": "ER",
+      "rawText": "当我加上ER",
+      "normalizedCandidates": [
+        "er"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "er",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1283:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001283",
+      "rawToken": "boiler",
+      "rawText": "boiler",
+      "normalizedCandidates": [
+        "boiler"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boiler",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1296:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001296",
+      "rawToken": "boiler",
+      "rawText": "当我搜索boiler的时候",
+      "normalizedCandidates": [
+        "boiler"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "boiler",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1373:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001373",
+      "rawToken": "VIP",
+      "rawText": "你是咱们VIP学员",
+      "normalizedCandidates": [
+        "vip"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "vip",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1374:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001374",
+      "rawToken": "VIP",
+      "rawText": "你是咱们VIP学员",
+      "normalizedCandidates": [
+        "vip"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "vip",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1416:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001416",
+      "rawToken": "tooth",
+      "rawText": "牙齿的tooth",
+      "normalizedCandidates": [
+        "tooth"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "tooth",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1465:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001465",
+      "rawToken": "aural",
+      "rawText": "aural",
+      "normalizedCandidates": [
+        "aural"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "aural",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1506:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001506",
+      "rawToken": "How many English words does the average person know",
+      "rawText": "How many English words does the average person know",
+      "normalizedCandidates": [
+        "how-many-english-words-does-the-average-person-know"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "how-many-english-words-does-the-average-person-know",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 51
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1573:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001573",
+      "rawToken": "net",
+      "rawText": "我现在我连net都不太认识",
+      "normalizedCandidates": [
+        "net"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "net",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1574:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001574",
+      "rawToken": "net",
+      "rawText": "你要连net都不太认识的话",
+      "normalizedCandidates": [
+        "net"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "net",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1577:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001577",
+      "rawToken": "net",
+      "rawText": "你一个net都不认识的人",
+      "normalizedCandidates": [
+        "net"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "net",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1578:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001578",
+      "rawToken": "some",
+      "rawText": "我不可能指望你认识some",
+      "normalizedCandidates": [
+        "some"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "some",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1579:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001579",
+      "rawToken": "some",
+      "rawText": "你要some都不认识人",
+      "normalizedCandidates": [
+        "some"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "some",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1580:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001580",
+      "rawToken": "another",
+      "rawText": "你不可能认识another",
+      "normalizedCandidates": [
+        "another"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "another",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1604:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001604",
+      "rawToken": "teacher",
+      "rawText": "我相信teacher教师这个词汇频率更高",
+      "normalizedCandidates": [
+        "teacher"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "teacher",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1634:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001634",
+      "rawToken": "YYDS",
+      "rawText": "2万词汇是YYDS",
+      "normalizedCandidates": [
+        "yyds"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "yyds",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1653:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001653",
+      "rawToken": "indented",
+      "rawText": "那我出现了indented",
+      "normalizedCandidates": [
+        "indented"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "indented",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1682:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001682",
+      "rawToken": "indented",
+      "rawText": "所以indented",
+      "normalizedCandidates": [
+        "indented"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "indented",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1731:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001731",
+      "rawToken": "port",
+      "rawText": "叫port",
+      "normalizedCandidates": [
+        "port"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "port",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1735:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001735",
+      "rawToken": "port",
+      "rawText": "那么port叫挂",
+      "normalizedCandidates": [
+        "port"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "port",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1780:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001780",
+      "rawToken": "potential",
+      "rawText": "叫potential",
+      "normalizedCandidates": [
+        "potential"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "potential",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1781:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001781",
+      "rawToken": "ent",
+      "rawText": "这个ent啊",
+      "normalizedCandidates": [
+        "ent"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ent",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1783:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001783",
+      "rawToken": "il",
+      "rawText": "这个il啊",
+      "normalizedCandidates": [
+        "il"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "il",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-fd8941ac9793a0ae:1814:0:deterministic-srt-v1",
+      "sourceId": "source-fd8941ac9793a0ae",
+      "segmentId": "source-fd8941ac9793a0ae:s001814",
+      "rawToken": "potential",
+      "rawText": "这个potential",
+      "normalizedCandidates": [
+        "potential"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "potential",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    }
+  ]
+}

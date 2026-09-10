@@ -1,0 +1,29 @@
+{
+  "id": "significant",
+  "headword": "significant",
+  "status": "confirmed",
+  "cardId": "significant",
+  "mentionIds": [
+    "source-b7a5f1e565950e5b:89:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:106:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "significant",
+    "label": "重要的；显著的",
+    "meaning": "significant",
+    "family": "family",
+    "lessonId": "vocabulary-027",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 significant 与 sign/signify 放在一起对照，落到“重要的、有意义的”。",
+    "rehearsal": "朗读 sign—signify—significant，并说 significant“重要的”。",
+    "caution": "课堂词族链不应被当作完整词源解释。"
+  },
+  "legacyLessonId": "vocabulary-027",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/significant.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

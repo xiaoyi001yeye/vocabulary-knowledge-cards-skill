@@ -1,0 +1,26 @@
+{
+  "id": "anniversary",
+  "headword": "anniversary",
+  "status": "confirmed",
+  "cardId": "anniversary",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "anniversary",
+    "label": "周年纪念日",
+    "meaning": "周年纪念日",
+    "family": "event",
+    "lessonId": "vocabulary-024",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用 wedding anniversary 的祝福场景记忆 anniversary。",
+    "rehearsal": "说 wedding anniversary，再口述“结婚纪念日”。",
+    "caution": "anniversary 可用于多种周年事件；搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-024",
+  "legacyMnemonicCategory": "event",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/anniversary.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

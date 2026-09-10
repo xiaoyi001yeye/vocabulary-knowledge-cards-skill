@@ -4,8 +4,17 @@
   "meaning": "三明治",
   "family": "meaning",
   "lessonId": "vocabulary-022",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 sandwich，并用日常食物情境反复确认中文基本义。",
   "rehearsal": "想象两片面包夹馅，朗读 sandwich，说“三明治”。",
   "caution": "字幕关于中文名称来源的说法不作为本卡事实；仅保留明确的基本释义。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "sandwich",
+    "mentionIds": [
+      "source-270fd0178a19029e:451:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:452:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

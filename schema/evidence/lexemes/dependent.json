@@ -1,0 +1,31 @@
+{
+  "id": "dependent",
+  "headword": "dependent",
+  "status": "confirmed",
+  "cardId": "dependent",
+  "mentionIds": [
+    "source-9f7314f00761b13d:239:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:250:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:312:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:316:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "dependent",
+    "label": "依赖的；取决于",
+    "meaning": "dependent",
+    "family": "family",
+    "lessonId": "vocabulary-023",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“在别人脚底下的小跟班”画面记 dependent 的依靠感，并提示不再硬拆难懂部分。",
+    "rehearsal": "做出跟在别人身后的动作，说 dependent，随后说出“依赖”。",
+    "caution": "“小跟班”是课堂画面，不是该词的词源解释。"
+  },
+  "legacyLessonId": "vocabulary-023",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/dependent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

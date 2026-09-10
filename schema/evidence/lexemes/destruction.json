@@ -1,0 +1,28 @@
+{
+  "id": "destruction",
+  "headword": "destruction",
+  "status": "confirmed",
+  "cardId": "destruction",
+  "mentionIds": [
+    "source-465469b62dd00822:355:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "destruction",
+    "label": "破坏；毁灭",
+    "meaning": "destruction",
+    "family": "contrast",
+    "lessonId": "vocabulary-030",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 destruction 放到东西被毁坏后的结果画面，并与 destroy 对照。",
+    "rehearsal": "想象一座积木塔被推倒，说 destruction“破坏”。",
+    "caution": "课堂对照不替代严格构词解释。"
+  },
+  "legacyLessonId": "vocabulary-030",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/destruction.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

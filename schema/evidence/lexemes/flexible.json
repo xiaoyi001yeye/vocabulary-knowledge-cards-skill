@@ -1,0 +1,34 @@
+{
+  "id": "flexible",
+  "headword": "flexible",
+  "status": "confirmed",
+  "cardId": "flexible",
+  "mentionIds": [
+    "source-b7a5f1e565950e5b:147:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:148:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:149:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:151:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:153:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:158:1:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:166:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "flexible",
+    "label": "灵活的；可弯曲的",
+    "meaning": "flexible",
+    "family": "scene",
+    "lessonId": "vocabulary-027",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以“能弯曲的东西”为动作画面记 flexible，并用反复朗读加强声音记忆。",
+    "rehearsal": "轻轻弯曲一张纸或手指，说 flexible，再说“可弯曲的、灵活的”。",
+    "caution": "课堂把它与 flat 的说法属于记忆联想；不可据此推断严格构词关系。"
+  },
+  "legacyLessonId": "vocabulary-027",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/flexible.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

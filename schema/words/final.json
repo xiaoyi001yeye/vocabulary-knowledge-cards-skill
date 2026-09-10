@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂想象课程即将 finish；完成前出现的最后阶段就是 final。",
   "rehearsal": "说“课程要完成了”，再朗读 final 并指出最后一步。",
-  "caution": "finish 与 final 的连接是课堂场景助记。"
+  "caution": "finish 与 final 的连接是课堂场景助记。",
+  "evidence": {
+    "lexemeId": "final",
+    "mentionIds": [
+      "source-0759dd85e8a2a5af:1124:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:1136:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:1197:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

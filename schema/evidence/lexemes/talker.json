@@ -1,0 +1,26 @@
+{
+  "id": "talker",
+  "headword": "talker",
+  "status": "confirmed",
+  "cardId": "talker",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "talker",
+    "label": "说话者；健谈的人",
+    "meaning": "说话者；健谈的人",
+    "family": "meaning",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "talk 是说话，表示人的成分让它成为说话的人。",
+    "rehearsal": "问谁在 talk，回答 talker。",
+    "caution": "语气与用法以词典为准。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/talker.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

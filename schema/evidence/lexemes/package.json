@@ -1,0 +1,30 @@
+{
+  "id": "package",
+  "headword": "package",
+  "status": "confirmed",
+  "cardId": "package",
+  "mentionIds": [
+    "source-d70e0af1dc1fb370:40:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:64:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:77:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "package",
+    "label": "包裹；一包",
+    "meaning": "包裹；一包",
+    "family": "scene",
+    "lessonId": "vocabulary-021",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从“包”出发，把 package 放在包裹/行李的可见物品上记忆。",
+    "rehearsal": "拿起一个小包，朗读 package，说“包裹”。",
+    "caution": "字幕中把 baggage 转写为 backage；本卡只保留 package 的明确基本义。"
+  },
+  "legacyLessonId": "vocabulary-021",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/package.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

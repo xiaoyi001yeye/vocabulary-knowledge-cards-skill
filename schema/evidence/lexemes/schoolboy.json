@@ -1,0 +1,26 @@
+{
+  "id": "schoolboy",
+  "headword": "schoolboy",
+  "status": "confirmed",
+  "cardId": "schoolboy",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "schoolboy",
+    "label": "男学生",
+    "meaning": "男学生",
+    "family": "meaning",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "school 是学校，boy 是男孩，整体意义直接写在组成上。",
+    "rehearsal": "拆 school + boy 并合成意义。",
+    "caution": "显性会意。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/schoolboy.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

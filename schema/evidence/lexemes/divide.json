@@ -1,0 +1,32 @@
+{
+  "id": "divide",
+  "headword": "divide",
+  "status": "confirmed",
+  "cardId": "divide",
+  "mentionIds": [
+    "source-366220025a701762:367:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:1376:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:1383:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:79:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:365:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "divide",
+    "label": "分开；除",
+    "meaning": "分开；除",
+    "family": "action",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接把 divide 放在把整体分开的动作中。",
+    "rehearsal": "把纸画线分成两部分，朗读 divide，说“分开”。",
+    "caution": "divide 的数学和一般动词用法请以词典例句区分。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "action",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/divide.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -4,8 +4,14 @@
   "meaning": "sunny",
   "family": "suffix",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 sun（太阳）+ -y 想成“太阳特别足”的天气。",
   "rehearsal": "看窗外或想太阳，读 sunny，造句 It is sunny.",
   "caution": "sunny 是天气形容词；-y 是词形的一部分，不等于规则性叠加太阳。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "sunny",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

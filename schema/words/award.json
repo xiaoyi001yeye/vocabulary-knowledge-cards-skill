@@ -4,8 +4,35 @@
   "meaning": "奖；奖项；授予（奖项）",
   "family": "颁奖场景",
   "lessonId": "vocabulary-033",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用金马奖、百花奖、金鸡奖及 Golden Horse Award 的颁奖台画面落实 award。",
   "rehearsal": "想象把奖杯递给获奖者，朗读 award 并说“奖项”。",
   "caution": "与 reward 的“单向”比较仅是课堂区分法；基本义以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "award",
+    "mentionIds": [
+      "source-8e85860baa296563:954:0:deterministic-srt-v1",
+      "source-8e85860baa296563:958:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1026:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1028:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1041:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1062:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1068:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1093:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1109:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1120:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1121:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1122:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1123:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1124:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1125:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1126:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1127:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1139:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1149:0:deterministic-srt-v1",
+      "source-8e85860baa296563:1233:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "actor",
+  "headword": "actor",
+  "status": "confirmed",
+  "cardId": "actor",
+  "mentionIds": [
+    "source-0e8ccb05819e8652:1086:0:deterministic-srt-v1",
+    "source-0e8ccb05819e8652:1091:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:27:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "actor",
+    "label": "男演员；演员",
+    "meaning": "男演员；演员",
+    "family": "family",
+    "lessonId": "vocabulary-020",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接给出 actor“男演员”，并立刻引出 actress 作对照。",
+    "rehearsal": "朗读 actor，再说“男演员/演员”，随后对比 actress。",
+    "caution": "现代英语中 actor 也可作不分性别的“演员”；以具体语境为准。"
+  },
+  "legacyLessonId": "vocabulary-020",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/actor.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

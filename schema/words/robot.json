@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将 robot 与类人机器人的画面并列。",
   "rehearsal": "想象一个完成指令的机器人，朗读 robot，说“机器人”。",
-  "caution": "robot 是基础义；不要把课堂画面当成技术定义。"
+  "caution": "robot 是基础义；不要把课堂画面当成技术定义。",
+  "evidence": {
+    "lexemeId": "robot",
+    "mentionIds": [
+      "source-1286da1d410e31f1:165:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:169:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

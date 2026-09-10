@@ -4,8 +4,19 @@
   "meaning": "floor",
   "family": "shape",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 floor 归到“平平整整的一块东西”，以地板的平面帮助记忆。",
   "rehearsal": "看地面，说 a flat floor。",
   "caution": "转写中此处可能把 floor 听成了 float；正式卡片采用语境最一致的 floor。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "floor",
+    "mentionIds": [
+      "source-632feac3831b11d8:1388:1:deterministic-srt-v1",
+      "source-632feac3831b11d8:1400:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1414:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1419:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

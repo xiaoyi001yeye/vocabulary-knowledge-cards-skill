@@ -4,8 +4,14 @@
   "meaning": "handwriting",
   "family": "compound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂按 hand（手）+ writing（书写）理解为“用手写出来的字/笔迹”，并提醒它不等于书法。",
   "rehearsal": "在纸上写一个词，再说 hand + writing。",
   "caution": "handwriting 可指笔迹或手写文本，不专指漂亮的书法。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "handwriting",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

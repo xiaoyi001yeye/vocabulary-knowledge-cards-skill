@@ -1,0 +1,26 @@
+{
+  "id": "sprout",
+  "headword": "sprout",
+  "status": "confirmed",
+  "cardId": "sprout",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "sprout",
+    "label": "嫩芽；发芽",
+    "meaning": "sprout",
+    "family": "sound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 spring（春天）里“冒出来”的嫩芽画面与 sprout 联系起来。",
+    "rehearsal": "用两根手指从拳头中冒出，读 sprout，并说 seeds sprout。",
+    "caution": "sprout 与 spring 的课堂画面不是严格构词拆分。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/sprout.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

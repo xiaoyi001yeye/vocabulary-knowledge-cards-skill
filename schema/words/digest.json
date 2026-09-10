@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂反复朗读 digest，并以消化食物的过程作为主要记忆场景。",
   "rehearsal": "做出吞咽后消化的手势，说 digest“消化”；再提醒自己它也可表示理解内容。",
-  "caution": "课堂场景是助记，词的多义和发音请查词典。"
+  "caution": "课堂场景是助记，词的多义和发音请查词典。",
+  "evidence": {
+    "lexemeId": "digest",
+    "mentionIds": [
+      "source-622171f243572270:29:0:deterministic-srt-v1",
+      "source-622171f243572270:30:0:deterministic-srt-v1",
+      "source-622171f243572270:37:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

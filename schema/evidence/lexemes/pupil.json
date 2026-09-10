@@ -1,0 +1,26 @@
+{
+  "id": "pupil",
+  "headword": "pupil",
+  "status": "confirmed",
+  "cardId": "pupil",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "pupil",
+    "label": "小学生；瞳孔",
+    "meaning": "小学生；瞳孔",
+    "family": "school",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂在 headmaster 与学生的学校场景中出现 pupil。",
+    "rehearsal": "想象校长面对一名学生，朗读 pupil，说“学生”。",
+    "caution": "pupil 也可表示“瞳孔”；本卡只记录课堂中的学生义。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "school",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/pupil.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

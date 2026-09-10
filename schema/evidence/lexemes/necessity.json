@@ -1,0 +1,28 @@
+{
+  "id": "necessity",
+  "headword": "necessity",
+  "status": "confirmed",
+  "cardId": "necessity",
+  "mentionIds": [
+    "source-1286da1d410e31f1:91:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "necessity",
+    "label": "必要性；必需品",
+    "meaning": "必要性；必需品",
+    "family": "family",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂由 necessary 引出名词 necessity。",
+    "rehearsal": "先说 necessary“必要的”，再说 necessity“必要性”。",
+    "caution": "两词关系用于复习，词形变化和具体用法请查词典。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/necessity.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

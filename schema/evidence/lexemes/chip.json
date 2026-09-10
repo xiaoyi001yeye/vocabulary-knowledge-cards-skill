@@ -1,0 +1,43 @@
+{
+  "id": "chip",
+  "headword": "chip",
+  "status": "confirmed",
+  "cardId": "chip",
+  "mentionIds": [
+    "source-0759dd85e8a2a5af:674:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:680:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:681:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:687:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:688:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:691:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:693:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:699:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:735:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:736:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:737:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:744:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:756:0:deterministic-srt-v1",
+    "source-612049534432ae7e:179:0:deterministic-srt-v1",
+    "source-612049534432ae7e:180:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1256:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "chip",
+    "label": "薄片；薯片；芯片",
+    "meaning": "薄片；薯片；芯片",
+    "family": "对比",
+    "lessonId": "vocabulary-014",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 chip 与 chop 对照：想象薄片飞出，并联到薯片、芯片。",
+    "rehearsal": "朗读 chip，再说出一个薄片或芯片的例子。",
+    "caution": "与 chop 的对比是课堂助记，并非语源说明。"
+  },
+  "legacyLessonId": "vocabulary-014",
+  "legacyMnemonicCategory": "对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/chip.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

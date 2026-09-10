@@ -7,5 +7,20 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将 relationship 与泛指 relation 对照，突出较亲近、较好的人的关系。",
   "rehearsal": "说出一对朋友并口述他们的 relationship。",
-  "caution": "这是课堂语用对照，不能替代完整词典释义。"
+  "caution": "这是课堂语用对照，不能替代完整词典释义。",
+  "evidence": {
+    "lexemeId": "relationship",
+    "mentionIds": [
+      "source-a07e3afb28e15970:626:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:643:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:644:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:646:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:649:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:651:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:671:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:689:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "neighborhood",
+  "headword": "neighborhood",
+  "status": "confirmed",
+  "cardId": "neighborhood",
+  "mentionIds": [
+    "source-142ed3e72b9ecbb9:175:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:188:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "neighborhood",
+    "label": "街区；社区",
+    "meaning": "街区；社区",
+    "family": "place",
+    "lessonId": "vocabulary-019",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂由 neighbor 扩展到邻居聚集的 neighborhood。",
+    "rehearsal": "想象自己住的街区，朗读 neighborhood，再说“社区”。",
+    "caution": "课堂扩展只作助记；具体搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-019",
+  "legacyMnemonicCategory": "place",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/neighborhood.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

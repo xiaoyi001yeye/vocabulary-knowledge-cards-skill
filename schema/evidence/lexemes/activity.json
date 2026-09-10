@@ -1,0 +1,30 @@
+{
+  "id": "activity",
+  "headword": "activity",
+  "status": "confirmed",
+  "cardId": "activity",
+  "mentionIds": [
+    "source-632feac3831b11d8:201:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:208:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:585:2:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "activity",
+    "label": "活动",
+    "meaning": "活动",
+    "family": "词形变化",
+    "lessonId": "vocabulary-003",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 active“活跃”接上 -ity，转成名词 activity，并以 outdoor activity 作场景。",
+    "rehearsal": "先说 active，再说 activity；给出一个户外活动例子。",
+    "caution": "-ity 的讲解是课堂抓手；词性和派生关系以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-003",
+  "legacyMnemonicCategory": "词形变化",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/activity.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "recreation",
+  "headword": "recreation",
+  "status": "confirmed",
+  "cardId": "recreation",
+  "mentionIds": [
+    "source-366220025a701762:238:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "recreation",
+    "label": "娱乐；消遣",
+    "meaning": "娱乐；消遣",
+    "family": "action",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂由 recreate 引到 recreation，放在休闲活动场景中。",
+    "rehearsal": "想一项休闲活动，朗读 recreation，说“娱乐”。",
+    "caution": "recreation 与 recreate 的课堂关系用于记忆，不替代词典说明。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "action",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/recreation.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

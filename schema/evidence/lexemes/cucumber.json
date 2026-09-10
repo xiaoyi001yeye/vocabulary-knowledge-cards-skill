@@ -1,0 +1,35 @@
+{
+  "id": "cucumber",
+  "headword": "cucumber",
+  "status": "confirmed",
+  "cardId": "cucumber",
+  "mentionIds": [
+    "source-d748ac8183a6c4bc:1124:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1131:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1147:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1148:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1158:1:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1159:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1197:1:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:2028:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "cucumber",
+    "label": "黄瓜",
+    "meaning": "黄瓜",
+    "family": "表面触感",
+    "lessonId": "vocabulary-006",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 cucumber 的重复起伏音感联想为黄瓜表面凹凸的触感。",
+    "rehearsal": "想象摸黄瓜表面的凹凸，朗读 cucumber 并说“黄瓜”。",
+    "caution": "声音与表面触感的联系是课堂助记，不是词源。"
+  },
+  "legacyLessonId": "vocabulary-006",
+  "legacyMnemonicCategory": "表面触感",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/cucumber.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

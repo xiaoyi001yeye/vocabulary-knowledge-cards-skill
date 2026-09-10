@@ -4,8 +4,21 @@
   "meaning": "段落",
   "family": "meaning",
   "lessonId": "vocabulary-022",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从“段落是写出来的”这一提示回忆 paragraph，并以写画土地状态的比喻进入书写主题。",
   "rehearsal": "写三句相关的话并空一行分段，朗读 paragraph，说“段落”。",
   "caution": "课堂关于词根的说明是记忆线索，不是严格词源结论。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "paragraph",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:2407:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:14:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:863:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1051:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1082:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1089:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

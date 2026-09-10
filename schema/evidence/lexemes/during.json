@@ -1,0 +1,45 @@
+{
+  "id": "during",
+  "headword": "during",
+  "status": "confirmed",
+  "cardId": "during",
+  "mentionIds": [
+    "source-a07e3afb28e15970:62:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:63:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:65:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:69:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:81:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:82:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:86:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:89:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:92:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:109:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:114:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:115:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:119:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:124:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:125:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:202:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:260:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:261:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "during",
+    "label": "在……期间",
+    "meaning": "在……期间",
+    "family": "读音",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂拉长 during 的发音，联想二战期间或中学时代那样很长的时间跨度。",
+    "rehearsal": "拉长朗读 during，并用 during + 一段长时期造短语。",
+    "caution": "拉长声音是记忆提示，不代表词源。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "读音",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/during.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

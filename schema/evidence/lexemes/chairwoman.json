@@ -1,0 +1,31 @@
+{
+  "id": "chairwoman",
+  "headword": "chairwoman",
+  "status": "confirmed",
+  "cardId": "chairwoman",
+  "mentionIds": [
+    "source-149a15ed602adec6:1309:0:deterministic-srt-v1",
+    "source-d9a7b5c2219a9fc4:1272:0:deterministic-srt-v1",
+    "source-d9a7b5c2219a9fc4:1274:0:deterministic-srt-v1",
+    "source-d9a7b5c2219a9fc4:1276:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "chairwoman",
+    "label": "女主席",
+    "meaning": "女主席",
+    "family": "组合",
+    "lessonId": "vocabulary-012",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂透明拆分 chair + woman：主席位置上的女性。",
+    "rehearsal": "说 chair + woman，再回答“女主席”并造一个简短身份句。",
+    "caution": "组合用于初步助记，实际称谓用法以词典和语境为准。"
+  },
+  "legacyLessonId": "vocabulary-012",
+  "legacyMnemonicCategory": "组合",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/chairwoman.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

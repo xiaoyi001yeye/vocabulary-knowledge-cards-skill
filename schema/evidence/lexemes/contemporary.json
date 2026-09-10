@@ -1,0 +1,30 @@
+{
+  "id": "contemporary",
+  "headword": "contemporary",
+  "status": "confirmed",
+  "cardId": "contemporary",
+  "mentionIds": [
+    "source-7f5185c9dd3fe186:439:0:deterministic-srt-v1",
+    "source-7f5185c9dd3fe186:448:0:deterministic-srt-v1",
+    "source-7f5185c9dd3fe186:452:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "contemporary",
+    "label": "当代的；同时代的",
+    "meaning": "contemporary",
+    "family": "scene",
+    "lessonId": "vocabulary-031",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“同一时间、同一个时代”的画面记 contemporary。",
+    "rehearsal": "说出两位同一时代的人，并说 contemporary“同时代的”。",
+    "caution": "课堂拆分是助记提示，非严格词源结论。"
+  },
+  "legacyLessonId": "vocabulary-031",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/contemporary.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

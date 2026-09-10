@@ -1,0 +1,29 @@
+{
+  "id": "bright",
+  "label": "明亮的；聪明的",
+  "meaning": "明亮的；聪明的",
+  "family": "语义与场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接给出 bright 的“明亮”义；先想灯光明亮，再保留它还可形容人聪明这一常见义项。",
+  "rehearsal": "看向一盏亮灯，朗读 bright，并说“明亮的”。",
+  "caution": "bright 有多种常见义项，具体语境以词典为准。",
+  "evidence": {
+    "lexemeId": "bright",
+    "mentionIds": [
+      "source-149a15ed602adec6:887:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:887:1:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:570:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:573:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:578:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:581:1:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:592:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:604:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:608:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:623:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:514:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

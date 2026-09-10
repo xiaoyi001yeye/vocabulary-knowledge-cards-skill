@@ -1,0 +1,43 @@
+{
+  "id": "travel",
+  "label": "旅行；旅行活动",
+  "meaning": "旅行；旅行活动",
+  "family": "读音与口形",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂让学习者完整朗读 travel，并提示读起来有“出去了”的感觉，再对应“旅行”。",
+  "rehearsal": "完整朗读 travel，想象自己出门旅行，并说“旅行”。",
+  "caution": "声音与出行画面是课堂助记，不是严格词源解释。",
+  "evidence": {
+    "lexemeId": "travel",
+    "mentionIds": [
+      "source-e51c67807adb6e8c:1160:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1164:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1169:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1172:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1175:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1181:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1184:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1201:1:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1236:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1244:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1245:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1257:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1263:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1268:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1274:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1291:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1322:1:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1474:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1497:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1498:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1503:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1533:1:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1560:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1579:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:1592:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

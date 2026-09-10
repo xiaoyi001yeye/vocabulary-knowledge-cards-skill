@@ -4,8 +4,23 @@
   "meaning": "脏的",
   "family": "拼写对比",
   "lessonId": "vocabulary-033",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 tidy“整洁”出发，以整洁房间变成脏乱房间的反向画面来记住 dirty。",
   "rehearsal": "先说 tidy 是整洁，再指向一处脏乱画面说 dirty。",
   "caution": "拼写位置对调的说法仅是课堂联想，不是词源或拼写规则。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "dirty",
+    "mentionIds": [
+      "source-142ed3e72b9ecbb9:690:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:692:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:694:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:699:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:700:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:724:0:deterministic-srt-v1",
+      "source-8e85860baa296563:327:0:deterministic-srt-v1",
+      "source-8e85860baa296563:332:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -4,8 +4,21 @@
   "meaning": "矿物质",
   "family": "roots",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "mine、miner、mineral 连成矿山、矿工、矿物质，核心矿保持稳定。",
   "rehearsal": "口述 mine → miner → mineral。",
   "caution": "注意词性差异。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "mineral",
+    "mentionIds": [
+      "source-270fd0178a19029e:2239:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2245:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2248:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2271:0:deterministic-srt-v1",
+      "source-622171f243572270:898:0:deterministic-srt-v1",
+      "source-622171f243572270:899:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

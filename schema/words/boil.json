@@ -4,8 +4,22 @@
   "meaning": "沸腾；煮沸",
   "family": "声音画面",
   "lessonId": "vocabulary-005",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用水烧开时不断冒泡的声音和画面来记住 boil。",
   "rehearsal": "模仿锅中水冒泡的声音，口述“水开了，boil”。",
   "caution": "拟声画面仅服务于复习。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "boil",
+    "mentionIds": [
+      "source-fd8941ac9793a0ae:1243:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1244:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1245:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1257:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1258:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1263:0:deterministic-srt-v1",
+      "source-fd8941ac9793a0ae:1272:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

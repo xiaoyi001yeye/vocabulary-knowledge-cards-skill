@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 press“压”的动作联想到 pressure“压力”。",
   "rehearsal": "用双手做按压动作，朗读 pressure，说“压力”。",
-  "caution": "press 与 pressure 的课堂关系用于记忆；词形和搭配以词典为准。"
+  "caution": "press 与 pressure 的课堂关系用于记忆；词形和搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "pressure",
+    "mentionIds": [
+      "source-9f7314f00761b13d:260:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

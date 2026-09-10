@@ -1,0 +1,29 @@
+{
+  "id": "accent",
+  "headword": "accent",
+  "status": "confirmed",
+  "cardId": "accent",
+  "mentionIds": [
+    "source-270fd0178a19029e:239:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:261:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "accent",
+    "label": "口音；重音",
+    "meaning": "口音；重音",
+    "family": "sound",
+    "lessonId": "vocabulary-022",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 accent 放在“加强语气、重点去唱”的声音动作里，帮助记住重音/口音。",
+    "rehearsal": "把一个词的一个音节读得更重，说 accent，再说“重音/口音”。",
+    "caution": "accent 的“口音”和“重音”需依上下文区分；课堂解释不是完整语音学定义。"
+  },
+  "legacyLessonId": "vocabulary-022",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/accent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

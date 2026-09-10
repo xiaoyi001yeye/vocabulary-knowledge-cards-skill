@@ -1,0 +1,28 @@
+{
+  "id": "purpose",
+  "headword": "purpose",
+  "status": "confirmed",
+  "cardId": "purpose",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:1780:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "purpose",
+    "label": "目的",
+    "meaning": "目的",
+    "family": "meaning",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂在 to the purpose 的语境中提示 purpose“目的”。",
+    "rehearsal": "说 My purpose is...，再口述“目的”。",
+    "caution": "固定搭配和介词选择请以词典例句为准。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/purpose.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

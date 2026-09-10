@@ -7,5 +7,16 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂开头直接提问 emotion 的意思，并将其落到人的情绪和感受。",
   "rehearsal": "想起一种高兴或难过的感受，说 emotion“情绪”。",
-  "caution": "课堂只提供基本义入口；可数性和搭配请以词典为准。"
+  "caution": "课堂只提供基本义入口；可数性和搭配请以词典为准。",
+  "evidence": {
+    "lexemeId": "emotion",
+    "mentionIds": [
+      "source-1da33e32e5e8d7ff:1591:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:1592:0:deterministic-srt-v1",
+      "source-622171f243572270:1:0:deterministic-srt-v1",
+      "source-622171f243572270:4:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

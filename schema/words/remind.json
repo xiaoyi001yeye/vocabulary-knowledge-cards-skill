@@ -4,8 +4,24 @@
   "meaning": "提醒；使想起",
   "family": "scene",
   "lessonId": "vocabulary-021",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 re 说成“返回”，把 mind 说成“思想”，形成“让你再次想起来”的提醒动作。",
   "rehearsal": "想起一件待办事项，对自己说 Remind me，再说“提醒”。",
   "caution": "课堂拆分为助记；实际词源和搭配请查词典。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "remind",
+    "mentionIds": [
+      "source-d70e0af1dc1fb370:84:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:95:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:101:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:102:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:126:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:127:1:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:129:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:130:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:135:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

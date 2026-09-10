@@ -1,0 +1,28 @@
+{
+  "id": "adore",
+  "headword": "adore",
+  "status": "confirmed",
+  "cardId": "adore",
+  "mentionIds": [
+    "source-7f5185c9dd3fe186:277:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "adore",
+    "label": "喜爱；热爱",
+    "meaning": "adore",
+    "family": "scene",
+    "lessonId": "vocabulary-031",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 adore 放在见到非常喜欢的人或物时的强烈喜爱感中。",
+    "rehearsal": "选一件喜爱的物品，说 I adore it，再口述“热爱”。",
+    "caution": "示例仅用于复现动作；实际语气强度和搭配请查词典。"
+  },
+  "legacyLessonId": "vocabulary-031",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/adore.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

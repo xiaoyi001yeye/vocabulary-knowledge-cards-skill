@@ -4,8 +4,16 @@
   "meaning": "adorable",
   "family": "family",
   "lessonId": "vocabulary-031",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 adorable 与 adore 放在一起，记为“让人很喜欢、很可爱”。",
   "rehearsal": "先说 adore“热爱”，再看可爱物品说 adorable。",
   "caution": "课堂词族联想不等于全部构词或词源解释。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "adorable",
+    "mentionIds": [
+      "source-7f5185c9dd3fe186:306:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

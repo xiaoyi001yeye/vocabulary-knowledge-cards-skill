@@ -4,8 +4,14 @@
   "meaning": "筷子",
   "family": "组合拆分",
   "lessonId": "vocabulary-003",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 chop 说成“砍、削”，stick 说成“小棍”，想象两根削出的细棍来记住 chopsticks。",
   "rehearsal": "说 chop、stick，再用两根手指模拟筷子夹取。",
   "caution": "课堂字幕写作“Chop sticks”；卡片采用标准拼写 chopsticks，拆分仅作助记。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "chopsticks",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

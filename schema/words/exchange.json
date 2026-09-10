@@ -4,8 +4,16 @@
   "meaning": "交换",
   "family": "画面",
   "lessonId": "vocabulary-013",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 change 和 ex-“向外”的提示出发，想象你的东西变成我的、我的变成你的。",
   "rehearsal": "用两件物品做交换动作，并说 exchange。",
   "caution": "课堂前缀说明用于助记，不替代词典构词解释。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "exchange",
+    "mentionIds": [
+      "source-fc5804a317f88303:632:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

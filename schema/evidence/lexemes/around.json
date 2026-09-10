@@ -1,0 +1,31 @@
+{
+  "id": "around",
+  "headword": "around",
+  "status": "confirmed",
+  "cardId": "around",
+  "mentionIds": [
+    "source-a07e3afb28e15970:268:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:269:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:270:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:281:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "around",
+    "label": "围绕；到处；大约",
+    "meaning": "围绕；到处；大约",
+    "family": "画面",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 round 的“圆”出发，想象东西围在身边；身边到处都是，提示 around 的延伸用法。",
+    "rehearsal": "环顾四周说 look around，并用手画一圈。",
+    "caution": "round 与 around 的联系是课堂助记。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/around.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

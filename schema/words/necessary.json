@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 necessary“必须的/必要的”。",
   "rehearsal": "说 It is necessary，再口述“必要的”。",
-  "caution": "课堂只保留基本义；拼写和搭配以词典为准。"
+  "caution": "课堂只保留基本义；拼写和搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "necessary",
+    "mentionIds": [
+      "source-1286da1d410e31f1:83:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:85:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:86:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

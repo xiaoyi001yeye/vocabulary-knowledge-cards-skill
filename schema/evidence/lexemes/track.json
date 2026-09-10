@@ -1,0 +1,45 @@
+{
+  "id": "track",
+  "headword": "track",
+  "status": "confirmed",
+  "cardId": "track",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:762:0:deterministic-srt-v1",
+    "source-366220025a701762:198:0:deterministic-srt-v1",
+    "source-612049534432ae7e:304:0:deterministic-srt-v1",
+    "source-612049534432ae7e:307:0:deterministic-srt-v1",
+    "source-612049534432ae7e:310:0:deterministic-srt-v1",
+    "source-612049534432ae7e:314:0:deterministic-srt-v1",
+    "source-612049534432ae7e:319:0:deterministic-srt-v1",
+    "source-612049534432ae7e:320:0:deterministic-srt-v1",
+    "source-612049534432ae7e:321:0:deterministic-srt-v1",
+    "source-612049534432ae7e:322:0:deterministic-srt-v1",
+    "source-612049534432ae7e:323:0:deterministic-srt-v1",
+    "source-612049534432ae7e:325:0:deterministic-srt-v1",
+    "source-612049534432ae7e:326:0:deterministic-srt-v1",
+    "source-612049534432ae7e:327:0:deterministic-srt-v1",
+    "source-612049534432ae7e:344:0:deterministic-srt-v1",
+    "source-8e85860baa296563:833:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:75:0:deterministic-srt-v1",
+    "source-a5018fd792d84e0f:79:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "track",
+    "label": "轨道；踪迹；赛道",
+    "meaning": "track",
+    "family": "movement",
+    "lessonId": "vocabulary-024",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用可跟随的路线、轨道或留下的踪迹建立 track 的画面。",
+    "rehearsal": "画一条可跟随的线，朗读 track，并说出“沿着轨迹走”。",
+    "caution": "课堂画面只覆盖核心义；具体义项和搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-024",
+  "legacyMnemonicCategory": "movement",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/track.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sleeve",
+  "headword": "sleeve",
+  "status": "confirmed",
+  "cardId": "sleeve",
+  "mentionIds": [
+    "source-d9a7b5c2219a9fc4:37:0:deterministic-srt-v1",
+    "source-d9a7b5c2219a9fc4:42:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "sleeve",
+    "label": "袖子",
+    "meaning": "袖子",
+    "family": "字形画面",
+    "lessonId": "vocabulary-007",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂注意 sleeve 中的三个 e，把它们画成管状形，并联想到传统长袖动作。",
+    "rehearsal": "写出 sleeve，圈出三个 e，再做甩袖动作。",
+    "caution": "三个 e 的形状只是拼写助记，不是词源。"
+  },
+  "legacyLessonId": "vocabulary-007",
+  "legacyMnemonicCategory": "字形画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/sleeve.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

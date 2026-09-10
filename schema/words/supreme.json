@@ -4,8 +4,24 @@
   "meaning": "最高的；至高无上的",
   "family": "空间画面",
   "lessonId": "vocabulary-034",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂画 x-y 坐标轴：横向最远是 extreme，y 轴最顶端的点是 supreme。",
   "rehearsal": "在空中画纵轴并指向最高点，朗读 supreme。",
   "caution": "坐标轴对照只是课堂形象化助记。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "supreme",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:3903:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:3914:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:167:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:168:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:169:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:170:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:175:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:182:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:186:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

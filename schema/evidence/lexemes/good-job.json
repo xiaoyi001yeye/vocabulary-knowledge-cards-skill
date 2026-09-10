@@ -1,0 +1,26 @@
+{
+  "id": "good-job",
+  "headword": "good-job",
+  "status": "confirmed",
+  "cardId": "good-job",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "good-job",
+    "label": "干得好",
+    "meaning": "good job",
+    "family": "meaning",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂提醒 good job 不是字面“好工作”，而是对完成得好的赞扬。",
+    "rehearsal": "完成一个小任务后对自己说 Good job!",
+    "caution": "也可指“不错的工作/职位”，含义取决于语境。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/good-job.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

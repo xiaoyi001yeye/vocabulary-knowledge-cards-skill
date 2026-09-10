@@ -4,8 +4,23 @@
   "meaning": "reception",
   "family": "scene",
   "lessonId": "vocabulary-027",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“接待来的人”的场景记 reception，并从接待台联想到这一基本义。",
   "rehearsal": "想象走到酒店接待台，说 reception，再说“接待处”。",
   "caution": "课堂拆分和联想不等于严格词源；不同语境下 reception 还有其他义项。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "reception",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:913:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:919:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:920:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:922:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:18:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:19:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:26:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:37:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

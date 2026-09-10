@@ -1,0 +1,28 @@
+{
+  "id": "monument",
+  "headword": "monument",
+  "status": "confirmed",
+  "cardId": "monument",
+  "mentionIds": [
+    "source-612049534432ae7e:123:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "monument",
+    "label": "纪念碑；历史遗迹",
+    "meaning": "monument",
+    "family": "scene",
+    "lessonId": "vocabulary-037",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 monument 放到大型纪念性建筑或遗迹的视觉画面中。",
+    "rehearsal": "想象一座城市地标纪念碑，说 monument“纪念碑”。",
+    "caution": "视觉画面只用于记忆常见义项，具体文化含义请查资料。"
+  },
+  "legacyLessonId": "vocabulary-037",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/monument.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -4,8 +4,14 @@
   "meaning": "pencil case",
   "family": "compound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 pencil（铅笔）与 case（盒子）入手：先“抓到”铅笔，再放进盒子，落到“装铅笔的盒子/笔袋”。",
   "rehearsal": "说出 pencil + case，并指着自己的笔袋复述“装铅笔的盒子”。",
   "caution": "这是透明合成词；case 还可指案件、情况等，需按语境判断。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "pencil-case",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

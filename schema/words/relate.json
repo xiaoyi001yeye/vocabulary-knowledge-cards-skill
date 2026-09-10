@@ -7,5 +7,16 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把两件事反复“拉扯”、在中间牵线搭桥，提示 relate = 使发生联系。",
   "rehearsal": "在两件物品之间画一条线，再说 relate them。",
-  "caution": "“拉线”是课堂画面助记。"
+  "caution": "“拉线”是课堂画面助记。",
+  "evidence": {
+    "lexemeId": "relate",
+    "mentionIds": [
+      "source-a07e3afb28e15970:592:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:602:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:609:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:620:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

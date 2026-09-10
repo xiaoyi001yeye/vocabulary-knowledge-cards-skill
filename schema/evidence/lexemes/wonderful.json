@@ -1,0 +1,30 @@
+{
+  "id": "wonderful",
+  "headword": "wonderful",
+  "status": "confirmed",
+  "cardId": "wonderful",
+  "mentionIds": [
+    "source-23363ceac2a543da:139:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:148:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:199:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "wonderful",
+    "label": "极好的；精彩的",
+    "meaning": "wonderful",
+    "family": "sound",
+    "lessonId": "vocabulary-028",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用 wonder 的惊叹感引出 wonderful，把它记成“让人惊叹、很棒”。",
+    "rehearsal": "看到一个喜欢的画面时说 wonderful，并口述“极好的”。",
+    "caution": "wonder 与 wonderful 的课堂联系仅作复习抓手；准确用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-028",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/wonderful.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

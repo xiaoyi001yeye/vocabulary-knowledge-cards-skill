@@ -1,0 +1,34 @@
+{
+  "id": "loaf",
+  "headword": "loaf",
+  "status": "confirmed",
+  "cardId": "loaf",
+  "mentionIds": [
+    "source-d748ac8183a6c4bc:436:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:442:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:443:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:452:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:470:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1957:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:1974:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "loaf",
+    "label": "一条（面包）",
+    "meaning": "一条（面包）",
+    "family": "形状对比",
+    "lessonId": "vocabulary-006",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂对比 leaf 和 loaf：叶子扁薄，而一条面包蓬起、沉重。",
+    "rehearsal": "分别用手比出薄叶和蓬松面包，再读 loaf。",
+    "caution": "薄与厚的声音联想只是课堂记忆画面。"
+  },
+  "legacyLessonId": "vocabulary-006",
+  "legacyMnemonicCategory": "形状对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/loaf.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

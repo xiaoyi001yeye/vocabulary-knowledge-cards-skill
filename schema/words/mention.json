@@ -4,8 +4,22 @@
   "meaning": "提到；说起",
   "family": "contrast",
   "lessonId": "vocabulary-021",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂区分“提到”和“提醒”：mention 是说起某人或某事，不一定是提醒。",
   "rehearsal": "说 I mentioned the book，再口述“提到不一定等于提醒”。",
   "caution": "mention/remind 的课堂对比用于区分基本义，不能替代全部用法。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "mention",
+    "mentionIds": [
+      "source-d70e0af1dc1fb370:104:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:108:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:125:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:127:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:128:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:131:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:135:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

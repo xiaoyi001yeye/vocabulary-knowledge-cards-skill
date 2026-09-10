@@ -1,0 +1,29 @@
+{
+  "id": "armchair",
+  "headword": "armchair",
+  "status": "confirmed",
+  "cardId": "armchair",
+  "mentionIds": [
+    "source-38da6b51185af49e:547:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:549:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "armchair",
+    "label": "扶手椅",
+    "meaning": "扶手椅",
+    "family": "组合",
+    "lessonId": "vocabulary-011",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 arm + chair 作为透明组合：有扶手（arm）的椅子。",
+    "rehearsal": "说出 arm + chair，再指着或想象一把带扶手的椅子。",
+    "caution": "这是课堂组合助记；具体用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-011",
+  "legacyMnemonicCategory": "组合",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/armchair.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

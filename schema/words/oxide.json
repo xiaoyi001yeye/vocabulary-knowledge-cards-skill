@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 oxide 放在与 oxygen 相关的科学词汇中。",
   "rehearsal": "朗读 oxide，说“氧化物”。",
-  "caution": "oxide 的化学定义以可靠教材为准；不要只凭课堂联想推断。"
+  "caution": "oxide 的化学定义以可靠教材为准；不要只凭课堂联想推断。",
+  "evidence": {
+    "lexemeId": "oxide",
+    "mentionIds": [
+      "source-366220025a701762:340:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "avenue",
+  "headword": "avenue",
+  "status": "confirmed",
+  "cardId": "avenue",
+  "mentionIds": [
+    "source-9b2057d0a839eee7:16:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:36:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "avenue",
+    "label": "大街；林荫道",
+    "meaning": "avenue",
+    "family": "scene",
+    "lessonId": "vocabulary-034",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂明确把 avenue 落到“大街”的城市道路画面。",
+    "rehearsal": "想象一条宽阔的城市大街，说 avenue“林荫道；大街”。",
+    "caution": "课堂画面用于基本义记忆；地区用法及比喻义请查词典。"
+  },
+  "legacyLessonId": "vocabulary-034",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/avenue.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

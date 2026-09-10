@@ -197,6 +197,10 @@ export class ExplorerPage {
     const meaning = element('span', 'tag'); meaning.textContent = word.meaning;
     this.detailPanel.append(eyebrow, title, family, meaning);
     addSection(this.detailPanel, '来源', word.source);
+    const evidenceText = word.evidence.provenanceStatus === 'candidate-token-match'
+      ? `已归档 ${word.evidence.mentionIds.length} 条字幕候选记录、${word.evidence.reviewIds.length} 条复核记录；该匹配来自可复现的字幕 token 扫描，仍可继续人工或模型复核。`
+      : '旧卡片尚未找到可复现的字幕 token 匹配；已保留原始卡片内容，等待后续补充精确证据。';
+    addSection(this.detailPanel, '证据归档', evidenceText);
     addSection(this.detailPanel, '课堂原始记忆方法', word.classroomMethod);
     addSection(this.detailPanel, '30 秒复现动作', word.rehearsal);
     addSection(this.detailPanel, '使用提醒', word.caution);

@@ -4,8 +4,17 @@
   "meaning": "宫殿",
   "family": "shape",
   "lessonId": "vocabulary-021",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 palace 想成在 place 上“加大”的地方，用宏大的建筑画面记“宫殿”。",
   "rehearsal": "想象一座很大的宫殿，朗读 palace，说“宫殿”。",
   "caution": "place 与 palace 的课堂字形联想不是严格构词或词源结论。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "palace",
+    "mentionIds": [
+      "source-d70e0af1dc1fb370:159:3:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:159:4:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

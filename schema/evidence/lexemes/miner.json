@@ -1,0 +1,29 @@
+{
+  "id": "miner",
+  "headword": "miner",
+  "status": "confirmed",
+  "cardId": "miner",
+  "mentionIds": [
+    "source-270fd0178a19029e:2242:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:2269:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "miner",
+    "label": "矿工",
+    "meaning": "矿工",
+    "family": "roots",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "从矿山出发，矿山中工作的角色自然是矿工。",
+    "rehearsal": "看到 mine 时补一个工作的人。",
+    "caution": "结合 -er 的常见规律。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "roots",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/miner.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}
