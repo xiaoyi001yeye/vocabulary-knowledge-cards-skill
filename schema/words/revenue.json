@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂在 avenue、venue 的声音对比中明确给出 revenue“收入”。",
   "rehearsal": "朗读 revenue，并口述“企业或政府得到的收入”。",
-  "caution": "课堂声音对比仅为助记，不可据此推断词源或构词。"
+  "caution": "课堂声音对比仅为助记，不可据此推断词源或构词。",
+  "evidence": {
+    "lexemeId": "revenue",
+    "mentionIds": [
+      "source-9b2057d0a839eee7:37:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

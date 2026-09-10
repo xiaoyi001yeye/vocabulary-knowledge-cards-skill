@@ -1,0 +1,29 @@
+{
+  "id": "archaeology",
+  "headword": "archaeology",
+  "status": "confirmed",
+  "cardId": "archaeology",
+  "mentionIds": [
+    "source-366220025a701762:15:0:deterministic-srt-v1",
+    "source-366220025a701762:25:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "archaeology",
+    "label": "考古学",
+    "meaning": "archaeology",
+    "family": "history",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 archaeology 放进发掘和研究古代遗物的场景中记忆。",
+    "rehearsal": "朗读 archaeology，并口述：研究古代遗物和遗址的学科。",
+    "caution": "课堂可能给出成分联想；正式释义、拼写和词源以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "history",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/archaeology.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

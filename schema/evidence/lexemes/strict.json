@@ -1,0 +1,30 @@
+{
+  "id": "strict",
+  "headword": "strict",
+  "status": "confirmed",
+  "cardId": "strict",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:2:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:2:3:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:3:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "strict",
+    "label": "严格的；严厉的",
+    "meaning": "strict",
+    "family": "sound",
+    "lessonId": "vocabulary-finale",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用反复模仿 strict 的声音建立听觉抓手，再落到“严格的”。",
+    "rehearsal": "朗读 strict 三次，想象一位要求严格的老师。",
+    "caution": "声音模仿是课堂助记，发音和用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-finale",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/strict.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

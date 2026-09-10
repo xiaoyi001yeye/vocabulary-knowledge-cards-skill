@@ -4,8 +4,22 @@
   "meaning": "举起；提高；筹集",
   "family": "contrast",
   "lessonId": "vocabulary-019",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 raise 与 rise 对照，强调有外力把某物抬起或提高。",
   "rehearsal": "用手举起一本书，说 raise it，再对比太阳会 rise。",
   "caution": "raise 的义项和及物用法需结合例句学习。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "raise",
+    "mentionIds": [
+      "source-142ed3e72b9ecbb9:299:1:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:310:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:327:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:11:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:15:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:19:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:20:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

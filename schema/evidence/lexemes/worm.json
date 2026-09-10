@@ -1,0 +1,29 @@
+{
+  "id": "worm",
+  "headword": "worm",
+  "status": "confirmed",
+  "cardId": "worm",
+  "mentionIds": [
+    "source-96d8bf479a3cd23d:1121:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:1125:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "worm",
+    "label": "虫；蠕虫",
+    "meaning": "虫；蠕虫",
+    "family": "形状画面",
+    "lessonId": "vocabulary-004",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用虫体弯弯曲曲的形状和朗读时的卷动感来记住 worm。",
+    "rehearsal": "用手指在空中画一条弯曲虫，再读 worm。",
+    "caution": "字形和声音的对应仅是课堂联想。"
+  },
+  "legacyLessonId": "vocabulary-004",
+  "legacyMnemonicCategory": "形状画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/worm.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

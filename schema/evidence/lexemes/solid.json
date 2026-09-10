@@ -1,0 +1,31 @@
+{
+  "id": "solid",
+  "headword": "solid",
+  "status": "confirmed",
+  "cardId": "solid",
+  "mentionIds": [
+    "source-0759dd85e8a2a5af:1472:0:deterministic-srt-v1",
+    "source-366220025a701762:348:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:850:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:851:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "solid",
+    "label": "固体的；固体",
+    "meaning": "固体的；固体",
+    "family": "science",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 solid 与 liquid、fluid 并列，表示物质状态。",
+    "rehearsal": "摸一个坚硬物体，朗读 solid，说“固体”。",
+    "caution": "物态概念请以科学教材为准。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "science",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/solid.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

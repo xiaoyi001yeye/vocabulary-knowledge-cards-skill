@@ -1,0 +1,28 @@
+{
+  "id": "strawberry",
+  "headword": "strawberry",
+  "status": "confirmed",
+  "cardId": "strawberry",
+  "mentionIds": [
+    "source-270fd0178a19029e:1389:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "strawberry",
+    "label": "草莓",
+    "meaning": "strawberry",
+    "family": "compound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 straw（秸秆/稻草）与 berry（浆果）连读，先抓住“草/茎秆 + 浆果”的画面。",
+    "rehearsal": "依次说 straw、berry、strawberry，并写出拼写。",
+    "caution": "strawberry 的历史来源与现代构词联想并不完全等同；berry 是“浆果类”而非所有水果。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "compound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/strawberry.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

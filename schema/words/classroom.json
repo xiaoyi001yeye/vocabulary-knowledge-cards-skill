@@ -4,8 +4,14 @@
   "meaning": "classroom",
   "family": "compound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接拆为 class（班级）+ room（房间），落到“班级上课的房间”。",
   "rehearsal": "写 class + room，并指向教室说 This is our classroom.",
   "caution": "这是透明合成词；classroom 不等于任何有人的房间。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "classroom",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

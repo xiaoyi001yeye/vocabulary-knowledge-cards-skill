@@ -1,0 +1,41 @@
+{
+  "id": "hobby",
+  "headword": "hobby",
+  "status": "confirmed",
+  "cardId": "hobby",
+  "mentionIds": [
+    "source-38da6b51185af49e:6:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:6:1:deterministic-srt-v1",
+    "source-38da6b51185af49e:6:2:deterministic-srt-v1",
+    "source-38da6b51185af49e:7:0:deterministic-srt-v1",
+    "source-38da6b51185af49e:7:1:deterministic-srt-v1",
+    "source-38da6b51185af49e:7:2:deterministic-srt-v1",
+    "source-38da6b51185af49e:7:3:deterministic-srt-v1",
+    "source-38da6b51185af49e:7:4:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:625:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:627:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:629:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:631:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:633:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:660:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "hobby",
+    "label": "爱好",
+    "meaning": "爱好",
+    "family": "日常场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以“足球就是你的 hobby”和“你喜欢做的事情”说明 hobby 是爱好。",
+    "rehearsal": "说出一项自己喜欢做的事，朗读 hobby，并说“这是我的爱好”。",
+    "caution": "课堂例子用于助记；固定搭配以词典为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "日常场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/hobby.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

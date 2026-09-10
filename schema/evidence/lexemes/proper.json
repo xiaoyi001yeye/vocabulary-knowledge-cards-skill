@@ -1,0 +1,42 @@
+{
+  "id": "proper",
+  "headword": "proper",
+  "status": "confirmed",
+  "cardId": "proper",
+  "mentionIds": [
+    "source-1286da1d410e31f1:515:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:541:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:543:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:546:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:599:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:608:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:625:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:412:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:423:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:432:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:455:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:459:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:472:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:510:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:524:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "proper",
+    "label": "合适的；恰当的",
+    "meaning": "proper",
+    "family": "judgment",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以“合不合适”的判断场景讲解 proper，帮助区分恰当与不恰当。",
+    "rehearsal": "选择一个日常行为，口述：Is it proper? 然后回答恰当或不恰当。",
+    "caution": "课堂的判断场景是助记；词义范围和搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "judgment",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/proper.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

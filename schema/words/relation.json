@@ -7,5 +7,20 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 relation 解释为任何事物间都可能有的关系，例如人与工具。",
   "rehearsal": "举出两件有联系的事物，说 they have a relation。",
-  "caution": "relation 与 relationship 的语用边界仍应以词典例句为准。"
+  "caution": "relation 与 relationship 的语用边界仍应以词典例句为准。",
+  "evidence": {
+    "lexemeId": "relation",
+    "mentionIds": [
+      "source-a07e3afb28e15970:622:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:624:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:634:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:638:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:678:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:679:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:686:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:687:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "escalator",
+  "headword": "escalator",
+  "status": "confirmed",
+  "cardId": "escalator",
+  "mentionIds": [
+    "source-fd8941ac9793a0ae:575:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:577:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:578:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:579:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:592:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:677:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "escalator",
+    "label": "自动扶梯",
+    "meaning": "自动扶梯",
+    "family": "对比画面",
+    "lessonId": "vocabulary-005",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂与竖直升降的 elevator 对照，想象有扶手、台阶和齿轮持续运转的滚梯。",
+    "rehearsal": "分别用手比出上下直升与斜向移动，读 escalator。",
+    "caution": "机械画面是课堂助记；不要把它当作单词词源分析。"
+  },
+  "legacyLessonId": "vocabulary-005",
+  "legacyMnemonicCategory": "对比画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/escalator.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "abroad",
+  "headword": "abroad",
+  "status": "confirmed",
+  "cardId": "abroad",
+  "mentionIds": [
+    "source-1286da1d410e31f1:371:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:373:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:381:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:413:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:414:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:423:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "abroad",
+    "label": "在国外；到国外",
+    "meaning": "abroad",
+    "family": "travel",
+    "lessonId": "vocabulary-024",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 abroad 放进离开本国、去国外的旅行场景中理解。",
+    "rehearsal": "朗读 abroad 三次，再说：go abroad 表示去国外。",
+    "caution": "课堂的旅行画面是助记；固定搭配和介词用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-024",
+  "legacyMnemonicCategory": "travel",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/abroad.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

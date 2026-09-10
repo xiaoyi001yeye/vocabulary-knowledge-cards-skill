@@ -4,8 +4,14 @@
   "meaning": "Walkman",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂反问“走着的人吗？”再落到“能跟着我一起走的听音伙伴”，即随身听。",
   "rehearsal": "边走两步边说 Walkman = portable music player。",
   "caution": "Walkman 原是索尼的品牌名，现常被泛指随身听；不按 walk + man 直译。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "walkman",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

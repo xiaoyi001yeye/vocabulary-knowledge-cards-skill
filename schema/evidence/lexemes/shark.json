@@ -1,0 +1,28 @@
+{
+  "id": "shark",
+  "headword": "shark",
+  "status": "confirmed",
+  "cardId": "shark",
+  "mentionIds": [
+    "source-c884a08f37ae1da1:1592:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "shark",
+    "label": "鲨鱼",
+    "meaning": "鲨鱼",
+    "family": "画面与对比",
+    "lessonId": "vocabulary-018",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用鲨鱼尖头的画面，并与 sharp 的“锋利”建立对比记忆。",
+    "rehearsal": "画出鲨鱼尖头，交替朗读 shark / sharp。",
+    "caution": "声音相近和尖头画面仅作助记。"
+  },
+  "legacyLessonId": "vocabulary-018",
+  "legacyMnemonicCategory": "画面与对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/shark.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "baggage",
+  "headword": "baggage",
+  "status": "confirmed",
+  "cardId": "baggage",
+  "mentionIds": [
+    "source-a16e1bfcf6d30d55:60:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "baggage",
+    "label": "行李",
+    "meaning": "baggage",
+    "family": "scene",
+    "lessonId": "vocabulary-029",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 baggage 放进出行时提着、托运的行李画面。",
+    "rehearsal": "想象在机场托运行李，说 baggage“行李”。",
+    "caution": "画面助记不替代词典中的可数性和搭配说明。"
+  },
+  "legacyLessonId": "vocabulary-029",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/baggage.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

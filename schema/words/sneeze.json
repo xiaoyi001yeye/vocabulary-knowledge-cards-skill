@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 sneeze 的尖促声音同打喷嚏时的“啊—气”动作联系起来。",
   "rehearsal": "模仿一次打喷嚏动作和声音，再朗读 sneeze。",
-  "caution": "拟声联系仅为课堂助记；发音和释义以词典为准。"
+  "caution": "拟声联系仅为课堂助记；发音和释义以词典为准。",
+  "evidence": {
+    "lexemeId": "sneeze",
+    "mentionIds": [
+      "source-96d8bf479a3cd23d:222:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:285:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:287:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

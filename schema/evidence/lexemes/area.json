@@ -1,0 +1,34 @@
+{
+  "id": "area",
+  "headword": "area",
+  "status": "confirmed",
+  "cardId": "area",
+  "mentionIds": [
+    "source-a07e3afb28e15970:519:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:525:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:535:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:538:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:543:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:564:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:565:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "area",
+    "label": "区域；面积；范围",
+    "meaning": "区域；面积；范围",
+    "family": "声音与画面",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂朗读 area 时追求连绵起伏感，想象一大片不平坦的区域。",
+    "rehearsal": "拉长朗读 area，并手势画出一片起伏的区域。",
+    "caution": "起伏感是课堂联想，不是词源结论。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "声音与画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/area.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

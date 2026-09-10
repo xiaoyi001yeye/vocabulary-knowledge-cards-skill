@@ -1,0 +1,28 @@
+{
+  "id": "curiosity",
+  "headword": "curiosity",
+  "status": "confirmed",
+  "cardId": "curiosity",
+  "mentionIds": [
+    "source-366220025a701762:104:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "curiosity",
+    "label": "好奇心；奇物",
+    "meaning": "curiosity",
+    "family": "interest",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从“想知道、想追问”的心理状态建立 curiosity 的好奇心画面。",
+    "rehearsal": "对一个陌生事物连续提出一个问题，并说：This is curiosity。",
+    "caution": "课堂的心理画面是助记；词义范围及与 curious 的关系以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "interest",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/curiosity.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

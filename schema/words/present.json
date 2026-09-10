@@ -4,8 +4,26 @@
   "meaning": "出席的；在场的",
   "family": "contrast",
   "lessonId": "vocabulary-019",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 present 放到点名“出席”的场景中，与 absent 对照。",
   "rehearsal": "想象点名时回答“在”，朗读 present，再说“出席”。",
   "caution": "present 还有“礼物、现在的”等常见义项；本卡只记录课堂中的出席义。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "present",
+    "mentionIds": [
+      "source-142ed3e72b9ecbb9:257:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:259:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:264:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:273:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:289:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:294:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:296:0:deterministic-srt-v1",
+      "source-366220025a701762:162:0:deterministic-srt-v1",
+      "source-366220025a701762:186:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1124:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1184:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

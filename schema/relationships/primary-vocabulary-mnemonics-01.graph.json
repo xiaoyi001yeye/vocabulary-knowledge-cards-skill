@@ -315,6 +315,12 @@
       "group": "compound"
     },
     {
+      "id": "bright",
+      "type": "word",
+      "label": "明亮的；聪明的",
+      "group": "shape"
+    },
+    {
       "id": "brunch",
       "type": "word",
       "label": "早午餐",
@@ -381,6 +387,12 @@
       "group": "meaning"
     },
     {
+      "id": "cent",
+      "type": "word",
+      "label": "分（货币单位）",
+      "group": "shape"
+    },
+    {
       "id": "central",
       "type": "word",
       "label": "中心的；核心的",
@@ -432,6 +444,12 @@
       "id": "closet",
       "type": "word",
       "label": "衣橱；壁橱",
+      "group": "shape"
+    },
+    {
+      "id": "coach",
+      "type": "word",
+      "label": "教练；长途客车",
       "group": "shape"
     },
     {
@@ -627,6 +645,12 @@
       "group": "family"
     },
     {
+      "id": "drip",
+      "type": "word",
+      "label": "滴下；滴落",
+      "group": "family"
+    },
+    {
       "id": "drizzle",
       "type": "word",
       "label": "毛毛雨；下毛毛雨",
@@ -765,6 +789,12 @@
       "group": "compound"
     },
     {
+      "id": "flower",
+      "type": "word",
+      "label": "花",
+      "group": "sound"
+    },
+    {
       "id": "fluent",
       "type": "word",
       "label": "流利的",
@@ -831,6 +861,12 @@
       "group": "family"
     },
     {
+      "id": "grade",
+      "type": "word",
+      "label": "年级；等级",
+      "group": "shape"
+    },
+    {
       "id": "grand",
       "type": "word",
       "label": "宏大的；盛大的；伟大的",
@@ -889,6 +925,12 @@
       "type": "word",
       "label": "高度；身高",
       "group": "meaning"
+    },
+    {
+      "id": "hobby",
+      "type": "word",
+      "label": "爱好",
+      "group": "shape"
     },
     {
       "id": "hollow",
@@ -993,6 +1035,12 @@
       "group": "meaning"
     },
     {
+      "id": "journey",
+      "type": "word",
+      "label": "旅行；旅程",
+      "group": "family"
+    },
+    {
       "id": "keyboard",
       "type": "word",
       "label": "键盘",
@@ -1003,6 +1051,12 @@
       "type": "word",
       "label": "幼儿园",
       "group": "compound"
+    },
+    {
+      "id": "labor",
+      "type": "word",
+      "label": "劳动；劳力",
+      "group": "shape"
     },
     {
       "id": "laboratory",
@@ -1063,6 +1117,12 @@
       "type": "word",
       "label": "块；肿块",
       "group": "sound"
+    },
+    {
+      "id": "market",
+      "type": "word",
+      "label": "市场",
+      "group": "shape"
     },
     {
       "id": "mate",
@@ -1128,6 +1188,12 @@
       "id": "naked",
       "type": "word",
       "label": "赤裸的；无遮盖的",
+      "group": "shape"
+    },
+    {
+      "id": "naughty",
+      "type": "word",
+      "label": "淘气的；顽皮的",
       "group": "shape"
     },
     {
@@ -1305,6 +1371,12 @@
       "group": "shape"
     },
     {
+      "id": "passion",
+      "type": "word",
+      "label": "热情；激情",
+      "group": "shape"
+    },
+    {
       "id": "peel",
       "type": "word",
       "label": "果皮；剥皮",
@@ -1368,6 +1440,12 @@
       "id": "pressure",
       "type": "word",
       "label": "压力",
+      "group": "shape"
+    },
+    {
+      "id": "price",
+      "type": "word",
+      "label": "价格；价钱",
       "group": "shape"
     },
     {
@@ -1453,6 +1531,12 @@
       "type": "word",
       "label": "目的",
       "group": "meaning"
+    },
+    {
+      "id": "queen",
+      "type": "word",
+      "label": "王后；女王",
+      "group": "shape"
     },
     {
       "id": "rainy",
@@ -1671,6 +1755,18 @@
       "group": "shape"
     },
     {
+      "id": "shade",
+      "type": "word",
+      "label": "阴影；阴凉处",
+      "group": "shape"
+    },
+    {
+      "id": "shadow",
+      "type": "word",
+      "label": "阴影",
+      "group": "shape"
+    },
+    {
       "id": "shark",
       "type": "word",
       "label": "鲨鱼",
@@ -1699,6 +1795,12 @@
       "type": "word",
       "label": "表示；意味着",
       "group": "family"
+    },
+    {
+      "id": "silly",
+      "type": "word",
+      "label": "糊涂的；傻的",
+      "group": "shape"
     },
     {
       "id": "simple",
@@ -1791,6 +1893,18 @@
       "group": "sound"
     },
     {
+      "id": "spy",
+      "type": "word",
+      "label": "间谍；暗中监视",
+      "group": "shape"
+    },
+    {
+      "id": "stick",
+      "type": "word",
+      "label": "棍；枝条",
+      "group": "shape"
+    },
+    {
       "id": "storybook",
       "type": "word",
       "label": "故事书",
@@ -1807,6 +1921,12 @@
       "type": "word",
       "label": "草莓",
       "group": "compound"
+    },
+    {
+      "id": "street",
+      "type": "word",
+      "label": "大街；街道",
+      "group": "shape"
     },
     {
       "id": "strict",
@@ -1875,6 +1995,12 @@
       "group": "compound"
     },
     {
+      "id": "toy",
+      "type": "word",
+      "label": "玩具",
+      "group": "sound"
+    },
+    {
       "id": "track",
       "type": "word",
       "label": "轨道；踪迹；赛道",
@@ -1885,6 +2011,12 @@
       "type": "word",
       "label": "转写；抄写",
       "group": "shape"
+    },
+    {
+      "id": "travel",
+      "type": "word",
+      "label": "旅行；旅行活动",
+      "group": "sound"
     },
     {
       "id": "unexpected",
@@ -2216,6 +2348,11 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "bright",
+      "type": "explains"
+    },
+    {
       "source": "compound",
       "target": "brunch",
       "type": "explains"
@@ -2271,6 +2408,11 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "cent",
+      "type": "explains"
+    },
+    {
       "source": "family",
       "target": "central",
       "type": "explains"
@@ -2313,6 +2455,11 @@
     {
       "source": "shape",
       "target": "closet",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "coach",
       "type": "explains"
     },
     {
@@ -2476,6 +2623,11 @@
       "type": "explains"
     },
     {
+      "source": "family",
+      "target": "drip",
+      "type": "explains"
+    },
+    {
       "source": "shape",
       "target": "drizzle",
       "type": "explains"
@@ -2591,6 +2743,11 @@
       "type": "explains"
     },
     {
+      "source": "sound",
+      "target": "flower",
+      "type": "explains"
+    },
+    {
       "source": "compound",
       "target": "fluent",
       "type": "explains"
@@ -2646,6 +2803,11 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "grade",
+      "type": "explains"
+    },
+    {
       "source": "meaning",
       "target": "grand",
       "type": "explains"
@@ -2693,6 +2855,11 @@
     {
       "source": "meaning",
       "target": "height",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "hobby",
       "type": "explains"
     },
     {
@@ -2781,6 +2948,11 @@
       "type": "explains"
     },
     {
+      "source": "family",
+      "target": "journey",
+      "type": "explains"
+    },
+    {
       "source": "compound",
       "target": "keyboard",
       "type": "explains"
@@ -2788,6 +2960,11 @@
     {
       "source": "compound",
       "target": "kindergarten",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "labor",
       "type": "explains"
     },
     {
@@ -2838,6 +3015,11 @@
     {
       "source": "sound",
       "target": "lump",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "market",
       "type": "explains"
     },
     {
@@ -2893,6 +3075,11 @@
     {
       "source": "shape",
       "target": "naked",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "naughty",
       "type": "explains"
     },
     {
@@ -3041,6 +3228,11 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "passion",
+      "type": "explains"
+    },
+    {
       "source": "family",
       "target": "peel",
       "type": "explains"
@@ -3093,6 +3285,11 @@
     {
       "source": "shape",
       "target": "pressure",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "price",
       "type": "explains"
     },
     {
@@ -3163,6 +3360,11 @@
     {
       "source": "meaning",
       "target": "purpose",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "queen",
       "type": "explains"
     },
     {
@@ -3346,6 +3548,16 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "shade",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "shadow",
+      "type": "explains"
+    },
+    {
       "source": "family",
       "target": "shark",
       "type": "explains"
@@ -3368,6 +3580,11 @@
     {
       "source": "family",
       "target": "signify",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "silly",
       "type": "explains"
     },
     {
@@ -3446,6 +3663,16 @@
       "type": "explains"
     },
     {
+      "source": "shape",
+      "target": "spy",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "stick",
+      "type": "explains"
+    },
+    {
       "source": "compound",
       "target": "storybook",
       "type": "explains"
@@ -3458,6 +3685,11 @@
     {
       "source": "compound",
       "target": "strawberry",
+      "type": "explains"
+    },
+    {
+      "source": "shape",
+      "target": "street",
       "type": "explains"
     },
     {
@@ -3516,6 +3748,11 @@
       "type": "explains"
     },
     {
+      "source": "sound",
+      "target": "toy",
+      "type": "explains"
+    },
+    {
       "source": "shape",
       "target": "track",
       "type": "explains"
@@ -3523,6 +3760,11 @@
     {
       "source": "shape",
       "target": "transcribe",
+      "type": "explains"
+    },
+    {
+      "source": "sound",
+      "target": "travel",
       "type": "explains"
     },
     {

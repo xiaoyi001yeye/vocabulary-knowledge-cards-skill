@@ -4,8 +4,26 @@
   "meaning": "cast",
   "family": "polysemy",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从“铸造/塑造”联想到演员被塑造成角色，再落到 a strong cast（强大的演员阵容）。",
   "rehearsal": "说 cast a statue / the cast of a film，区分两种用法。",
   "caution": "cast 是多义词；“演员表”是其一义，不能与 castle 当作直接构词关系。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "cast",
+    "mentionIds": [
+      "source-23363ceac2a543da:269:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:288:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:357:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:500:1:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:501:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:507:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:509:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:509:1:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:510:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:510:1:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:512:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

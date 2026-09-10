@@ -7,5 +7,17 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂开头直接用工厂场景给出 factory。",
   "rehearsal": "想象生产产品的工厂，朗读 factory，说“工厂”。",
-  "caution": "课堂场景只作助记，词义以词典为准。"
+  "caution": "课堂场景只作助记，词义以词典为准。",
+  "evidence": {
+    "lexemeId": "factory",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:1098:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:1284:0:deterministic-srt-v1",
+      "source-366220025a701762:1:0:deterministic-srt-v1",
+      "source-366220025a701762:281:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:1502:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

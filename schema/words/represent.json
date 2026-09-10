@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将 represent 放在代替或表示某事物的动作中。",
   "rehearsal": "指向一个符号，朗读 represent，说“代表/表示”。",
-  "caution": "represent 有多种搭配，具体义项请查词典。"
+  "caution": "represent 有多种搭配，具体义项请查词典。",
+  "evidence": {
+    "lexemeId": "represent",
+    "mentionIds": [
+      "source-366220025a701762:189:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1169:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1183:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

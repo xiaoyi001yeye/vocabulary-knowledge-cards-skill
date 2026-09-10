@@ -1,0 +1,31 @@
+{
+  "id": "automobile",
+  "headword": "automobile",
+  "status": "confirmed",
+  "cardId": "automobile",
+  "mentionIds": [
+    "source-23363ceac2a543da:214:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:218:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:220:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:221:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "automobile",
+    "label": "汽车",
+    "meaning": "automobile",
+    "family": "compound",
+    "lessonId": "vocabulary-028",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 automobile 放入“自动移动的车”的生活画面中记忆。",
+    "rehearsal": "指向一辆车或想象车开动，说 automobile“汽车”。",
+    "caution": "课堂组合联想仅作记忆提示，不是严格词源说明。"
+  },
+  "legacyLessonId": "vocabulary-028",
+  "legacyMnemonicCategory": "compound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/automobile.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

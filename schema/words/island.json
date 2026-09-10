@@ -4,8 +4,22 @@
   "meaning": "岛；岛屿",
   "family": "meaning",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "老师把岛屿讲成水中露出来的小块陆地，先有水和陆地的画面再说 island。",
   "rehearsal": "画水中小块陆地，再说 island。",
   "caution": "英文拆分不作确定结论。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "island",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:1892:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1893:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1926:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1929:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1931:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1932:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1948:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

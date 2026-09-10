@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将 sociology 作为研究社会的学科词汇呈现。",
   "rehearsal": "朗读 sociology，说“社会学”。",
-  "caution": "学科术语的精确定义以教材或词典为准。"
+  "caution": "学科术语的精确定义以教材或词典为准。",
+  "evidence": {
+    "lexemeId": "sociology",
+    "mentionIds": [
+      "source-366220025a701762:80:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

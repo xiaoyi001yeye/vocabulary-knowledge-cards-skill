@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用反复模仿 strict 的声音建立听觉抓手，再落到“严格的”。",
   "rehearsal": "朗读 strict 三次，想象一位要求严格的老师。",
-  "caution": "声音模仿是课堂助记，发音和用法以词典为准。"
+  "caution": "声音模仿是课堂助记，发音和用法以词典为准。",
+  "evidence": {
+    "lexemeId": "strict",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:2:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:2:3:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:3:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

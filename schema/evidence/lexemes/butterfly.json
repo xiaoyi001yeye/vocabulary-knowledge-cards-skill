@@ -1,0 +1,28 @@
+{
+  "id": "butterfly",
+  "headword": "butterfly",
+  "status": "confirmed",
+  "cardId": "butterfly",
+  "mentionIds": [
+    "source-e51c67807adb6e8c:966:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "butterfly",
+    "label": "蝴蝶",
+    "meaning": "蝴蝶",
+    "family": "组合画面",
+    "lessonId": "vocabulary-002",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂想象把黄油裸露在外，蝴蝶飞来吃黄油；用 butter 加 fly 的场景记住 butterfly。",
+    "rehearsal": "先说 butter、fly，再张开双臂模拟蝴蝶飞来。",
+    "caution": "butter 与 fly 的组合画面仅作课堂助记。"
+  },
+  "legacyLessonId": "vocabulary-002",
+  "legacyMnemonicCategory": "组合画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/butterfly.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

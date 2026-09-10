@@ -7,5 +7,15 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂以“看得见”与“看不见”的对立，直接落到 invisible。",
   "rehearsal": "遮住一个小物件，说 invisible = 看不见的。",
-  "caution": "转写中的词形推导不可靠；仅保留可确认的对立记忆。"
+  "caution": "转写中的词形推导不可靠；仅保留可确认的对立记忆。",
+  "evidence": {
+    "lexemeId": "invisible",
+    "mentionIds": [
+      "source-0759dd85e8a2a5af:1333:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:1334:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:1335:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

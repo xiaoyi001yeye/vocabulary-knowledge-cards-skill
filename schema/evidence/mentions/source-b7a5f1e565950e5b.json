@@ -1,0 +1,6558 @@
+{
+  "sourceId": "source-b7a5f1e565950e5b",
+  "scanner": "deterministic-srt-v1",
+  "mentions": [
+    {
+      "id": "source-b7a5f1e565950e5b:2:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000002",
+      "rawToken": "flip",
+      "rawText": "他叫做flip",
+      "normalizedCandidates": [
+        "flip"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flip",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:5:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000005",
+      "rawToken": "soul",
+      "rawText": "soul又下来了",
+      "normalizedCandidates": [
+        "soul"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "soul",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:8:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000008",
+      "rawToken": "soul",
+      "rawText": "soul又下来了",
+      "normalizedCandidates": [
+        "soul"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "soul",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:12:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000012",
+      "rawToken": "sapt",
+      "rawText": "sapt什么东西呢",
+      "normalizedCandidates": [
+        "sapt"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sapt",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:18:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000018",
+      "rawToken": "reception",
+      "rawText": "所以reception",
+      "normalizedCandidates": [
+        "reception"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "reception",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:19:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000019",
+      "rawToken": "reception",
+      "rawText": "reception叫什么呢",
+      "normalizedCandidates": [
+        "reception"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "reception",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:26:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000026",
+      "rawToken": "reception",
+      "rawText": "所以reception是招待",
+      "normalizedCandidates": [
+        "reception"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "reception",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:27:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000027",
+      "rawToken": "receptionist",
+      "rawText": "那么receptionist就是招待的人",
+      "normalizedCandidates": [
+        "receptionist"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "receptionist",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:32:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000032",
+      "rawToken": "receptionist",
+      "rawText": "receptionist",
+      "normalizedCandidates": [
+        "receptionist"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "receptionist",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:36:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000036",
+      "rawToken": "sapt",
+      "rawText": "sapt叫词根拿",
+      "normalizedCandidates": [
+        "sapt"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sapt",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:37:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000037",
+      "rawToken": "reception",
+      "rawText": "你才能体会到reception",
+      "normalizedCandidates": [
+        "reception"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "reception",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 15
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:39:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000039",
+      "rawToken": "receptionist",
+      "rawText": "receptionist",
+      "normalizedCandidates": [
+        "receptionist"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "receptionist",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:45:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000045",
+      "rawToken": "av",
+      "rawText": "因为船这个东西跟av",
+      "normalizedCandidates": [
+        "av"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "av",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:49:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000049",
+      "rawToken": "avav",
+      "rawText": "所以avav鸟",
+      "normalizedCandidates": [
+        "avav"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "avav",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:50:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000050",
+      "rawToken": "navy navy",
+      "rawText": "navy navy船",
+      "normalizedCandidates": [
+        "navy-navy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "navy-navy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:54:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000054",
+      "rawToken": "sapt",
+      "rawText": "sapt就是盐呢",
+      "normalizedCandidates": [
+        "sapt"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sapt",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:78:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000078",
+      "rawToken": "sign",
+      "rawText": "sign就标记",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:85:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000085",
+      "rawToken": "sign",
+      "rawText": "所以sign叫标记",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:86:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000086",
+      "rawToken": "signify",
+      "rawText": "动词后坠signify就重要",
+      "normalizedCandidates": [
+        "signify"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "signify",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:89:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000089",
+      "rawToken": "significant",
+      "rawText": "加形容所坠significant叫什么叫重要",
+      "normalizedCandidates": [
+        "significant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "significant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 16
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:93:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000093",
+      "rawToken": "sign",
+      "rawText": "请用sign",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:94:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000094",
+      "rawToken": "sign",
+      "rawText": "来我看看什么叫sign呢",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:96:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000096",
+      "rawToken": "sign",
+      "rawText": "我倒要看看什么叫sign",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:97:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000097",
+      "rawToken": "sign",
+      "rawText": "sign是个",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:100:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000100",
+      "rawToken": "sign",
+      "rawText": "原来西方人认为这个就是sign",
+      "normalizedCandidates": [
+        "sign"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sign",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 11,
+        "end": 15
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:105:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000105",
+      "rawToken": "signify",
+      "rawText": "所以signify叫重要",
+      "normalizedCandidates": [
+        "signify"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "signify",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:106:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000106",
+      "rawToken": "significant",
+      "rawText": "那么significant重要的有意义的",
+      "normalizedCandidates": [
+        "significant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "significant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:107:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000107",
+      "rawToken": "import",
+      "rawText": "也就是更高档的import",
+      "normalizedCandidates": [
+        "import"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "import",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:108:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000108",
+      "rawToken": "flat",
+      "rawText": "flat这个词根叫折",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:112:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000112",
+      "rawToken": "flat",
+      "rawText": "flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:113:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000113",
+      "rawToken": "flat",
+      "rawText": "你感受感受扁平叫flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:116:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000116",
+      "rawToken": "flat",
+      "rawText": "flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:117:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000117",
+      "rawToken": "flat",
+      "rawText": "flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:118:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000118",
+      "rawToken": "flat",
+      "rawText": "但当你读flat的时候",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:121:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000121",
+      "rawToken": "flat",
+      "rawText": "所以平的平的flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:122:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000122",
+      "rawToken": "flat",
+      "rawText": "弯曲弯曲flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:123:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000123",
+      "rawToken": "flat",
+      "rawText": "flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:128:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000128",
+      "rawToken": "flat",
+      "rawText": "所以平的平的flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:129:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000129",
+      "rawToken": "flat",
+      "rawText": "弯的弯的flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:140:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000140",
+      "rawToken": "spat",
+      "rawText": "肯定读spat",
+      "normalizedCandidates": [
+        "spat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "spat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:142:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000142",
+      "rawToken": "spat",
+      "rawText": "它就会读成spat",
+      "normalizedCandidates": [
+        "spat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "spat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:144:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000144",
+      "rawToken": "ji",
+      "rawText": "它ji容易读诗的声音",
+      "normalizedCandidates": [
+        "ji"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ji",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:147:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000147",
+      "rawToken": "flexible",
+      "rawText": "你就别flexible了",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:148:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000148",
+      "rawToken": "flexible",
+      "rawText": "既然读flexible",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:149:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000149",
+      "rawToken": "flexible",
+      "rawText": "干脆就给你变成flexible",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 15
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:151:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000151",
+      "rawToken": "flexible",
+      "rawText": "所以flexible就是可以弯曲的",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:153:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000153",
+      "rawToken": "flexible",
+      "rawText": "flexible",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:156:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000156",
+      "rawToken": "flat",
+      "rawText": "平的平的flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:157:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000157",
+      "rawToken": "flat",
+      "rawText": "弯的弯的flat",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:158:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000158",
+      "rawToken": "flat",
+      "rawText": "那么flat又演变成flexible",
+      "normalizedCandidates": [
+        "flat"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flat",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:158:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000158",
+      "rawToken": "flexible",
+      "rawText": "那么flat又演变成flexible",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 10,
+        "end": 18
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:166:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000166",
+      "rawToken": "flexible",
+      "rawText": "flexible",
+      "normalizedCandidates": [
+        "flexible"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "flexible",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:170:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000170",
+      "rawToken": "person person",
+      "rawText": "本来想写person person",
+      "normalizedCandidates": [
+        "person-person"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "person-person",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 17
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:176:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000176",
+      "rawToken": "elect",
+      "rawText": "elect叫什么",
+      "normalizedCandidates": [
+        "elect"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elect",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:180:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000180",
+      "rawToken": "elect",
+      "rawText": "他不想再写elect",
+      "normalizedCandidates": [
+        "elect"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elect",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:185:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000185",
+      "rawToken": "elegant",
+      "rawText": "elegant",
+      "normalizedCandidates": [
+        "elegant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elegant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:188:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000188",
+      "rawToken": "elephant",
+      "rawText": "大象叫做elephant",
+      "normalizedCandidates": [
+        "elephant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elephant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:194:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000194",
+      "rawToken": "elegant",
+      "rawText": "叫做elegant",
+      "normalizedCandidates": [
+        "elegant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elegant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:196:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000196",
+      "rawToken": "elegant",
+      "rawText": "elegant",
+      "normalizedCandidates": [
+        "elegant"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "elegant",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:197:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000197",
+      "rawToken": "vest",
+      "rawText": "vest什么东西",
+      "normalizedCandidates": [
+        "vest"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "vest",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:209:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000209",
+      "rawToken": "west",
+      "rawText": "那么west就是马甲",
+      "normalizedCandidates": [
+        "west"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "west",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:223:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000223",
+      "rawToken": "ag",
+      "rawText": "ag叫做行动啊",
+      "normalizedCandidates": [
+        "ag"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ag",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:227:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000227",
+      "rawToken": "investigate",
+      "rawText": "因此investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:229:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000229",
+      "rawToken": "ag",
+      "rawText": "在里边减写了ag",
+      "normalizedCandidates": [
+        "ag"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ag",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:230:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000230",
+      "rawToken": "ig",
+      "rawText": "减写上ig的",
+      "normalizedCandidates": [
+        "ig"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ig",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:234:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000234",
+      "rawToken": "investigate",
+      "rawText": "这个动词叫investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 16
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:237:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000237",
+      "rawToken": "investigate",
+      "rawText": "到底有什么东西没有investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 20
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:241:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000241",
+      "rawToken": "investigate",
+      "rawText": "叫investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:244:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000244",
+      "rawToken": "innocent",
+      "rawText": "innocent",
+      "normalizedCandidates": [
+        "innocent"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "innocent",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:246:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000246",
+      "rawToken": "investigate",
+      "rawText": "上一步调查investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 16
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:253:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000253",
+      "rawToken": "cent",
+      "rawText": "美国的叫cent",
+      "normalizedCandidates": [
+        "cent"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cent",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:255:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000255",
+      "rawToken": "dollar",
+      "rawText": "圆叫dollar",
+      "normalizedCandidates": [
+        "dollar"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dollar",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:265:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000265",
+      "rawToken": "investigate",
+      "rawText": "叫investigate",
+      "normalizedCandidates": [
+        "investigate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "investigate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:268:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000268",
+      "rawToken": "innocent",
+      "rawText": "叫innocent",
+      "normalizedCandidates": [
+        "innocent"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "innocent",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:269:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000269",
+      "rawToken": "street",
+      "rawText": "street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:276:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000276",
+      "rawToken": "street",
+      "rawText": "那么像street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:278:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000278",
+      "rawToken": "street",
+      "rawText": "他就叫做street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:280:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000280",
+      "rawToken": "forward",
+      "rawText": "forward",
+      "normalizedCandidates": [
+        "forward"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "forward",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:283:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000283",
+      "rawToken": "street",
+      "rawText": "叫street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:284:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000284",
+      "rawToken": "forward",
+      "rawText": "forward",
+      "normalizedCandidates": [
+        "forward"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "forward",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:289:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000289",
+      "rawToken": "street",
+      "rawText": "street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:290:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000290",
+      "rawToken": "forward",
+      "rawText": "forward",
+      "normalizedCandidates": [
+        "forward"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "forward",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:291:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000291",
+      "rawToken": "street",
+      "rawText": "一个人讲话也是street",
+      "normalizedCandidates": [
+        "street"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "street",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:292:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000292",
+      "rawToken": "forward",
+      "rawText": "forward",
+      "normalizedCandidates": [
+        "forward"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "forward",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:294:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000294",
+      "rawToken": "run",
+      "rawText": "run",
+      "normalizedCandidates": [
+        "run"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "run",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:296:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000296",
+      "rawToken": "about",
+      "rawText": "about",
+      "normalizedCandidates": [
+        "about"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "about",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:309:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000309",
+      "rawToken": "roundabout",
+      "rawText": "roundabout",
+      "normalizedCandidates": [
+        "roundabout"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "roundabout",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:312:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000312",
+      "rawToken": "roundabout",
+      "rawText": "roundabout",
+      "normalizedCandidates": [
+        "roundabout"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "roundabout",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:325:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000325",
+      "rawToken": "roundabout",
+      "rawText": "就roundabout",
+      "normalizedCandidates": [
+        "roundabout"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "roundabout",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:330:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000330",
+      "rawToken": "nose",
+      "rawText": "nose",
+      "normalizedCandidates": [
+        "nose"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "nose",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:342:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000342",
+      "rawToken": "nosy",
+      "rawText": "叫nosy",
+      "normalizedCandidates": [
+        "nosy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "nosy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:348:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000348",
+      "rawToken": "nosy",
+      "rawText": "nosy",
+      "normalizedCandidates": [
+        "nosy"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "nosy",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:352:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000352",
+      "rawToken": "di",
+      "rawText": "di",
+      "normalizedCandidates": [
+        "di"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "di",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:355:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000355",
+      "rawToken": "dialogue",
+      "rawText": "dialogue",
+      "normalizedCandidates": [
+        "dialogue"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dialogue",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:356:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000356",
+      "rawToken": "dialogue",
+      "rawText": "难道dialogue",
+      "normalizedCandidates": [
+        "dialogue"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dialogue",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:362:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000362",
+      "rawToken": "dialogue",
+      "rawText": "所以dialogue",
+      "normalizedCandidates": [
+        "dialogue"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dialogue",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:365:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000365",
+      "rawToken": "divide",
+      "rawText": "divide",
+      "normalizedCandidates": [
+        "divide"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "divide",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:370:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000370",
+      "rawToken": "nose",
+      "rawText": "中间来个nose鼻子",
+      "normalizedCandidates": [
+        "nose"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "nose",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:371:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000371",
+      "rawToken": "aur",
+      "rawText": "我们加个aur",
+      "normalizedCandidates": [
+        "aur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "aur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:384:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000384",
+      "rawToken": "dialogue",
+      "rawText": "所以dialogue",
+      "normalizedCandidates": [
+        "dialogue"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dialogue",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:395:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000395",
+      "rawToken": "dinosaur",
+      "rawText": "所以dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:413:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000413",
+      "rawToken": "dinosaur",
+      "rawText": "最后就是dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:420:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000420",
+      "rawToken": "dinosaur",
+      "rawText": "dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:428:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000428",
+      "rawToken": "dinosaur",
+      "rawText": "dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:432:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000432",
+      "rawToken": "dino",
+      "rawText": "这个dino啊",
+      "normalizedCandidates": [
+        "dino"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dino",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:438:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000438",
+      "rawToken": "dinosaur",
+      "rawText": "所以dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:440:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000440",
+      "rawToken": "dinosaur",
+      "rawText": "dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:452:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000452",
+      "rawToken": "dinosaur",
+      "rawText": "dinosaur",
+      "normalizedCandidates": [
+        "dinosaur"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "dinosaur",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:453:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000453",
+      "rawToken": "to",
+      "rawText": "to叫去",
+      "normalizedCandidates": [
+        "to"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "to",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 2
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:454:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000454",
+      "rawToken": "and",
+      "rawText": "and叫末端",
+      "normalizedCandidates": [
+        "and"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "and",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 3
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:459:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000459",
+      "rawToken": "trand",
+      "rawText": "叫做trand",
+      "normalizedCandidates": [
+        "trand"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "trand",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:460:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000460",
+      "rawToken": "trandtrandtrandtrandtrandtrandtrandtrandtrand",
+      "rawText": "trandtrandtrandtrandtrandtrandtrandtrandtrand",
+      "normalizedCandidates": [
+        "trandtrandtrandtrandtrandtrandtrandtrandtrand"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "trandtrandtrandtrandtrandtrandtrandtrandtrand",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 45
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:469:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000469",
+      "rawToken": "allow",
+      "rawText": "趋势应该就是一个女生效果,趋势就是往前冲的感觉,allow当然叫允许,但我们看一看这是真实允许吗,允许是什么,什么叫允许,允许说实话就是给予你权利,所以既然允许是给予权利的话,我们再看看第二个信息,他除了叫给予权利的意思,他真的也叫做给予的意思,因此我们从相对熟的允许,allow me,",
+      "normalizedCandidates": [
+        "allow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 24,
+        "end": 29
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:469:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000469",
+      "rawToken": "allow me",
+      "rawText": "趋势应该就是一个女生效果,趋势就是往前冲的感觉,allow当然叫允许,但我们看一看这是真实允许吗,允许是什么,什么叫允许,允许说实话就是给予你权利,所以既然允许是给予权利的话,我们再看看第二个信息,他除了叫给予权利的意思,他真的也叫做给予的意思,因此我们从相对熟的允许,allow me,",
+      "normalizedCandidates": [
+        "allow-me"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allow-me",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 135,
+        "end": 143
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:470:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000470",
+      "rawToken": "to do something",
+      "rawText": "to do something,允许就是给予权利,而给予就真的是给予东西,说实话允许就是给予啊,允许只不过是给你一个权利,而给予就是给你一个东西,一旦当你知道他有给予的含义的时候,或者叫给予都无所谓,那么名词和罪,allowance,这个词应该就是一个给你的东西,",
+      "normalizedCandidates": [
+        "to-do-something"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "to-do-something",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 15
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:470:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000470",
+      "rawToken": "allowance",
+      "rawText": "to do something,允许就是给予权利,而给予就真的是给予东西,说实话允许就是给予啊,允许只不过是给你一个权利,而给予就是给你一个东西,一旦当你知道他有给予的含义的时候,或者叫给予都无所谓,那么名词和罪,allowance,这个词应该就是一个给你的东西,",
+      "normalizedCandidates": [
+        "allowance"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allowance",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 107,
+        "end": 116
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:471:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000471",
+      "rawToken": "allowance",
+      "rawText": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "normalizedCandidates": [
+        "allowance"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allowance",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 15,
+        "end": 24
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:471:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000471",
+      "rawToken": "allowance",
+      "rawText": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "normalizedCandidates": [
+        "allowance"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allowance",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 63,
+        "end": 72
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:471:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000471",
+      "rawToken": "allowance",
+      "rawText": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "normalizedCandidates": [
+        "allowance"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allowance",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 90,
+        "end": 99
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:471:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000471",
+      "rawToken": "allowance",
+      "rawText": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "normalizedCandidates": [
+        "allowance"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allowance",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 107,
+        "end": 116
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:471:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000471",
+      "rawToken": "allow",
+      "rawText": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "normalizedCandidates": [
+        "allow"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "allow",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 122,
+        "end": 127
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:472:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000472",
+      "rawToken": "circle",
+      "rawText": "难道circle不是圆圈吗,左边这四个是圆圈,um没有含义,连接成分,这是站着,这是名词后缀,这是在你周围一圈站着的东西,是你一圈周围站着的东西,叫做环境,circumesis,",
+      "normalizedCandidates": [
+        "circle"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "circle",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:472:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000472",
+      "rawToken": "um",
+      "rawText": "难道circle不是圆圈吗,左边这四个是圆圈,um没有含义,连接成分,这是站着,这是名词后缀,这是在你周围一圈站着的东西,是你一圈周围站着的东西,叫做环境,circumesis,",
+      "normalizedCandidates": [
+        "um"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "um",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 23,
+        "end": 25
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:472:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000472",
+      "rawToken": "circumesis",
+      "rawText": "难道circle不是圆圈吗,左边这四个是圆圈,um没有含义,连接成分,这是站着,这是名词后缀,这是在你周围一圈站着的东西,是你一圈周围站着的东西,叫做环境,circumesis,",
+      "normalizedCandidates": [
+        "circumesis"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "circumesis",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 78,
+        "end": 88
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "um",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "um"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "um",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 24,
+        "end": 26
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "stand",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "stand"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "stand",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 29,
+        "end": 34
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "and",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "and"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "and",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 35,
+        "end": 38
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "ans",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "ans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "ans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 42,
+        "end": 45
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "circumesis",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "circumesis"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "circumesis",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 103,
+        "end": 113
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:5:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "certain",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "certain"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certain",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 114,
+        "end": 121
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:473:6:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000473",
+      "rawToken": "certainly",
+      "rawText": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "normalizedCandidates": [
+        "certainly"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certainly",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 143,
+        "end": 152
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:474:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000474",
+      "rawToken": "certainly",
+      "rawText": "certainly,确定的,请把确定加一个动词后缀,组成动词,叫动词确定,请把确定再加一个后缀,那人家都是确定了,你还加什么后缀呀,所以此刻的at就不是动词后缀了,它就偶尔偶尔也能做名词,所以certificate就是一个,用来确定的一个,用来确定的一个东西,",
+      "normalizedCandidates": [
+        "certainly"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certainly",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:474:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000474",
+      "rawToken": "at",
+      "rawText": "certainly,确定的,请把确定加一个动词后缀,组成动词,叫动词确定,请把确定再加一个后缀,那人家都是确定了,你还加什么后缀呀,所以此刻的at就不是动词后缀了,它就偶尔偶尔也能做名词,所以certificate就是一个,用来确定的一个,用来确定的一个东西,",
+      "normalizedCandidates": [
+        "at"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "at",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 71,
+        "end": 73
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:474:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000474",
+      "rawToken": "certificate",
+      "rawText": "certainly,确定的,请把确定加一个动词后缀,组成动词,叫动词确定,请把确定再加一个后缀,那人家都是确定了,你还加什么后缀呀,所以此刻的at就不是动词后缀了,它就偶尔偶尔也能做名词,所以certificate就是一个,用来确定的一个,用来确定的一个东西,",
+      "normalizedCandidates": [
+        "certificate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certificate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 96,
+        "end": 107
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:475:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000475",
+      "rawToken": "certificate",
+      "rawText": "叫什么我也不知道,但你要让我被开心,不可能,你让我被电脑,不可能,你让我被证书,可以,因为证书就是一个用来确认的,你有证书吗,好,那确定了,所以证书叫certificate,马上写一个birth certificate,叫做书上这,这一切呢,我撬动它的支点,就是这个词汇,叫certainly,确定吗,你必须用口语来复习这个词汇,",
+      "normalizedCandidates": [
+        "certificate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certificate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 75,
+        "end": 86
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:475:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000475",
+      "rawToken": "birth certificate",
+      "rawText": "叫什么我也不知道,但你要让我被开心,不可能,你让我被电脑,不可能,你让我被证书,可以,因为证书就是一个用来确认的,你有证书吗,好,那确定了,所以证书叫certificate,马上写一个birth certificate,叫做书上这,这一切呢,我撬动它的支点,就是这个词汇,叫certainly,确定吗,你必须用口语来复习这个词汇,",
+      "normalizedCandidates": [
+        "birth-certificate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "birth-certificate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 92,
+        "end": 109
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:475:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000475",
+      "rawToken": "certainly",
+      "rawText": "叫什么我也不知道,但你要让我被开心,不可能,你让我被电脑,不可能,你让我被证书,可以,因为证书就是一个用来确认的,你有证书吗,好,那确定了,所以证书叫certificate,马上写一个birth certificate,叫做书上这,这一切呢,我撬动它的支点,就是这个词汇,叫certainly,确定吗,你必须用口语来复习这个词汇,",
+      "normalizedCandidates": [
+        "certainly"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certainly",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 137,
+        "end": 146
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:476:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000476",
+      "rawToken": "certify",
+      "rawText": "确定加动词,叫certify确定,确定再加名词,用来确定的东西叫证书,然后马上看一看,证书到底长什么样,搜索互联网,我倒要看看证书长什么样,一搜全长这样,这些证书是干嘛的,这些certificate,就是用来certify,如果有证书,就能确定,你确实是一个本地的人,有出生证,",
+      "normalizedCandidates": [
+        "certify"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certify",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:476:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000476",
+      "rawToken": "certificate",
+      "rawText": "确定加动词,叫certify确定,确定再加名词,用来确定的东西叫证书,然后马上看一看,证书到底长什么样,搜索互联网,我倒要看看证书长什么样,一搜全长这样,这些证书是干嘛的,这些certificate,就是用来certify,如果有证书,就能确定,你确实是一个本地的人,有出生证,",
+      "normalizedCandidates": [
+        "certificate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certificate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 88,
+        "end": 99
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:476:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000476",
+      "rawToken": "certify",
+      "rawText": "确定加动词,叫certify确定,确定再加名词,用来确定的东西叫证书,然后马上看一看,证书到底长什么样,搜索互联网,我倒要看看证书长什么样,一搜全长这样,这些证书是干嘛的,这些certificate,就是用来certify,如果有证书,就能确定,你确实是一个本地的人,有出生证,",
+      "normalizedCandidates": [
+        "certify"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "certify",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 104,
+        "end": 111
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:477:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000477",
+      "rawToken": "fans",
+      "rawText": "fans当然是粉丝了,印当然进来了,加动手坠了,左三个字母,不像粉丝吗,左三个字母不像粉丝吗,他只是把n省略了,为啥省略啊,有n读fans,没n不也读fans吗,读音非常相像,在某些字母去掉的时候,不影响整体发音特色,那就干掉了,这就是进来,那c是干嘛的呢,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:477:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000477",
+      "rawToken": "fans",
+      "rawText": "fans当然是粉丝了,印当然进来了,加动手坠了,左三个字母,不像粉丝吗,左三个字母不像粉丝吗,他只是把n省略了,为啥省略啊,有n读fans,没n不也读fans吗,读音非常相像,在某些字母去掉的时候,不影响整体发音特色,那就干掉了,这就是进来,那c是干嘛的呢,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 65,
+        "end": 69
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:477:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000477",
+      "rawToken": "fans",
+      "rawText": "fans当然是粉丝了,印当然进来了,加动手坠了,左三个字母,不像粉丝吗,左三个字母不像粉丝吗,他只是把n省略了,为啥省略啊,有n读fans,没n不也读fans吗,读音非常相像,在某些字母去掉的时候,不影响整体发音特色,那就干掉了,这就是进来,那c是干嘛的呢,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 75,
+        "end": 79
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "sc",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "sc"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "sc",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 11,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 31,
+        "end": 35
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 36,
+        "end": 40
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 45,
+        "end": 49
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 52,
+        "end": 56
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:5:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 57,
+        "end": 61
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:6:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 65,
+        "end": 69
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:7:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 70,
+        "end": 74
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:478:8:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000478",
+      "rawToken": "fans",
+      "rawText": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 113,
+        "end": 117
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:479:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000479",
+      "rawToken": "fans",
+      "rawText": "这样的啊,说到这首歌唱完之后,就吸粉无数,所以吸粉,把粉丝弄进来fans,也叫使着迷,使着迷不就是吸粉吗,所以fans,你更可以把这个词,理解成粉丝之后,把字母c,把它直接就把它吸引成,把字母c,直接就把它吸引成,吸,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 32,
+        "end": 36
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:479:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000479",
+      "rawToken": "fans",
+      "rawText": "这样的啊,说到这首歌唱完之后,就吸粉无数,所以吸粉,把粉丝弄进来fans,也叫使着迷,使着迷不就是吸粉吗,所以fans,你更可以把这个词,理解成粉丝之后,把字母c,把它直接就把它吸引成,把字母c,直接就把它吸引成,吸,",
+      "normalizedCandidates": [
+        "fans"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fans",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 55,
+        "end": 59
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:480:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000480",
+      "rawToken": "fascinating",
+      "rawText": "所以如果一首歌唱得非常好啊,那这首歌真是很吸粉呢,那这个表演,今天他的表演就叫fascinating,这真是一个fascinating show,是一个非常吸粉,是吸粉无数的一个表,一个表演呢,叫fascinate show,成龙,一个空翻,飞越了黄河,",
+      "normalizedCandidates": [
+        "fascinating"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fascinating",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 39,
+        "end": 50
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:480:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000480",
+      "rawToken": "fascinating show",
+      "rawText": "所以如果一首歌唱得非常好啊,那这首歌真是很吸粉呢,那这个表演,今天他的表演就叫fascinating,这真是一个fascinating show,是一个非常吸粉,是吸粉无数的一个表,一个表演呢,叫fascinate show,成龙,一个空翻,飞越了黄河,",
+      "normalizedCandidates": [
+        "fascinating-show"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fascinating-show",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 56,
+        "end": 72
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:480:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000480",
+      "rawToken": "fascinate show",
+      "rawText": "所以如果一首歌唱得非常好啊,那这首歌真是很吸粉呢,那这个表演,今天他的表演就叫fascinating,这真是一个fascinating show,是一个非常吸粉,是吸粉无数的一个表,一个表演呢,叫fascinate show,成龙,一个空翻,飞越了黄河,",
+      "normalizedCandidates": [
+        "fascinate-show"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fascinate-show",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 98,
+        "end": 112
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:481:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000481",
+      "rawToken": "fascinating show",
+      "rawText": "是一个fascinating show,难道center不是中心吗,前缀叫共同,中间叫中心,加上动词和罪,逆省略,为什么省略,因为发音方便呢,省略,逻辑就是,全都放在中心,加动词和罪,那全放在中心多好啊,叫什么叫做集中精神啊,",
+      "normalizedCandidates": [
+        "fascinating-show"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fascinating-show",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 19
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:481:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000481",
+      "rawToken": "center",
+      "rawText": "是一个fascinating show,难道center不是中心吗,前缀叫共同,中间叫中心,加上动词和罪,逆省略,为什么省略,因为发音方便呢,省略,逻辑就是,全都放在中心,加动词和罪,那全放在中心多好啊,叫什么叫做集中精神啊,",
+      "normalizedCandidates": [
+        "center"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "center",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 22,
+        "end": 28
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:482:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000482",
+      "rawToken": "concentrate",
+      "rawText": "就是说,他什么都不管,他就把他的注意力放在这一个点上,叫concentrate,老师,能来点图片吗,能",
+      "normalizedCandidates": [
+        "concentrate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "concentrate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 28,
+        "end": 39
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:484:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000484",
+      "rawToken": "concentrate",
+      "rawText": "他在鳄鱼吃完他的下一秒,还是背了三个单词,所以这种精神叫做concentrate,啊,同学们,在你看到这个图片的时候呢,你要去想,男哥,为什么把这个图片命名为concentrate,然后你在一种非常搞笑啊,忍俊不尽呢,好玩的环境当中,你突然就加深对他的印象,如果当你想不起来这些,知道什么意思啊,请看上面,他有标题,叫集中啊,",
+      "normalizedCandidates": [
+        "concentrate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "concentrate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 29,
+        "end": 40
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:484:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000484",
+      "rawToken": "concentrate",
+      "rawText": "他在鳄鱼吃完他的下一秒,还是背了三个单词,所以这种精神叫做concentrate,啊,同学们,在你看到这个图片的时候呢,你要去想,男哥,为什么把这个图片命名为concentrate,然后你在一种非常搞笑啊,忍俊不尽呢,好玩的环境当中,你突然就加深对他的印象,如果当你想不起来这些,知道什么意思啊,请看上面,他有标题,叫集中啊,",
+      "normalizedCandidates": [
+        "concentrate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "concentrate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 79,
+        "end": 90
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:485:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000485",
+      "rawToken": "concentrate",
+      "rawText": "好,就这个集中精神站在这儿了,所以当你首先看,你先不要看这儿,你先看底下,啥意思,啥意思,鳄鱼吃人吗,不是的,叫集中精神全身关注,太喜欢学习了,所以这种状态,梁志超现在这个状态就叫concentrate,同学们,如果想要这组图片的,给我走一个一,谢谢大家啊,我这组图片太好玩了,",
+      "normalizedCandidates": [
+        "concentrate"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "concentrate",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 90,
+        "end": 101
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:487:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000487",
+      "rawToken": "shell",
+      "rawText": "但是没有图,我也不是会给一些非常,非常朴素的图,我会给内涵图,shell叫贝壳,metal叫金属,那是金属贝壳,贝壳金属,金属贝壳,左三个就是贝壳,右三个是解写的金属,啥叫金属贝壳,叫头盔,然后你跟我学完词汇的话,你下课马上去刷,老师我下课就把你这图片导入手机了,",
+      "normalizedCandidates": [
+        "shell"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "shell",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 31,
+        "end": 36
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:487:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000487",
+      "rawToken": "metal",
+      "rawText": "但是没有图,我也不是会给一些非常,非常朴素的图,我会给内涵图,shell叫贝壳,metal叫金属,那是金属贝壳,贝壳金属,金属贝壳,左三个就是贝壳,右三个是解写的金属,啥叫金属贝壳,叫头盔,然后你跟我学完词汇的话,你下课马上去刷,老师我下课就把你这图片导入手机了,",
+      "normalizedCandidates": [
+        "metal"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "metal",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 40,
+        "end": 45
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:488:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000488",
+      "rawToken": "hell shell metal",
+      "rawText": "我一看到头盔,真有意思,真好玩,兄弟们,这不头盔吗,这样子吗,兄弟们,再来一个头盔,哪个头盔呢,这个头盔可以,你看头盔,叫做hell shell metal,叫金属贝壳,叫做头盔,也不错,然后还有内涵图,但是你看下头盔叫做fake,有没有,保证有,fake,然后你看这些都有,你比如说,",
+      "normalizedCandidates": [
+        "hell-shell-metal"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hell-shell-metal",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 62,
+        "end": 78
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:488:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000488",
+      "rawToken": "fake",
+      "rawText": "我一看到头盔,真有意思,真好玩,兄弟们,这不头盔吗,这样子吗,兄弟们,再来一个头盔,哪个头盔呢,这个头盔可以,你看头盔,叫做hell shell metal,叫金属贝壳,叫做头盔,也不错,然后还有内涵图,但是你看下头盔叫做fake,有没有,保证有,fake,然后你看这些都有,你比如说,",
+      "normalizedCandidates": [
+        "fake"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fake",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 111,
+        "end": 115
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:488:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000488",
+      "rawToken": "fake",
+      "rawText": "我一看到头盔,真有意思,真好玩,兄弟们,这不头盔吗,这样子吗,兄弟们,再来一个头盔,哪个头盔呢,这个头盔可以,你看头盔,叫做hell shell metal,叫金属贝壳,叫做头盔,也不错,然后还有内涵图,但是你看下头盔叫做fake,有没有,保证有,fake,然后你看这些都有,你比如说,",
+      "normalizedCandidates": [
+        "fake"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fake",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 124,
+        "end": 128
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:489:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000489",
+      "rawToken": "LV",
+      "rawText": "你这就是吗,人家真正的叫什么,叫旺仔牛奶,然后人家这边是真的,他们搞个大假牙,假的,所以这个是真旺仔,这假旺仔,这些核心词汇都有内涵图,都有非常好玩的图,你看这什么,这就是真正的LV是这样的,假的是fake,所以这些图片拿到,真的是让大家在学习之余,能够感受到很多很多好玩的东西,咱们你看,你看这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个fake吗,",
+      "normalizedCandidates": [
+        "lv"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "lv",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 89,
+        "end": 91
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:489:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000489",
+      "rawToken": "fake",
+      "rawText": "你这就是吗,人家真正的叫什么,叫旺仔牛奶,然后人家这边是真的,他们搞个大假牙,假的,所以这个是真旺仔,这假旺仔,这些核心词汇都有内涵图,都有非常好玩的图,你看这什么,这就是真正的LV是这样的,假的是fake,所以这些图片拿到,真的是让大家在学习之余,能够感受到很多很多好玩的东西,咱们你看,你看这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个fake吗,",
+      "normalizedCandidates": [
+        "fake"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fake",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 99,
+        "end": 103
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:489:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000489",
+      "rawToken": "fake",
+      "rawText": "你这就是吗,人家真正的叫什么,叫旺仔牛奶,然后人家这边是真的,他们搞个大假牙,假的,所以这个是真旺仔,这假旺仔,这些核心词汇都有内涵图,都有非常好玩的图,你看这什么,这就是真正的LV是这样的,假的是fake,所以这些图片拿到,真的是让大家在学习之余,能够感受到很多很多好玩的东西,咱们你看,你看这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个fake吗,",
+      "normalizedCandidates": [
+        "fake"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fake",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 179,
+        "end": 183
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:490:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000490",
+      "rawToken": "fake",
+      "rawText": "啥意思,假的,啥假的,啥假的,这不是,哎,这不是一个真正的,一个,不是一个真正的,这个墙上的,这个,这个,这个,这个,这个,这个插座,是这个人用来藏四方钱的,所以你要明白,我为,你要明白,我为什么给这个出配了个fake,不是说这个钱是假的,而是这个东西是假的,假冒的,在里边藏了点钱,所以当你能去反映,",
+      "normalizedCandidates": [
+        "fake"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "fake",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 105,
+        "end": 109
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "rise",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "rise"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "rise",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 14,
+        "end": 18
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "rise",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "rise"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "rise",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 32,
+        "end": 36
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "rise",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "rise"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "rise",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 42,
+        "end": 46
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "rise",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "rise"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "rise",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 53,
+        "end": 57
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "horizon",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "horizon"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "horizon",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 75,
+        "end": 82
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:5:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "horizon",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "horizon"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "horizon",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 94,
+        "end": 101
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:491:6:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000491",
+      "rawToken": "horizon",
+      "rawText": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "normalizedCandidates": [
+        "horizon"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "horizon",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 110,
+        "end": 117
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:492:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000492",
+      "rawToken": "low",
+      "rawText": "地平线,尬的,这不是保安吗,啊,尬的是保安呢,看是保安的,啊,每当我搜索尬的的时候,就是楼下那五个保安,啊,这么保安,就这帮保安,别管穿的帅点的,一般点的,啊,高档点,low档,low点的,反正只要是保安,就咱们楼下小区那个保安,它就叫做尬的,啊,保安,动词呢,",
+      "normalizedCandidates": [
+        "low"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "low",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 84,
+        "end": 87
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:492:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000492",
+      "rawToken": "low",
+      "rawText": "地平线,尬的,这不是保安吗,啊,尬的是保安呢,看是保安的,啊,每当我搜索尬的的时候,就是楼下那五个保安,啊,这么保安,就这帮保安,别管穿的帅点的,一般点的,啊,高档点,low档,low点的,反正只要是保安,就咱们楼下小区那个保安,它就叫做尬的,啊,保安,动词呢,",
+      "normalizedCandidates": [
+        "low"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "low",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 89,
+        "end": 92
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:493:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000493",
+      "rawToken": "guarantee",
+      "rawText": "动词保护呗,想他能干啥,他就保护,是这样的吗,可是老师,这个guarantee,这个左边不就是嘎吗,啊,不就是简写的嘎的吗,右边不就是,名词后缀吗,然后缀,右边没什么含义啊,你不能说这是蚂蚁啊,你不能这样说啊,你得说这右边,右边整个就是后缀,那么当他把保安加上后缀的时候,他想干什么呢,他就没有改变含义,",
+      "normalizedCandidates": [
+        "guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 30,
+        "end": 39
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:495:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000495",
+      "rawToken": "guarantee",
+      "rawText": "把单词拉长的时候,突然他就叫什么,没有一个保安了,全都变成什么了,全都变成保证产品质量了,就变成抽象的担保,以后,当我是一个保安,去保护你的安全的时候,还是非常简单的尬的,但一旦guarantee,单词拉长了,无非就是原单词的隐身意,",
+      "normalizedCandidates": [
+        "guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 89,
+        "end": 98
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:498:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000498",
+      "rawToken": "Broadcast",
+      "rawText": "这就是我们用短单词,领会长单词,好,本行结束,这些我就删掉,啊,马上来到下一行,啊,下一行我想加减法学的差不多了吧,啊,怎么该学什么了呀,该学加法二维了,呃,还有个减法,减法,减法,减法叫Broadcast,叫广播呀,啊,老师广播我认识,不止我熟啊,那广播,这Broad是广的话,",
+      "normalizedCandidates": [
+        "broadcast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "broadcast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 94,
+        "end": 103
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:498:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000498",
+      "rawToken": "Broad",
+      "rawText": "这就是我们用短单词,领会长单词,好,本行结束,这些我就删掉,啊,马上来到下一行,啊,下一行我想加减法学的差不多了吧,啊,怎么该学什么了呀,该学加法二维了,呃,还有个减法,减法,减法,减法叫Broadcast,叫广播呀,啊,老师广播我认识,不止我熟啊,那广播,这Broad是广的话,",
+      "normalizedCandidates": [
+        "broad"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "broad",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 130,
+        "end": 135
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:500:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000500",
+      "rawToken": "Broadcast",
+      "rawText": "其实广播就是把新闻消息啊,往更广的地方扔出去,啊,抛出去,所以Broadcast,原来本意是把新闻往更广的地方扔出去,抛出去,所以反推cast,叫投掷,啊,",
+      "normalizedCandidates": [
+        "broadcast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "broadcast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 31,
+        "end": 40
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:500:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000500",
+      "rawToken": "cast",
+      "rawText": "其实广播就是把新闻消息啊,往更广的地方扔出去,啊,抛出去,所以Broadcast,原来本意是把新闻往更广的地方扔出去,抛出去,所以反推cast,叫投掷,啊,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 67,
+        "end": 71
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:501:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000501",
+      "rawToken": "cast",
+      "rawText": "还有什么意思,这个cast除了投掷的含义之外,还有叫做叫做铸造的意思,为什么投掷是铸造呢,为什么制造是投掷呢,啊,因为铸造跟投掷是有的关系的,在工业生产当中,人们是用什么方式来铸造呢,铸造就是把那个热的,很热的那种钢,钢水啊,把它往那个,把那个往那个,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:504:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000504",
+      "rawToken": "castle",
+      "rawText": "他一铸造的话呢,castle就是个铸造出来的东西,叫做藏宝,啊,",
+      "normalizedCandidates": [
+        "castle"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "castle",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:505:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000505",
+      "rawToken": "castle",
+      "rawText": "如果把城堡前面再加上山的沙子,那就是山,castle就是沙宝啊,",
+      "normalizedCandidates": [
+        "castle"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "castle",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 20,
+        "end": 26
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:507:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000507",
+      "rawToken": "cast",
+      "rawText": "来,今天当我去搜索cast的时候,我看到的更多是啥呢,那是这啥,是什么啊,这是一帮演员,对,那些铸造的,接受铸造的人,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:509:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000509",
+      "rawToken": "cast",
+      "rawText": "全体演员就是那些接受铸造,接受造型的人,啊,叫cast,全体演员,所以这个事情更多呢,是cast,全体演员,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 23,
+        "end": 27
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:509:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000509",
+      "rawToken": "cast",
+      "rawText": "全体演员就是那些接受铸造,接受造型的人,啊,叫cast,全体演员,所以这个事情更多呢,是cast,全体演员,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 44,
+        "end": 48
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:510:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000510",
+      "rawToken": "cast",
+      "rawText": "也就是说,呃,人们愿意把它翻成cast,啊,你看这就是cast,这就是铸造,怎么铸造的,是不是把这个钢水,把它扔到这里边去,把它抛到这里边去,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 15,
+        "end": 19
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:510:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000510",
+      "rawToken": "cast",
+      "rawText": "也就是说,呃,人们愿意把它翻成cast,啊,你看这就是cast,这就是铸造,怎么铸造的,是不是把这个钢水,把它扔到这里边去,把它抛到这里边去,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 27,
+        "end": 31
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:512:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000512",
+      "rawToken": "cast",
+      "rawText": "就叫做cast,啊,而倒完之后的话,也就铸造了,而被铸造的那帮人,叫全体演员,中文,也把它翻译成形音,叫做卡斯,啊,卡斯是什么,就是一个电影的演员之中,啊,",
+      "normalizedCandidates": [
+        "cast"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "cast",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:513:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000513",
+      "rawToken": "le",
+      "rawText": "只要我把它后面加上一个le,castle,他就立刻变成了城堡,啊,当我在城堡前面加个stand,他就变成了沙堡,啊,",
+      "normalizedCandidates": [
+        "le"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "le",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 11,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:513:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000513",
+      "rawToken": "castle",
+      "rawText": "只要我把它后面加上一个le,castle,他就立刻变成了城堡,啊,当我在城堡前面加个stand,他就变成了沙堡,啊,",
+      "normalizedCandidates": [
+        "castle"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "castle",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 14,
+        "end": 20
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:513:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000513",
+      "rawToken": "stand",
+      "rawText": "只要我把它后面加上一个le,castle,他就立刻变成了城堡,啊,当我在城堡前面加个stand,他就变成了沙堡,啊,",
+      "normalizedCandidates": [
+        "stand"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "stand",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 42,
+        "end": 47
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hound",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hound"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hound",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 29,
+        "end": 32
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 34,
+        "end": 37
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 39,
+        "end": 42
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 44,
+        "end": 47
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:5:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 49,
+        "end": 52
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:6:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 54,
+        "end": 57
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:7:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 59,
+        "end": 62
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:8:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 64,
+        "end": 67
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:514:9:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000514",
+      "rawToken": "hut",
+      "rawText": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 69,
+        "end": 72
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 46,
+        "end": 49
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 51,
+        "end": 54
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:2:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 56,
+        "end": 59
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:3:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 61,
+        "end": 64
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:4:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 66,
+        "end": 69
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:5:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 71,
+        "end": 74
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:515:6:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000515",
+      "rawToken": "hut",
+      "rawText": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "normalizedCandidates": [
+        "hut"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hut",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 76,
+        "end": 79
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:517:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000517",
+      "rawToken": "hardhard",
+      "rawText": "那么这个hardhard有了之后的话",
+      "normalizedCandidates": [
+        "hardhard"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hardhard",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:518:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000518",
+      "rawToken": "hunt",
+      "rawText": "hunt不就是猎犬的简写吗",
+      "normalizedCandidates": [
+        "hunt"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "hunt",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:522:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000522",
+      "rawToken": "manu",
+      "rawText": "我今天想记manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:523:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000523",
+      "rawToken": "manu",
+      "rawText": "我非常想记manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:555:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000555",
+      "rawToken": "manu",
+      "rawText": "有一个叫manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 8
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:556:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000556",
+      "rawToken": "manu",
+      "rawText": "manu啥意思",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:561:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000561",
+      "rawToken": "manu",
+      "rawText": "我还不知道菜单manu吗",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:568:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000568",
+      "rawToken": "manu",
+      "rawText": "所以manu必然是manu的解写",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:568:1:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000568",
+      "rawToken": "manu",
+      "rawText": "所以manu必然是manu的解写",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 9,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:576:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000576",
+      "rawToken": "guarantee",
+      "rawText": "叫做guarantee",
+      "normalizedCandidates": [
+        "guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:577:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000577",
+      "rawToken": "god",
+      "rawText": "但我还不认识里边这个god吗",
+      "normalizedCandidates": [
+        "god"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "god",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 10,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:582:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000582",
+      "rawToken": "god",
+      "rawText": "说狗守护主人的行李就是god了",
+      "normalizedCandidates": [
+        "god"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "god",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 11,
+        "end": 14
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:583:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000583",
+      "rawToken": "guarantee",
+      "rawText": "那我这个guarantee",
+      "normalizedCandidates": [
+        "guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:589:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000589",
+      "rawToken": "we couldn't guarantee",
+      "rawText": "we couldn't guarantee",
+      "normalizedCandidates": [
+        "we-couldnt-guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "we-couldnt-guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 21
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:590:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000590",
+      "rawToken": "that",
+      "rawText": "that的晚会将上演按时进行",
+      "normalizedCandidates": [
+        "that"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "that",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 4
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:592:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000592",
+      "rawToken": "god",
+      "rawText": "所以什么叫做god",
+      "normalizedCandidates": [
+        "god"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "god",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:593:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000593",
+      "rawToken": "guarantee",
+      "rawText": "什么叫guarantee",
+      "normalizedCandidates": [
+        "guarantee"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "guarantee",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:598:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000598",
+      "rawToken": "manu",
+      "rawText": "小菜单manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:599:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000599",
+      "rawToken": "manu",
+      "rawText": "大手册manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 3,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:601:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000601",
+      "rawToken": "manu",
+      "rawText": "一旦当我获得了manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 7,
+        "end": 11
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:607:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000607",
+      "rawToken": "manu",
+      "rawText": "那么manu",
+      "normalizedCandidates": [
+        "manu"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "manu",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:625:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000625",
+      "rawToken": "good manner",
+      "rawText": "那么今天如果你有good manner",
+      "normalizedCandidates": [
+        "good-manner"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "good-manner",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 19
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:627:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000627",
+      "rawToken": "good manners",
+      "rawText": "good manners叫做礼貌",
+      "normalizedCandidates": [
+        "good-manners"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "good-manners",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 12
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:632:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000632",
+      "rawToken": "climb",
+      "rawText": "难道这个单词不是climb",
+      "normalizedCandidates": [
+        "climb"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "climb",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 8,
+        "end": 13
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:637:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000637",
+      "rawToken": "line",
+      "rawText": "所以line出现过三次",
+      "normalizedCandidates": [
+        "line"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "line",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 2,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:641:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000641",
+      "rawToken": "laptop",
+      "rawText": "叫laptop",
+      "normalizedCandidates": [
+        "laptop"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "laptop",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:651:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000651",
+      "rawToken": "euro",
+      "rawText": "但其实此刻是euro",
+      "normalizedCandidates": [
+        "euro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "euro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 6,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:653:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000653",
+      "rawToken": "euro",
+      "rawText": "现在通常叫euro",
+      "normalizedCandidates": [
+        "euro"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "euro",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:654:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000654",
+      "rawToken": "used",
+      "rawText": "过去长长叫used",
+      "normalizedCandidates": [
+        "used"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "used",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 5,
+        "end": 9
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:657:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000657",
+      "rawToken": "used used",
+      "rawText": "而used used",
+      "normalizedCandidates": [
+        "used-used"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "used-used",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 10
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:658:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000658",
+      "rawToken": "used to used to",
+      "rawText": "就合成了used to used to",
+      "normalizedCandidates": [
+        "used-to-used-to"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "used-to-used-to",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 19
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:659:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000659",
+      "rawToken": "used to used to",
+      "rawText": "就合成了used to used to",
+      "normalizedCandidates": [
+        "used-to-used-to"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "used-to-used-to",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 4,
+        "end": 19
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:667:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000667",
+      "rawToken": "custom",
+      "rawText": "custom习惯",
+      "normalizedCandidates": [
+        "custom"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "custom",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 6
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:687:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000687",
+      "rawToken": "custom",
+      "rawText": "叫custom",
+      "normalizedCandidates": [
+        "custom"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "custom",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:692:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000692",
+      "rawToken": "stand",
+      "rawText": "stand",
+      "normalizedCandidates": [
+        "stand"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "stand",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 0,
+        "end": 5
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:702:0:deterministic-srt-v1",
+      "sourceId": "source-b7a5f1e565950e5b",
+      "segmentId": "source-b7a5f1e565950e5b:s000702",
+      "rawToken": "custom",
+      "rawText": "叫custom",
+      "normalizedCandidates": [
+        "custom"
+      ],
+      "candidateSpellings": [
+        {
+          "value": "custom",
+          "score": 1,
+          "reason": "literal subtitle token"
+        }
+      ],
+      "characterRange": {
+        "start": 1,
+        "end": 7
+      },
+      "scanner": {
+        "id": "deterministic-tokenizer",
+        "version": "deterministic-srt-v1"
+      },
+      "status": "unreviewed"
+    }
+  ]
+}

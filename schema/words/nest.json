@@ -4,8 +4,14 @@
   "meaning": "nest",
   "family": "shape",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 nest 与 net 对比：从平面的网到更立体、更紧密的结构，形成“鸟巢”画面。",
   "rehearsal": "先说 net（网），再想鸟把材料编成立体 nest（巢）。",
   "caution": "nest 并非由 net 加 s 构成；两词的相似仅用于课堂联想。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "nest",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

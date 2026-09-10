@@ -1,0 +1,26 @@
+{
+  "id": "lump",
+  "headword": "lump",
+  "status": "confirmed",
+  "cardId": "lump",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "lump",
+    "label": "块；肿块",
+    "meaning": "块；肿块",
+    "family": "sound",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把它接在碰撞之后：滑板撞地，下一步出现肿起的一块。",
+    "rehearsal": "先想碰撞，再想鼓起的一块。",
+    "caution": "聚焦肿块画面。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/lump.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

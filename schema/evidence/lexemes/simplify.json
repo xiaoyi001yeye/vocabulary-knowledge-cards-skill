@@ -1,0 +1,30 @@
+{
+  "id": "simplify",
+  "headword": "simplify",
+  "status": "confirmed",
+  "cardId": "simplify",
+  "mentionIds": [
+    "source-d70e0af1dc1fb370:163:4:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:163:7:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:163:8:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "simplify",
+    "label": "使简化",
+    "meaning": "使简化",
+    "family": "contrast",
+    "lessonId": "vocabulary-021",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把“把复杂的事简单说”直接对应 simplify。",
+    "rehearsal": "选一句长句，将其改短，并说 simplify。",
+    "caution": "simplify 的构词说明只作学习提示，使用时需注意宾语和语境。"
+  },
+  "legacyLessonId": "vocabulary-021",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/simplify.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

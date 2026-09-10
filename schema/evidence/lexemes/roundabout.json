@@ -1,0 +1,30 @@
+{
+  "id": "roundabout",
+  "headword": "roundabout",
+  "status": "confirmed",
+  "cardId": "roundabout",
+  "mentionIds": [
+    "source-b7a5f1e565950e5b:309:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:312:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:325:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "roundabout",
+    "label": "环岛；迂回的",
+    "meaning": "roundabout",
+    "family": "scene",
+    "lessonId": "vocabulary-027",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用道路绕一圈再出去的路线画面记 roundabout。",
+    "rehearsal": "用手指在桌面画一圈，说 roundabout，再说“环岛”。",
+    "caution": "课堂的图形联想不替代该词所有义项和用法。"
+  },
+  "legacyLessonId": "vocabulary-027",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/roundabout.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

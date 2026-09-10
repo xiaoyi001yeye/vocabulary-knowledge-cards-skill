@@ -1,0 +1,53 @@
+{
+  "id": "ribbon",
+  "headword": "ribbon",
+  "status": "confirmed",
+  "cardId": "ribbon",
+  "mentionIds": [
+    "source-465469b62dd00822:449:0:deterministic-srt-v1",
+    "source-465469b62dd00822:450:0:deterministic-srt-v1",
+    "source-465469b62dd00822:452:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:992:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1002:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1005:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1006:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1020:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1032:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1034:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1036:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1037:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1040:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1041:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1042:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1043:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1044:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:1051:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:581:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:587:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:592:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:593:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:594:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:595:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:598:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:599:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "ribbon",
+    "label": "丝带；缎带",
+    "meaning": "ribbon",
+    "family": "scene",
+    "lessonId": "vocabulary-030",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以礼物包装上系着一条带子的画面记 ribbon。",
+    "rehearsal": "在纸上画一条系好的带子，说 ribbon“丝带”。",
+    "caution": "图像联想仅为助记。"
+  },
+  "legacyLessonId": "vocabulary-030",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/ribbon.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

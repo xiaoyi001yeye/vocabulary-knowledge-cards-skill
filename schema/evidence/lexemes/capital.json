@@ -1,0 +1,29 @@
+{
+  "id": "capital",
+  "headword": "capital",
+  "status": "confirmed",
+  "cardId": "capital",
+  "mentionIds": [
+    "source-d70e0af1dc1fb370:160:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:161:1:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "capital",
+    "label": "首都；资本；大写字母",
+    "meaning": "首都；资本；大写字母",
+    "family": "meaning",
+    "lessonId": "vocabulary-021",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以“各个城市之头”记住 capital 的首都义，并提到资本这一常见义。",
+    "rehearsal": "先指地图上的首都说 capital，再说一遍“首都/资本”。",
+    "caution": "capital 有多个义项；课堂的“头”画面仅作记忆抓手。"
+  },
+  "legacyLessonId": "vocabulary-021",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/capital.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

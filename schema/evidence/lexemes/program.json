@@ -1,0 +1,34 @@
+{
+  "id": "program",
+  "headword": "program",
+  "status": "confirmed",
+  "cardId": "program",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:2438:0:deterministic-srt-v1",
+    "source-7f5185c9dd3fe186:206:0:deterministic-srt-v1",
+    "source-7f5185c9dd3fe186:207:0:deterministic-srt-v1",
+    "source-7f5185c9dd3fe186:213:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1024:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1062:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1099:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "program",
+    "label": "程序；计划；节目",
+    "meaning": "program",
+    "family": "family",
+    "lessonId": "vocabulary-031",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 program 放到电脑程序和安排好的计划中，作为多义词入口。",
+    "rehearsal": "想象打开一个软件，说 program“程序”，再说“计划”。",
+    "caution": "课堂画面不涵盖全部义项；词性和地区拼写请以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-031",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/program.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

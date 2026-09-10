@@ -4,8 +4,17 @@
   "meaning": "fiber",
   "family": "scene",
   "lessonId": "vocabulary-031",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 fiber 与布料中细细的纤维联系起来。",
   "rehearsal": "指向布料的一根细线，朗读 fiber“纤维”。",
   "caution": "请以词典核对美式/英式拼写和专业义项。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "fiber",
+    "mentionIds": [
+      "source-7f5185c9dd3fe186:124:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:127:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

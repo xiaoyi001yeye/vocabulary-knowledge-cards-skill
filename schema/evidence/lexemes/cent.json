@@ -1,0 +1,42 @@
+{
+  "id": "cent",
+  "headword": "cent",
+  "status": "confirmed",
+  "cardId": "cent",
+  "mentionIds": [
+    "source-632feac3831b11d8:611:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:616:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:622:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:627:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:642:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:648:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:649:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:652:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:653:0:deterministic-srt-v1",
+    "source-b7a5f1e565950e5b:253:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:516:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:517:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1234:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1237:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:1238:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "cent",
+    "label": "分（货币单位）",
+    "meaning": "分（货币单位）",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接说明 cent 是货币中的“分”，用零钱金额场景建立记忆。",
+    "rehearsal": "说出“one cent”，并用手比出一枚小硬币的大小。",
+    "caution": "不同国家货币制度不同；货币单位解释以具体语境为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/cent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

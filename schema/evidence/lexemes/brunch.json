@@ -1,0 +1,28 @@
+{
+  "id": "brunch",
+  "headword": "brunch",
+  "status": "confirmed",
+  "cardId": "brunch",
+  "mentionIds": [
+    "source-e51c67807adb6e8c:437:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "brunch",
+    "label": "早午餐",
+    "meaning": "早午餐",
+    "family": "组合拆分",
+    "lessonId": "vocabulary-002",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 breakfast 和 lunch 说成“早餐、午餐二合一”，再用上午吃一顿、下午再吃一顿的安排建立 brunch 的场景。",
+    "rehearsal": "先说 breakfast 和 lunch，再口述二合一的一餐是 brunch。",
+    "caution": "这是透明组合词的课堂理解；具体用法仍以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-002",
+  "legacyMnemonicCategory": "组合拆分",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/brunch.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

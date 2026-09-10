@@ -4,8 +4,16 @@
   "meaning": "fabric",
   "family": "scene",
   "lessonId": "vocabulary-031",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用可触摸的布、衣料画面记 fabric。",
   "rehearsal": "摸一块衣服布料，说 fabric“织物”。",
   "caution": "物件画面仅帮助记忆基本义。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "fabric",
+    "mentionIds": [
+      "source-7f5185c9dd3fe186:123:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

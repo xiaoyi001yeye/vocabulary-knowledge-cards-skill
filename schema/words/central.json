@@ -4,8 +4,24 @@
   "meaning": "中心的；核心的",
   "family": "contrast",
   "lessonId": "vocabulary-020",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂先从 center“中心”联想到 central“中心的”，再用“中间的点”帮助区分。",
   "rehearsal": "指向地图中央，说 central，再说“中心的”。",
   "caution": "center 与 central 的课堂关联用于记忆；词性和搭配请查词典。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "central",
+    "mentionIds": [
+      "source-da443cb0d0c37ebd:40:1:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:41:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:42:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:47:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:48:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:53:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:57:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:59:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:61:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -4,8 +4,18 @@
   "meaning": "contemporary",
   "family": "scene",
   "lessonId": "vocabulary-031",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“同一时间、同一个时代”的画面记 contemporary。",
   "rehearsal": "说出两位同一时代的人，并说 contemporary“同时代的”。",
   "caution": "课堂拆分是助记提示，非严格词源结论。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "contemporary",
+    "mentionIds": [
+      "source-7f5185c9dd3fe186:439:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:448:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:452:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

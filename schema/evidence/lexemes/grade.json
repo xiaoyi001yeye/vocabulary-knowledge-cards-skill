@@ -1,0 +1,45 @@
+{
+  "id": "grade",
+  "headword": "grade",
+  "status": "confirmed",
+  "cardId": "grade",
+  "mentionIds": [
+    "source-6160c887bab4dead:632:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:633:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1541:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1542:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1546:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1547:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1550:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1551:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1556:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1558:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1559:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1560:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1576:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1580:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1581:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1582:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1600:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:1604:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "grade",
+    "label": "年级；等级",
+    "meaning": "年级；等级",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 grade 与“等级、年级”并列说明，先从学校年级和评价等级两个场景理解。",
+    "rehearsal": "说出自己的年级，再说“grade 可以是年级或等级”。",
+    "caution": "不同语境中的具体义项以词典和上下文为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/grade.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -7,5 +7,11 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用 wedding anniversary 的祝福场景记忆 anniversary。",
   "rehearsal": "说 wedding anniversary，再口述“结婚纪念日”。",
-  "caution": "anniversary 可用于多种周年事件；搭配以词典为准。"
+  "caution": "anniversary 可用于多种周年事件；搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "anniversary",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

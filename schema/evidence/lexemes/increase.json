@@ -1,0 +1,32 @@
+{
+  "id": "increase",
+  "headword": "increase",
+  "status": "confirmed",
+  "cardId": "increase",
+  "mentionIds": [
+    "source-da443cb0d0c37ebd:421:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:423:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:434:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:435:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:438:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "increase",
+    "label": "增加；增长",
+    "meaning": "增加；增长",
+    "family": "meaning",
+    "lessonId": "vocabulary-020",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接给出 increase“增加”，放在词汇创造的例子中反复朗读。",
+    "rehearsal": "用手势从小到大展开，说 increase，并口述“增加”。",
+    "caution": "increase 可作动词或名词；本卡只保留基础义。"
+  },
+  "legacyLessonId": "vocabulary-020",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/increase.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

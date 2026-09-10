@@ -4,8 +4,24 @@
   "meaning": "president",
   "family": "scene",
   "lessonId": "vocabulary-023",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂画出开会时“坐在最前面、两边小兵排开”的领导，记 president。",
   "rehearsal": "坐直并指向前方，口述“坐在前面主持会议的人：president”。",
   "caution": "课堂画面不是严格词源；president 也可按语境表示主席等职位。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "president",
+    "mentionIds": [
+      "source-0759dd85e8a2a5af:2:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:3:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:853:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:864:0:deterministic-srt-v1",
+      "source-1da33e32e5e8d7ff:866:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:335:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:344:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1354:0:deterministic-srt-v1",
+      "source-fc5804a317f88303:1359:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

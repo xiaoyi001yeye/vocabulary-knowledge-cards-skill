@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂在餐后食物场景中给出 dessert。",
   "rehearsal": "想象一份餐后甜点，朗读 dessert，说“甜点”。",
-  "caution": "dessert 与 desert 拼写相近但意义不同，需分开记忆。"
+  "caution": "dessert 与 desert 拼写相近但意义不同，需分开记忆。",
+  "evidence": {
+    "lexemeId": "dessert",
+    "mentionIds": [
+      "source-a5018fd792d84e0f:268:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

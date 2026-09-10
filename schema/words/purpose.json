@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂在 to the purpose 的语境中提示 purpose“目的”。",
   "rehearsal": "说 My purpose is...，再口述“目的”。",
-  "caution": "固定搭配和介词选择请以词典例句为准。"
+  "caution": "固定搭配和介词选择请以词典例句为准。",
+  "evidence": {
+    "lexemeId": "purpose",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:1780:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

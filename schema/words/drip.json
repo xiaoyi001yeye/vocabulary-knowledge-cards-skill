@@ -1,0 +1,29 @@
+{
+  "id": "drip",
+  "label": "滴下；滴落",
+  "meaning": "滴下；滴落",
+  "family": "词族与对比",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂把物体掉下来的 drop 与液体一滴一滴落下来的 drip 对照，突出 drip 的“滴落”画面。",
+  "rehearsal": "用手指模仿水滴向下落，朗读 drip，并对比说“drop 是掉下，drip 是滴下”。",
+  "caution": "drop 与 drip 的课堂对比用于助记；具体用法以词典为准。",
+  "evidence": {
+    "lexemeId": "drip",
+    "mentionIds": [
+      "source-d70e0af1dc1fb370:136:1:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:140:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:150:1:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:150:2:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:151:6:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:151:7:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:153:1:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:153:2:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:153:4:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:154:0:deterministic-srt-v1",
+      "source-d70e0af1dc1fb370:154:2:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

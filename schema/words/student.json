@@ -4,8 +4,14 @@
   "meaning": "student",
   "family": "suffix",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂提醒“学习的人”可用 -ent 这类人物后缀印象来辅助理解 student。",
   "rehearsal": "说 study → student，并用 I am a student. 造句。",
   "caution": "student 的构词和词源不应只用“study + ent”机械解释；卡片仅保留课堂联想。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "student",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

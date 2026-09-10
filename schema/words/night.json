@@ -4,8 +4,14 @@
   "meaning": "night",
   "family": "sound",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 night 放在“没有光”的夜晚画面中，用 no light 的对照增强印象。",
   "rehearsal": "闭眼想黑夜，说 night；再说 Good night.",
   "caution": "night 不是 no light 的缩写或严格构词结果。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "night",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

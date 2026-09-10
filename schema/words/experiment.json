@@ -4,8 +4,27 @@
   "meaning": "实验",
   "family": "课堂助记",
   "lessonId": "vocabulary-015",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接将“做实验”落到 experiment，并接出“总做实验就有 experience”的连续提示。",
   "rehearsal": "先说“做实验”，再朗读 experiment；不要把相邻词当作严格构词结论。",
   "caution": "与 experience 的连接仅保留为课堂记忆路径。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "experiment",
+    "mentionIds": [
+      "source-23363ceac2a543da:1706:0:deterministic-srt-v1",
+      "source-6160c887bab4dead:266:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:1668:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:635:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:639:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:647:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:648:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:655:0:deterministic-srt-v1",
+      "source-8e85860baa296563:334:0:deterministic-srt-v1",
+      "source-8e85860baa296563:342:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:1:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:9:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

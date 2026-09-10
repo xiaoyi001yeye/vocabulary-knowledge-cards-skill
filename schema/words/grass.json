@@ -4,8 +4,17 @@
   "meaning": "grass",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂让学生搜图观察 grass：通常呈现为一片、多株的草或草地。",
   "rehearsal": "想一片草坪，说 grass；再造句 The grass is green.",
   "caution": "grass 通常不可数；末尾 ss 与“复数”无关。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "grass",
+    "mentionIds": [
+      "source-d9a7b5c2219a9fc4:324:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:325:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

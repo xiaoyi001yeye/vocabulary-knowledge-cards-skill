@@ -1,0 +1,29 @@
+{
+  "id": "spy",
+  "label": "间谍；暗中监视",
+  "meaning": "间谍；暗中监视",
+  "family": "语义与场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接说明 spy 是“间谍”，用暗中观察、传递情报的场景帮助记忆。",
+  "rehearsal": "做一个悄悄观察的动作，朗读 spy，并说“间谍”。",
+  "caution": "场景联想用于助记；名词和动词用法以词典为准。",
+  "evidence": {
+    "lexemeId": "spy",
+    "mentionIds": [
+      "source-149a15ed602adec6:1312:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:1337:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:3148:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:3174:0:deterministic-srt-v1",
+      "source-465469b62dd00822:165:0:deterministic-srt-v1",
+      "source-465469b62dd00822:166:0:deterministic-srt-v1",
+      "source-465469b62dd00822:210:0:deterministic-srt-v1",
+      "source-465469b62dd00822:214:0:deterministic-srt-v1",
+      "source-465469b62dd00822:217:0:deterministic-srt-v1",
+      "source-465469b62dd00822:217:1:deterministic-srt-v1",
+      "source-465469b62dd00822:219:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

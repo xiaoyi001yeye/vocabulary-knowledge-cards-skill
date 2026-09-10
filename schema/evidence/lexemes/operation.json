@@ -1,0 +1,28 @@
+{
+  "id": "operation",
+  "headword": "operation",
+  "status": "confirmed",
+  "cardId": "operation",
+  "mentionIds": [
+    "source-a16e1bfcf6d30d55:69:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "operation",
+    "label": "操作；手术；运作",
+    "meaning": "operation",
+    "family": "family",
+    "lessonId": "vocabulary-029",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 operate 的“操作”动作延伸到 operation，先固化常见基本义。",
+    "rehearsal": "做出按按钮的动作，说 operation“操作”。",
+    "caution": "operation 有多义；本卡不把课堂拆分当作词源事实。"
+  },
+  "legacyLessonId": "vocabulary-029",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/operation.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

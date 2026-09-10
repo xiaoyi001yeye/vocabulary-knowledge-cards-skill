@@ -1,0 +1,32 @@
+{
+  "id": "simple",
+  "headword": "simple",
+  "status": "confirmed",
+  "cardId": "simple",
+  "mentionIds": [
+    "source-d70e0af1dc1fb370:162:3:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:162:4:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:162:6:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:163:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:163:1:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "simple",
+    "label": "简单的",
+    "meaning": "简单的",
+    "family": "contrast",
+    "lessonId": "vocabulary-021",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用小嘴读 simple 的画面，提示把复杂事情说简单。",
+    "rehearsal": "把一句话缩成短句，朗读 simple，说“简单”。",
+    "caution": "口形联想只是助记，实际发音以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-021",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/simple.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

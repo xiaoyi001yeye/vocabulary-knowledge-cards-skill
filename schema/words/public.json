@@ -7,5 +7,16 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 public 与 private 对照，记为公共的。",
   "rehearsal": "先说 public“公共的”，再对比 private“私人的”。",
-  "caution": "课堂对照只覆盖基础义；词性和搭配以词典为准。"
+  "caution": "课堂对照只覆盖基础义；词性和搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "public",
+    "mentionIds": [
+      "source-43876b3383b9858d:271:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:274:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:277:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:281:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

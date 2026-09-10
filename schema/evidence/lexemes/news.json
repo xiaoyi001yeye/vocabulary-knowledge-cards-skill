@@ -1,0 +1,26 @@
+{
+  "id": "news",
+  "headword": "news",
+  "status": "confirmed",
+  "cardId": "news",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "news",
+    "label": "新闻；消息",
+    "meaning": "news",
+    "family": "word-form",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用 new（新的）引出 news：把“新近发生的事”与新闻联系起来。",
+    "rehearsal": "先说 new，再说“新发生的事”，最后说 news。",
+    "caution": "news 是不可数名词；末尾 s 不表示复数，也不是由 new 直接加 s 的常规构词规则。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "word-form",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/news.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

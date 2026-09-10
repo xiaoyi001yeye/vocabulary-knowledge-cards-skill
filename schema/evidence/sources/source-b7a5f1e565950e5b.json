@@ -1,0 +1,6044 @@
+{
+  "id": "source-b7a5f1e565950e5b",
+  "contentHash": "b7a5f1e565950e5b82f5bf35065e560a1b79b1701421ecbb77ef3aea7b06ee55",
+  "byteLength": 56364,
+  "fileNames": [
+    "29.最新编辑1-4000词汇速记027.srt"
+  ],
+  "parser": "srt-v1",
+  "segmentCount": 754,
+  "segments": [
+    {
+      "id": "source-b7a5f1e565950e5b:s000001",
+      "sequence": 1,
+      "startMs": 0,
+      "endMs": 5360,
+      "text": "马上开始昨天讲到一个词",
+      "rawTextHash": "2b1ce8d115650d6fec32387c6de30cd81f09b9eac19e8ce2000d0c60efec4bbd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000002",
+      "sequence": 2,
+      "startMs": 5360,
+      "endMs": 8620,
+      "text": "他叫做flip",
+      "rawTextHash": "80cffa66180279da210d6330f7611d8a9d27144c3c4dc4b8003787a0b09906f0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000003",
+      "sequence": 3,
+      "startMs": 8620,
+      "endMs": 11000,
+      "text": "说这个词啊",
+      "rawTextHash": "1e3e6666ae85d82d0a17ead769d9ca90c59a0d950bf3b4aad99e8374704dab26"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000004",
+      "sequence": 4,
+      "startMs": 11000,
+      "endMs": 14000,
+      "text": "就好像飞起来之后",
+      "rawTextHash": "73d2d1672e9ba87f09a9383e04a1b622f5123ef906bd40655a3a6057e86efcfd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000005",
+      "sequence": 5,
+      "startMs": 14000,
+      "endMs": 15700,
+      "text": "soul又下来了",
+      "rawTextHash": "07626490daad50b1e0794c0e74b7d90bf77ccb70099f3ec933f339269065ac82"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000006",
+      "sequence": 6,
+      "startMs": 15700,
+      "endMs": 16800,
+      "text": "告诉我什么意思",
+      "rawTextHash": "18e2a13332d7ace45a2f1ee1e0bcf47cae546049d0b15628e5893c55cc1736f4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000007",
+      "sequence": 7,
+      "startMs": 16800,
+      "endMs": 21080,
+      "text": "就好像一个人飞起来之后",
+      "rawTextHash": "6314d21b6592ed1dafa7c7913603693f5a37f9ba3fbe7cd9d1bddf35f3a767d9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000008",
+      "sequence": 8,
+      "startMs": 21080,
+      "endMs": 22080,
+      "text": "soul又下来了",
+      "rawTextHash": "07626490daad50b1e0794c0e74b7d90bf77ccb70099f3ec933f339269065ac82"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000009",
+      "sequence": 9,
+      "startMs": 22080,
+      "endMs": 23200,
+      "text": "空翻",
+      "rawTextHash": "cba1474c9088a7fd3e2a52190c39cdd8f873f4e11c888fd9d22c100018cd8604"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000010",
+      "sequence": 10,
+      "startMs": 23200,
+      "endMs": 24500,
+      "text": "非常生动",
+      "rawTextHash": "ac446c49ced6554ff58433f1c8c2700854b2437e8d60f7882ad5194f204a879c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000011",
+      "sequence": 11,
+      "startMs": 24500,
+      "endMs": 26200,
+      "text": "飞起来耍下来了",
+      "rawTextHash": "5d5c2ac87d366cac4bba652110a396a75afb75fe8f69a314e65b0988bdb58b58"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000012",
+      "sequence": 12,
+      "startMs": 26200,
+      "endMs": 29100,
+      "text": "sapt什么东西呢",
+      "rawTextHash": "7e8f249e6a51a5f76f2975b184926a968c483451849577a08ac50dbbd700846b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000013",
+      "sequence": 13,
+      "startMs": 29100,
+      "endMs": 29980,
+      "text": "词根呢",
+      "rawTextHash": "5c2926f04f27bf10002edc6daa76919cd0dc3d020f3b8d0a405aa1cccd1ead32"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000014",
+      "sequence": 14,
+      "startMs": 29980,
+      "endMs": 31440,
+      "text": "他叫词根拿",
+      "rawTextHash": "4205a94cce81543c894591352330a9616136c63972d1e58d4756ff6a1822fffd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000015",
+      "sequence": 15,
+      "startMs": 31440,
+      "endMs": 34580,
+      "text": "那么说他为什么是词根拿",
+      "rawTextHash": "e906972912a3ed085c6c4abda19986ac369b3c19ddd46ea4bbb658e80985b9ab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000016",
+      "sequence": 16,
+      "startMs": 34580,
+      "endMs": 36560,
+      "text": "因为他有点这个C啊",
+      "rawTextHash": "e692e2afbab65e9a3b7abd864d7ef8cc90ede222980e3e7226d917f3d746850f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000017",
+      "sequence": 17,
+      "startMs": 36560,
+      "endMs": 38360,
+      "text": "我会抓的感觉啊",
+      "rawTextHash": "1f8d549c5f1e70f1e07436c90ecc3a44fbd75d4ffebc56bc433b33318de431a4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000018",
+      "sequence": 18,
+      "startMs": 38360,
+      "endMs": 39440,
+      "text": "所以reception",
+      "rawTextHash": "3469406235fb93bfbe3b1a78d80a4bcde47fe20f665fd99b96c45e86d72bac78"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000019",
+      "sequence": 19,
+      "startMs": 39440,
+      "endMs": 41740,
+      "text": "reception叫什么呢",
+      "rawTextHash": "ff3b21500f343c3a1046424f9dd65f07d61558a2acd5e8d0b3c765bb7b1f1e41"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000020",
+      "sequence": 20,
+      "startMs": 41740,
+      "endMs": 43600,
+      "text": "叫往回拿的名词",
+      "rawTextHash": "d5d5db37eedc8ab36adad6c9c09bb64ec957beef7c63bad122663ee55b48d5f2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000021",
+      "sequence": 21,
+      "startMs": 43600,
+      "endMs": 44920,
+      "text": "叫招待的意思",
+      "rawTextHash": "ac7e97592419638c8d25ce8b11e3698311e7cbc69b1b69fa2ecfa0307b81f945"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000022",
+      "sequence": 22,
+      "startMs": 44920,
+      "endMs": 48040,
+      "text": "你看往回拿到我家去招待你们",
+      "rawTextHash": "10ccbb32d2030e385d715d82d9f50558d1611f4862ca0ddc9ed0934a2e6b4fb5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000023",
+      "sequence": 23,
+      "startMs": 48040,
+      "endMs": 49560,
+      "text": "他叫",
+      "rawTextHash": "89a732762005031275baf0cf7a425c6355e224de20f885f4f4866254974d3ccd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000024",
+      "sequence": 24,
+      "startMs": 49560,
+      "endMs": 51680,
+      "text": "他叫向回",
+      "rawTextHash": "f78857ae43f7e07727e33c6364cd8c900024030c0c169d0407fcb815cbc2f7ec"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000025",
+      "sequence": 25,
+      "startMs": 51680,
+      "endMs": 52920,
+      "text": "他叫拿",
+      "rawTextHash": "7a92ff39f47c448e39ac3a577ae265bc317bf451893f7fe7de8a49c2bbf2dd6c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000026",
+      "sequence": 26,
+      "startMs": 52920,
+      "endMs": 55000,
+      "text": "所以reception是招待",
+      "rawTextHash": "d8a0486b1a613b171f8b82f5823f0c862cbceaed62a34e54fb37682ad793a1a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000027",
+      "sequence": 27,
+      "startMs": 55000,
+      "endMs": 58160,
+      "text": "那么receptionist就是招待的人",
+      "rawTextHash": "050c201f0710a815ea4dd28f30dac1d4026ba161605ef75611483e9fcd9a5c35"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000028",
+      "sequence": 28,
+      "startMs": 58160,
+      "endMs": 60420,
+      "text": "应该就是招待人员",
+      "rawTextHash": "25f4d018ddf2432974b027c1d1942cca6b8f0845180ec44e5fdb9108c9e0c67a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000029",
+      "sequence": 29,
+      "startMs": 60420,
+      "endMs": 61840,
+      "text": "就是酒店",
+      "rawTextHash": "d45c95a7eb855f013abcb05bd4066e82361c297cabbc7e330b2a9a67705e729a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000030",
+      "sequence": 30,
+      "startMs": 61840,
+      "endMs": 65620,
+      "text": "就是酒店大堂在柜台那个招待",
+      "rawTextHash": "edd7480bbd913dbd5202de2b5bdf51428b0f1407b93ad9ecccfc332cf7a6f47d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000031",
+      "sequence": 31,
+      "startMs": 65620,
+      "endMs": 67260,
+      "text": "他叫接待员",
+      "rawTextHash": "affd644b83d01c42b6bff3456d48a81d49b9f161f3078fa59f8b31edd9ebe67e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000032",
+      "sequence": 32,
+      "startMs": 67260,
+      "endMs": 68300,
+      "text": "receptionist",
+      "rawTextHash": "c3bca14c650063bb88e5a82f757c11defaf4ea06c18368c9c9b70c5d77933dd3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000033",
+      "sequence": 33,
+      "startMs": 68300,
+      "endMs": 70220,
+      "text": "他的工作是什么",
+      "rawTextHash": "f76fdc7d84b073898baf7ef79d29a52a8b7f28307b55169b2f1ebeb70aa4c20e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000034",
+      "sequence": 34,
+      "startMs": 70220,
+      "endMs": 72140,
+      "text": "就是把大家往酒店里边拿",
+      "rawTextHash": "82b8f97065c05c8c5fb3f58c4fa026259bfe4c43ee3ce69a822308bd0f5e4854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000035",
+      "sequence": 35,
+      "startMs": 72140,
+      "endMs": 74100,
+      "text": "所以如果你知道",
+      "rawTextHash": "dbb0665972c3c152e00e93fe9b5ebcf1c19a8cf4dba308770d485fc6d5a791b1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000036",
+      "sequence": 36,
+      "startMs": 74100,
+      "endMs": 75960,
+      "text": "sapt叫词根拿",
+      "rawTextHash": "39217627ea860a4cf15f783d6b816e9490538701c09dee3e667f29d08aee8965"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000037",
+      "sequence": 37,
+      "startMs": 75960,
+      "endMs": 78820,
+      "text": "你才能体会到reception",
+      "rawTextHash": "c6674e37b57523a23e6b12c8718400f70017d259170d8b05e2e5c10e8b77e015"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000038",
+      "sequence": 38,
+      "startMs": 78820,
+      "endMs": 81080,
+      "text": "是招待往回拿",
+      "rawTextHash": "3b2134ee0f8610e0931be173fa0e7d033daf8c151bb18d81ed497b9cb8f090c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000039",
+      "sequence": 39,
+      "startMs": 81080,
+      "endMs": 82620,
+      "text": "receptionist",
+      "rawTextHash": "c3bca14c650063bb88e5a82f757c11defaf4ea06c18368c9c9b70c5d77933dd3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000040",
+      "sequence": 40,
+      "startMs": 82620,
+      "endMs": 83820,
+      "text": "叫做接待员",
+      "rawTextHash": "fdaf851c572ca54c61e41cc25bb854c74a5118f80832d8fa646add5356ece76f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000041",
+      "sequence": 41,
+      "startMs": 83820,
+      "endMs": 87660,
+      "text": "这难道不是星星的演变吗",
+      "rawTextHash": "1d2a3159ace08b8ccd7e58b2ed695700fb0cec4339e68988f71cab4402aa354b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000042",
+      "sequence": 42,
+      "startMs": 87660,
+      "endMs": 88200,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000043",
+      "sequence": 43,
+      "startMs": 88200,
+      "endMs": 90620,
+      "text": "那就是船呢",
+      "rawTextHash": "39ab618db90adbe7a84a8e8710416f6f04939a0b0a29f970b6d517f233d65f29"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000044",
+      "sequence": 44,
+      "startMs": 90620,
+      "endMs": 91660,
+      "text": "为什么呀",
+      "rawTextHash": "d585d151d4f251de66e8587edbd09fdcd669c77acfc088efa410e26ebf11dca9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000045",
+      "sequence": 45,
+      "startMs": 91660,
+      "endMs": 93920,
+      "text": "因为船这个东西跟av",
+      "rawTextHash": "ffd2a479d07e689aa0aa42cd127dbe09a8b473bd8abd5535488fdf4ccf1c652f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000046",
+      "sequence": 46,
+      "startMs": 93920,
+      "endMs": 96760,
+      "text": "跟词根叫叫鸟有关系啊",
+      "rawTextHash": "68253d48cd3d7d608355882bd120efea576c8f24e1ef27810fe9d34c2eb8170f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000047",
+      "sequence": 47,
+      "startMs": 96760,
+      "endMs": 96960,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000048",
+      "sequence": 48,
+      "startMs": 96960,
+      "endMs": 99800,
+      "text": "那么鸟像a的样子",
+      "rawTextHash": "510d6c74623d32d0da4d013955aac5f9dcc7fd586b7b4c5e62e46240a2429cca"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000049",
+      "sequence": 49,
+      "startMs": 99800,
+      "endMs": 101620,
+      "text": "所以avav鸟",
+      "rawTextHash": "c22ee8c286c671a70f983557c89e2ea8bbb8516cbed0e85a6abfc0f7542a48f9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000050",
+      "sequence": 50,
+      "startMs": 101620,
+      "endMs": 103000,
+      "text": "navy navy船",
+      "rawTextHash": "f316eec4396ffb0f1dff60224b042aa51efc5ea7028b31cb3a36777d939fcedb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000051",
+      "sequence": 51,
+      "startMs": 103000,
+      "endMs": 105200,
+      "text": "这三个字母其实就是船",
+      "rawTextHash": "62da3de5a2fdf4e8fc7017b1741175899c56403be2eeafcc1ef3ffa5e8293292"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000052",
+      "sequence": 52,
+      "startMs": 105200,
+      "endMs": 111180,
+      "text": "星空中的船叫做宇航员",
+      "rawTextHash": "ed1b36e105d302f53c114753c91e4a0cf48ef22be75fbdaf0e5a8873013c85a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000053",
+      "sequence": 53,
+      "startMs": 111180,
+      "endMs": 115240,
+      "text": "宇航员啊",
+      "rawTextHash": "131d4fd968d8aa9a032ff596b7e968405d7c6434cf4f6fc1c7092611a006e167"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000054",
+      "sequence": 54,
+      "startMs": 115240,
+      "endMs": 119600,
+      "text": "sapt就是盐呢",
+      "rawTextHash": "c5c0c4d28ef936c435c13c96238cb369895814a9882e5288f33e4fd9bee7b453"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000055",
+      "sequence": 55,
+      "startMs": 119600,
+      "endMs": 121540,
+      "text": "古罗马的士兵",
+      "rawTextHash": "757d6ce6ab9d3beb89136be1325ee2e404bf8666835b40bca9032cd408d7a2e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000056",
+      "sequence": 56,
+      "startMs": 121540,
+      "endMs": 121980,
+      "text": "喂",
+      "rawTextHash": "ea8ea533443d819640ceb833373bd4f0ed0e09f780278686f9a16891dc467cf5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000057",
+      "sequence": 57,
+      "startMs": 121980,
+      "endMs": 122520,
+      "text": "有问题吗",
+      "rawTextHash": "55c4a59396f8af43bd279f910549a160a859190a9c29a121a5a153d37a5f9fe4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000058",
+      "sequence": 58,
+      "startMs": 122520,
+      "endMs": 124840,
+      "text": "为什么盐简化叫货坠",
+      "rawTextHash": "a545ed488e0798900bdd79fcaa97ee5d5bf99b15fd0e61c6813f481eb5b2938e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000059",
+      "sequence": 59,
+      "startMs": 124840,
+      "endMs": 125960,
+      "text": "叫做薪水呢",
+      "rawTextHash": "6037746c49c3cbb1381ed80216f943e35caf08ddec9e360e94d9c8cf431abd79"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000060",
+      "sequence": 60,
+      "startMs": 125960,
+      "endMs": 126360,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000061",
+      "sequence": 61,
+      "startMs": 126360,
+      "endMs": 128080,
+      "text": "因为古罗马的士兵",
+      "rawTextHash": "a43508cb4ca5167b552efca50469fd817e13a4e305799245e0d87230532bf0a7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000062",
+      "sequence": 62,
+      "startMs": 128080,
+      "endMs": 129880,
+      "text": "都是发盐作为薪水",
+      "rawTextHash": "74c2b633ec18b2d09ea9b34178a33aaf3d68506952f2c44413bc129a5645f29c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000063",
+      "sequence": 63,
+      "startMs": 129880,
+      "endMs": 130860,
+      "text": "没有钱啊",
+      "rawTextHash": "05e8b6d02aea5d578671f8417500c83a5f61c9b1d84326af527ef7d54b605136"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000064",
+      "sequence": 64,
+      "startMs": 130860,
+      "endMs": 132640,
+      "text": "盐是生活必须",
+      "rawTextHash": "bc349e3cb6928eaed362f89253bc83721b50c7b98c8606aa679991a9830e364e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000065",
+      "sequence": 65,
+      "startMs": 132640,
+      "endMs": 135040,
+      "text": "你今天也用你这个工作",
+      "rawTextHash": "b67ce90d0a29100936c202db9428ddaffe3e4e2d012209a6eba8f8d404b077ae"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000066",
+      "sequence": 66,
+      "startMs": 135040,
+      "endMs": 136060,
+      "text": "有油水啊",
+      "rawTextHash": "e03fd35f690cbd032aa5ff74c653169da878cd1bc4ce64639d626a4b3a07b92a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000067",
+      "sequence": 67,
+      "startMs": 136060,
+      "endMs": 136400,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000068",
+      "sequence": 68,
+      "startMs": 136400,
+      "endMs": 138520,
+      "text": "你这个工作啊",
+      "rawTextHash": "3987b08a43231d7d6068ad5bf9b95ba90d78c86558619bfefdef0897eed89bfd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000069",
+      "sequence": 69,
+      "startMs": 138520,
+      "endMs": 139320,
+      "text": "你看",
+      "rawTextHash": "26e204b34f9170b0a892df780e55ffe61ab0c337888a902260cd3c97baf378a3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000070",
+      "sequence": 70,
+      "startMs": 139320,
+      "endMs": 140140,
+      "text": "那薪水",
+      "rawTextHash": "218857e99916d9aa99e2994edcb30bd9884ecddd6ac47373339a86a6af48a533"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000071",
+      "sequence": 71,
+      "startMs": 140140,
+      "endMs": 141680,
+      "text": "薪水薪水",
+      "rawTextHash": "855afadc71249e1244cfb57d0a35963b80090fc034aff51e6b8d2ae429513a93"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000072",
+      "sequence": 72,
+      "startMs": 141680,
+      "endMs": 141980,
+      "text": "东西",
+      "rawTextHash": "b1813501860b58c2bf431087c4ca630ce7e8dc3ef72502973b2e283a78f451f6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000073",
+      "sequence": 73,
+      "startMs": 141980,
+      "endMs": 145600,
+      "text": "那个薪就是烧烧这个柴火",
+      "rawTextHash": "a2d59a96e96146aaa7c57f0927ab980dd8eed166db8637858d1b3fcffd1e94a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000074",
+      "sequence": 74,
+      "startMs": 145600,
+      "endMs": 146860,
+      "text": "柴火呀",
+      "rawTextHash": "8cd0277b9dc8a5cc95fec8259b86065dabd86c903669b4c6587c7f03a1ebba1c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000075",
+      "sequence": 75,
+      "startMs": 146860,
+      "endMs": 147600,
+      "text": "油啊",
+      "rawTextHash": "d3a01fdd5a3c68e7064706e8f79364847f226268ad6d5d968abf68f0c1858f1e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000076",
+      "sequence": 76,
+      "startMs": 147600,
+      "endMs": 149700,
+      "text": "人们过去总是用油盐",
+      "rawTextHash": "7d279bbf7a6c611277060910ff02837f20c31fd150a1a0e6dfb6f105c6e111f9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000077",
+      "sequence": 77,
+      "startMs": 149700,
+      "endMs": 152840,
+      "text": "柴米油盐来当做薪水啊",
+      "rawTextHash": "a2307525ec8c3356b294f03ab970a10cd0a72460b5df0e32262fa69c28b520a2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000078",
+      "sequence": 78,
+      "startMs": 152840,
+      "endMs": 154480,
+      "text": "sign就标记",
+      "rawTextHash": "421a3a2ba63513d4c4b0ead402ec3a8bc3a7fa5bfca41a1ef37c2f8c2957b959"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000079",
+      "sequence": 79,
+      "startMs": 154480,
+      "endMs": 158620,
+      "text": "如果我在这打了个标记",
+      "rawTextHash": "639ec7c0c97f68a82931f4efa860434d11ce57b3e98efc088e5e26731019f9b0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000080",
+      "sequence": 80,
+      "startMs": 158620,
+      "endMs": 161100,
+      "text": "我别的都没打个标记",
+      "rawTextHash": "d9e368a4cb9c1127ae5ec2673df5d6da6b4c6d24a9678a972092f2513f865c4d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000081",
+      "sequence": 81,
+      "startMs": 161100,
+      "endMs": 163100,
+      "text": "我就在这打了个标记",
+      "rawTextHash": "652d81af934f48b2b72dfc3d8a6c6f65fda0f7d8f9f47a7cb605805410bd4869"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000082",
+      "sequence": 82,
+      "startMs": 163100,
+      "endMs": 164940,
+      "text": "那么加上动词后坠",
+      "rawTextHash": "b1a53dfaac9a8eb16bc4728fadb14e88f001ded50e254d7ac5c93e5a80168177"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000083",
+      "sequence": 83,
+      "startMs": 164940,
+      "endMs": 167080,
+      "text": "当然意味着它重要",
+      "rawTextHash": "4c505cf8af9913870069692c8254b9c796631984fbaba708d9a1e781c919f01a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000084",
+      "sequence": 84,
+      "startMs": 167080,
+      "endMs": 169720,
+      "text": "谁打标记谁重要",
+      "rawTextHash": "bfeca8505e22dbc80a50bc4dd978e5a8332bea3047c0ad625e05e4ccbccc7a9f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000085",
+      "sequence": 85,
+      "startMs": 169720,
+      "endMs": 171260,
+      "text": "所以sign叫标记",
+      "rawTextHash": "08b9f92707a1b63d7edbfc1c75880b6dce86c8057b7ff9f5fe24eecc3cc5f6d9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000086",
+      "sequence": 86,
+      "startMs": 171260,
+      "endMs": 173100,
+      "text": "动词后坠signify就重要",
+      "rawTextHash": "1cd84de26f263c5104fb76730e079206d78b712cd9a28afa81f43f0289daaec1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000087",
+      "sequence": 87,
+      "startMs": 173100,
+      "endMs": 174560,
+      "text": "C没有含义",
+      "rawTextHash": "9902f0a54743f3afcd0ae2e82e9db7315d1bd111d73fa9f8fa4ae4a31964391a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000088",
+      "sequence": 88,
+      "startMs": 174560,
+      "endMs": 175380,
+      "text": "乘上几下",
+      "rawTextHash": "68261968adbdbf04eb7d67e25403fbc5902198c8965368766e4b819270c76cf4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000089",
+      "sequence": 89,
+      "startMs": 175380,
+      "endMs": 178180,
+      "text": "加形容所坠significant叫什么叫重要",
+      "rawTextHash": "058ea4a3c42386ce86663d7e516642c616460a5c1f1b6abf7f486b50187404dd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000090",
+      "sequence": 90,
+      "startMs": 178180,
+      "endMs": 180220,
+      "text": "叫重要的",
+      "rawTextHash": "eecb199666f7d6f97c556356c92e11c783e1076d390c577b8f1982accbe5b4da"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000091",
+      "sequence": 91,
+      "startMs": 180220,
+      "endMs": 180940,
+      "text": "叫有意义",
+      "rawTextHash": "334f34fcf51182979e28201efa83fb0445254e123a9febe173e5cf0577b301ef"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000092",
+      "sequence": 92,
+      "startMs": 180940,
+      "endMs": 183180,
+      "text": "所以这一切呢",
+      "rawTextHash": "c0024aa9972799e78d92bb4c9dfbdb4fed003e1d08fa7638c8ed315bf5b345c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000093",
+      "sequence": 93,
+      "startMs": 183180,
+      "endMs": 183840,
+      "text": "请用sign",
+      "rawTextHash": "ee3beeee70eae467bfa811358456990ba39cd6415b272406d3c93dade9a2cabe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000094",
+      "sequence": 94,
+      "startMs": 183840,
+      "endMs": 184900,
+      "text": "来我看看什么叫sign呢",
+      "rawTextHash": "470d2d246d71070a3487400ffd75464130328b720e2e577249ce60b974ef5bc0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000095",
+      "sequence": 95,
+      "startMs": 184900,
+      "endMs": 185600,
+      "text": "我看下来啊",
+      "rawTextHash": "a1d31899744d08e775ef0cada86164ceda024beb59d41cc734bf6992b54a38b8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000096",
+      "sequence": 96,
+      "startMs": 185600,
+      "endMs": 188020,
+      "text": "我倒要看看什么叫sign",
+      "rawTextHash": "a883494e9360dcafbd14a52923769180c0879b7766611970e89a26a7372109f8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000097",
+      "sequence": 97,
+      "startMs": 188020,
+      "endMs": 189000,
+      "text": "sign是个",
+      "rawTextHash": "2f9e572041b14787d96db9f8fba75737df25e8203205ef03cc778875d022b760"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000098",
+      "sequence": 98,
+      "startMs": 189000,
+      "endMs": 190700,
+      "text": "什么东西",
+      "rawTextHash": "aab138d76ccb9ac377f77c862f08028815f38452889e0fc00ba1e8ecc3575216"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000099",
+      "sequence": 99,
+      "startMs": 190700,
+      "endMs": 191360,
+      "text": "我搜下来",
+      "rawTextHash": "9b9fa837807797e79ecf0e20356c4f033c59d874b4049431283fe8a214c0d022"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000100",
+      "sequence": 100,
+      "startMs": 191360,
+      "endMs": 196160,
+      "text": "原来西方人认为这个就是sign",
+      "rawTextHash": "f7fb78631539d7e1ae987502678922140095da36932a706e286913ca37623c3b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000101",
+      "sequence": 101,
+      "startMs": 196160,
+      "endMs": 199540,
+      "text": "各种标记标记标志标志标志",
+      "rawTextHash": "51797d79f2ddd74663e03aa1260f72fc1fcc18bba121b53dd7f19292e6269ef7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000102",
+      "sequence": 102,
+      "startMs": 199540,
+      "endMs": 203200,
+      "text": "所以每当他在这做了个标志的时候",
+      "rawTextHash": "181bb4c319b64db3a2338a3a872512b8bf514f133b06e553d3dc5b2d57a568ee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000103",
+      "sequence": 103,
+      "startMs": 203200,
+      "endMs": 205140,
+      "text": "在这打了个标记的时候",
+      "rawTextHash": "6dd1dc3dce30c6a4022ec49aae4423684764c24c56abebf0b287653e2f24868a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000104",
+      "sequence": 104,
+      "startMs": 205140,
+      "endMs": 206900,
+      "text": "都说明这个事很重要",
+      "rawTextHash": "77a2a3f613aa02576cbcafc2df0becee891c23136dd8f0de746fd41fa06848fa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000105",
+      "sequence": 105,
+      "startMs": 206900,
+      "endMs": 208500,
+      "text": "所以signify叫重要",
+      "rawTextHash": "6dc8a2f9bd1a2d1008cd741d59d894c975f6543a850aa6402a86c11a98635de1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000106",
+      "sequence": 106,
+      "startMs": 208500,
+      "endMs": 210980,
+      "text": "那么significant重要的有意义的",
+      "rawTextHash": "a2f243100c63041a59c5e92902d8b8cc3e62d3e48eec75814c02c0f1e6fa3781"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000107",
+      "sequence": 107,
+      "startMs": 210980,
+      "endMs": 213220,
+      "text": "也就是更高档的import",
+      "rawTextHash": "25b4049064f6295c1c8c72797213a8c65f329041dacb96d428d475c93e3a786e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000108",
+      "sequence": 108,
+      "startMs": 213220,
+      "endMs": 216980,
+      "text": "flat这个词根叫折",
+      "rawTextHash": "b0894ec5f2fe4bc7795d258abe4f80c6c912ab617d858789ddd8bd863f1ac2f2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000109",
+      "sequence": 109,
+      "startMs": 216980,
+      "endMs": 218620,
+      "text": "老师真难呢",
+      "rawTextHash": "23518caf5076332302e7d4c371133e48c7d0040e818f9b82e941adb001b60540"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000110",
+      "sequence": 110,
+      "startMs": 218620,
+      "endMs": 219940,
+      "text": "为啥它叫折",
+      "rawTextHash": "b5e292e7abff1a6b6608ac2fa016c06f8db5796993a5d4f7b1470c33cd173bbd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000111",
+      "sequence": 111,
+      "startMs": 219940,
+      "endMs": 220960,
+      "text": "为啥叫弯曲",
+      "rawTextHash": "e52af172accf8c47e3cc2815d9822a1683219f59288d55e76a335cfe178fe38b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000112",
+      "sequence": 112,
+      "startMs": 220960,
+      "endMs": 221520,
+      "text": "flat",
+      "rawTextHash": "5dc27af287fa554aa10fec9de8d724a7964572f1ffd24c2b00e1a3a860ce7679"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000113",
+      "sequence": 113,
+      "startMs": 221520,
+      "endMs": 224700,
+      "text": "你感受感受扁平叫flat",
+      "rawTextHash": "2ebe707f90b3a06722dfcd606ab889b5cdd0778949528761325871f9947e715c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000114",
+      "sequence": 114,
+      "startMs": 224700,
+      "endMs": 228940,
+      "text": "我想说当你读扁平的时候",
+      "rawTextHash": "2c0d386e7dd0c55eca6cb08a3235a8e9f4374b9371bb9052ea7b4afd095d8bbc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000115",
+      "sequence": 115,
+      "startMs": 228940,
+      "endMs": 230860,
+      "text": "是不是感觉整个嘴里非常扁",
+      "rawTextHash": "a8ee762f8e922f5b73e18f7195a0b44535583fd1443257b0c6cd85525266b99d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000116",
+      "sequence": 116,
+      "startMs": 230860,
+      "endMs": 231700,
+      "text": "flat",
+      "rawTextHash": "5dc27af287fa554aa10fec9de8d724a7964572f1ffd24c2b00e1a3a860ce7679"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000117",
+      "sequence": 117,
+      "startMs": 231700,
+      "endMs": 232440,
+      "text": "flat",
+      "rawTextHash": "5dc27af287fa554aa10fec9de8d724a7964572f1ffd24c2b00e1a3a860ce7679"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000118",
+      "sequence": 118,
+      "startMs": 232440,
+      "endMs": 235580,
+      "text": "但当你读flat的时候",
+      "rawTextHash": "b789af248ae1c2043555c9f814a74856c01d2a49b98da27324d7cab28c628483"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000119",
+      "sequence": 119,
+      "startMs": 235580,
+      "endMs": 237760,
+      "text": "尤其这个科特这个发音",
+      "rawTextHash": "9906bfcaa72f46955a1d3a7fc097cbabebc2f6a65d12dbf715eb5715f1f1c1e9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000120",
+      "sequence": 120,
+      "startMs": 237760,
+      "endMs": 239900,
+      "text": "是不是就多了几分曲折感",
+      "rawTextHash": "1907be55f224c0a3de3e082907022fd8502c4cc1e2a366bba395ca59fc81efe0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000121",
+      "sequence": 121,
+      "startMs": 239900,
+      "endMs": 242600,
+      "text": "所以平的平的flat",
+      "rawTextHash": "3f1e41e0ba03795c51623070a3c5fc9d3ed9a0e7832fca84dc14dafc37bb1006"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000122",
+      "sequence": 122,
+      "startMs": 242600,
+      "endMs": 244700,
+      "text": "弯曲弯曲flat",
+      "rawTextHash": "3fbd668ac74f5043e351dfc0c65fba0cd6959bde4adf4760d8a2daf854713fc0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000123",
+      "sequence": 123,
+      "startMs": 244700,
+      "endMs": 245800,
+      "text": "flat",
+      "rawTextHash": "5dc27af287fa554aa10fec9de8d724a7964572f1ffd24c2b00e1a3a860ce7679"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000124",
+      "sequence": 124,
+      "startMs": 245800,
+      "endMs": 247120,
+      "text": "人生就是",
+      "rawTextHash": "abafd0de99a76f2413edf3ace88a285c23e183c552af2a5615f9591f99567fc8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000125",
+      "sequence": 125,
+      "startMs": 247120,
+      "endMs": 248700,
+      "text": "有几年是平的",
+      "rawTextHash": "6633e47ed6fc9e7513c9074fad9ba9a53b40c88140440eb301584bc5da75a7c4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000126",
+      "sequence": 126,
+      "startMs": 248700,
+      "endMs": 249800,
+      "text": "有几年是弯的",
+      "rawTextHash": "4b2c65159bf0c9b137345b819fa2890066751c77fd6ff5f3d16632e37e73e878"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000127",
+      "sequence": 127,
+      "startMs": 249800,
+      "endMs": 251700,
+      "text": "平平弯弯过到老",
+      "rawTextHash": "221798b16f57255b9b3d09d481c4ac5f46cf5b3b4dd81cdb61cc354b88d61e5e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000128",
+      "sequence": 128,
+      "startMs": 251700,
+      "endMs": 253960,
+      "text": "所以平的平的flat",
+      "rawTextHash": "3f1e41e0ba03795c51623070a3c5fc9d3ed9a0e7832fca84dc14dafc37bb1006"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000129",
+      "sequence": 129,
+      "startMs": 253960,
+      "endMs": 255840,
+      "text": "弯的弯的flat",
+      "rawTextHash": "1613a39ed15b1924b2751f519cc0f548362f7739ed3b2f91fd530bcc0aeca020"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000130",
+      "sequence": 130,
+      "startMs": 255840,
+      "endMs": 257520,
+      "text": "他一弯的话",
+      "rawTextHash": "51f750a9d15f463541264c1a343997a207b81485fc7959d420b0e8eac32e5e2c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000131",
+      "sequence": 131,
+      "startMs": 257520,
+      "endMs": 258560,
+      "text": "他一形容所对",
+      "rawTextHash": "7fda9649a3e5cd5f3c4c861d4a9443b5f2cf8d251445c0bec3e4a4f9eedfca14"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000132",
+      "sequence": 132,
+      "startMs": 258560,
+      "endMs": 259680,
+      "text": "这个科特",
+      "rawTextHash": "8ff559c55e3b4515e2470760d8e79ea3620c18ed8d46e5b68b7d38d4156d7422"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000133",
+      "sequence": 133,
+      "startMs": 259680,
+      "endMs": 261800,
+      "text": "本来是科特",
+      "rawTextHash": "ef257af6496d2299bf9f6506472671c86bc6fac8b5a826b741452872c69230d2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000134",
+      "sequence": 134,
+      "startMs": 261800,
+      "endMs": 264160,
+      "text": "但是由于这个字母t",
+      "rawTextHash": "ef0ab0bcab26f5bc1b0ca467ed33453dc4650d415e30fa43aca12af74178dc76"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000135",
+      "sequence": 135,
+      "startMs": 264160,
+      "endMs": 265560,
+      "text": "它非常不稳定",
+      "rawTextHash": "cf94e2cf620f02bfd737809472b79a754c9ccbf13287f924cb818585eb8775c7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000136",
+      "sequence": 136,
+      "startMs": 265560,
+      "endMs": 267440,
+      "text": "它一会儿可以读t",
+      "rawTextHash": "e5ea5beeabe47bb74caa00bb344a4ab907259d931f765ee478abdd9ef69e6670"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000137",
+      "sequence": 137,
+      "startMs": 267440,
+      "endMs": 268780,
+      "text": "一会儿可以读诗",
+      "rawTextHash": "1586c929e70ad403bb05f286bce58db2dc436668ce947818c00d4b932e24d0c7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000138",
+      "sequence": 138,
+      "startMs": 268780,
+      "endMs": 272380,
+      "text": "请看比如说这个词",
+      "rawTextHash": "70e8cb8379daa521b9e8ada82f8e6b2822b894a76cec6627655f9eb24a99f5dd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000139",
+      "sequence": 139,
+      "startMs": 272380,
+      "endMs": 274980,
+      "text": "如果这么写的话",
+      "rawTextHash": "8397d1a3d0ce023076d8ec5b67b2029f7008547fd00bd01554bb8b37d1d243a1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000140",
+      "sequence": 140,
+      "startMs": 274980,
+      "endMs": 276360,
+      "text": "肯定读spat",
+      "rawTextHash": "e6bec71c6ad872ffb384316e5162eaf9e9eaedf9711b4d64c6452d6942ca545f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000141",
+      "sequence": 141,
+      "startMs": 276360,
+      "endMs": 278120,
+      "text": "如果这么写的话",
+      "rawTextHash": "8397d1a3d0ce023076d8ec5b67b2029f7008547fd00bd01554bb8b37d1d243a1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000142",
+      "sequence": 142,
+      "startMs": 278120,
+      "endMs": 279700,
+      "text": "它就会读成spat",
+      "rawTextHash": "439f8103cb1932e120ec34c1162b88a97283e51e9b59d110b9290df8a8be1e5e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000143",
+      "sequence": 143,
+      "startMs": 279700,
+      "endMs": 282400,
+      "text": "所以t这个字母很不稳定",
+      "rawTextHash": "fb52a526af7079211ea374e12ef4ac3ee40d978ead6efc1409e5da0527fc2b5e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000144",
+      "sequence": 144,
+      "startMs": 282400,
+      "endMs": 284860,
+      "text": "它ji容易读诗的声音",
+      "rawTextHash": "56437f2c984cee0dc1e08045b80537a1a655be7e3d079c9993e4d08a1e1a16a7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000145",
+      "sequence": 145,
+      "startMs": 284860,
+      "endMs": 286660,
+      "text": "那么既然他愿意读诗",
+      "rawTextHash": "c67d783ce2fd5d87672b381749339ef713e1d03f3df65210e0c1cb680b2763da"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000146",
+      "sequence": 146,
+      "startMs": 286660,
+      "endMs": 287660,
+      "text": "那就给你变下吧",
+      "rawTextHash": "553f874d17de3dc30fdccbd4e5ae50061bee69ed1e1571ce8244da0fcc1195b5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000147",
+      "sequence": 147,
+      "startMs": 287660,
+      "endMs": 289740,
+      "text": "你就别flexible了",
+      "rawTextHash": "6d9028c71c62cf9e65afe3a6f6f3971e7e756316d9854210b56b4a72b341faa8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000148",
+      "sequence": 148,
+      "startMs": 289740,
+      "endMs": 291260,
+      "text": "既然读flexible",
+      "rawTextHash": "9fc620fe9c1052b1566ea5fe075d6476bf5ddc49f819b45a2b39504a07f94318"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000149",
+      "sequence": 149,
+      "startMs": 291260,
+      "endMs": 293180,
+      "text": "干脆就给你变成flexible",
+      "rawTextHash": "61555da792ade3b534ea5f60e3bb144456ed3805a3fb39a5b39ae4552bac0af7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000150",
+      "sequence": 150,
+      "startMs": 293180,
+      "endMs": 298020,
+      "text": "所以科特就整化整合成了一个科斯",
+      "rawTextHash": "a6dfede6b7131518687fa88c88fb7d122edfe990e2d2dfe7c75c6b0225fbda57"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000151",
+      "sequence": 151,
+      "startMs": 298020,
+      "endMs": 300560,
+      "text": "所以flexible就是可以弯曲的",
+      "rawTextHash": "8c5259fb8b5bed453139e5cbab90733b1f366719a413167b639ed7ca8cac7f01"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000152",
+      "sequence": 152,
+      "startMs": 300560,
+      "endMs": 303020,
+      "text": "那么可以弯曲的什么意思叫做柔韧",
+      "rawTextHash": "bf36952eadbdf9136f05f0bf5294e3ac59af2640f9771283f09b64456854d71e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000153",
+      "sequence": 153,
+      "startMs": 303020,
+      "endMs": 305040,
+      "text": "flexible",
+      "rawTextHash": "800ad6207fe609eac8f8522fc0e0ab414f70e863fd95cc831116a4d83690acbe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000154",
+      "sequence": 154,
+      "startMs": 305040,
+      "endMs": 305420,
+      "text": "柔韧",
+      "rawTextHash": "95a4b71c7f1b0ba5bdd5cc43298844ea875c675478ada824a69f174ad39196b2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000155",
+      "sequence": 155,
+      "startMs": 305420,
+      "endMs": 309500,
+      "text": "我们再次体会人生总是平平弯弯",
+      "rawTextHash": "0fcce724a22278fb97d2b5f28eed4a1927579558da4dc7d8d6c4790043dc9869"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000156",
+      "sequence": 156,
+      "startMs": 309500,
+      "endMs": 311220,
+      "text": "平的平的flat",
+      "rawTextHash": "d27580ad21dec0d187ad183abe2544b0500e4a4101a7f79fd33752fd00458208"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000157",
+      "sequence": 157,
+      "startMs": 311220,
+      "endMs": 313140,
+      "text": "弯的弯的flat",
+      "rawTextHash": "1613a39ed15b1924b2751f519cc0f548362f7739ed3b2f91fd530bcc0aeca020"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000158",
+      "sequence": 158,
+      "startMs": 313140,
+      "endMs": 315900,
+      "text": "那么flat又演变成flexible",
+      "rawTextHash": "c16eac6ee210ef08c77a0115f83c880ce4ea603ddf355aee5c464ddd839ba43e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000159",
+      "sequence": 159,
+      "startMs": 315900,
+      "endMs": 318260,
+      "text": "就是能弯曲的柔韧的",
+      "rawTextHash": "efdd0dd28e9fc33b4d3a9663e7f5c1b07ee8a6e6c0bb755301b3683cd1faf9e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000160",
+      "sequence": 160,
+      "startMs": 318260,
+      "endMs": 320060,
+      "text": "指人的身体叫柔韧",
+      "rawTextHash": "868efac14f079d5c2b197af254c01a5af932257b4017e711bb651f6d04c04443"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000161",
+      "sequence": 161,
+      "startMs": 320060,
+      "endMs": 322060,
+      "text": "那些体操运运动员呢",
+      "rawTextHash": "7bcf2bb21ced73e5ab736227726a4cf6451f16837b378621e3733974256e8bf5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000162",
+      "sequence": 162,
+      "startMs": 322060,
+      "endMs": 324040,
+      "text": "指一个事情的叫灵活",
+      "rawTextHash": "dbdaf1b0306e191d1cf2b5cfd180f22835c544d62beb96d5338a3fdf393b20e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000163",
+      "sequence": 163,
+      "startMs": 324040,
+      "endMs": 325780,
+      "text": "灵活就是灵活多变",
+      "rawTextHash": "d5e5dff1e68df0fd3e347be79d9723a4a27f6f66d3bb3122f2e72ee0a1395a65"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000164",
+      "sequence": 164,
+      "startMs": 325780,
+      "endMs": 327580,
+      "text": "所以咱们的上课时间是灵活的",
+      "rawTextHash": "741d77f5494156d0b14e84b55995a2de2b70c1b003ebb16628919874086c0854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000165",
+      "sequence": 165,
+      "startMs": 327580,
+      "endMs": 328900,
+      "text": "10点11点都行",
+      "rawTextHash": "bf241505e512419fedfeeae9624b131ee14a7134224b9a02e34c3faff847fddb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000166",
+      "sequence": 166,
+      "startMs": 328900,
+      "endMs": 329460,
+      "text": "flexible",
+      "rawTextHash": "800ad6207fe609eac8f8522fc0e0ab414f70e863fd95cc831116a4d83690acbe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000167",
+      "sequence": 167,
+      "startMs": 329460,
+      "endMs": 332080,
+      "text": "一个人两个人",
+      "rawTextHash": "5aab44e14edc71c677741a4a404556355cdd63fbde879604d85b5a3df862f18f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000168",
+      "sequence": 168,
+      "startMs": 332080,
+      "endMs": 333720,
+      "text": "没好意思写那么多人",
+      "rawTextHash": "706f965a99338bdf49f2173621f1c010fae7587c67bd58e0f1549e4e9dafbb29"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000169",
+      "sequence": 169,
+      "startMs": 333720,
+      "endMs": 336200,
+      "text": "第二个人用一个双写字母就表示",
+      "rawTextHash": "18190b48900bec05099bcc2e0b904e602b4c907ecc939fd647db740c4bf756f3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000170",
+      "sequence": 170,
+      "startMs": 336200,
+      "endMs": 339460,
+      "text": "本来想写person person",
+      "rawTextHash": "81948438c4acdf389e400d1ca3a92ea1f1c6be81676efe6a484a866d921d09c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000171",
+      "sequence": 171,
+      "startMs": 339460,
+      "endMs": 341780,
+      "text": "但由于太常态啰嗦",
+      "rawTextHash": "9f1b4ae8c4ace0b1088cacc1af5918b2acf6ad20ffff0de5fe1d503340841ec9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000172",
+      "sequence": 172,
+      "startMs": 341780,
+      "endMs": 344720,
+      "text": "第二个字母双写就表示第二个人",
+      "rawTextHash": "39edf1633d62059c5d52bb5ef3650068f317ebe0ac2b9ca8349accae30f2052a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000173",
+      "sequence": 173,
+      "startMs": 344720,
+      "endMs": 345960,
+      "text": "加上名词好罪",
+      "rawTextHash": "eaf7cc18b4c0092994f935521c6c23e820c02a20383814e4395a6bba8e010d35"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000174",
+      "sequence": 174,
+      "startMs": 345960,
+      "endMs": 350040,
+      "text": "那就是好多人全体员工啊",
+      "rawTextHash": "e062e1e33da88c836d0a3f5b18194796a5fd57d558295c64510f53a60fbb949a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000175",
+      "sequence": 175,
+      "startMs": 350040,
+      "endMs": 352200,
+      "text": "也叫人事部门",
+      "rawTextHash": "ccc3a5a023fe3bb47443b2ee8cb9e40304a0710b41f1eeaf8bff1509fed5935c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000176",
+      "sequence": 176,
+      "startMs": 352200,
+      "endMs": 354660,
+      "text": "elect叫什么",
+      "rawTextHash": "7ffde7ba176dac696e820879efb025a2373aff4f33409fc246fe84bb41c0370f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000177",
+      "sequence": 177,
+      "startMs": 354660,
+      "endMs": 355600,
+      "text": "叫做选择",
+      "rawTextHash": "167839e58c35773051e1b43e3bc0c3e8c203bd5672775cf6c196d2378ed33f3c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000178",
+      "sequence": 178,
+      "startMs": 355600,
+      "endMs": 356980,
+      "text": "也叫选举",
+      "rawTextHash": "5dec932d074fb888e104511c1cd93255db0d6acdef353f89db06477c5eab0361"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000179",
+      "sequence": 179,
+      "startMs": 356980,
+      "endMs": 359160,
+      "text": "但是单词长了",
+      "rawTextHash": "09959c2077e39aece029400d387a22ea778e2e9b9553c144670932cb718a0480"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000180",
+      "sequence": 180,
+      "startMs": 359160,
+      "endMs": 360800,
+      "text": "他不想再写elect",
+      "rawTextHash": "8a079a391d041f52fae7cdf355b07e8004754ec762b831d0f85c8d45e22b0064"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000181",
+      "sequence": 181,
+      "startMs": 360800,
+      "endMs": 362840,
+      "text": "他想把特销师",
+      "rawTextHash": "cae80fceee5bba0ecfa87b9531f9b699a5376ae2c849c427969eb51e6fa4765f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000182",
+      "sequence": 182,
+      "startMs": 362840,
+      "endMs": 364120,
+      "text": "把柯变成哥",
+      "rawTextHash": "bf711984c8ecaecde74289cb4b9d19d92d20e5dc55078e732e0b69738db71523"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000183",
+      "sequence": 183,
+      "startMs": 364120,
+      "endMs": 367480,
+      "text": "逻辑还是选择出来的",
+      "rawTextHash": "6c11bd167883c0c9e6d02d95bacd5f76513b04b966185a8186ec1633887b3610"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000184",
+      "sequence": 184,
+      "startMs": 367480,
+      "endMs": 369520,
+      "text": "选出来的",
+      "rawTextHash": "ec3653e7b53c45aa0b4e94943f4edc3791b000ac93a1454b61e4e67c26e8e11c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000185",
+      "sequence": 185,
+      "startMs": 369520,
+      "endMs": 370320,
+      "text": "elegant",
+      "rawTextHash": "b4c3858f5f1e123198e835de04b87155d7a40e66e9b70805daf3ad439cd2fa3b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000186",
+      "sequence": 186,
+      "startMs": 370320,
+      "endMs": 372080,
+      "text": "选出来的",
+      "rawTextHash": "ec3653e7b53c45aa0b4e94943f4edc3791b000ac93a1454b61e4e67c26e8e11c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000187",
+      "sequence": 187,
+      "startMs": 372080,
+      "endMs": 373240,
+      "text": "不是大象",
+      "rawTextHash": "40740438255b36ccf32eceb6eda3ff3e308891177ba7844b5952bb5aea0ad2ab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000188",
+      "sequence": 188,
+      "startMs": 373240,
+      "endMs": 374880,
+      "text": "大象叫做elephant",
+      "rawTextHash": "701b65137fd32e3838e53cb963cae61feacdf9e1cce1e771c1ee23aa7bbda816"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000189",
+      "sequence": 189,
+      "startMs": 374880,
+      "endMs": 377480,
+      "text": "所以这个词强调选出来的",
+      "rawTextHash": "b962b12c76772745b5d762b3ed280810a1c03e8a76b9cc766a795a63c5203c01"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000190",
+      "sequence": 190,
+      "startMs": 377480,
+      "endMs": 379680,
+      "text": "强调跟别人都不一样的",
+      "rawTextHash": "785b6f1b61284ac9613f31c2e5c0c9f20e59b401383e2dd0212a8df6e941c760"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000191",
+      "sequence": 191,
+      "startMs": 379680,
+      "endMs": 380720,
+      "text": "叫做优雅的",
+      "rawTextHash": "e946bd34fa7ad88b8dd763f7a6bc862768337d88f6d93d243186f456afaf09c4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000192",
+      "sequence": 192,
+      "startMs": 380720,
+      "endMs": 382560,
+      "text": "叫做出众的",
+      "rawTextHash": "b7b4ee097e375caa3da15552112bcc9b00e558f428a2b0abada541abdb806742"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000193",
+      "sequence": 193,
+      "startMs": 382560,
+      "endMs": 385440,
+      "text": "这个人长得很优雅很优美",
+      "rawTextHash": "3699e1d502f81d039c1e66274aaa7603ae9895104b38c9c853667ffc9964b371"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000194",
+      "sequence": 194,
+      "startMs": 385440,
+      "endMs": 386520,
+      "text": "叫做elegant",
+      "rawTextHash": "973dc7b70be3e9dad8a469faccb1bfc7e728636eaccb89a6f567441afca4acac"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000195",
+      "sequence": 195,
+      "startMs": 386520,
+      "endMs": 389400,
+      "text": "一种非常出众的感觉",
+      "rawTextHash": "49790ef97f1f0e1bef16e5847ee651b4275f056cfbc486faf943619cee508afe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000196",
+      "sequence": 196,
+      "startMs": 389400,
+      "endMs": 390160,
+      "text": "elegant",
+      "rawTextHash": "b4c3858f5f1e123198e835de04b87155d7a40e66e9b70805daf3ad439cd2fa3b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000197",
+      "sequence": 197,
+      "startMs": 390160,
+      "endMs": 393320,
+      "text": "vest什么东西",
+      "rawTextHash": "129e41bc04ac832eb8e91a193f3a3935445ce2a6cc3bf703daa37d7f212f2325"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000198",
+      "sequence": 198,
+      "startMs": 393320,
+      "endMs": 394080,
+      "text": "马甲",
+      "rawTextHash": "bb2a92e89c3df9bb39678f22aed87d51d9a15881aa41126c9dad3229c6c4edcf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000199",
+      "sequence": 199,
+      "startMs": 394080,
+      "endMs": 398440,
+      "text": "我们看看马甲什么形状",
+      "rawTextHash": "e01170c55ee1cc4a9e71c2e3f05132f2d2a0be861a700b19e4299d37cfb12bc0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000200",
+      "sequence": 200,
+      "startMs": 398440,
+      "endMs": 401280,
+      "text": "我们搜搜马甲什么形状",
+      "rawTextHash": "6b7c29b38752394a6fbc7995a4fcec3de829eb05a23eec1c9a0cef7e4210d3ba"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000201",
+      "sequence": 201,
+      "startMs": 401280,
+      "endMs": 402960,
+      "text": "说一看马甲就这样",
+      "rawTextHash": "df623e3ebb7d0414b3f8d36d49981c6127ba6c537ddb3115c630d251f4379ec5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000202",
+      "sequence": 202,
+      "startMs": 402960,
+      "endMs": 405120,
+      "text": "马甲这个衣服啊",
+      "rawTextHash": "b26b36eec97072e6fcdb96432c45514a75403949154f6667c77a622e25e72f3f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000203",
+      "sequence": 203,
+      "startMs": 405120,
+      "endMs": 406880,
+      "text": "它就是一个V字形",
+      "rawTextHash": "a8bf4553ba1dd4031930a5b376f39ef300832baa2fc0a70d7d2a9c59d3241c9f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000204",
+      "sequence": 204,
+      "startMs": 406880,
+      "endMs": 408840,
+      "text": "马甲说实话",
+      "rawTextHash": "ffb41b547b31de11b2e59d79767fd1de5e390afc8ef6030116c8c0519ea4c07d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000205",
+      "sequence": 205,
+      "startMs": 408840,
+      "endMs": 410200,
+      "text": "就是个V字形",
+      "rawTextHash": "94c766f99b1ba4b50945462b5aa21dd0e7fcc1dda55c2fdb2325215bdfe4c406"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000206",
+      "sequence": 206,
+      "startMs": 410200,
+      "endMs": 413320,
+      "text": "马甲非常像一个V字形",
+      "rawTextHash": "01b0a127e1ed01f099917f0b6e984aeec064d297fe41f656cbe81e78776cc140"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000207",
+      "sequence": 207,
+      "startMs": 413320,
+      "endMs": 415520,
+      "text": "因此用这个V呢",
+      "rawTextHash": "13f793eb322c85d5b2a709df3cc2d7fb2533273c381d7e41f0796a5b9cdd656f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000208",
+      "sequence": 208,
+      "startMs": 415520,
+      "endMs": 416760,
+      "text": "来感受马甲",
+      "rawTextHash": "a5e8e7fd5bcc5a379eb9dff4e5cddd9e7cbe980b98d79c000b705269faf12b27"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000209",
+      "sequence": 209,
+      "startMs": 416760,
+      "endMs": 418480,
+      "text": "那么west就是马甲",
+      "rawTextHash": "1a15d4a59cfc4f31583068888c4a620128a42f7198ddcb6c6c74fdd993135ac6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000210",
+      "sequence": 210,
+      "startMs": 418480,
+      "endMs": 420880,
+      "text": "那么马甲什么特点呢",
+      "rawTextHash": "923113b8dee6b8d42aa2b49ca822f2099c6935918f497ebe796c64e2fa555660"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000211",
+      "sequence": 211,
+      "startMs": 420880,
+      "endMs": 422240,
+      "text": "马甲这个衣服啊",
+      "rawTextHash": "b26b36eec97072e6fcdb96432c45514a75403949154f6667c77a622e25e72f3f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000212",
+      "sequence": 212,
+      "startMs": 422240,
+      "endMs": 423560,
+      "text": "总是有很多口袋",
+      "rawTextHash": "13671a89b00561db0e36877f10eff221372da5149571fc44683984e5035727f5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000213",
+      "sequence": 213,
+      "startMs": 423560,
+      "endMs": 425720,
+      "text": "过去的工人师傅呢",
+      "rawTextHash": "2ca6dc15a1c7bcc32b4c8ec0070612bdbd6f0f690a8c05663e0e7ec525225fe4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000214",
+      "sequence": 214,
+      "startMs": 425720,
+      "endMs": 428320,
+      "text": "穿马甲发现非常方便干活",
+      "rawTextHash": "0cb6060685339141e1165f0c7f225c1566c949e26515f19435f78c18c8716d4f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000215",
+      "sequence": 215,
+      "startMs": 428320,
+      "endMs": 430280,
+      "text": "因为胳膊不受到束缚",
+      "rawTextHash": "6077e4340af8d0a9d14d1cadcb8f88b86b34f87a7aab5f7c7691437687b0d21c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000216",
+      "sequence": 216,
+      "startMs": 430280,
+      "endMs": 432280,
+      "text": "但这帮工人呢",
+      "rawTextHash": "dfc7b17c6134faad77d3ad6b3021efa25fa5a4754ef5975a5d504cfd56d46212"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000217",
+      "sequence": 217,
+      "startMs": 432280,
+      "endMs": 434700,
+      "text": "也特别喜欢在下班的时候",
+      "rawTextHash": "4a180e4e505462d2966135ca85b0eacd6406f38eee96b81b1754eb7dec0a5229"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000218",
+      "sequence": 218,
+      "startMs": 434700,
+      "endMs": 436900,
+      "text": "把工厂里的一些零件啊",
+      "rawTextHash": "b0a7e580c08e3d80a726d0da063e2f659d1eb2986dc41342ad72a0536e08d4ee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000219",
+      "sequence": 219,
+      "startMs": 436900,
+      "endMs": 438760,
+      "text": "偷偷的塞到这里边给带走了",
+      "rawTextHash": "26493a693b22f792dedcc707d828d864128b761d0c898483d5495bf7c1eacea5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000220",
+      "sequence": 220,
+      "startMs": 438760,
+      "endMs": 441080,
+      "text": "所以在离开工厂的时候呢",
+      "rawTextHash": "92f86fd669d869bf4b48bcff87c3ebd46456265bf2bbe0e32b3189a63d1693da"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000221",
+      "sequence": 221,
+      "startMs": 441080,
+      "endMs": 443560,
+      "text": "就多一道工序要检查",
+      "rawTextHash": "1f3a85a53933fb05c01c70e14882902f665e98a4389b9050afa5fb213f45ff73"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000222",
+      "sequence": 222,
+      "startMs": 443560,
+      "endMs": 445220,
+      "text": "进入你的马甲",
+      "rawTextHash": "9b9e3498447676d8439fcbb1ea1fcf581d1bf3507ec6c74746ca60307afb2385"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000223",
+      "sequence": 223,
+      "startMs": 445220,
+      "endMs": 447360,
+      "text": "ag叫做行动啊",
+      "rawTextHash": "82f7b279244520b72031a1fa3fc7daaea7660eacfb8aec567d770e63f6b4667c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000224",
+      "sequence": 224,
+      "startMs": 447360,
+      "endMs": 449540,
+      "text": "什么叫进入马甲行动呢",
+      "rawTextHash": "ac709792aca905a718ea803b2bafea1cdd1e143e47b6b51588accfe1ebd9c1dd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000225",
+      "sequence": 225,
+      "startMs": 449540,
+      "endMs": 451900,
+      "text": "就是在你的马甲的口袋里边",
+      "rawTextHash": "596585007a8df57737a30546e8331da6d1b7c25ca60140c20b581ca30660e4a6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000226",
+      "sequence": 226,
+      "startMs": 451900,
+      "endMs": 454100,
+      "text": "翻翻找找找找找翻翻",
+      "rawTextHash": "a814b3994b6da69d5281b18799a9f68af2fdd16748b3f4d7fc3e97be2dc41777"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000227",
+      "sequence": 227,
+      "startMs": 454100,
+      "endMs": 455900,
+      "text": "因此investigate",
+      "rawTextHash": "cd8e2d727db7bdbacd7ed7a424a04a1ad4028f69002d6607999e83d082655173"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000228",
+      "sequence": 228,
+      "startMs": 455900,
+      "endMs": 459140,
+      "text": "这就是进入你的马甲",
+      "rawTextHash": "5d61503433149aeb0c5c7bba7e61e26a9b031648a8883d43c3c1f25a61ada190"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000229",
+      "sequence": 229,
+      "startMs": 459140,
+      "endMs": 460700,
+      "text": "在里边减写了ag",
+      "rawTextHash": "b539cd01b023f6e54e82e75f06760e66f39b82dc80421c17f1d956c055e7afe4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000230",
+      "sequence": 230,
+      "startMs": 460700,
+      "endMs": 462100,
+      "text": "减写上ig的",
+      "rawTextHash": "c106f65ff828b3421cad0e835a87903f241f695110918d21644af2c14e5a656e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000231",
+      "sequence": 231,
+      "startMs": 462100,
+      "endMs": 463460,
+      "text": "加动词后对",
+      "rawTextHash": "d7045cfc52ff9eaa6061074b240e3a44e4f07d6b36c527b5e367ac06af99c169"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000232",
+      "sequence": 232,
+      "startMs": 463460,
+      "endMs": 465980,
+      "text": "在你马甲进入你的马甲",
+      "rawTextHash": "0dc0dde0ac85eae2caff9a92302de89cb26ae7c8284b250e94330c22fd3278c1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000233",
+      "sequence": 233,
+      "startMs": 465980,
+      "endMs": 468580,
+      "text": "在里边翻翻找找找找找翻翻",
+      "rawTextHash": "0d7342f82747da2cc73fa5e23b9d784b204d487dbb5de7eb11a8b46ec6844741"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000234",
+      "sequence": 234,
+      "startMs": 468580,
+      "endMs": 470500,
+      "text": "这个动词叫investigate",
+      "rawTextHash": "2c6dbee5d9ef1ff0524e96a9e59e3d79da698d64f85cf4804ce3e2c24946f0a5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000235",
+      "sequence": 235,
+      "startMs": 470500,
+      "endMs": 472660,
+      "text": "叫做调查啊",
+      "rawTextHash": "2ffe58e81113065b617a4484420bc6449999453867212cb49feef9f0359afb8a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000236",
+      "sequence": 236,
+      "startMs": 472660,
+      "endMs": 474260,
+      "text": "调查就是我看看",
+      "rawTextHash": "b46a2cd9246b5b0db0ffa21d9ceb3dbaf8beaafb0c50370ecda30329d5eacbdf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000237",
+      "sequence": 237,
+      "startMs": 474260,
+      "endMs": 477220,
+      "text": "到底有什么东西没有investigate",
+      "rawTextHash": "2160823a53d5a4e486ea60ab1c08b2f65bf73c721b850b7e90c411623341d48c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000238",
+      "sequence": 238,
+      "startMs": 477220,
+      "endMs": 478740,
+      "text": "尤其调查的时候呢",
+      "rawTextHash": "cf98cb3b1a8ae32c04686a82f7b4277ee0a88d1555e0c7ce41018d016b41f3e8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000239",
+      "sequence": 239,
+      "startMs": 478740,
+      "endMs": 480380,
+      "text": "你特别喜欢搜身",
+      "rawTextHash": "f774396b8980b910f73fc88b64d57a280d02cb576872df726712e7b4ae669c43"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000240",
+      "sequence": 240,
+      "startMs": 480380,
+      "endMs": 483860,
+      "text": "那么搜身也就是一个在你兜里边找来找去的感觉",
+      "rawTextHash": "371ea9b00e54dbea093df9b563681d5cba7318f342bd9728847f88e83e1d58ac"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000241",
+      "sequence": 241,
+      "startMs": 483860,
+      "endMs": 485380,
+      "text": "叫investigate",
+      "rawTextHash": "8d605e928d952773f3c230168905b423345bf49c78c8e9cec655766027fcbaa3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000242",
+      "sequence": 242,
+      "startMs": 487620,
+      "endMs": 489180,
+      "text": "经过找寻发现",
+      "rawTextHash": "490ad8140482d28de38a4f378ebba49c6676bf3b50aea8ab8955c340d3577864"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000243",
+      "sequence": 243,
+      "startMs": 489180,
+      "endMs": 491180,
+      "text": "在里面没有一分钱",
+      "rawTextHash": "bed6fab2fee871a6a221fd868704ece51a3d8b5f22c1f1712d0eda8ab50b7a7e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000244",
+      "sequence": 244,
+      "startMs": 491180,
+      "endMs": 492620,
+      "text": "innocent",
+      "rawTextHash": "4c95538022f8a2eaa5cf3a4ac8919e873fa40725a8978953104959f37bc796f6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000245",
+      "sequence": 245,
+      "startMs": 492620,
+      "endMs": 493580,
+      "text": "你看",
+      "rawTextHash": "26e204b34f9170b0a892df780e55ffe61ab0c337888a902260cd3c97baf378a3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000246",
+      "sequence": 246,
+      "startMs": 493580,
+      "endMs": 495860,
+      "text": "上一步调查investigate",
+      "rawTextHash": "eb67d6b0dfdf3470c26d38a919155d03e1c30d00945503df56442789a387132e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000247",
+      "sequence": 247,
+      "startMs": 495860,
+      "endMs": 496940,
+      "text": "下一步发现",
+      "rawTextHash": "07d3d24abed5cfe0353e98b13e1cdfbb4d91260287b548d2815ba471f8136459"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000248",
+      "sequence": 248,
+      "startMs": 496940,
+      "endMs": 499300,
+      "text": "在他兜里边没有一分钱",
+      "rawTextHash": "197e47e4db9c2baed9a2ebd463137198ab99794abf4e340bc26c54abddeaf4ec"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000249",
+      "sequence": 249,
+      "startMs": 499300,
+      "endMs": 501700,
+      "text": "这个词是美国的一分钱的意思",
+      "rawTextHash": "13149ca8da96864702b7c950ae16dc0260baaadbc72f99b733c84ab7c3b99396"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000250",
+      "sequence": 250,
+      "startMs": 501700,
+      "endMs": 503060,
+      "text": "一个美分",
+      "rawTextHash": "494040b4af742602a8d9579d81318f774a88b38557983d38080bd58a2843dd8d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000251",
+      "sequence": 251,
+      "startMs": 503060,
+      "endMs": 504860,
+      "text": "美分就是美国的一分",
+      "rawTextHash": "682f31595dcc76efd78d1251f457332dbeebebf0d7c52949c4210c981e3bdbe8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000252",
+      "sequence": 252,
+      "startMs": 504860,
+      "endMs": 509060,
+      "text": "中国的一分中国的一脚叫分脚圆",
+      "rawTextHash": "d1b8ccf656cb6f95a94bd89045079fb31a335612654065c10aa0ebcf2db44a21"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000253",
+      "sequence": 253,
+      "startMs": 509060,
+      "endMs": 511140,
+      "text": "美国的叫cent",
+      "rawTextHash": "9c2a4eff62d93cc078aff800a45370ec528f044d009a92a939e5fb919a06ebe9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000254",
+      "sequence": 254,
+      "startMs": 511140,
+      "endMs": 511900,
+      "text": "脚不常用",
+      "rawTextHash": "f850bc7692c4b5515f34a95c9ddaadea98542b6113e1bc10ff28119ce97d0a6a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000255",
+      "sequence": 255,
+      "startMs": 511900,
+      "endMs": 513540,
+      "text": "圆叫dollar",
+      "rawTextHash": "bba5925d38f9264513d124a4ed4178f4a35b42617a418bc48d59466a936a9a11"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000256",
+      "sequence": 256,
+      "startMs": 513540,
+      "endMs": 515060,
+      "text": "所以经过调查发现呢",
+      "rawTextHash": "86f2c8dacfbe66fa10c4903ab0c83bfb44ee968bc29861372143920190cfa6e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000257",
+      "sequence": 257,
+      "startMs": 515060,
+      "endMs": 516300,
+      "text": "在我兜里没有一分钱",
+      "rawTextHash": "9ff8de38b30898928ba269226dcf4572d565e0c64a2d49333ba8d2a2b9fb322f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000258",
+      "sequence": 258,
+      "startMs": 516300,
+      "endMs": 516540,
+      "text": "哎",
+      "rawTextHash": "da1fdef57130b0fa43c39b734fe17ab283bd6944dec2dafac7d24ae4083a7201"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000259",
+      "sequence": 259,
+      "startMs": 516540,
+      "endMs": 517380,
+      "text": "我这清白的",
+      "rawTextHash": "cac77dcbaada62c5adce4244b37bd8d8d62ab79d635660d9499c4308aeea64cf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000260",
+      "sequence": 260,
+      "startMs": 517380,
+      "endMs": 518380,
+      "text": "我叫无罪",
+      "rawTextHash": "b5ef6c83f47accd0240369b6e5b1ce06bdf94cf1e59fead360e9640b4a3f83b6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000261",
+      "sequence": 261,
+      "startMs": 518380,
+      "endMs": 520340,
+      "text": "所以你看这个连续句啊",
+      "rawTextHash": "fd33d3e255f0944f1a1133fc83fa95a5f5678f4db596d70faebd98d6af60e201"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000262",
+      "sequence": 262,
+      "startMs": 520340,
+      "endMs": 521540,
+      "text": "首先",
+      "rawTextHash": "01dd96a3885b84a2f9e737027a40b3193614adf3ad59e7f527cb588bf4f49c68"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000263",
+      "sequence": 263,
+      "startMs": 521540,
+      "endMs": 525380,
+      "text": "当我进入你的马甲去行动",
+      "rawTextHash": "b64ea3cef1037e5d0956b8cf6c870447a1021c451a5dd15a865fbd97215e523b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000264",
+      "sequence": 264,
+      "startMs": 525380,
+      "endMs": 526820,
+      "text": "找找翻翻的时候",
+      "rawTextHash": "85acd2ea66b17bfdd297fce8e96479de68c023a98ba47fb88bd2fabbc7aa458a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000265",
+      "sequence": 265,
+      "startMs": 526820,
+      "endMs": 528060,
+      "text": "叫investigate",
+      "rawTextHash": "8d605e928d952773f3c230168905b423345bf49c78c8e9cec655766027fcbaa3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000266",
+      "sequence": 266,
+      "startMs": 528060,
+      "endMs": 529900,
+      "text": "经过调查发现",
+      "rawTextHash": "bb40f92cea5eb3312af4687c4d28d43774afe322c9273d8bc417bb38f9179d94"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000267",
+      "sequence": 267,
+      "startMs": 529900,
+      "endMs": 531540,
+      "text": "你兜里没有一分钱",
+      "rawTextHash": "f96e146fa69df985e634c20fa7a05bf89ae9b557bf8c67512ae066f3f330b563"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000268",
+      "sequence": 268,
+      "startMs": 531540,
+      "endMs": 532340,
+      "text": "叫innocent",
+      "rawTextHash": "da97a069b06ce4a7eb3c4569824421ee878dadcc773f6094c052c121075f09e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000269",
+      "sequence": 269,
+      "startMs": 532340,
+      "endMs": 533940,
+      "text": "street",
+      "rawTextHash": "6008c26f4452392acb19374bc12a5ec0c360ae17356bce8b786fb128c8720951"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000270",
+      "sequence": 270,
+      "startMs": 533940,
+      "endMs": 535320,
+      "text": "叫比直的",
+      "rawTextHash": "ffe51a120f91cd94d69db0dba96db3f40063b145f98c9e3d7222683101ec7086"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000271",
+      "sequence": 271,
+      "startMs": 535320,
+      "endMs": 538660,
+      "text": "为什么他那么像大街呢",
+      "rawTextHash": "2b82631a2d2ffe745702b073ab61f257fa961a0b37c26e55d5744faf7777c7a8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000272",
+      "sequence": 272,
+      "startMs": 538660,
+      "endMs": 540860,
+      "text": "因为他就像大街一样了",
+      "rawTextHash": "b77790101619cfd640792bd5f55b85d5b75bd05b00224bd8129c458a782a0212"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000273",
+      "sequence": 273,
+      "startMs": 540860,
+      "endMs": 542300,
+      "text": "大街的状态",
+      "rawTextHash": "a769dc9345fcfdbacd0f2bdd4f8e50d8a683db31aeeaa420c84326860f283f48"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000274",
+      "sequence": 274,
+      "startMs": 542300,
+      "endMs": 543140,
+      "text": "当然比直了",
+      "rawTextHash": "90b3c995e2ed658e1894d90ca0f560c65b1e6bb22c71ad33788d1ea38c8e886e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000275",
+      "sequence": 275,
+      "startMs": 543140,
+      "endMs": 545580,
+      "text": "所以大街就是比直的",
+      "rawTextHash": "f66d64a55c98be6ed09c2ace832738e28297d0164211023dc91a5abb59cb7eb0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000276",
+      "sequence": 276,
+      "startMs": 545580,
+      "endMs": 546860,
+      "text": "那么像street",
+      "rawTextHash": "d354c14cfe860824564843f83dd4790ee1dfc78b64400a133c2204f3d382a7e8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000277",
+      "sequence": 277,
+      "startMs": 546860,
+      "endMs": 547340,
+      "text": "一样",
+      "rawTextHash": "9dc5c0158d9f5359703e276890901bb51c3e318b9895a76dae1d314fa3ca0dbc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000278",
+      "sequence": 278,
+      "startMs": 547340,
+      "endMs": 548940,
+      "text": "他就叫做street",
+      "rawTextHash": "fe5ba54ed21a5d273b796e9529c52c537c2685aa4cf19f43cdc28c5903b8aecb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000279",
+      "sequence": 279,
+      "startMs": 548940,
+      "endMs": 549380,
+      "text": "比直",
+      "rawTextHash": "98c6f82d9aee345eff33bcfdb264dff6226eab331cf5cfb15ac9f90912e128e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000280",
+      "sequence": 280,
+      "startMs": 549380,
+      "endMs": 550580,
+      "text": "forward",
+      "rawTextHash": "9dc08e4033827c93f48cabc2f61e3f9817b51a7f1bcfa513a7537dcbc5d162e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000281",
+      "sequence": 281,
+      "startMs": 550580,
+      "endMs": 551820,
+      "text": "叫向前的",
+      "rawTextHash": "f309682ff099efec1bcceeeeb22bbcdc2fe5cd5b3e346fbbf8e7b5e0982d329f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000282",
+      "sequence": 282,
+      "startMs": 551820,
+      "endMs": 553180,
+      "text": "所以这个单词好理解了",
+      "rawTextHash": "995d3e7c5c5ed5ef1a25322f1b19f0f9b72a992d39f052257f7ed1a74888cd15"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000283",
+      "sequence": 283,
+      "startMs": 553180,
+      "endMs": 553580,
+      "text": "叫street",
+      "rawTextHash": "1611663da2b5d861b9310a71ef17f89a32f452e67144f815a97b7d17cfc6f828"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000284",
+      "sequence": 284,
+      "startMs": 553580,
+      "endMs": 553900,
+      "text": "forward",
+      "rawTextHash": "9dc08e4033827c93f48cabc2f61e3f9817b51a7f1bcfa513a7537dcbc5d162e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000285",
+      "sequence": 285,
+      "startMs": 553900,
+      "endMs": 555420,
+      "text": "叫比直向前的",
+      "rawTextHash": "653de5fc4dd090624a7000b15ac848f1c92403e79fe4994226570e7c16eda2cb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000286",
+      "sequence": 286,
+      "startMs": 555420,
+      "endMs": 557660,
+      "text": "比直向前",
+      "rawTextHash": "60f28e477740a8e23c763a1a843f2e6958a08b20a962b6b460d025dd0c9f85b6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000287",
+      "sequence": 287,
+      "startMs": 557660,
+      "endMs": 560220,
+      "text": "也就是简单明了",
+      "rawTextHash": "e6416e67269ad7f7a021c4e816377c5fe2b1e7763123f631a8b25850a46e5dca"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000288",
+      "sequence": 288,
+      "startMs": 560220,
+      "endMs": 561900,
+      "text": "这个事情很简单",
+      "rawTextHash": "7a829748d008343ae98e28069cc56b8a20b2530945b5bee370b17c1ef1046c2a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000289",
+      "sequence": 289,
+      "startMs": 561900,
+      "endMs": 562740,
+      "text": "street",
+      "rawTextHash": "6008c26f4452392acb19374bc12a5ec0c360ae17356bce8b786fb128c8720951"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000290",
+      "sequence": 290,
+      "startMs": 562740,
+      "endMs": 563180,
+      "text": "forward",
+      "rawTextHash": "9dc08e4033827c93f48cabc2f61e3f9817b51a7f1bcfa513a7537dcbc5d162e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000291",
+      "sequence": 291,
+      "startMs": 563180,
+      "endMs": 565420,
+      "text": "一个人讲话也是street",
+      "rawTextHash": "95e3c2ea0f816e16f88ec747a91b1782f9dde6d7869af0b4de92b4f6c5b30621"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000292",
+      "sequence": 292,
+      "startMs": 565420,
+      "endMs": 565860,
+      "text": "forward",
+      "rawTextHash": "9dc08e4033827c93f48cabc2f61e3f9817b51a7f1bcfa513a7537dcbc5d162e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000293",
+      "sequence": 293,
+      "startMs": 565860,
+      "endMs": 566940,
+      "text": "就是不拐弯抹角",
+      "rawTextHash": "c81f3c2c71028f87652f2f186c5391ebc9812f2c4fa957601e011486d36cd060"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000294",
+      "sequence": 294,
+      "startMs": 566940,
+      "endMs": 568420,
+      "text": "run",
+      "rawTextHash": "acba25512100f80b56fc3ccd14c65be55d94800cda77585c5f41a887e398f9be"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000295",
+      "sequence": 295,
+      "startMs": 568420,
+      "endMs": 570140,
+      "text": "难道不是圆的吗",
+      "rawTextHash": "1e9338f063b084e941e8aa5828925381526a4fc4d689e4c80b6c7a5e023d4753"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000296",
+      "sequence": 296,
+      "startMs": 570140,
+      "endMs": 571380,
+      "text": "about",
+      "rawTextHash": "a4262e1c9bcbc1721eb3fe13558154460a2b2a2d307daa32532478526ce6ccb1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000297",
+      "sequence": 297,
+      "startMs": 571380,
+      "endMs": 573060,
+      "text": "难道不是附近吗",
+      "rawTextHash": "9367d8d4c6c1287adc23562bfd6ffff71e904c24e15b11df35bf32ae28763538"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000298",
+      "sequence": 298,
+      "startMs": 573060,
+      "endMs": 575260,
+      "text": "啥叫圆的附近呢",
+      "rawTextHash": "577632d7d261dbb7419972bd5bb09cee7012edbf1d013cf763886a211bc7810e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000299",
+      "sequence": 299,
+      "startMs": 575260,
+      "endMs": 576660,
+      "text": "就在你",
+      "rawTextHash": "064eed70005435fc2f25263174026d4c8de89dece0968d34ce7edfb7dd8899e9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000300",
+      "sequence": 300,
+      "startMs": 576660,
+      "endMs": 577580,
+      "text": "这是圆的吗",
+      "rawTextHash": "71a3d5eee1dee56f1186b3a4993afb1918f427a124411d2c12e8eb5157afc1a6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000301",
+      "sequence": 301,
+      "startMs": 577580,
+      "endMs": 578700,
+      "text": "就在他周围",
+      "rawTextHash": "7626a68f7a05eaed5d8a70834a45112b38580f98edee7c6c157c83467b012c6c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000302",
+      "sequence": 302,
+      "startMs": 578700,
+      "endMs": 579460,
+      "text": "绕圈圈",
+      "rawTextHash": "087c7a8acef5e56e849bb4d36ae74e115c3645786c88ab6ec8f0022f64ce8fda"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000303",
+      "sequence": 303,
+      "startMs": 579460,
+      "endMs": 581020,
+      "text": "在他附近",
+      "rawTextHash": "da3480534c8d4babbb57c058771db5107f2ed501fab3ef5d861418d8f893d2e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000304",
+      "sequence": 304,
+      "startMs": 581020,
+      "endMs": 582380,
+      "text": "还做个圆形",
+      "rawTextHash": "c4ad1cc1f3f2e6c8de96c5ee6461abd183be49f332beeb47c77f6b6e18d04f14"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000305",
+      "sequence": 305,
+      "startMs": 582380,
+      "endMs": 583860,
+      "text": "又是圆的",
+      "rawTextHash": "3e9679af7fe8119c6690204afa27f919d1a4591c0a4a4ed5d4619df5d5d56d53"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000306",
+      "sequence": 306,
+      "startMs": 583860,
+      "endMs": 584580,
+      "text": "又是附近",
+      "rawTextHash": "879b55a29a1ff19570eaa41487a32877e8407e64fd21e9ef42fe48070edf9163"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000307",
+      "sequence": 307,
+      "startMs": 584580,
+      "endMs": 585340,
+      "text": "又是附近",
+      "rawTextHash": "879b55a29a1ff19570eaa41487a32877e8407e64fd21e9ef42fe48070edf9163"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000308",
+      "sequence": 308,
+      "startMs": 585340,
+      "endMs": 586100,
+      "text": "又是圆的",
+      "rawTextHash": "3e9679af7fe8119c6690204afa27f919d1a4591c0a4a4ed5d4619df5d5d56d53"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000309",
+      "sequence": 309,
+      "startMs": 586100,
+      "endMs": 586780,
+      "text": "roundabout",
+      "rawTextHash": "75c7d7184d93733ca076bd839c8f3050f146a77e10a4a45e573bd9a6143fb92f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000310",
+      "sequence": 310,
+      "startMs": 586780,
+      "endMs": 588600,
+      "text": "应该就是一个",
+      "rawTextHash": "35c94b7d58a281849745d6c7b75f2536c3169f5b3d07382c4b1c1210a2b2ecf4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000311",
+      "sequence": 311,
+      "startMs": 588600,
+      "endMs": 590900,
+      "text": "在周围画圈圈的行为吧",
+      "rawTextHash": "02b7f7f983a48d078a0dee32e68f90bc2740de3a9642dfc0b90e7a17f4b756cf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000312",
+      "sequence": 312,
+      "startMs": 590900,
+      "endMs": 591940,
+      "text": "roundabout",
+      "rawTextHash": "75c7d7184d93733ca076bd839c8f3050f146a77e10a4a45e573bd9a6143fb92f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000313",
+      "sequence": 313,
+      "startMs": 591940,
+      "endMs": 592540,
+      "text": "什么意思",
+      "rawTextHash": "9198ad68150d0f1c9ea71e27e86ffb678a3b7c9e03fe43df52b38b0fe1225042"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000314",
+      "sequence": 314,
+      "startMs": 592540,
+      "endMs": 594460,
+      "text": "叫做迂回的",
+      "rawTextHash": "9d3e9cda02cc7364d2fa78661bfee156f7d1ac6acb2a073a1a58c4f626d22710"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000315",
+      "sequence": 315,
+      "startMs": 594460,
+      "endMs": 596420,
+      "text": "迂回的和间接的",
+      "rawTextHash": "c599893bc45a3a37a60c266e4867704b2f9bd1bbb8070b6be645ab9c0a28ebc1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000316",
+      "sequence": 316,
+      "startMs": 596420,
+      "endMs": 598300,
+      "text": "但是这些含义呢",
+      "rawTextHash": "79d71cdcf642fea547f6fbb181e7c5a19b39876cab08be6d4f6090f9bf04673f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000317",
+      "sequence": 317,
+      "startMs": 598300,
+      "endMs": 599100,
+      "text": "我们根本用不到",
+      "rawTextHash": "c6f2ac4dfe0a84c65cf591d0dd21680cef7a0401df1709be9d1fff2a2cf29d41"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000318",
+      "sequence": 318,
+      "startMs": 599100,
+      "endMs": 600740,
+      "text": "我们作为高中初中生",
+      "rawTextHash": "fb5a5c6478950c81d54a089a468f32d632d8faf1b7a977a3293b8adada549106"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000319",
+      "sequence": 319,
+      "startMs": 600740,
+      "endMs": 602020,
+      "text": "我们用的就是一个含义",
+      "rawTextHash": "92313fc614471cf670250cda51a8819eaa0b4a080e53b073853043e7251a8647"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000320",
+      "sequence": 320,
+      "startMs": 602020,
+      "endMs": 602940,
+      "text": "叫做交通",
+      "rawTextHash": "8ed77b63ba54300ac08eee4049af440d308099aff7d4dcd3ba543867667fb0bc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000321",
+      "sequence": 321,
+      "startMs": 602940,
+      "endMs": 603340,
+      "text": "环岛",
+      "rawTextHash": "a3bf7161003b6e25c8af60aa733fb00f5ca85885988061e0b1ad87527cbc2bdf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000322",
+      "sequence": 322,
+      "startMs": 604540,
+      "endMs": 605820,
+      "text": "这个交通环岛",
+      "rawTextHash": "17aec713c4a66b605de06c302027cf692541bb4f74cf1740b3e2040c47f33bf4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000323",
+      "sequence": 323,
+      "startMs": 605820,
+      "endMs": 608220,
+      "text": "它就是绕着一个花坛",
+      "rawTextHash": "58c5b6728b253f42f43691b07b05a291c99800ecc49102499b9f984d3bc51d8d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000324",
+      "sequence": 324,
+      "startMs": 608220,
+      "endMs": 609140,
+      "text": "绕圈圈",
+      "rawTextHash": "087c7a8acef5e56e849bb4d36ae74e115c3645786c88ab6ec8f0022f64ce8fda"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000325",
+      "sequence": 325,
+      "startMs": 609140,
+      "endMs": 610140,
+      "text": "就roundabout",
+      "rawTextHash": "617ddbe873b9addd64369090d19b06fdd576aa14428647d717508bb757d39ebe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000326",
+      "sequence": 326,
+      "startMs": 610740,
+      "endMs": 612060,
+      "text": "就在这绕圈圈",
+      "rawTextHash": "75fdc5cfe019ddad6835f8d47cf218fe73ddb097ae8e9888cf97beea8b731c58"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000327",
+      "sequence": 327,
+      "startMs": 612060,
+      "endMs": 613500,
+      "text": "它叫做交通环岛",
+      "rawTextHash": "bfac56c97151b01d7d19e0a9d06c22dca189720b1af07f0fb87c15ea627adf75"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000328",
+      "sequence": 328,
+      "startMs": 614060,
+      "endMs": 615220,
+      "text": "交通环岛",
+      "rawTextHash": "2fba220ea5e0a1e91b93b5d5fdfb4931ebc17943dbb44d78cc6c41283af3bf59"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000329",
+      "sequence": 329,
+      "startMs": 615220,
+      "endMs": 617020,
+      "text": "也就是一个原型的路",
+      "rawTextHash": "795f4b3fd6b0a6b10199dd7fe11474c9f0215d204c00a39023fb030140f514a5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000330",
+      "sequence": 330,
+      "startMs": 618580,
+      "endMs": 619140,
+      "text": "nose",
+      "rawTextHash": "d77e22123e64d3d87f1f95d9cff7a0b6af6c32b9a81552cb90e991eb55cf63d4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000331",
+      "sequence": 331,
+      "startMs": 619140,
+      "endMs": 620140,
+      "text": "这种鼻子",
+      "rawTextHash": "85ff06b8a8c7cb4c66e0260c4c3fa386e6f4907adcf729a54fab29c8a4494967"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000332",
+      "sequence": 332,
+      "startMs": 620140,
+      "endMs": 620260,
+      "text": "这种鼻子吗",
+      "rawTextHash": "c91001b447dc089d379beabc0e27488b10f644ec6b02399fb9a9653871ecd125"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000333",
+      "sequence": 333,
+      "startMs": 620260,
+      "endMs": 621620,
+      "text": "歪",
+      "rawTextHash": "958d29d389f89d867f0ae803bec3ac041d98951233dbfd51c58bd849e0aa343f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000334",
+      "sequence": 334,
+      "startMs": 621620,
+      "endMs": 622260,
+      "text": "后缀",
+      "rawTextHash": "006d3ffb11d24809fb1696c45cfca59f7d95b5b6fabf5b0b1fc3b86d4c184878"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000335",
+      "sequence": 335,
+      "startMs": 622260,
+      "endMs": 623420,
+      "text": "表示很多的意思",
+      "rawTextHash": "e937dacb1d44440d22cd7f9c1c983a59d26a1664ac7ac5ef47693cb3668a184a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000336",
+      "sequence": 336,
+      "startMs": 623420,
+      "endMs": 625300,
+      "text": "他叫很多鼻子啊",
+      "rawTextHash": "3a5e25130191c99b7ae5f7bd75c197d43021f2dad56bc8f7f505a6b86aa24f16"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000337",
+      "sequence": 337,
+      "startMs": 625300,
+      "endMs": 627460,
+      "text": "这个人有很多鼻子",
+      "rawTextHash": "25dcea01b35a7d1c2354c1422526672baa4a99e58285b7495b06405525997cc0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000338",
+      "sequence": 338,
+      "startMs": 627460,
+      "endMs": 627740,
+      "text": "他呀",
+      "rawTextHash": "9260451e93b76e3e343588cb2b8371e406a25d775bfb03e40b75956425033290"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000339",
+      "sequence": 339,
+      "startMs": 627740,
+      "endMs": 629020,
+      "text": "他有很多鼻子啊",
+      "rawTextHash": "8e3668430cf81fd61e42d450a509684d2e1118a2621298cc6d76366d82fc76b9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000340",
+      "sequence": 340,
+      "startMs": 629020,
+      "endMs": 630180,
+      "text": "他鼻子很灵敏啊",
+      "rawTextHash": "c6b681a5ac23535e6a8a87ac79a90a99b2bf3b6e96db81ba230957a9158c2b13"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000341",
+      "sequence": 341,
+      "startMs": 630180,
+      "endMs": 630500,
+      "text": "叫什么",
+      "rawTextHash": "032ab8f47852b7df0d309eec438a8973be9d83dd4a79ebefc1216baaa296561e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000342",
+      "sequence": 342,
+      "startMs": 630500,
+      "endMs": 631220,
+      "text": "叫nosy",
+      "rawTextHash": "2c71c60fb14275108db6c7a797f7a064104ee36d3e79bafffce766975e97298f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000343",
+      "sequence": 343,
+      "startMs": 631220,
+      "endMs": 632660,
+      "text": "叫爱管闲事",
+      "rawTextHash": "750a9867f942c727d5e36b8a551f3a7800398bb9c9380c86533647d376d9cfe1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000344",
+      "sequence": 344,
+      "startMs": 632660,
+      "endMs": 634420,
+      "text": "爱管闲事就是",
+      "rawTextHash": "97c3d5f65744bcf5e54f5268ae0841b98ac9f114c4c491fb8a0fc7bcd17f7d4a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000345",
+      "sequence": 345,
+      "startMs": 634420,
+      "endMs": 636340,
+      "text": "就像狗似的啊",
+      "rawTextHash": "a9a854e6c4dc518ea7b926cc787ff3c5d074c0f46fd5342cdf29ebbd920c1157"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000346",
+      "sequence": 346,
+      "startMs": 636340,
+      "endMs": 637460,
+      "text": "就是总是喜欢",
+      "rawTextHash": "a98c490ae7eb96352ee1462996221fd80d534eeae17227d002fc44758166e1d3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000347",
+      "sequence": 347,
+      "startMs": 637460,
+      "endMs": 639220,
+      "text": "他嗅觉很灵敏",
+      "rawTextHash": "862a75f7530affcefa401bce8c76730757ca7e27a1af609d915587fae7d5fde8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000348",
+      "sequence": 348,
+      "startMs": 639220,
+      "endMs": 639740,
+      "text": "nosy",
+      "rawTextHash": "41645a15c03e733952e42bd85b0ee822ab42bfe129a82e3ff34bf88a0888e612"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000349",
+      "sequence": 349,
+      "startMs": 639740,
+      "endMs": 641580,
+      "text": "有的人呢",
+      "rawTextHash": "021cc664dbc24c9385daef8acc4371060d186cce45c0e85c2588a526d7a3e674"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000350",
+      "sequence": 350,
+      "startMs": 641580,
+      "endMs": 642620,
+      "text": "没有那么多鼻子",
+      "rawTextHash": "ccdc807c93a23527ae7abbc35546b129ff6ebd4c39199d90d03af04748d60bbe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000351",
+      "sequence": 351,
+      "startMs": 642620,
+      "endMs": 643980,
+      "text": "他就俩鼻子",
+      "rawTextHash": "4f6d86ea52d7bd7180d03d37d7bae887d13842f991c93ec918d093a9d9abae1c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000352",
+      "sequence": 352,
+      "startMs": 643980,
+      "endMs": 645020,
+      "text": "di",
+      "rawTextHash": "225ed6562f6887b1074b9d0908100afedb97b49e883ed40361f7470b990f43a4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000353",
+      "sequence": 353,
+      "startMs": 645020,
+      "endMs": 646780,
+      "text": "叫做二",
+      "rawTextHash": "4ea24869110106bf1c30ec83b11301abd49747655ca6fddec6f4a65c5df26d3d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000354",
+      "sequence": 354,
+      "startMs": 646780,
+      "endMs": 647540,
+      "text": "就是说",
+      "rawTextHash": "6b3ccad1b9ff4bd4a7255a105e85d184b708853be0a3160c23225979aafc4924"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000355",
+      "sequence": 355,
+      "startMs": 647540,
+      "endMs": 648340,
+      "text": "dialogue",
+      "rawTextHash": "abe0ba24dae6eb854ba26a5f2f34497e2be2df3daaa9acbc4e6d3cf6f05065d7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000356",
+      "sequence": 356,
+      "startMs": 648340,
+      "endMs": 649980,
+      "text": "难道dialogue",
+      "rawTextHash": "f75631ee2a7142f0c7c28b5d1275529fa77a04bff837cf8582fdcb0220fa4985"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000357",
+      "sequence": 357,
+      "startMs": 649980,
+      "endMs": 651020,
+      "text": "不是对话吗",
+      "rawTextHash": "e6736c78789a003d2ca6ad2534ee3c0f0561d10086c4e96d11a4a07630057f93"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000358",
+      "sequence": 358,
+      "startMs": 651020,
+      "endMs": 651540,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000359",
+      "sequence": 359,
+      "startMs": 651540,
+      "endMs": 652900,
+      "text": "那对话不就是",
+      "rawTextHash": "db12d4ad5300a2e2570633f3048b11a171fb8c6da1ce8dde5981b4eecd468f40"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000360",
+      "sequence": 360,
+      "startMs": 652900,
+      "endMs": 654420,
+      "text": "咱们两个人",
+      "rawTextHash": "5b0fcd4c170b0e74f81ed5ad20574d2868566111c3426bb9b7877a56dcf5234f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000361",
+      "sequence": 361,
+      "startMs": 654420,
+      "endMs": 655420,
+      "text": "唠嗑吗",
+      "rawTextHash": "aba19d66a90bd4cd22d6e27f5d6ea8820cd05b0515e041bfaa7a764591bd95aa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000362",
+      "sequence": 362,
+      "startMs": 655420,
+      "endMs": 657140,
+      "text": "所以dialogue",
+      "rawTextHash": "731e83751499d7d73b7fdfbb5a290dc15f0efc5135468fa20ebcf55858328078"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000363",
+      "sequence": 363,
+      "startMs": 657140,
+      "endMs": 657760,
+      "text": "叫二",
+      "rawTextHash": "4f28dc684d1f3692e041e8d606a01a4ae62514e37a9de8e7510599c42e5ca170"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000364",
+      "sequence": 364,
+      "startMs": 657760,
+      "endMs": 658720,
+      "text": "我见过",
+      "rawTextHash": "9b465b89a4bc07b6f08450c0e556c8847d7757a1003d33ac5118b976bb14b7cb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000365",
+      "sequence": 365,
+      "startMs": 658720,
+      "endMs": 659640,
+      "text": "divide",
+      "rawTextHash": "895479bfaa22d9f565673584f311a46856fd7540ec1912e8b9f87ecd12d2a333"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000366",
+      "sequence": 366,
+      "startMs": 659640,
+      "endMs": 660540,
+      "text": "叫划分",
+      "rawTextHash": "14748108e81547ba476f13a1ea43b59dc8144b10fc3a5875d54ae9b970522225"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000367",
+      "sequence": 367,
+      "startMs": 660540,
+      "endMs": 661300,
+      "text": "我见过",
+      "rawTextHash": "9b465b89a4bc07b6f08450c0e556c8847d7757a1003d33ac5118b976bb14b7cb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000368",
+      "sequence": 368,
+      "startMs": 661300,
+      "endMs": 662940,
+      "text": "划分就是分成两份",
+      "rawTextHash": "268c63b609a684e7fba363066aec9dc327209fc825a901c8a76e7eeeb8d885d4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000369",
+      "sequence": 369,
+      "startMs": 662940,
+      "endMs": 665380,
+      "text": "那么地表是二的时候",
+      "rawTextHash": "57b3f44ad7ac3da97f9cccb1452e0e9f5d7681b390e5313f0df90487d1b40a11"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000370",
+      "sequence": 370,
+      "startMs": 665380,
+      "endMs": 667180,
+      "text": "中间来个nose鼻子",
+      "rawTextHash": "95304ade11aa0df0d4091a5ae7dc6ad708c11dca261f9d18b66f3ef683a281cd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000371",
+      "sequence": 371,
+      "startMs": 667180,
+      "endMs": 668580,
+      "text": "我们加个aur",
+      "rawTextHash": "42ad7612aa7c9f4016d5a25dc3694a9dcf2c443d9bbe7861c23b2706c08d97e7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000372",
+      "sequence": 372,
+      "startMs": 668580,
+      "endMs": 669820,
+      "text": "三合一",
+      "rawTextHash": "c345642f50dc6fc5f01c1e9aa728f2b7c16659ff036d4d2591a0b72442e9b3c1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000373",
+      "sequence": 373,
+      "startMs": 669820,
+      "endMs": 671580,
+      "text": "叫俩鼻子",
+      "rawTextHash": "eca12f41079cb5091b0ff1075722ab6326738fea2a99088476e08f5b2ca0a77c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000374",
+      "sequence": 374,
+      "startMs": 671580,
+      "endMs": 673420,
+      "text": "为啥叫俩鼻子呢",
+      "rawTextHash": "2a03ec565b331fa57546da6edf19a48a07d70d98a41312a3ef60c859b63d0b8c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000375",
+      "sequence": 375,
+      "startMs": 673420,
+      "endMs": 676020,
+      "text": "因为他是一个两栖动物",
+      "rawTextHash": "c1dce7e267a16bd6bfe2afab38f9b69b163b72c016ef7466ccc6122f62fb3a2b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000376",
+      "sequence": 376,
+      "startMs": 676020,
+      "endMs": 676300,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000377",
+      "sequence": 377,
+      "startMs": 676300,
+      "endMs": 678340,
+      "text": "他是个两栖动物",
+      "rawTextHash": "6c3f556fda510cc8d183734dd39ad7f5a09ea2626297b4564fa1a50ffc669463"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000378",
+      "sequence": 378,
+      "startMs": 678340,
+      "endMs": 679940,
+      "text": "他在水里也能呼吸",
+      "rawTextHash": "6ea752286bc66984e3969cf1e2117badece87319bcfcf2b78e7cc9a9adede3cd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000379",
+      "sequence": 379,
+      "startMs": 679940,
+      "endMs": 681400,
+      "text": "他陆地也能呼吸",
+      "rawTextHash": "8e36f5159addf9158b3720f867ec843306e30a7dc2db0ac0753be35600cd4939"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000380",
+      "sequence": 380,
+      "startMs": 681400,
+      "endMs": 682480,
+      "text": "他也没有筛",
+      "rawTextHash": "ef944102c333b19f58f7ba693856c949abc071c9e2a353a9a93fbaf0f6be38dc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000381",
+      "sequence": 381,
+      "startMs": 682480,
+      "endMs": 683000,
+      "text": "对不对",
+      "rawTextHash": "4c61ba4b12d2c5a1ed6f7cf1cb0b8de5cef31565109f996fbe2afcafbc83c215"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000382",
+      "sequence": 382,
+      "startMs": 683000,
+      "endMs": 684760,
+      "text": "所以他水里也能呼吸",
+      "rawTextHash": "1c2f3e2febd3e4395b4a52616f0f69be5f3b4c0ad59f5e6255f9e25ddbce3eb6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000383",
+      "sequence": 383,
+      "startMs": 684760,
+      "endMs": 685720,
+      "text": "陆地也能呼吸",
+      "rawTextHash": "a63001a715ac784678079e0dc99cc8f58814e8507ebdf4a92f4f22d06ff5ad56"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000384",
+      "sequence": 384,
+      "startMs": 685720,
+      "endMs": 686580,
+      "text": "所以dialogue",
+      "rawTextHash": "731e83751499d7d73b7fdfbb5a290dc15f0efc5135468fa20ebcf55858328078"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000385",
+      "sequence": 385,
+      "startMs": 686580,
+      "endMs": 689000,
+      "text": "是两个鼻子的一个兽",
+      "rawTextHash": "47f7592354a071a8321a08e80836904610ee5e2abf8a0030f5fce6ec7310c061"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000386",
+      "sequence": 386,
+      "startMs": 689000,
+      "endMs": 689860,
+      "text": "兽",
+      "rawTextHash": "fd2112af1876a726bfb22c9c6db5e284e689ce6d59d0cf6c120fabc9e044b460"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000387",
+      "sequence": 387,
+      "startMs": 689860,
+      "endMs": 691520,
+      "text": "两个鼻子的兽",
+      "rawTextHash": "4ef7d654d4db6a4a787192f1ec0fa80bb1d7b0e69a46b0e848f8111a70f9af8a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000388",
+      "sequence": 388,
+      "startMs": 691520,
+      "endMs": 693220,
+      "text": "他叫做恐龙",
+      "rawTextHash": "4f91ea809b30e02dbf835297f38bdf90790a1f958d3eb374e10d51c52a1ecf00"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000389",
+      "sequence": 389,
+      "startMs": 693220,
+      "endMs": 694720,
+      "text": "恐龙呢",
+      "rawTextHash": "a893e566006af0f3aeca435cb2ce46341a1c44712db00ce53e344571ab99084d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000390",
+      "sequence": 390,
+      "startMs": 694720,
+      "endMs": 696280,
+      "text": "是两栖动物",
+      "rawTextHash": "f0e33e38757ac1ba7561e8908830343da4f74ecf9abf824a627ef7bc2300c22f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000391",
+      "sequence": 391,
+      "startMs": 696280,
+      "endMs": 697280,
+      "text": "水里也能活",
+      "rawTextHash": "9f9bb2e9ca8d8cd62e4b05942640e9e8269ec49241b609e797934a10f712000d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000392",
+      "sequence": 392,
+      "startMs": 697280,
+      "endMs": 698340,
+      "text": "陆地也能活",
+      "rawTextHash": "54543f2264a7b8f48c95fc4cc8cb7fbf893ac3891439a8bdd72a19bf2659186f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000393",
+      "sequence": 393,
+      "startMs": 698340,
+      "endMs": 698760,
+      "text": "是不是",
+      "rawTextHash": "e2793bd0553ec6fad33aa06ef882e706211c6bfb0e3e98e69e6b3bf1cbf8083e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000394",
+      "sequence": 394,
+      "startMs": 698760,
+      "endMs": 700100,
+      "text": "那就叫俩鼻子吧",
+      "rawTextHash": "9be7ec839e79724260dbae3ee61a3240ae12bc67f1e4e115e6e65df71297a0f7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000395",
+      "sequence": 395,
+      "startMs": 700100,
+      "endMs": 701180,
+      "text": "所以dinosaur",
+      "rawTextHash": "4413dcd8545fc9f8b085fc39ee664c6ce36b90bbb335dec60f371754fa68cb3f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000396",
+      "sequence": 396,
+      "startMs": 701180,
+      "endMs": 702720,
+      "text": "我们过去说什么",
+      "rawTextHash": "eeb5ae5c4afe249369f297c55e44ff07c84de3c2f8bf493eb47ec7265bf31e2e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000397",
+      "sequence": 397,
+      "startMs": 702720,
+      "endMs": 703420,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000398",
+      "sequence": 398,
+      "startMs": 703420,
+      "endMs": 704820,
+      "text": "大脑勺啊",
+      "rawTextHash": "14aa44fd908121aae4659dc3941ed62bdc7bdad2b6b2242ebb1d3b289d493061"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000399",
+      "sequence": 399,
+      "startMs": 704820,
+      "endMs": 705360,
+      "text": "什么",
+      "rawTextHash": "c1b52e0e64a33deadd3ae5c09421ace2330ef1e1feff9f3dbc3ba9e06f05f92f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000400",
+      "sequence": 400,
+      "startMs": 705360,
+      "endMs": 706000,
+      "text": "呃",
+      "rawTextHash": "6aa9c5da2dbfd69ff5a8181a0f014089e6e23a8b11d157ec1bd2769484add4b5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000401",
+      "sequence": 401,
+      "startMs": 706000,
+      "endMs": 706680,
+      "text": "大脑兽",
+      "rawTextHash": "9b165426d0894475cbd3ab2b22c43579f2b530239f7d4990f460e7cbbea0acf8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000402",
+      "sequence": 402,
+      "startMs": 706680,
+      "endMs": 707340,
+      "text": "同学们",
+      "rawTextHash": "b1da5955ea6d326d2492185ecb1ed07fb5be342787eaca51d9307de7cda9ff60"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000403",
+      "sequence": 403,
+      "startMs": 707340,
+      "endMs": 709400,
+      "text": "这些东西都不需要了",
+      "rawTextHash": "ede45c93e3ddd29bb0db3f7d750d96e012aec0c155b68013cffdcf75dc2e78c5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000404",
+      "sequence": 404,
+      "startMs": 709400,
+      "endMs": 711240,
+      "text": "在科学分析面前",
+      "rawTextHash": "0f0ebbd0c43a94092d2b0737cfa9fcf4917d100f2a5616c67da8d0b6929d986e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000405",
+      "sequence": 405,
+      "startMs": 711240,
+      "endMs": 712260,
+      "text": "大脑勺",
+      "rawTextHash": "9a8c0ad9c15702ded3c5e12793743e269c53ad90b82ba6d071e17728a34801ab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000406",
+      "sequence": 406,
+      "startMs": 712260,
+      "endMs": 713720,
+      "text": "大脑勺",
+      "rawTextHash": "9a8c0ad9c15702ded3c5e12793743e269c53ad90b82ba6d071e17728a34801ab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000407",
+      "sequence": 407,
+      "startMs": 713720,
+      "endMs": 714960,
+      "text": "大脑兽",
+      "rawTextHash": "9b165426d0894475cbd3ab2b22c43579f2b530239f7d4990f460e7cbbea0acf8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000408",
+      "sequence": 408,
+      "startMs": 714960,
+      "endMs": 716080,
+      "text": "这些东西呢",
+      "rawTextHash": "95207f04203e6cb6edac842b5972c0da821774a6646db2d48792d4c19a178460"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000409",
+      "sequence": 409,
+      "startMs": 716080,
+      "endMs": 716860,
+      "text": "都差点意思",
+      "rawTextHash": "260e8ad69c386d482bccb6d5e28e699e428383b62240d13bd61033369ee4c2cf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000410",
+      "sequence": 410,
+      "startMs": 716860,
+      "endMs": 719500,
+      "text": "还是没有真正让我们对这个单词走心",
+      "rawTextHash": "358376bf9c0b58f36bc2f10821b42883a2d57fa139f8cb0e305148f251bd328d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000411",
+      "sequence": 411,
+      "startMs": 719500,
+      "endMs": 720700,
+      "text": "大脑勺",
+      "rawTextHash": "9a8c0ad9c15702ded3c5e12793743e269c53ad90b82ba6d071e17728a34801ab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000412",
+      "sequence": 412,
+      "startMs": 720700,
+      "endMs": 721240,
+      "text": "大脑兽",
+      "rawTextHash": "9b165426d0894475cbd3ab2b22c43579f2b530239f7d4990f460e7cbbea0acf8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000413",
+      "sequence": 413,
+      "startMs": 721240,
+      "endMs": 722940,
+      "text": "最后就是dinosaur",
+      "rawTextHash": "98d1bd2ede896a555c38857e305e8322816fe3f2fe4023a7e44a5097a0354738"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000414",
+      "sequence": 414,
+      "startMs": 722940,
+      "endMs": 725280,
+      "text": "两个鼻子的兽",
+      "rawTextHash": "4ef7d654d4db6a4a787192f1ec0fa80bb1d7b0e69a46b0e848f8111a70f9af8a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000415",
+      "sequence": 415,
+      "startMs": 725280,
+      "endMs": 726640,
+      "text": "见到他我就说",
+      "rawTextHash": "b4e3152c3b4620029d47cbf13c3309c54838c9addedf4fb7364417205c7fa338"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000416",
+      "sequence": 416,
+      "startMs": 726640,
+      "endMs": 727640,
+      "text": "哎呦啊",
+      "rawTextHash": "c048006332ebd124a51a3acb20ee7fc0387834a06a438bdf880c326de1ac62bc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000417",
+      "sequence": 417,
+      "startMs": 727640,
+      "endMs": 728640,
+      "text": "哎呦啊",
+      "rawTextHash": "c048006332ebd124a51a3acb20ee7fc0387834a06a438bdf880c326de1ac62bc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000418",
+      "sequence": 418,
+      "startMs": 728640,
+      "endMs": 729160,
+      "text": "的感觉",
+      "rawTextHash": "15e3ac33040b47cea0da71dc4b9ae21e742f816ab267379a20c3a6016d6f0af6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000419",
+      "sequence": 419,
+      "startMs": 729160,
+      "endMs": 729360,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000420",
+      "sequence": 420,
+      "startMs": 729360,
+      "endMs": 730000,
+      "text": "dinosaur",
+      "rawTextHash": "300908b9d3815e2d3ba5f5534fda3bf44c8d3baaed7e7ca55fdf83a6ecad5854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000421",
+      "sequence": 421,
+      "startMs": 730000,
+      "endMs": 731040,
+      "text": "来同学们",
+      "rawTextHash": "88f2ac28b52ffb786c1d37ed4ecfaba1d35b627b501f227813a0f7ff0df1c73c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000422",
+      "sequence": 422,
+      "startMs": 731040,
+      "endMs": 732200,
+      "text": "感受到恐龙的",
+      "rawTextHash": "049da01c3c10e489e651ec7bc9ae51409dbc2096b219a1c0355de50df2db382e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000423",
+      "sequence": 423,
+      "startMs": 732200,
+      "endMs": 733080,
+      "text": "给我走过六轮",
+      "rawTextHash": "390b3e8a9b6524491e7323b3bb4cc07acb266ce8ed332479c157d33bc1d84dee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000424",
+      "sequence": 424,
+      "startMs": 733080,
+      "endMs": 734280,
+      "text": "明白了吗",
+      "rawTextHash": "6bfd345a7656aea4055221a082e95f8972a2491329a80486ad0fa313e5b7c108"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000425",
+      "sequence": 425,
+      "startMs": 735000,
+      "endMs": 736700,
+      "text": "使用很多记忆方法",
+      "rawTextHash": "5b7e469bb6397d923cd22e211d7fb43ec73e5663243bf788776b1edb64dfb379"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000426",
+      "sequence": 426,
+      "startMs": 736700,
+      "endMs": 737780,
+      "text": "但这个方法当中呢",
+      "rawTextHash": "a9c8420ac98b1240088b5dacba7b7782221b59649b9e279315e6ff4ba88b4add"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000427",
+      "sequence": 427,
+      "startMs": 737780,
+      "endMs": 740340,
+      "text": "我们总能找到一个貌似合理的啊",
+      "rawTextHash": "a9bd49e5278c6ac1d856429b0a0526cae6682a5b9ddac686f0017399473371e3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000428",
+      "sequence": 428,
+      "startMs": 740340,
+      "endMs": 741060,
+      "text": "dinosaur",
+      "rawTextHash": "300908b9d3815e2d3ba5f5534fda3bf44c8d3baaed7e7ca55fdf83a6ecad5854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000429",
+      "sequence": 429,
+      "startMs": 741060,
+      "endMs": 742480,
+      "text": "其次还有另外的说法",
+      "rawTextHash": "440b6e9da896b8b3983f6b3ed5c0dc77f443d0a6a3983758dd668e17142c3652"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000430",
+      "sequence": 430,
+      "startMs": 742480,
+      "endMs": 742900,
+      "text": "说同学们",
+      "rawTextHash": "b079853639b3c769b223640619e5cf0e71df1d71fed0fb2bfbdae6c7e6924ce7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000431",
+      "sequence": 431,
+      "startMs": 742900,
+      "endMs": 743660,
+      "text": "不是的",
+      "rawTextHash": "60f325002f26c8768b40f05f7652b9c34031e2929fd189321a6b4842f12171e5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000432",
+      "sequence": 432,
+      "startMs": 743660,
+      "endMs": 744860,
+      "text": "这个dino啊",
+      "rawTextHash": "6fbe13893586357e98f51bfb591fa693834eedaf55d100d8c43cb67b74bebdb8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000433",
+      "sequence": 433,
+      "startMs": 744860,
+      "endMs": 745140,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000434",
+      "sequence": 434,
+      "startMs": 745140,
+      "endMs": 747000,
+      "text": "它是一个表示恐怖的意思",
+      "rawTextHash": "ab16b82bcba3ee8d3f2dc11ba04d256e1a656febd23067a2583da89bcbc68467"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000435",
+      "sequence": 435,
+      "startMs": 747000,
+      "endMs": 748200,
+      "text": "那就太难了",
+      "rawTextHash": "69083ad824a9a5f9747ad45c7a77923955435f98741e610b17178914a34dcb57"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000436",
+      "sequence": 436,
+      "startMs": 748200,
+      "endMs": 750460,
+      "text": "你让我记这个四个字母是恐怖",
+      "rawTextHash": "fadd68ec643ca174e4a61a06a9fa2c347607f3fb7141f61835b5be978ba3a054"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000437",
+      "sequence": 437,
+      "startMs": 750460,
+      "endMs": 751960,
+      "text": "那就太难了啊",
+      "rawTextHash": "a4e344b2ca7a8bfc9d558ade5643d3e4d7cb0cde2bbba176a5fb31064e3ad36a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000438",
+      "sequence": 438,
+      "startMs": 751960,
+      "endMs": 752600,
+      "text": "所以dinosaur",
+      "rawTextHash": "4413dcd8545fc9f8b085fc39ee664c6ce36b90bbb335dec60f371754fa68cb3f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000439",
+      "sequence": 439,
+      "startMs": 752600,
+      "endMs": 753600,
+      "text": "干脆用俩鼻子记吧",
+      "rawTextHash": "58d72cee24cb1b9cfb43c8487445d391b04f2d85920f4ed7190932faa64e1659"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000440",
+      "sequence": 440,
+      "startMs": 753600,
+      "endMs": 754800,
+      "text": "dinosaur",
+      "rawTextHash": "300908b9d3815e2d3ba5f5534fda3bf44c8d3baaed7e7ca55fdf83a6ecad5854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000441",
+      "sequence": 441,
+      "startMs": 754800,
+      "endMs": 755080,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000442",
+      "sequence": 442,
+      "startMs": 755080,
+      "endMs": 756000,
+      "text": "它是俩鼻子",
+      "rawTextHash": "0383a7faa7a0b7db1fb158a8b6f04d3b8456618d7051beedb399469cf375a494"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000443",
+      "sequence": 443,
+      "startMs": 756000,
+      "endMs": 757100,
+      "text": "它是一个鼻子",
+      "rawTextHash": "fc760db17a7bc1819c1b1aa53f67e83ab46b48c1c8f1d82819cf217d99f6ca02"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000444",
+      "sequence": 444,
+      "startMs": 757100,
+      "endMs": 757700,
+      "text": "不",
+      "rawTextHash": "b02dfe2160c687c22f0762f388d6e2bca93d7bca18f55ca9b5ab9ae920de4f62"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000445",
+      "sequence": 445,
+      "startMs": 757700,
+      "endMs": 758600,
+      "text": "它是很多鼻子",
+      "rawTextHash": "70876d993371973a30ae2b34e9398f9ffef42d2486b82d2c94937da9dbfe1fa3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000446",
+      "sequence": 446,
+      "startMs": 758600,
+      "endMs": 760140,
+      "text": "它鼻子太多",
+      "rawTextHash": "138ae762bdfc4bd636c184e2ab828238f8881177ba6072247c5e788c3fc9663a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000447",
+      "sequence": 447,
+      "startMs": 760140,
+      "endMs": 762180,
+      "text": "它太喜欢嗅觉了",
+      "rawTextHash": "05ac355607db0a1714bef5ae9241fc8748e7ac4c96653a6de326efcb7c4aca02"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000448",
+      "sequence": 448,
+      "startMs": 762180,
+      "endMs": 763380,
+      "text": "哪有事",
+      "rawTextHash": "4c373fb9eaba51ef2f3f6f7a3fc5f3106cea5f5b792e9b2f792ef7b83634b475"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000449",
+      "sequence": 449,
+      "startMs": 763380,
+      "endMs": 764180,
+      "text": "它就哪到",
+      "rawTextHash": "85fc90d66768a1af3da9781e95c01f9a050c739d3bed8e4848dee33b9ef1f146"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000450",
+      "sequence": 450,
+      "startMs": 764180,
+      "endMs": 765820,
+      "text": "这种人叫爱打听",
+      "rawTextHash": "aca1ec28551ff838363a1b4ad57bf5e3c3d2ac8dc1a813b06535a64dd67433c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000451",
+      "sequence": 451,
+      "startMs": 765820,
+      "endMs": 766900,
+      "text": "其实像狗一样",
+      "rawTextHash": "2a3786192b210d2149875b92750e097239ac5a2f3b774ddedb3c99d0a8b82c99"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000452",
+      "sequence": 452,
+      "startMs": 766900,
+      "endMs": 767340,
+      "text": "dinosaur",
+      "rawTextHash": "300908b9d3815e2d3ba5f5534fda3bf44c8d3baaed7e7ca55fdf83a6ecad5854"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000453",
+      "sequence": 453,
+      "startMs": 767340,
+      "endMs": 769540,
+      "text": "to叫去",
+      "rawTextHash": "04cd60d0012ef1cd19154701e38b7ed0cd384fe516adc71ecd0836703e698d58"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000454",
+      "sequence": 454,
+      "startMs": 769540,
+      "endMs": 770580,
+      "text": "and叫末端",
+      "rawTextHash": "e75177b9390a1a7cf9df55c61a26a33622b2e9a8c6a3b406a47e613b4b642651"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000455",
+      "sequence": 455,
+      "startMs": 770580,
+      "endMs": 772140,
+      "text": "啥叫去末端呢",
+      "rawTextHash": "2a94483e2f353e5f91ef90ff51b59c685e430831b6b3d4ee536e3999fe2d1c34"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000456",
+      "sequence": 456,
+      "startMs": 772140,
+      "endMs": 773400,
+      "text": "去末端啥意思",
+      "rawTextHash": "3dee8a3d01e5d0db53c622b0bd72a83172ea991bccef4680ee5cfc156f46fd56"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000457",
+      "sequence": 457,
+      "startMs": 773400,
+      "endMs": 774960,
+      "text": "去末端",
+      "rawTextHash": "eb7b7c37b21af20c559660354f262551b93c9dc92a0f48704f2a6a5d0580041c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000458",
+      "sequence": 458,
+      "startMs": 774960,
+      "endMs": 777120,
+      "text": "就是一直往头里边去",
+      "rawTextHash": "1a7341b2520a954adeeb187ba767ad44b7fbe55a80f51ef5f9622c1479c6b6ce"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000459",
+      "sequence": 459,
+      "startMs": 777120,
+      "endMs": 778400,
+      "text": "叫做trand",
+      "rawTextHash": "858ef3b4f273b2603be2778d1255ba94a04284df2a98406a4ec09d1e639c5729"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000460",
+      "sequence": 460,
+      "startMs": 778400,
+      "endMs": 782620,
+      "text": "trandtrandtrandtrandtrandtrandtrandtrandtrand",
+      "rawTextHash": "c5f7822db1d217106e823a1f0609037a5dbc318b0042ec3ab9e641a2902eecca"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000461",
+      "sequence": 461,
+      "startMs": 782620,
+      "endMs": 783520,
+      "text": "叫什么",
+      "rawTextHash": "032ab8f47852b7df0d309eec438a8973be9d83dd4a79ebefc1216baaa296561e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000462",
+      "sequence": 462,
+      "startMs": 783520,
+      "endMs": 784720,
+      "text": "往末端走",
+      "rawTextHash": "f4b6074638013d9da360d66995c1d5669aefe736609fcf3f6cbb5a128333eb13"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000463",
+      "sequence": 463,
+      "startMs": 784720,
+      "endMs": 785800,
+      "text": "往前走",
+      "rawTextHash": "14375452c554aeeafcfd243d2fb9a8e77e211134883ba04248e8489f31b810d7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000464",
+      "sequence": 464,
+      "startMs": 785800,
+      "endMs": 787420,
+      "text": "叫做趋势啊",
+      "rawTextHash": "8f3385550ec81c6465e15200ae99255b7608ad5249f25746b6daed995ccfc187"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000465",
+      "sequence": 465,
+      "startMs": 787420,
+      "endMs": 788340,
+      "text": "和潮流",
+      "rawTextHash": "91148cbd8b6b53f939061dc6deb88eeadeb4abca56aff3703993efd5912581d8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000466",
+      "sequence": 466,
+      "startMs": 788340,
+      "endMs": 790540,
+      "text": "这个趋势这个潮流啊",
+      "rawTextHash": "a1a654d97acdfc7e619e696dba19a363ea9d67b269e67638d1e0c737fd3bea8a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000467",
+      "sequence": 467,
+      "startMs": 790540,
+      "endMs": 792300,
+      "text": "就是往前去延伸的感觉",
+      "rawTextHash": "6bb028ff418c5e914e7b15a63aba48e1528ffdb65de01253e482c32340c2113b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000468",
+      "sequence": 468,
+      "startMs": 792300,
+      "endMs": 822280,
+      "text": "本身我觉得你就是个女生词,咱们都不用什么女生词,我觉得就是个女生词,当你都寸的时候,整个气流就往前寸,而且很像这个趋势,趋势,趋势,今年的趋势是什么呢,是今年都想出国,明年趋势是什么呢,明年趋势都想在国内待着,所以其实趋势就是往哪儿去,因此寸。",
+      "rawTextHash": "7534d07bb473ed849603c680da5bde20c92d7dec93f5c723ce4ca30bf2c78a35"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000469",
+      "sequence": 469,
+      "startMs": 822300,
+      "endMs": 852280,
+      "text": "趋势应该就是一个女生效果,趋势就是往前冲的感觉,allow当然叫允许,但我们看一看这是真实允许吗,允许是什么,什么叫允许,允许说实话就是给予你权利,所以既然允许是给予权利的话,我们再看看第二个信息,他除了叫给予权利的意思,他真的也叫做给予的意思,因此我们从相对熟的允许,allow me,",
+      "rawTextHash": "83918eabb1984e63a7f0789e94f9378fa606859a115982e5307395ff0381d004"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000470",
+      "sequence": 470,
+      "startMs": 852300,
+      "endMs": 882300,
+      "text": "to do something,允许就是给予权利,而给予就真的是给予东西,说实话允许就是给予啊,允许只不过是给你一个权利,而给予就是给你一个东西,一旦当你知道他有给予的含义的时候,或者叫给予都无所谓,那么名词和罪,allowance,这个词应该就是一个给你的东西,",
+      "rawTextHash": "741bb1031a30e73605208571187b93ebdadfe104cbbd81615002a5e4ab3ff2a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000471",
+      "sequence": 471,
+      "startMs": 882300,
+      "endMs": 912300,
+      "text": "每当我搜索这个词的时候,就感觉allowance就是钱钱钱,妈妈给孩子十块钱,妈妈又给孩子十块钱,所以原来特别也表示零花钱利,allowance,就是给你的东西叫零花钱,叫做津贴,allowance,所以你要想获得allowance呢,请你学习allow,",
+      "rawTextHash": "e5d468c6868e8b6f0c15e1e45f44e41ff2fd3df90c455a135c40a25054c10fbe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000472",
+      "sequence": 472,
+      "startMs": 912300,
+      "endMs": 942300,
+      "text": "难道circle不是圆圈吗,左边这四个是圆圈,um没有含义,连接成分,这是站着,这是名词后缀,这是在你周围一圈站着的东西,是你一圈周围站着的东西,叫做环境,circumesis,",
+      "rawTextHash": "2b8d4035485b288ac153ac376c575d352a9720fa67a224d24a52cfffcb7a0d9d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000473",
+      "sequence": 473,
+      "startMs": 942300,
+      "endMs": 972280,
+      "text": "这个组合之后的话呢,c和s不好合,可能就加了一个um,这个stand,and,和这个ans很像,所以就把它给吞掉了,因此叫做在你周围站着的东西,叫做,而且还不知道周围站着,而且周围还成一圈呢,所以它叫环境,circumesis,certain,确定的,确定吗,确定的,我们说确定的,副词certainly,",
+      "rawTextHash": "397f5fcc4a334d2ec6153a083e39388a87d015fbb8ba69d07d13ca3b5e7be35d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000474",
+      "sequence": 474,
+      "startMs": 972300,
+      "endMs": 1001760,
+      "text": "certainly,确定的,请把确定加一个动词后缀,组成动词,叫动词确定,请把确定再加一个后缀,那人家都是确定了,你还加什么后缀呀,所以此刻的at就不是动词后缀了,它就偶尔偶尔也能做名词,所以certificate就是一个,用来确定的一个,用来确定的一个东西,",
+      "rawTextHash": "3359c68f44db100a7e77cc7b50373deb96cebf28bac3bf9261eb8c0d8b491c7f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000475",
+      "sequence": 475,
+      "startMs": 1002300,
+      "endMs": 1032300,
+      "text": "叫什么我也不知道,但你要让我被开心,不可能,你让我被电脑,不可能,你让我被证书,可以,因为证书就是一个用来确认的,你有证书吗,好,那确定了,所以证书叫certificate,马上写一个birth certificate,叫做书上这,这一切呢,我撬动它的支点,就是这个词汇,叫certainly,确定吗,你必须用口语来复习这个词汇,",
+      "rawTextHash": "5a8c84e4436a0671cdbdaec97135aac99a248773dd578880395f02455430f358"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000476",
+      "sequence": 476,
+      "startMs": 1032300,
+      "endMs": 1061240,
+      "text": "确定加动词,叫certify确定,确定再加名词,用来确定的东西叫证书,然后马上看一看,证书到底长什么样,搜索互联网,我倒要看看证书长什么样,一搜全长这样,这些证书是干嘛的,这些certificate,就是用来certify,如果有证书,就能确定,你确实是一个本地的人,有出生证,",
+      "rawTextHash": "a5247054da75f124aacbf5f9b3074fbf2c487d051812be83404d14ff1c908c31"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000477",
+      "sequence": 477,
+      "startMs": 1061240,
+      "endMs": 1091160,
+      "text": "fans当然是粉丝了,印当然进来了,加动手坠了,左三个字母,不像粉丝吗,左三个字母不像粉丝吗,他只是把n省略了,为啥省略啊,有n读fans,没n不也读fans吗,读音非常相像,在某些字母去掉的时候,不影响整体发音特色,那就干掉了,这就是进来,那c是干嘛的呢,",
+      "rawTextHash": "de59265df1203506aeb4fc7bca826c3d94edd996b377dd2d06360f94fb2ab90f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000478",
+      "sequence": 478,
+      "startMs": 1091240,
+      "endMs": 1119240,
+      "text": "其实c在有些民族当中,sc的发音和s是一样,都读s,因此这里的fans,fans,他并不读fans,他都fans,fans,跟这个fans,fans一回事,音叫进来,那逻辑就是,粉丝粉丝都进来,粉丝粉丝都进来,粉丝粉丝都进来,fans,啥意思,把粉丝弄进来吗,吸粉吗,这样的啊,",
+      "rawTextHash": "5fc329f530f22504e5f82b14fb123112322bb398327aeb52d5faf0fc6b2374ea"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000479",
+      "sequence": 479,
+      "startMs": 1119240,
+      "endMs": 1149240,
+      "text": "这样的啊,说到这首歌唱完之后,就吸粉无数,所以吸粉,把粉丝弄进来fans,也叫使着迷,使着迷不就是吸粉吗,所以fans,你更可以把这个词,理解成粉丝之后,把字母c,把它直接就把它吸引成,把字母c,直接就把它吸引成,吸,",
+      "rawTextHash": "f9255868251222e6519dfced569d994cda19396d9296124468a003f9de72c0ef"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000480",
+      "sequence": 480,
+      "startMs": 1149240,
+      "endMs": 1179240,
+      "text": "所以如果一首歌唱得非常好啊,那这首歌真是很吸粉呢,那这个表演,今天他的表演就叫fascinating,这真是一个fascinating show,是一个非常吸粉,是吸粉无数的一个表,一个表演呢,叫fascinate show,成龙,一个空翻,飞越了黄河,",
+      "rawTextHash": "bd0bf4f817803902b01c5b82db0eb554557b4e0287ff2f4814fe0ac17f8bed9b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000481",
+      "sequence": 481,
+      "startMs": 1179240,
+      "endMs": 1209240,
+      "text": "是一个fascinating show,难道center不是中心吗,前缀叫共同,中间叫中心,加上动词和罪,逆省略,为什么省略,因为发音方便呢,省略,逻辑就是,全都放在中心,加动词和罪,那全放在中心多好啊,叫什么叫做集中精神啊,",
+      "rawTextHash": "436ca07fd348b1b90ef8291cd644cb68605ec4dd04415e5771b0cdb8c80f07e5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000482",
+      "sequence": 482,
+      "startMs": 1209240,
+      "endMs": 1217200,
+      "text": "就是说,他什么都不管,他就把他的注意力放在这一个点上,叫concentrate,老师,能来点图片吗,能",
+      "rawTextHash": "adf1036cdd4755f4f693b0e802a2679cac30e97c5de0dbd24460ca08cc859963"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000483",
+      "sequence": 483,
+      "startMs": 1217200,
+      "endMs": 1238340,
+      "text": "下课之后,要学会利用下课的时间,把老师讲的东西啊,充分的利用,我一搜,哎,我真的搜到了,我真的搜到了一些非常棒棒的图片,比如这个,这小伙儿你看啊,学习太认真了,呃,鳄鱼下一秒就把它吃了,",
+      "rawTextHash": "f0ef8566f305b46975c0803ea0e7943365329ece2ea5fff81abbc1182088723e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000484",
+      "sequence": 484,
+      "startMs": 1238340,
+      "endMs": 1267440,
+      "text": "他在鳄鱼吃完他的下一秒,还是背了三个单词,所以这种精神叫做concentrate,啊,同学们,在你看到这个图片的时候呢,你要去想,男哥,为什么把这个图片命名为concentrate,然后你在一种非常搞笑啊,忍俊不尽呢,好玩的环境当中,你突然就加深对他的印象,如果当你想不起来这些,知道什么意思啊,请看上面,他有标题,叫集中啊,",
+      "rawTextHash": "9b445c28c24ea597b9ec0da10e02c76d5e70dec6f3069ce041a227627a121e83"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000485",
+      "sequence": 485,
+      "startMs": 1267440,
+      "endMs": 1297440,
+      "text": "好,就这个集中精神站在这儿了,所以当你首先看,你先不要看这儿,你先看底下,啥意思,啥意思,鳄鱼吃人吗,不是的,叫集中精神全身关注,太喜欢学习了,所以这种状态,梁志超现在这个状态就叫concentrate,同学们,如果想要这组图片的,给我走一个一,谢谢大家啊,我这组图片太好玩了,",
+      "rawTextHash": "27ce2fd859e22a246787bf5c6748b7de1dcf7227e63f8f578b158bb30ddc8119"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000486",
+      "sequence": 486,
+      "startMs": 1297440,
+      "endMs": 1327440,
+      "text": "太有意思了,这组图片叫内涵图,你把这个内涵看出来之后的话,你就觉得真有意思,所以我太喜欢内涵图了,我太喜欢这组图了,这组图我应该记得大概是五六百个吧,所以大家今天一定要拿到,一定要拿到,回这你就给解释,你说爸爸这个图啥意思,爸爸说这不恶鱼吃人吗,你是错,这个表示梁志超此刻非常想学习,",
+      "rawTextHash": "bef3348f8b16bb0b3fb733614a2f649114a04cf2db52c2940c26d75efacc9077"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000487",
+      "sequence": 487,
+      "startMs": 1327440,
+      "endMs": 1357440,
+      "text": "但是没有图,我也不是会给一些非常,非常朴素的图,我会给内涵图,shell叫贝壳,metal叫金属,那是金属贝壳,贝壳金属,金属贝壳,左三个就是贝壳,右三个是解写的金属,啥叫金属贝壳,叫头盔,然后你跟我学完词汇的话,你下课马上去刷,老师我下课就把你这图片导入手机了,",
+      "rawTextHash": "5645f254422529327dbfd791e4d44450838b7457286914f1f697b71ff1e9c3a5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000488",
+      "sequence": 488,
+      "startMs": 1357440,
+      "endMs": 1387420,
+      "text": "我一看到头盔,真有意思,真好玩,兄弟们,这不头盔吗,这样子吗,兄弟们,再来一个头盔,哪个头盔呢,这个头盔可以,你看头盔,叫做hell shell metal,叫金属贝壳,叫做头盔,也不错,然后还有内涵图,但是你看下头盔叫做fake,有没有,保证有,fake,然后你看这些都有,你比如说,",
+      "rawTextHash": "91d6140d3a9ea6d389b05565cb2f10eb95f0915e5ef41dbbced674312674ef4f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000489",
+      "sequence": 489,
+      "startMs": 1387440,
+      "endMs": 1417440,
+      "text": "你这就是吗,人家真正的叫什么,叫旺仔牛奶,然后人家这边是真的,他们搞个大假牙,假的,所以这个是真旺仔,这假旺仔,这些核心词汇都有内涵图,都有非常好玩的图,你看这什么,这就是真正的LV是这样的,假的是fake,所以这些图片拿到,真的是让大家在学习之余,能够感受到很多很多好玩的东西,咱们你看,你看这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个是吗,这个fake吗,",
+      "rawTextHash": "ada1259e42fff5846027d31dd1fbee8b477685f0fd426db82a154e0f3b5b863f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000490",
+      "sequence": 490,
+      "startMs": 1417440,
+      "endMs": 1447440,
+      "text": "啥意思,假的,啥假的,啥假的,这不是,哎,这不是一个真正的,一个,不是一个真正的,这个墙上的,这个,这个,这个,这个,这个,这个插座,是这个人用来藏四方钱的,所以你要明白,我为,你要明白,我为什么给这个出配了个fake,不是说这个钱是假的,而是这个东西是假的,假冒的,在里边藏了点钱,所以当你能去反映,",
+      "rawTextHash": "f7b9a075deda5b55a33e51f6941195f104d1df9328ba70ff87a8282b1471b53c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000491",
+      "sequence": 491,
+      "startMs": 1447440,
+      "endMs": 1477440,
+      "text": "接下来,H没有含义,高太阳,rise升起,那就是太阳,不升起吗,rise吗,但既然读rise,为啥不能解换rise,升起来起呢,上去了,这样的吗,所以horizon,太阳高高升起的地方,叫horizon,叫做地平线,所以horizon什么东西,它叫做地平线,",
+      "rawTextHash": "05fb0adbb3c8a692f6cfb37e82dcc2fe123d1ac122f821f650553c7c43eee7ec"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000492",
+      "sequence": 492,
+      "startMs": 1477440,
+      "endMs": 1506180,
+      "text": "地平线,尬的,这不是保安吗,啊,尬的是保安呢,看是保安的,啊,每当我搜索尬的的时候,就是楼下那五个保安,啊,这么保安,就这帮保安,别管穿的帅点的,一般点的,啊,高档点,low档,low点的,反正只要是保安,就咱们楼下小区那个保安,它就叫做尬的,啊,保安,动词呢,",
+      "rawTextHash": "ce4d7459fc7a1a4807ebbbd5968953fdc895d3f0579ce0b6c8fa441f4a526584"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000493",
+      "sequence": 493,
+      "startMs": 1506180,
+      "endMs": 1536160,
+      "text": "动词保护呗,想他能干啥,他就保护,是这样的吗,可是老师,这个guarantee,这个左边不就是嘎吗,啊,不就是简写的嘎的吗,右边不就是,名词后缀吗,然后缀,右边没什么含义啊,你不能说这是蚂蚁啊,你不能这样说啊,你得说这右边,右边整个就是后缀,那么当他把保安加上后缀的时候,他想干什么呢,他就没有改变含义,",
+      "rawTextHash": "876b39beaf2e78ab59335786edfa7cc283a1a02221142627f3a11ecb783a9951"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000494",
+      "sequence": 494,
+      "startMs": 1536180,
+      "endMs": 1566180,
+      "text": "改变词性了,也没有啊,人家不就是宝吗,人家保护吗,他说我想干什么,他说,他说我想把一个非常简单的保护,变成抽象的保护,所以貌似我加了五个毫不相关的字母,我加了五个不疼不痒的东西,但其实我就做了一个事,我把单词格局拉长了,这样的话,你原来短单词,还是负责肤浅的安保,",
+      "rawTextHash": "d03e59769541b79c2227bffd70b1c184584e157c63a4d1315b901b038dce4ec7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000495",
+      "sequence": 495,
+      "startMs": 1566180,
+      "endMs": 1596180,
+      "text": "把单词拉长的时候,突然他就叫什么,没有一个保安了,全都变成什么了,全都变成保证产品质量了,就变成抽象的担保,以后,当我是一个保安,去保护你的安全的时候,还是非常简单的尬的,但一旦guarantee,单词拉长了,无非就是原单词的隐身意,",
+      "rawTextHash": "7de3c49b55c0791d2a3b5db2745a83e74c1d0b9a1b283c6d733425fa3e4fc839"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000496",
+      "sequence": 496,
+      "startMs": 1596180,
+      "endMs": 1626160,
+      "text": "来的真的是,你看,安全警卫,安全保卫,动词来,动词来,动词也无非就是保护保护保护,防御姿势,动词就是保护保护,动词保卫守卫,狗守护主人的行李,那么当狗守护主人行李的时候,是个多么简单的动作呀,就是个肉眼可见的动作,但一旦当我把它削微削微加强,我加的没改变任何含义,只是改变整个",
+      "rawTextHash": "3d55f5347243d12a0b2db65078ac3e25eb4c01c7e32c75a045fecea0dc24f9c0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000497",
+      "sequence": 497,
+      "startMs": 1626180,
+      "endMs": 1656160,
+      "text": "单词格局,突然这个单词就深刻了,你看另一句,叫保证,保证行为端正,这是名词,咱们看动词,咱们看看动词,动词什么东西,动词叫保证担保,现在我们不能保证我们的所有航班军部固点,这张票可以保证入场,明白了吧,因此什么是单词呢,单词就是短的肤浅长的抽象,他们之间无非就是,对吧,他们之间无非就是一种,一种,呃,那个加长变抽象的感觉,",
+      "rawTextHash": "227928909fc21f5bff9ae2b57a231cb6304b31e65f50962ca6e5eecaa78d189c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000498",
+      "sequence": 498,
+      "startMs": 1656180,
+      "endMs": 1686180,
+      "text": "这就是我们用短单词,领会长单词,好,本行结束,这些我就删掉,啊,马上来到下一行,啊,下一行我想加减法学的差不多了吧,啊,怎么该学什么了呀,该学加法二维了,呃,还有个减法,减法,减法,减法叫Broadcast,叫广播呀,啊,老师广播我认识,不止我熟啊,那广播,这Broad是广的话,",
+      "rawTextHash": "1e1144bb52992f561c3b92c53f8de8a1aa92afc057d48d330bab7b263cab1a97"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000499",
+      "sequence": 499,
+      "startMs": 1686180,
+      "endMs": 1701560,
+      "text": "啊,老师看似就是播呗,啊,不是播,他的意思不是播那么简单,他叫做投掷,啊,我也希望他是播,但他是投掷,也可以理解,广播是什么呢,我们总讲新闻投放,新闻投放,",
+      "rawTextHash": "5c691a6f1d9d4e2e866715a7a4544323a564b606863585f614438882159ad05e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000500",
+      "sequence": 500,
+      "startMs": 1701560,
+      "endMs": 1717560,
+      "text": "其实广播就是把新闻消息啊,往更广的地方扔出去,啊,抛出去,所以Broadcast,原来本意是把新闻往更广的地方扔出去,抛出去,所以反推cast,叫投掷,啊,",
+      "rawTextHash": "1e1985d023455e173e8393c1d5bf31e322d8ed4101593f2613016f356d5d4f39"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000501",
+      "sequence": 501,
+      "startMs": 1717560,
+      "endMs": 1747280,
+      "text": "还有什么意思,这个cast除了投掷的含义之外,还有叫做叫做铸造的意思,为什么投掷是铸造呢,为什么制造是投掷呢,啊,因为铸造跟投掷是有的关系的,在工业生产当中,人们是用什么方式来铸造呢,铸造就是把那个热的,很热的那种钢,钢水啊,把它往那个,把那个往那个,",
+      "rawTextHash": "e802524846fd28de1bae20ed23d964d844f21be421c1ae3d4aeccc3f3009784e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000502",
+      "sequence": 502,
+      "startMs": 1747280,
+      "endMs": 1756040,
+      "text": "模具中去扔,那么扔进去之后的话,扔完什么就是什么,啊,所以铸造的工艺跟抛是有关系的,",
+      "rawTextHash": "72a646a1e52f04320a8f5c4ea36d390cf71f8cf3291c98eebd68ea965046f91b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000503",
+      "sequence": 503,
+      "startMs": 1756620,
+      "endMs": 1770960,
+      "text": "它就是把那个钢水融化之后啊,把它直接就抛到那个,那个模具当中,然后等钢水凝固之后的话,你就这个形状,所以你可能没有这个生活经验,也不知道,那你硬背吧,啊,反正他有铸造的意思,",
+      "rawTextHash": "d69533b35f36790d0004f2dd340157e31ce76c9864fdc32ead8b38cb3cb8731d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000504",
+      "sequence": 504,
+      "startMs": 1771460,
+      "endMs": 1776040,
+      "text": "他一铸造的话呢,castle就是个铸造出来的东西,叫做藏宝,啊,",
+      "rawTextHash": "1889f4c4849d7986c7f37a9553f79b56732e0c35e37aeac005316fa9afa98036"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000505",
+      "sequence": 505,
+      "startMs": 1777280,
+      "endMs": 1783220,
+      "text": "如果把城堡前面再加上山的沙子,那就是山,castle就是沙宝啊,",
+      "rawTextHash": "cf35e7fbc3c79147d28fd5d37187e58a378a63e6278ea8209e88dcf32f613e70"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000506",
+      "sequence": 506,
+      "startMs": 1784360,
+      "endMs": 1788520,
+      "text": "沙宝就是沙宝,不是沙宝亮的意思啊,也不是沙雕的意思,",
+      "rawTextHash": "a122f74c19d56ece5838a656f968d0a1c798a3093aca35e17a7a5510b0b063f5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000507",
+      "sequence": 507,
+      "startMs": 1789460,
+      "endMs": 1803980,
+      "text": "来,今天当我去搜索cast的时候,我看到的更多是啥呢,那是这啥,是什么啊,这是一帮演员,对,那些铸造的,接受铸造的人,",
+      "rawTextHash": "61373be6862ac96ffc8485dc8f2e666ed34489c388b9bda47499002cbb22101c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000508",
+      "sequence": 508,
+      "startMs": 1803980,
+      "endMs": 1812320,
+      "text": "还有一个名词,说我们要打造国际明星,要把他们塑造成英雄,所以还有全体演员的意思,",
+      "rawTextHash": "c88d8b82d4783bb27ae1cf7bf817108da27479bf84a918247234a19c72621550"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000509",
+      "sequence": 509,
+      "startMs": 1812820,
+      "endMs": 1823060,
+      "text": "全体演员就是那些接受铸造,接受造型的人,啊,叫cast,全体演员,所以这个事情更多呢,是cast,全体演员,",
+      "rawTextHash": "1bd1331242784fa19d917ebe667ca21f8632e39d37cb089c4a1bddc0b267940f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000510",
+      "sequence": 510,
+      "startMs": 1823060,
+      "endMs": 1837560,
+      "text": "也就是说,呃,人们愿意把它翻成cast,啊,你看这就是cast,这就是铸造,怎么铸造的,是不是把这个钢水,把它扔到这里边去,把它抛到这里边去,",
+      "rawTextHash": "0a3fc5bcd9033021a6063d29810cd3a67a3f2830340d09d1b7d80d3372d8d1ba"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000511",
+      "sequence": 511,
+      "startMs": 1838000,
+      "endMs": 1847400,
+      "text": "抛完之后的话,是什么就是什么,所以他指的是非常强调,在工业生产上,在炼钢炼铁上,就这个往里边倒这个过程,",
+      "rawTextHash": "6e46b8575427cc3922ce35146bfa77c50926bf42c3d78eb6d874fe357b7a1641"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000512",
+      "sequence": 512,
+      "startMs": 1847400,
+      "endMs": 1861060,
+      "text": "就叫做cast,啊,而倒完之后的话,也就铸造了,而被铸造的那帮人,叫全体演员,中文,也把它翻译成形音,叫做卡斯,啊,卡斯是什么,就是一个电影的演员之中,啊,",
+      "rawTextHash": "4f01453051cf2129ba4239f2ef043b81198b3d9a91c6fcc9a1eefa34c9f19dd3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000513",
+      "sequence": 513,
+      "startMs": 1863240,
+      "endMs": 1875340,
+      "text": "只要我把它后面加上一个le,castle,他就立刻变成了城堡,啊,当我在城堡前面加个stand,他就变成了沙堡,啊,",
+      "rawTextHash": "b141772c14a08b77806d1fe4e958a25a1cc11543e2c0f3d7adc3df7f6af72afa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000514",
+      "sequence": 514,
+      "startMs": 1877400,
+      "endMs": 1885120,
+      "text": "hound,你生词,不就是模仿猎犬,在奔跑完之后,发出的,hut, hut, hut, hut, hut, hut, hut, hut, hut.",
+      "rawTextHash": "75a11a49805f75088a85242f1d7781ac936634caeca6c8b1473eb4f950caed4e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000515",
+      "sequence": 515,
+      "startMs": 1885120,
+      "endMs": 1894980,
+      "text": "的声音吗,我在公安课室讲过的,啊,我说你看看猎犬,那个样子,啊,保证的累的不行不行的,然后就hut, hut, hut, hut, hut, hut, hut.",
+      "rawTextHash": "c154fb0da8a88735d932d9bfce13a6537775156eb983dfe81ac4111591eba229"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000516",
+      "sequence": 516,
+      "startMs": 1894980,
+      "endMs": 1897240,
+      "text": "所以尤其强调这种猎犬",
+      "rawTextHash": "307ecb350ab777804978150256cd2bffe733137dd387d57f6d3f4c49f6c8158e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000517",
+      "sequence": 517,
+      "startMs": 1897240,
+      "endMs": 1900440,
+      "text": "那么这个hardhard有了之后的话",
+      "rawTextHash": "9b99863e1ed83a7a72fb577f37fde89e1101f0871e0f032c79b96d1b5ecb76d0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000518",
+      "sequence": 518,
+      "startMs": 1900440,
+      "endMs": 1903180,
+      "text": "hunt不就是猎犬的简写吗",
+      "rawTextHash": "c52eb91f4740808fae39067ef9dc8ab07462339218a64b780f1feff3c94e5e45"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000519",
+      "sequence": 519,
+      "startMs": 1903180,
+      "endMs": 1903940,
+      "text": "打猎",
+      "rawTextHash": "42574e888f624d193535bf4647bd109ea2bc21a51fa23ddd7fba61c3aff7a708"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000520",
+      "sequence": 520,
+      "startMs": 1903940,
+      "endMs": 1907240,
+      "text": "如果再把打猎加上人物后缀",
+      "rawTextHash": "f89a569a1a7ab67d87833d3deaddb36640bbe75e728432221288149b7e325380"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000521",
+      "sequence": 521,
+      "startMs": 1907240,
+      "endMs": 1909660,
+      "text": "那不就是猎人吗",
+      "rawTextHash": "fda363b9d0b5f2858dc92f7f7484c99d1ce2bf8f653272d67a18f19b535cc1cb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000522",
+      "sequence": 522,
+      "startMs": 1909660,
+      "endMs": 1912280,
+      "text": "我今天想记manu",
+      "rawTextHash": "4028922b66321757150c575a9dfd89f9b40a1ea6f52b1fdab2fb43543eeff6aa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000523",
+      "sequence": 523,
+      "startMs": 1912280,
+      "endMs": 1914160,
+      "text": "我非常想记manu",
+      "rawTextHash": "8b13196b6eddfd9c587965a5f9df3b43b3af3e1ca185a567a434df0e54e319f3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000524",
+      "sequence": 524,
+      "startMs": 1914160,
+      "endMs": 1915620,
+      "text": "叫做手的",
+      "rawTextHash": "ff22608b91b5518e420b3b75e33a76385807ba4ac88a35316f0af82ed21857c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000525",
+      "sequence": 525,
+      "startMs": 1915620,
+      "endMs": 1916720,
+      "text": "不好记",
+      "rawTextHash": "a988471a229275b17e902cb6e2ba39858010f603e1286798d305544487f4f25e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000526",
+      "sequence": 526,
+      "startMs": 1916720,
+      "endMs": 1919540,
+      "text": "我就记名词叫手册",
+      "rawTextHash": "b799f6e7ea2949b66adb36780260481e62b742bfe8de7973fbaadd0f4ca426a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000527",
+      "sequence": 527,
+      "startMs": 1919540,
+      "endMs": 1921000,
+      "text": "也不好记",
+      "rawTextHash": "4809d8b45693a0d51b28ec22a47f55dec8bd6c2dfc4174efb7b8f0be9634a7a8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000528",
+      "sequence": 528,
+      "startMs": 1921000,
+      "endMs": 1922960,
+      "text": "对这个狗不讨看",
+      "rawTextHash": "3b557609261e481de0e9cd7ec4cb5fc52e94315a83fec82e2921050c15fb477e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000529",
+      "sequence": 529,
+      "startMs": 1922960,
+      "endMs": 1925460,
+      "text": "这狗确实不讨看",
+      "rawTextHash": "ba2a2fa52b778fd923bc4dc58858edc5f7188c8b9f6505bffa9f61872f1bc214"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000530",
+      "sequence": 530,
+      "startMs": 1925460,
+      "endMs": 1929120,
+      "text": "原因是因为耳朵太长了",
+      "rawTextHash": "9ca1630ca15b0efe16431c4fa595ca4861d6f914d6de42ef5e01969b82a7ff83"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000531",
+      "sequence": 531,
+      "startMs": 1929120,
+      "endMs": 1930040,
+      "text": "失去平衡了点",
+      "rawTextHash": "1c1c6ebcf3899e831d0a7a5a35a391e070bef2f52744a8cd23f756528c0468bc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000532",
+      "sequence": 532,
+      "startMs": 1930040,
+      "endMs": 1933720,
+      "text": "狗身体离地面很近",
+      "rawTextHash": "73cf6393487be467ba3853a6e2aa7e315dc114599b83eb3b8d85a44a92587303"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000533",
+      "sequence": 533,
+      "startMs": 1933720,
+      "endMs": 1936780,
+      "text": "所以气味一般都在地面上",
+      "rawTextHash": "d52d41278478406ed3734611be1de84a5b1de3a0ddd0f5a0bb9c9ac13085e67e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000534",
+      "sequence": 534,
+      "startMs": 1936780,
+      "endMs": 1937980,
+      "text": "所以他们嗅觉很灵敏",
+      "rawTextHash": "e4eba225c3babcae292485b80bae02d27db71a2760e506cb4a7f9d53cf58de4c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000535",
+      "sequence": 535,
+      "startMs": 1937980,
+      "endMs": 1940060,
+      "text": "这是为什么小孩嗅觉灵敏",
+      "rawTextHash": "811a59037ae917f44472dd25214f215bf0efaaf1244758207f53fa30775e4897"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000536",
+      "sequence": 536,
+      "startMs": 1940060,
+      "endMs": 1942200,
+      "text": "为什么姚明嗅觉不灵敏",
+      "rawTextHash": "c0ac35735f1f81d52c070aa00339be27195a4499efce83bc2fe1a2016678d089"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000537",
+      "sequence": 537,
+      "startMs": 1942200,
+      "endMs": 1944120,
+      "text": "姚明离地面太高了",
+      "rawTextHash": "58d11e2cd4383c917ee3b78fdd996c6b01a1066ea5d49e9056e1f59c45a24b4a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000538",
+      "sequence": 538,
+      "startMs": 1944120,
+      "endMs": 1945140,
+      "text": "他根本闻不着味道",
+      "rawTextHash": "98363cbb74d19d2c29fde133dce365d6dae9f32ceeac23141ac46a1a95128142"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000539",
+      "sequence": 539,
+      "startMs": 1945140,
+      "endMs": 1946800,
+      "text": "味道不在空中",
+      "rawTextHash": "598133c6baaf5b9e4a3f6fa6bb5de9fd0c859b1864a2617aee3ad96fbb1fec7c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000540",
+      "sequence": 540,
+      "startMs": 1946800,
+      "endMs": 1949160,
+      "text": "空中空气灵活都吹走了",
+      "rawTextHash": "cafc855b7c298a040d891bd35080a085e031b22c7de33b218b52a30a1479bac1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000541",
+      "sequence": 541,
+      "startMs": 1949160,
+      "endMs": 1951500,
+      "text": "味道喜欢附着在地表",
+      "rawTextHash": "5052bbd064ac72c39183b191f03e637f683e8a54da4d5b57f21034b9c106bdbe"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000542",
+      "sequence": 542,
+      "startMs": 1951500,
+      "endMs": 1952780,
+      "text": "所以说呢",
+      "rawTextHash": "c2d2f3a9abfca869384cdd721c928fa78d67b8862a5083a76c26ace00136e049"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000543",
+      "sequence": 543,
+      "startMs": 1952780,
+      "endMs": 1954800,
+      "text": "狗嗅觉灵敏",
+      "rawTextHash": "4e859209ee8995f4d7b60846c5e94a32ab626c35287226b73195887f03f293ca"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000544",
+      "sequence": 544,
+      "startMs": 1954800,
+      "endMs": 1957980,
+      "text": "有一半的原因是因为那味道就在地表",
+      "rawTextHash": "a510fa0b043de098f6fe16e3cf42608e36ade6b8d2a2a1464708738e5bcdc391"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000545",
+      "sequence": 545,
+      "startMs": 1957980,
+      "endMs": 1959020,
+      "text": "在地表浮动",
+      "rawTextHash": "53b3540e0ecbd31281947880e7437b20cdeaabdedf22dce86baf1040c676b341"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000546",
+      "sequence": 546,
+      "startMs": 1959020,
+      "endMs": 1961200,
+      "text": "今天",
+      "rawTextHash": "d5f5a7a010731feb6cc67fcbde1bc7133c86019f6d88186e5075344f59de5ff5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000547",
+      "sequence": 547,
+      "startMs": 1961200,
+      "endMs": 1963140,
+      "text": "当我能感受",
+      "rawTextHash": "13d16c4ddff4a9b4a093758f8cd764c75495a0601a67afa2cc2c21a74c6dbe9f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000548",
+      "sequence": 548,
+      "startMs": 1963140,
+      "endMs": 1964180,
+      "text": "老师我想记手册",
+      "rawTextHash": "165bb11d9694dc90ff0848dd89d945289aa776ab785d2da243a7ebff78bbd9fa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000549",
+      "sequence": 549,
+      "startMs": 1964180,
+      "endMs": 1964860,
+      "text": "不好记",
+      "rawTextHash": "a988471a229275b17e902cb6e2ba39858010f603e1286798d305544487f4f25e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000550",
+      "sequence": 550,
+      "startMs": 1964860,
+      "endMs": 1967160,
+      "text": "我要记住手册的话",
+      "rawTextHash": "3a5a4c1e1c8c4137bd14d67f177745f501b0b95d1997e5cf3f49f85bf2d01b19"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000551",
+      "sequence": 551,
+      "startMs": 1967160,
+      "endMs": 1968860,
+      "text": "我就不差手的了",
+      "rawTextHash": "7905699714d8de83c714cc6d58ad2f06a0979e241c35b211cffaa7ccb9d80ae7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000552",
+      "sequence": 552,
+      "startMs": 1968860,
+      "endMs": 1970100,
+      "text": "可是手册他怎么记",
+      "rawTextHash": "20c2e722e99d5033baa26a355dacbd0efcf39d714dc49c4d37c9a7f90ec84922"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000553",
+      "sequence": 553,
+      "startMs": 1970100,
+      "endMs": 1970760,
+      "text": "好记",
+      "rawTextHash": "806ef3bcd09ad4e1ca13a3cf1fc26f0ebacf2f791f74d53a337a7d8fbbfd83c3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000554",
+      "sequence": 554,
+      "startMs": 1970760,
+      "endMs": 1973260,
+      "text": "在所有手册当中",
+      "rawTextHash": "74f4401c779a88e9acc5a88373ca82fbf9b754a70511b28cdd4e16f67fd6c969"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000555",
+      "sequence": 555,
+      "startMs": 1973260,
+      "endMs": 1974240,
+      "text": "有一个叫manu",
+      "rawTextHash": "60dc2bef90c1a12d2d00d96374b91ef3e51ce215bf96ee9f93a3d04a5c1bbd34"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000556",
+      "sequence": 556,
+      "startMs": 1974240,
+      "endMs": 1975440,
+      "text": "manu啥意思",
+      "rawTextHash": "73e7e769cb48295d0e9b659cdbbe519ed521bac910988320c9e56115f3c0046a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000557",
+      "sequence": 557,
+      "startMs": 1975440,
+      "endMs": 1975960,
+      "text": "菜单",
+      "rawTextHash": "4ce4cafdd0561280fd6d83b005d6a771fb3aaf073e929abaffc0888dcf02f754"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000558",
+      "sequence": 558,
+      "startMs": 1975960,
+      "endMs": 1977120,
+      "text": "老师这个我熟",
+      "rawTextHash": "d9dfab8bb169e4f9ef3b21bc2d554c7a5ece48f27c726486dd07f45435a264f2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000559",
+      "sequence": 559,
+      "startMs": 1977120,
+      "endMs": 1978160,
+      "text": "菜单我熟",
+      "rawTextHash": "f67bd6402d7870fa028388c20efc8280e11e8593449d8efbbf635c0b4bc2da41"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000560",
+      "sequence": 560,
+      "startMs": 1978160,
+      "endMs": 1981120,
+      "text": "菜单我天天上饭店",
+      "rawTextHash": "d5044a478fbcc5bb0c0f12c63129975b40c7934a35db71c8dc447473c0eeadb0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000561",
+      "sequence": 561,
+      "startMs": 1981120,
+      "endMs": 1982460,
+      "text": "我还不知道菜单manu吗",
+      "rawTextHash": "750df2fcecec949fb6fb177e8bc51e45a7bff0f2eafbfe3749828815496076a9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000562",
+      "sequence": 562,
+      "startMs": 1982460,
+      "endMs": 1983140,
+      "text": "这样子吧",
+      "rawTextHash": "1308b827420bcfc6c64978e2c20cbdda3290930c4113ac81f2e70655af60c5cb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000563",
+      "sequence": 563,
+      "startMs": 1983140,
+      "endMs": 1985320,
+      "text": "所以你知道菜单是什么吗",
+      "rawTextHash": "9664ea78a8db835f53d29ad4e68b783f4065e3f5e064bf47b768313b04dc983e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000564",
+      "sequence": 564,
+      "startMs": 1985320,
+      "endMs": 1987940,
+      "text": "这四个字母怎么可能是人呢",
+      "rawTextHash": "d2d0d364ce7d005c48fef33416620ff912085cd5114db7dbe85eeee51bfd3149"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000565",
+      "sequence": 565,
+      "startMs": 1987940,
+      "endMs": 1989240,
+      "text": "怎么可能是人",
+      "rawTextHash": "7e4d8289027204df3d7d9bda0e6e8321e82774d41ef4d5074244fbbb9f225d4b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000566",
+      "sequence": 566,
+      "startMs": 1989240,
+      "endMs": 1990400,
+      "text": "优菜单呢",
+      "rawTextHash": "a4a8bd075db4e73f33f1cfb1b03bfa6bfd8397fa674c4b7b293006b51a99553b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000567",
+      "sequence": 567,
+      "startMs": 1990400,
+      "endMs": 1990920,
+      "text": "不对吗",
+      "rawTextHash": "aff716957d476f93e00330fafce5227e1dd0683226d6e40e6518ff063e60e2c9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000568",
+      "sequence": 568,
+      "startMs": 1990920,
+      "endMs": 1993360,
+      "text": "所以manu必然是manu的解写",
+      "rawTextHash": "50be30d50ba18b9da702a4ec14b10f014b784f9125c14138a03a7f873c6f9214"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000569",
+      "sequence": 569,
+      "startMs": 1993360,
+      "endMs": 1995480,
+      "text": "手册我不认识",
+      "rawTextHash": "e47bae0f025fecf1e1218f093e35db341e1dff37c35b2053fd2abee0d8fba369"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000570",
+      "sequence": 570,
+      "startMs": 1995480,
+      "endMs": 1996740,
+      "text": "菜单我认识",
+      "rawTextHash": "d5672c0a7e27ee2f894881018351df6daf352dd62bb7a97d03bdcb029b76568f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000571",
+      "sequence": 571,
+      "startMs": 1996740,
+      "endMs": 1998860,
+      "text": "菜单是不是一种手册",
+      "rawTextHash": "68ed876dc3c6c5d8e84ce7f0382840aba0a259d9b38ff33a2c73295f59e17e02"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000572",
+      "sequence": 572,
+      "startMs": 1998860,
+      "endMs": 2002000,
+      "text": "所以用小菜单来掌握大手册",
+      "rawTextHash": "fab235b37cce4ea590627305cb878c279bf65c87e4f06e6c318a5573785da11d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000573",
+      "sequence": 573,
+      "startMs": 2002000,
+      "endMs": 2003640,
+      "text": "那么手册在即手的",
+      "rawTextHash": "fdc531b6d71f9407ed7d1f33a56727a8648ac038fda99ea25fce093e80bac2d5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000574",
+      "sequence": 574,
+      "startMs": 2003640,
+      "endMs": 2005000,
+      "text": "就好像说",
+      "rawTextHash": "dc2e652be300b77d2834a50338ecc21b28bf3baeeb6f42fe42af18d97a922242"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000575",
+      "sequence": 575,
+      "startMs": 2005000,
+      "endMs": 2007860,
+      "text": "我不认识这个单词",
+      "rawTextHash": "3b5ea3272f0741c50538411d49d3ec9b761a5816a5c57726f8a36b48d58c583a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000576",
+      "sequence": 576,
+      "startMs": 2007860,
+      "endMs": 2009760,
+      "text": "叫做guarantee",
+      "rawTextHash": "c05ed5ebdf60c5433470862e83e1d847ca890b7d4ad4a841e468702c23b5d9e4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000577",
+      "sequence": 577,
+      "startMs": 2009760,
+      "endMs": 2012440,
+      "text": "但我还不认识里边这个god吗",
+      "rawTextHash": "a6c7b5936a76390ba4105fa39e2a854e902a8210adfe0a6e3ad2323ce15f1ee1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000578",
+      "sequence": 578,
+      "startMs": 2012440,
+      "endMs": 2013240,
+      "text": "这不保安吗",
+      "rawTextHash": "4137ee7cbb14eef1838a770a74c10b3626651e7b77100faca59833510a43629f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000579",
+      "sequence": 579,
+      "startMs": 2013240,
+      "endMs": 2013680,
+      "text": "这样的吗",
+      "rawTextHash": "9dc13eabcb2882009c38c9d9efb08f9968820d260e92b72277365ae121a8d766"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000580",
+      "sequence": 580,
+      "startMs": 2013680,
+      "endMs": 2015340,
+      "text": "你把保安动死啥",
+      "rawTextHash": "faaaa2a10692f363d238c0fbbf153b1f9a7c16c1bcbd414fd60a4ced2e00d5c1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000581",
+      "sequence": 581,
+      "startMs": 2015340,
+      "endMs": 2016060,
+      "text": "保护了",
+      "rawTextHash": "c05a0e422880ab14a593ca94b4e6121058f473ee2d0e48ebeacfcff033e69480"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000582",
+      "sequence": 582,
+      "startMs": 2016060,
+      "endMs": 2020340,
+      "text": "说狗守护主人的行李就是god了",
+      "rawTextHash": "e0b779ab24d1cf94539be6d7aa85265f6b0ccfb4546b0849728e40466697edda"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000583",
+      "sequence": 583,
+      "startMs": 2020340,
+      "endMs": 2021980,
+      "text": "那我这个guarantee",
+      "rawTextHash": "0f6f143cc3f6a4b954b91be6ee8ccf153562a089c9f4553caa0cd5f864818d7f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000584",
+      "sequence": 584,
+      "startMs": 2021980,
+      "endMs": 2022600,
+      "text": "我这么长",
+      "rawTextHash": "6b630a172b9d609d4b9c904c611e20f4355def2d3ac01b46bfc7ed5d6e861dc1"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000585",
+      "sequence": 585,
+      "startMs": 2022600,
+      "endMs": 2023840,
+      "text": "我能还能是保护吗",
+      "rawTextHash": "4a5fa8b23a3667aafd085331c4522f4f92dab36c6892abaf2e3b5ba8f596fce7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000586",
+      "sequence": 586,
+      "startMs": 2023840,
+      "endMs": 2025280,
+      "text": "我是抽象的担保",
+      "rawTextHash": "af0f09340661ccfa7fcc84082445b703becfa6358b07a56d78f8c39b6dfc2ce4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000587",
+      "sequence": 587,
+      "startMs": 2025280,
+      "endMs": 2025760,
+      "text": "对不对",
+      "rawTextHash": "4c61ba4b12d2c5a1ed6f7cf1cb0b8de5cef31565109f996fbe2afcafbc83c215"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000588",
+      "sequence": 588,
+      "startMs": 2025760,
+      "endMs": 2029340,
+      "text": "我没法担保今天晚上的晚会正常进行",
+      "rawTextHash": "f1544ebeabcd875c7c8b42c13930ca1bb0ac665c5b7df08e43cdf5114dbdb713"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000589",
+      "sequence": 589,
+      "startMs": 2029340,
+      "endMs": 2031560,
+      "text": "we couldn't guarantee",
+      "rawTextHash": "b29c8acba053fef42a6bbf73afd4ef43ba0111eb20987e52189d0a2b781ff377"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000590",
+      "sequence": 590,
+      "startMs": 2031560,
+      "endMs": 2036420,
+      "text": "that的晚会将上演按时进行",
+      "rawTextHash": "c02fa25680cc247e827d0a6c4db8cc401496f70ac7c4051a3c289b72437e6e8b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000591",
+      "sequence": 591,
+      "startMs": 2036420,
+      "endMs": 2036900,
+      "text": "这样的吗",
+      "rawTextHash": "9dc13eabcb2882009c38c9d9efb08f9968820d260e92b72277365ae121a8d766"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000592",
+      "sequence": 592,
+      "startMs": 2036900,
+      "endMs": 2038860,
+      "text": "所以什么叫做god",
+      "rawTextHash": "aa8acc812b31c2d9d99026a23f1fbf72ae9cb9e6624cfc397f140cf765159fd7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000593",
+      "sequence": 593,
+      "startMs": 2038860,
+      "endMs": 2040140,
+      "text": "什么叫guarantee",
+      "rawTextHash": "8169b2e31b1d7b980bf4b52e32c42139a6c039a41e1e0c08db328711d5fbc040"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000594",
+      "sequence": 594,
+      "startMs": 2040140,
+      "endMs": 2040920,
+      "text": "这意思吗",
+      "rawTextHash": "1e7f157b4f7bfdcf8c53bed310507d202e39ee0adfc34a0208fea0d8fd37c8b3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000595",
+      "sequence": 595,
+      "startMs": 2040920,
+      "endMs": 2042400,
+      "text": "要学会对比",
+      "rawTextHash": "709a17ce21f7af19ad5184a2ab30441836dee5576deae696d265a97bc8229226"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000596",
+      "sequence": 596,
+      "startMs": 2042400,
+      "endMs": 2045060,
+      "text": "每当我拿不下大手册的时候",
+      "rawTextHash": "ac0d9dba60478ca1adad1be7d88420932f5b64b92a68dafe3dc7f87607d6aea8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000597",
+      "sequence": 597,
+      "startMs": 2045060,
+      "endMs": 2046880,
+      "text": "我还拿不下小菜单吗",
+      "rawTextHash": "9c5878c32f9e2dc5dcebf685ab492567aebfc171c20e2f837cbdad84ed625caf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000598",
+      "sequence": 598,
+      "startMs": 2046880,
+      "endMs": 2049200,
+      "text": "小菜单manu",
+      "rawTextHash": "82a971ea7a1f407c2719397f6ee21befe55c4732d3e3e53806dd5907107fd20d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000599",
+      "sequence": 599,
+      "startMs": 2049200,
+      "endMs": 2050500,
+      "text": "大手册manu",
+      "rawTextHash": "e5321a7ad404177afbfd674b06b397b2b22bc4ce7fdebe2a9f31c017f9c9b8fd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000600",
+      "sequence": 600,
+      "startMs": 2050500,
+      "endMs": 2050880,
+      "text": "这意思",
+      "rawTextHash": "a4312e845ad1c99636f353ad43b130c23056c172477169c38252f5b66376a6a0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000601",
+      "sequence": 601,
+      "startMs": 2050880,
+      "endMs": 2053920,
+      "text": "一旦当我获得了manu",
+      "rawTextHash": "f844596f5b1d2a3b7e7ecb72a4dcb0f0e8f4b2ff32247427dfbc0224269f42c2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000602",
+      "sequence": 602,
+      "startMs": 2053920,
+      "endMs": 2055340,
+      "text": "叫手册和手的的时候",
+      "rawTextHash": "9cd3187b6db304419aa2caca70964e36576853658370cfe76ecbd58edae66de7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000603",
+      "sequence": 603,
+      "startMs": 2055340,
+      "endMs": 2057380,
+      "text": "那么以后这三个字母",
+      "rawTextHash": "6fd4291ef9db2a454ef4e882ff587aae4d539fa0bea0e8b384b88ac301814488"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000604",
+      "sequence": 604,
+      "startMs": 2057380,
+      "endMs": 2059180,
+      "text": "除了我们知道的人",
+      "rawTextHash": "4722e3a89499ce26b399631d330122d1cd5856b1421562a3fe84f52d95284536"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000605",
+      "sequence": 605,
+      "startMs": 2059180,
+      "endMs": 2061280,
+      "text": "他就多一个含义",
+      "rawTextHash": "3852c8d6546fd15f70910ad8983dcabec797b95a879c9b7a702886993c8b3822"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000606",
+      "sequence": 606,
+      "startMs": 2061280,
+      "endMs": 2062920,
+      "text": "就跟手有关系",
+      "rawTextHash": "958a89ddb2a9e2882c691b368c1d30953dfc67053b2088b5d340976a05b76bd2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000607",
+      "sequence": 607,
+      "startMs": 2062920,
+      "endMs": 2063600,
+      "text": "那么manu",
+      "rawTextHash": "09578d6c64ba599f965a6a7422848e4ee7bb640d62ad0a760877f29efad98f07"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000608",
+      "sequence": 608,
+      "startMs": 2063600,
+      "endMs": 2066340,
+      "text": "难道不就是跟手相关的概念吗",
+      "rawTextHash": "3a5e3505be21bf1a71c6a0726855a5243e64ae9336f2522162f26b2c20a9bbcf"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000609",
+      "sequence": 609,
+      "startMs": 2066340,
+      "endMs": 2067300,
+      "text": "他叫名词",
+      "rawTextHash": "cda32031d46dfbcc308013cd9d58fa72a138f9ae3f0e1db59983b1e510070c5a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000610",
+      "sequence": 610,
+      "startMs": 2067300,
+      "endMs": 2067860,
+      "text": "名词什么",
+      "rawTextHash": "040f77923cd6361c2c453237ac33ab6bcb21ed9582c709211ee04fd06b3d084b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000611",
+      "sequence": 611,
+      "startMs": 2067860,
+      "endMs": 2069080,
+      "text": "他叫处事方式",
+      "rawTextHash": "ea27faf2c03fdee0d8bfe728cdb9f6fa9c8db942877cfa33837631a0a99b55dc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000612",
+      "sequence": 612,
+      "startMs": 2069080,
+      "endMs": 2071500,
+      "text": "因为你的处事方式",
+      "rawTextHash": "4c4486025e372a79e006c05d2a1db6eebf0687ac793cb3b133e89a650183c6c9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000613",
+      "sequence": 613,
+      "startMs": 2071500,
+      "endMs": 2073340,
+      "text": "就是你做事的方式",
+      "rawTextHash": "d550859e9b5f4304ebc4a906627a19e4713c452248ebf5555dcd5e8dad7a663b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000614",
+      "sequence": 614,
+      "startMs": 2073340,
+      "endMs": 2075740,
+      "text": "就是你用你的手是怎么做事的",
+      "rawTextHash": "d9f711b7f67545ddce42f89eb507dc2ae34955f3f008106d36af38f8623695ee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000615",
+      "sequence": 615,
+      "startMs": 2075740,
+      "endMs": 2077480,
+      "text": "你给人打电话",
+      "rawTextHash": "ed9376e3ddc141d2a8e1c319fb40d38b499fe4f51e8c8d8609504971c111b10d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000616",
+      "sequence": 616,
+      "startMs": 2077480,
+      "endMs": 2079540,
+      "text": "是喜欢大吼大叫",
+      "rawTextHash": "33831aa789d8ff3884461973cf75e13249fed640c406190fb59a8b850652992a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000617",
+      "sequence": 617,
+      "startMs": 2079540,
+      "endMs": 2081740,
+      "text": "还是喜欢细声细语",
+      "rawTextHash": "d192f6c53d2ff8d497ae40ef422bd4b1ac41bc62021e3cb1745fe51b75579cc2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000618",
+      "sequence": 618,
+      "startMs": 2081740,
+      "endMs": 2083900,
+      "text": "你喜欢自己按掉",
+      "rawTextHash": "7d9621ee2ccd8414e2bd476558c27a1300f472b5f88b8d1c4074d77c216d9465"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000619",
+      "sequence": 619,
+      "startMs": 2083900,
+      "endMs": 2085820,
+      "text": "还是别人对方把电话按了之后",
+      "rawTextHash": "1fa26ba277667b986fc236454f2c32e9b5dde2b4a588237d5aef18e22da7792d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000620",
+      "sequence": 620,
+      "startMs": 2085820,
+      "endMs": 2086380,
+      "text": "你再按",
+      "rawTextHash": "3ab239572f5c5335fe2fcbe4b00e6479c47763f0af700f37c4ec3dbd2dee795f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000621",
+      "sequence": 621,
+      "startMs": 2086380,
+      "endMs": 2089320,
+      "text": "你的整个做事方式都是你用手发出来的",
+      "rawTextHash": "13b16ec9c7a9c4e8af7b44eb1537601ff4e8ba13f72337a23893b32c0c6ec9e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000622",
+      "sequence": 622,
+      "startMs": 2089320,
+      "endMs": 2090900,
+      "text": "做事方式",
+      "rawTextHash": "49585b79d39515056a8801f9a05e2806db6df4f769f0855472fbb074e2bea269"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000623",
+      "sequence": 623,
+      "startMs": 2090900,
+      "endMs": 2093400,
+      "text": "也就是一个人的风格",
+      "rawTextHash": "cb24a3f62a204070a886bb23316a3b379606062d3d7509becf9551edb0fbc6d6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000624",
+      "sequence": 624,
+      "startMs": 2093400,
+      "endMs": 2096580,
+      "text": "也就是一个人的习惯",
+      "rawTextHash": "bc73e9a9ffd6ded3019a77e25224af74f0a781d1e86fab131d83c652c04ad188"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000625",
+      "sequence": 625,
+      "startMs": 2096580,
+      "endMs": 2098900,
+      "text": "那么今天如果你有good manner",
+      "rawTextHash": "23cf5a69d0490b8f8e8ff433e855e63e33a32ed579e8c8f0f79bfb8b3966a582"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000626",
+      "sequence": 626,
+      "startMs": 2098900,
+      "endMs": 2101760,
+      "text": "你总有一个好的做事方式",
+      "rawTextHash": "36e19feb02b0e7bf94d52108e3a0d2b8e9a491ced1affd1a94cb73e6eca0baf5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000627",
+      "sequence": 627,
+      "startMs": 2101760,
+      "endMs": 2103560,
+      "text": "good manners叫做礼貌",
+      "rawTextHash": "083c096457424737d177987e40331676e3c7fe566b9a3311b88bc374c36e2eb8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000628",
+      "sequence": 628,
+      "startMs": 2103560,
+      "endMs": 2103880,
+      "text": "好",
+      "rawTextHash": "f867f34178594f891eb70a4260f62b1d9289cfa60394f9fee1cbbe4a8b4bf436"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000629",
+      "sequence": 629,
+      "startMs": 2103880,
+      "endMs": 2106480,
+      "text": "叫礼貌",
+      "rawTextHash": "9fba8dc4f8576849626ca3fce97c81a23a2cf341921013598b5024864a3c9656"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000630",
+      "sequence": 630,
+      "startMs": 2106480,
+      "endMs": 2108100,
+      "text": "这就这么一步步来的",
+      "rawTextHash": "03df4b4be8b9d6250a56a79ac0aa9c26256c5198e57d0707f8c7ecfed716c2dd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000631",
+      "sequence": 631,
+      "startMs": 2108100,
+      "endMs": 2108900,
+      "text": "接来",
+      "rawTextHash": "86dc1d06475babfc8b33b2cb10911996d783125d20cde53dcd2f55ab3c14428c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000632",
+      "sequence": 632,
+      "startMs": 2108900,
+      "endMs": 2111440,
+      "text": "难道这个单词不是climb",
+      "rawTextHash": "0d7effc491b1631e4534a90ce756a79423be63d10eca5e0ca40f8f93914a982e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000633",
+      "sequence": 633,
+      "startMs": 2111440,
+      "endMs": 2112540,
+      "text": "就拍掌吗",
+      "rawTextHash": "36caa6b6e5bd3dd853565f6a632012b4b699811a150d1f45bef858045e6037cc"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000634",
+      "sequence": 634,
+      "startMs": 2112540,
+      "endMs": 2112900,
+      "text": "这样子",
+      "rawTextHash": "b17232720501324437d192450e0b0a97ec900769781cb7cf14e161a0824abf37"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000635",
+      "sequence": 635,
+      "startMs": 2112900,
+      "endMs": 2116140,
+      "text": "我们除了这啪啪拍掌",
+      "rawTextHash": "70bf768a62198c0f036b56c2a187aa73e3d0daa16024d8e3592dfa8210ac1d69"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000636",
+      "sequence": 636,
+      "startMs": 2116140,
+      "endMs": 2117220,
+      "text": "还能拍这",
+      "rawTextHash": "5b364b9e4e87eb9872e12279e003f979b821012522d815aa255d97309d7548fd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000637",
+      "sequence": 637,
+      "startMs": 2117220,
+      "endMs": 2119140,
+      "text": "所以line出现过三次",
+      "rawTextHash": "ba437082aa6fc7a96e89afcf8ed758b16efd054aa609807666aae3dd8aaa0cf8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000638",
+      "sequence": 638,
+      "startMs": 2119140,
+      "endMs": 2120740,
+      "text": "叫大腿前侧",
+      "rawTextHash": "e77fab692941e73320b7ede453bb3004c684fa1f3abef5c65956d622aa9a25ee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000639",
+      "sequence": 639,
+      "startMs": 2120740,
+      "endMs": 2123240,
+      "text": "就是你大腿前面这片肉",
+      "rawTextHash": "606660b251a632f7795d931abe437c666de2e49c442f3eac2a74b3847447d63c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000640",
+      "sequence": 640,
+      "startMs": 2123240,
+      "endMs": 2125220,
+      "text": "如果在他上面",
+      "rawTextHash": "8b31dda9f6e27d4517ff44b8d1fdd13d2fc7a1ff4506967c55034f40f090b92a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000641",
+      "sequence": 641,
+      "startMs": 2125220,
+      "endMs": 2125940,
+      "text": "叫laptop",
+      "rawTextHash": "f72b4eba2d5f079dc608362b38b9673f54b66964bcaf90d628dee73d60258d41"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000642",
+      "sequence": 642,
+      "startMs": 2125940,
+      "endMs": 2127560,
+      "text": "那就叫做基本电脑",
+      "rawTextHash": "e1f552ae9cf9da6144c27a7ae89198d33bbd3a218e70b100e9ede2b037679ede"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000643",
+      "sequence": 643,
+      "startMs": 2127560,
+      "endMs": 2129680,
+      "text": "过去长长",
+      "rawTextHash": "a71bbd65242a5c89e29d54f8268ce0f03d6cbf91a419b16a5e94107cc05caeb4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000644",
+      "sequence": 644,
+      "startMs": 2129680,
+      "endMs": 2131160,
+      "text": "就是过去长长",
+      "rawTextHash": "7e29cdecccf0819fa889e3de71532c373d2d1ff4a7bd930a6b0ea912109744eb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000645",
+      "sequence": 645,
+      "startMs": 2131160,
+      "endMs": 2131700,
+      "text": "老师",
+      "rawTextHash": "c9a31a3f670b7f9973f2004ed383fc8c50a20c8d595556b8d8c266630234d8ee"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000646",
+      "sequence": 646,
+      "startMs": 2131700,
+      "endMs": 2133160,
+      "text": "我怎么记过去长长",
+      "rawTextHash": "dff7e49c86e82d82376ff0720d007cf6c6c9f25828c26a42cec6b1c23135b59c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000647",
+      "sequence": 647,
+      "startMs": 2133160,
+      "endMs": 2135000,
+      "text": "你过去长长",
+      "rawTextHash": "32f24f8e5d363e86f5b11a40f84921117497a524807de86b5a4edf55523def8d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000648",
+      "sequence": 648,
+      "startMs": 2135000,
+      "endMs": 2135540,
+      "text": "你不认识",
+      "rawTextHash": "4df6f74b269778950c99fd5082db2abeb41c1b2608a45d5d4ec1f7479a74bbdb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000649",
+      "sequence": 649,
+      "startMs": 2135540,
+      "endMs": 2137580,
+      "text": "你说的时候这不使用吗",
+      "rawTextHash": "9161abc74f907b6b83f3b586c9178309959a571a571ceb56549416e4bcd1a828"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000650",
+      "sequence": 650,
+      "startMs": 2137580,
+      "endMs": 2139040,
+      "text": "你看着像使用",
+      "rawTextHash": "3e05fde935275ed0969f55ca96ee0939ea3d90584b7ab14ad6b371e32839b553"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000651",
+      "sequence": 651,
+      "startMs": 2139040,
+      "endMs": 2140840,
+      "text": "但其实此刻是euro",
+      "rawTextHash": "a96dad12017ce75e65ed7385072a7c60e120909c1c758db6a17d99130126fbec"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000652",
+      "sequence": 652,
+      "startMs": 2140840,
+      "endMs": 2142380,
+      "text": "叫通常的过去式",
+      "rawTextHash": "aef3af42073d8d76f341d1d61188784fecf8e875c524425f8775778cee864b9e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000653",
+      "sequence": 653,
+      "startMs": 2142380,
+      "endMs": 2144920,
+      "text": "现在通常叫euro",
+      "rawTextHash": "71482761ceca80447a1bf6ae922ef6fd8ac295cb20663f4623a40494dd043416"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000654",
+      "sequence": 654,
+      "startMs": 2144920,
+      "endMs": 2146880,
+      "text": "过去长长叫used",
+      "rawTextHash": "af7466aff174288ce701fba884bc7b1643ab4c43885e83cba527a955d712dbab"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000655",
+      "sequence": 655,
+      "startMs": 2146880,
+      "endMs": 2148080,
+      "text": "非常讲究",
+      "rawTextHash": "519400122862729b404a9d4144244857446b294fad136d4c094be80a2d321232"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000656",
+      "sequence": 656,
+      "startMs": 2148080,
+      "endMs": 2151340,
+      "text": "他竟然把通常都加了个过去式",
+      "rawTextHash": "55baba4b738a1d84f858d01834f430494ebfdbe9907993e2b421c12d4db07330"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000657",
+      "sequence": 657,
+      "startMs": 2151340,
+      "endMs": 2153040,
+      "text": "而used used",
+      "rawTextHash": "41511473486c873215d3fea9f3eb71ddda2b45dd1343f05ff35c7424ee7e3f53"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000658",
+      "sequence": 658,
+      "startMs": 2153040,
+      "endMs": 2155420,
+      "text": "就合成了used to used to",
+      "rawTextHash": "28757c7fde992da845848f7a554eed29b4b97735adc5b79a2055191c616c5c1e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000659",
+      "sequence": 659,
+      "startMs": 2155420,
+      "endMs": 2157420,
+      "text": "就合成了used to used to",
+      "rawTextHash": "28757c7fde992da845848f7a554eed29b4b97735adc5b79a2055191c616c5c1e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000660",
+      "sequence": 660,
+      "startMs": 2157420,
+      "endMs": 2158300,
+      "text": "这四个字母",
+      "rawTextHash": "b8cfca56759fa6f5d4f2995197ca6ad704ad056f38562c6ff1d6070b93f335e0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000661",
+      "sequence": 661,
+      "startMs": 2158300,
+      "endMs": 2160000,
+      "text": "简直是过去长长",
+      "rawTextHash": "05663d83e941531e9ac45cd2c984d3f42322d2027863d25976e66e891b575399"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000662",
+      "sequence": 662,
+      "startMs": 2160000,
+      "endMs": 2162380,
+      "text": "当你的核心素材是过去长长的时候",
+      "rawTextHash": "ee5023147d7cd8e5206627336abb646a0ece4c357fc0392acb3577d69d7845c8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000663",
+      "sequence": 663,
+      "startMs": 2162380,
+      "endMs": 2163200,
+      "text": "你那不是习惯吗",
+      "rawTextHash": "f7e2c2c517bf70a560e3be61065989e76e71d66c015a813c9c8fca0a65160744"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000664",
+      "sequence": 664,
+      "startMs": 2163200,
+      "endMs": 2165860,
+      "text": "c没有含义",
+      "rawTextHash": "84dca1e0bd8920f71a32f512565190e4fb687b8cc97f3bdd235d862bb54fe49c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000665",
+      "sequence": 665,
+      "startMs": 2165860,
+      "endMs": 2167820,
+      "text": "这个字母没解读出来",
+      "rawTextHash": "37df25e1d287fd1361ec6c559c46d1d254649a19268f2f0e2b73f48fe999e131"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000666",
+      "sequence": 666,
+      "startMs": 2167820,
+      "endMs": 2170140,
+      "text": "但中间这个绝对拿出来",
+      "rawTextHash": "f6520a3bd6d57b58e64ac8de307fac61e7f66bfbc93b7fb9e1427c0b9efcb1e3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000667",
+      "sequence": 667,
+      "startMs": 2170140,
+      "endMs": 2171500,
+      "text": "custom习惯",
+      "rawTextHash": "1ac375fa7c50bf13c67d0d9a7a4a85cc16d55a5fc28984181230d52bea609d39"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000668",
+      "sequence": 668,
+      "startMs": 2171500,
+      "endMs": 2174220,
+      "text": "习惯加上s呢",
+      "rawTextHash": "6b711f754e756b22011bf1f0e6725dc90365cc8c3cd62a61d3b5d9d923265023"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000669",
+      "sequence": 669,
+      "startMs": 2174220,
+      "endMs": 2177540,
+      "text": "也是一种把s想象成钱",
+      "rawTextHash": "ada6573915649215a6a03492d9b26dfa68fa782bfadc62571f17ece48c1485a3"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000670",
+      "sequence": 670,
+      "startMs": 2177540,
+      "endMs": 2179180,
+      "text": "老师s不负数吗",
+      "rawTextHash": "2df5cbb27bc183679694b60266b6c1d1322bfc5a6bc90bb40ac8e6e50c5246d2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000671",
+      "sequence": 671,
+      "startMs": 2179180,
+      "endMs": 2181160,
+      "text": "那这个单词跟负数没关系",
+      "rawTextHash": "d7aa91366fddc7631e1ffff0bd2caa5407db6b5ea04d6e305b793358c20506e2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000672",
+      "sequence": 672,
+      "startMs": 2181160,
+      "endMs": 2184160,
+      "text": "把s想象成钱美元",
+      "rawTextHash": "862118eb0f0c0f8b0fce0c64ea7be9dde6e87bae16b590eb666abdf06bc8e329"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000673",
+      "sequence": 673,
+      "startMs": 2184160,
+      "endMs": 2187300,
+      "text": "这是个交钱的习惯",
+      "rawTextHash": "c5d19b5465eadf52da4a4503afacc193bcf51ab502265fae92b4e35bd1020540"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000674",
+      "sequence": 674,
+      "startMs": 2187300,
+      "endMs": 2189360,
+      "text": "我都以节奏带到这了",
+      "rawTextHash": "8c026eaed4cba94a2f0645689192fd9c309a9cbcf369623b3f3cf9a2da13df4c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000675",
+      "sequence": 675,
+      "startMs": 2189360,
+      "endMs": 2190260,
+      "text": "再及关税",
+      "rawTextHash": "b62d9bd16e0c09692a33b1bab48a63bc449e150fc5c08bec3f24e2003ece1015"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000676",
+      "sequence": 676,
+      "startMs": 2190260,
+      "endMs": 2192800,
+      "text": "为什么交关税啊",
+      "rawTextHash": "25268fecd7ae64a8d3b741f0e75e467d30f05a2c37a548bb02892d690a12943e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000677",
+      "sequence": 677,
+      "startMs": 2192800,
+      "endMs": 2192920,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000678",
+      "sequence": 678,
+      "startMs": 2192920,
+      "endMs": 2194340,
+      "text": "关税没啥道理",
+      "rawTextHash": "2106ea43f5933183a86b5ca880bad503f21ad20a01f7d03f8c2d1ad27f9a60b4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000679",
+      "sequence": 679,
+      "startMs": 2194340,
+      "endMs": 2195360,
+      "text": "没有任何道理",
+      "rawTextHash": "5ac04506c637bb34841367cddad8a164fe833686ef64047bfda6ec80ea231d89"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000680",
+      "sequence": 680,
+      "startMs": 2195360,
+      "endMs": 2196480,
+      "text": "就是习惯",
+      "rawTextHash": "311cc7e838b0fdb4a480a276d16e4269a6d27abf461af8b3c637d7d04906b5d4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000681",
+      "sequence": 681,
+      "startMs": 2196480,
+      "endMs": 2197880,
+      "text": "反正你过这个关",
+      "rawTextHash": "728af5d4bf956c3d87082a3fd24de49212fe50d2bce20b3682ad8c98f4561d88"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000682",
+      "sequence": 682,
+      "startMs": 2197880,
+      "endMs": 2198880,
+      "text": "就得拿钱啊",
+      "rawTextHash": "db06ea24c6936c1aceee0e3311f01abe8916e21408a652fce7002962aa89a1f8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000683",
+      "sequence": 683,
+      "startMs": 2198880,
+      "endMs": 2200400,
+      "text": "你入关就得拿钱",
+      "rawTextHash": "9f1a233b93e912702e9d32adcb236c31bbb98450e283a56646dba4514a96f3c9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000684",
+      "sequence": 684,
+      "startMs": 2200400,
+      "endMs": 2201900,
+      "text": "我们就卡点",
+      "rawTextHash": "62b5c140a282986fab1cd8a278fa1455aa8f5e75b971fde98fbb1d1acfcf903c"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000685",
+      "sequence": 685,
+      "startMs": 2201900,
+      "endMs": 2202600,
+      "text": "是这样的吗",
+      "rawTextHash": "be6158d366bdddb04fac39c9e5c7e00208dec0668f37a1dfee5abd9735e67fda"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000686",
+      "sequence": 686,
+      "startMs": 2202600,
+      "endMs": 2205340,
+      "text": "所以这是一个收你钱的习惯",
+      "rawTextHash": "02a267e8fdfca0ce457a81d3291af405c7dafdfb879930db82510652f06770d7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000687",
+      "sequence": 687,
+      "startMs": 2205340,
+      "endMs": 2206300,
+      "text": "叫custom",
+      "rawTextHash": "f9355df99c669d092712bfee47bd0f1c9b285cd47893577c095e1bfe1c259ac4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000688",
+      "sequence": 688,
+      "startMs": 2206300,
+      "endMs": 2207260,
+      "text": "叫关税啊",
+      "rawTextHash": "1f74d5554d4563ff2a251e5e4bcfdba2e8532e44b8f5499dcf03798ba950a13d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000689",
+      "sequence": 689,
+      "startMs": 2207260,
+      "endMs": 2208300,
+      "text": "接下来",
+      "rawTextHash": "a52d704cc3acb44b353c767dec99f7a54155bb0e369769e1b69977bb71e07c37"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000690",
+      "sequence": 690,
+      "startMs": 2208300,
+      "endMs": 2211640,
+      "text": "所以呢",
+      "rawTextHash": "3b4f37a4d8abe24fcd9b613ad1a3ad9dac5446618f6df42fbff71b63a32f6220"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000691",
+      "sequence": 691,
+      "startMs": 2211640,
+      "endMs": 2212880,
+      "text": "习惯了啊",
+      "rawTextHash": "9cd488fe4906395cf5a9aa8574e021231f2f591d002e2cd45040685983b05e5e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000692",
+      "sequence": 692,
+      "startMs": 2212880,
+      "endMs": 2213520,
+      "text": "stand",
+      "rawTextHash": "d37a24b801c6e2e338243b7361c5985e1d8e26bcf5555dd08cd8c969e01e1670"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000693",
+      "sequence": 693,
+      "startMs": 2213520,
+      "endMs": 2214100,
+      "text": "站着",
+      "rawTextHash": "0abf6bef080b015b10e78d66bea35850c471f5dacbbe6acbb130636c027dffb6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000694",
+      "sequence": 694,
+      "startMs": 2214100,
+      "endMs": 2214520,
+      "text": "嗯",
+      "rawTextHash": "821ea6fd74a74c12dfe83babf1c9f495bee9012e2301d5b7f3010fff99b8fd6f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000695",
+      "sequence": 695,
+      "startMs": 2214520,
+      "endMs": 2215640,
+      "text": "站着",
+      "rawTextHash": "0abf6bef080b015b10e78d66bea35850c471f5dacbbe6acbb130636c027dffb6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000696",
+      "sequence": 696,
+      "startMs": 2215640,
+      "endMs": 2216400,
+      "text": "站着",
+      "rawTextHash": "0abf6bef080b015b10e78d66bea35850c471f5dacbbe6acbb130636c027dffb6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000697",
+      "sequence": 697,
+      "startMs": 2216400,
+      "endMs": 2217940,
+      "text": "这四个字母谁就是站着",
+      "rawTextHash": "707ba2fac0f03e8b89af707f441367f493a20437504866ca4242a0fb8e2f6249"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000698",
+      "sequence": 698,
+      "startMs": 2217940,
+      "endMs": 2219940,
+      "text": "这四个字母就是站着",
+      "rawTextHash": "ce5d4d53e5475636b38166c150e16843ed483ab835b6d278a40afbb06d643490"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000699",
+      "sequence": 699,
+      "startMs": 2219940,
+      "endMs": 2221420,
+      "text": "就是把站着",
+      "rawTextHash": "6e1cccfa2228ae92e36908a26358e33a7a19b1e2bb95d46c5bf6f34a8d361e27"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000700",
+      "sequence": 700,
+      "startMs": 2221420,
+      "endMs": 2223120,
+      "text": "n省略了",
+      "rawTextHash": "d4e8f707a60699f18e7dc789a93bb1eadf402c950cad02312eb0dd27022c6ea4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000701",
+      "sequence": 701,
+      "startMs": 2223120,
+      "endMs": 2224560,
+      "text": "t变成t",
+      "rawTextHash": "cab2c6ee6d399f2f9e7db958ac7ec45e9dda0027ece47f9a41b6a25deda51f75"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000702",
+      "sequence": 702,
+      "startMs": 2224560,
+      "endMs": 2225600,
+      "text": "叫custom",
+      "rawTextHash": "f9355df99c669d092712bfee47bd0f1c9b285cd47893577c095e1bfe1c259ac4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000703",
+      "sequence": 703,
+      "startMs": 2225600,
+      "endMs": 2226820,
+      "text": "老师为啥n省略",
+      "rawTextHash": "8ef4454b239cbceb89d7bcebd05703321d1659a58b8932e625ed3b4414cf1ab8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000704",
+      "sequence": 704,
+      "startMs": 2226820,
+      "endMs": 2228460,
+      "text": "为啥他省略",
+      "rawTextHash": "ad8592a7cb4c521d6259e91e9baf133ae427c0cde31a04afb6316e574bb78b5e"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000705",
+      "sequence": 705,
+      "startMs": 2228460,
+      "endMs": 2229900,
+      "text": "他软弱无能",
+      "rawTextHash": "668a16ef945eab08362bf15eeb50aed7e099bc43517be0c51e82a3f47536cf70"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000706",
+      "sequence": 706,
+      "startMs": 2229900,
+      "endMs": 2232280,
+      "text": "他读音有他没他都差不多",
+      "rawTextHash": "2e1c016c2e14f0187a5027252a72d188d0531f5dc44be9f686518780e116deb6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000707",
+      "sequence": 707,
+      "startMs": 2232280,
+      "endMs": 2235140,
+      "text": "刚才我们在省略粉丝的时候",
+      "rawTextHash": "5de2f789e7ee3a156872040828954b5ae8c134e4e0074954320e447e44084430"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000708",
+      "sequence": 708,
+      "startMs": 2235140,
+      "endMs": 2237160,
+      "text": "不也是把他干掉了吗",
+      "rawTextHash": "3842cfb7166b34ce83d3da2c32f4ea7b617fa7a117833b5205b87b0ed1833a53"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000709",
+      "sequence": 709,
+      "startMs": 2237160,
+      "endMs": 2237580,
+      "text": "对不对",
+      "rawTextHash": "4c61ba4b12d2c5a1ed6f7cf1cb0b8de5cef31565109f996fbe2afcafbc83c215"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000710",
+      "sequence": 710,
+      "startMs": 2237580,
+      "endMs": 2240400,
+      "text": "你说n和s在一起",
+      "rawTextHash": "53531e64d85973cd61d61a28f5ab9acdc11c3991d81d4c2eb7a06d2ec20b13f9"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000711",
+      "sequence": 711,
+      "startMs": 2240400,
+      "endMs": 2241160,
+      "text": "谁发音强",
+      "rawTextHash": "d3faaa1bf1765bb9a7f8150c3bc0f8d5903798387c4217124f1f65d541aa96a4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000712",
+      "sequence": 712,
+      "startMs": 2241160,
+      "endMs": 2243520,
+      "text": "明显s档次高",
+      "rawTextHash": "0ff8dd780fdb37fbaa02b7291067c19568bf515189b4948bc1e6b9e040673095"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000713",
+      "sequence": 713,
+      "startMs": 2243520,
+      "endMs": 2245040,
+      "text": "人家发音什么声音呢",
+      "rawTextHash": "2fa6df34b2cb04c5831bd800401836914b0a595dc83b5bf2e0d4e0eadfe8ab2d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000714",
+      "sequence": 714,
+      "startMs": 2245040,
+      "endMs": 2246880,
+      "text": "你什么声音呢",
+      "rawTextHash": "6a7695282468f4f21f248d5e299e5e2c769b33444797e995c7ff6818a8a58971"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000715",
+      "sequence": 715,
+      "startMs": 2246880,
+      "endMs": 2247160,
+      "text": "嗯",
+      "rawTextHash": "821ea6fd74a74c12dfe83babf1c9f495bee9012e2301d5b7f3010fff99b8fd6f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000716",
+      "sequence": 716,
+      "startMs": 2247160,
+      "endMs": 2248460,
+      "text": "你软不软弱啊",
+      "rawTextHash": "5d3bc258adbaca3bb0b104cae27fb1e8b0365e720c93f9891a88648a56169176"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000717",
+      "sequence": 717,
+      "startMs": 2248460,
+      "endMs": 2249840,
+      "text": "两个人吵架",
+      "rawTextHash": "9e673b9f836ff0670ee6aa73904322cafab400e664a0053fc012945ea6331ebd"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000718",
+      "sequence": 718,
+      "startMs": 2249840,
+      "endMs": 2251500,
+      "text": "一个人老说",
+      "rawTextHash": "ede74a8f6fcec4b2571c931ef7e6c6507c0f499d7e5f28b9f74631fafd9d49c0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000719",
+      "sequence": 719,
+      "startMs": 2251500,
+      "endMs": 2253520,
+      "text": "一个人总说",
+      "rawTextHash": "746bccc28444009e5aea574f52f4c60fe16a1a5329714e4ecaa586f09d2e66b2"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000720",
+      "sequence": 720,
+      "startMs": 2253520,
+      "endMs": 2254160,
+      "text": "嗯嗯嗯",
+      "rawTextHash": "ae9c1c8af054e0b1c71e6fbcbd560ed47b65f7b7e83bb1c545dd4f2cfab4f9eb"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000721",
+      "sequence": 721,
+      "startMs": 2254160,
+      "endMs": 2255720,
+      "text": "你说谁强谁赢谁输",
+      "rawTextHash": "9999e2700a745593037ffc9bc89985495336c8293ea6c4521888ef22b2b8407b"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000722",
+      "sequence": 722,
+      "startMs": 2255720,
+      "endMs": 2257220,
+      "text": "那明显他不行吗",
+      "rawTextHash": "c58f309ece187081afc2972017cefae9b1596201ab6e4e508efa7be6194cf2f6"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000723",
+      "sequence": 723,
+      "startMs": 2257220,
+      "endMs": 2257520,
+      "text": "对不对",
+      "rawTextHash": "4c61ba4b12d2c5a1ed6f7cf1cb0b8de5cef31565109f996fbe2afcafbc83c215"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000724",
+      "sequence": 724,
+      "startMs": 2257520,
+      "endMs": 2260320,
+      "text": "他那个架是个T场都不行啊",
+      "rawTextHash": "8737cf76518f9b78903f2eb1599561f533ae132fb8da5bb0a0aa1853c1bd62c8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000725",
+      "sequence": 725,
+      "startMs": 2260320,
+      "endMs": 2261380,
+      "text": "消失啊",
+      "rawTextHash": "60489452fca4f47688a3cceec2e451230d12fdcdd8c4e03c8c86ee064e36aa6a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000726",
+      "sequence": 726,
+      "startMs": 2261380,
+      "endMs": 2262920,
+      "text": "加上进来",
+      "rawTextHash": "7fe3a1ee874065195135d74f2968a04f13fcaa0b1f8ae3ac93f25b2c6112e5b7"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000727",
+      "sequence": 727,
+      "startMs": 2262920,
+      "endMs": 2263480,
+      "text": "动词和坠",
+      "rawTextHash": "67c184dfcc33a31cc7011acf429edbef23de921c100ab5c88a95ffe5e1e84b00"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000728",
+      "sequence": 728,
+      "startMs": 2263480,
+      "endMs": 2264220,
+      "text": "加了个c",
+      "rawTextHash": "bb0c22449be36afb964496e92f35b803baa2e715e86c9b55af26f4166601690f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000729",
+      "sequence": 729,
+      "startMs": 2264220,
+      "endMs": 2266460,
+      "text": "把粉丝全给他吸进来",
+      "rawTextHash": "fbd89ea16bbbc45d28c8fa248e5064e116cf5c5ba99077110ba97d7803e02f3d"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000730",
+      "sequence": 730,
+      "startMs": 2266460,
+      "endMs": 2266880,
+      "text": "叫做",
+      "rawTextHash": "bbdf8e6f8ed40ba0d983b0b77a1fed13a2ec2fcbec7da8e7648470ebf1d2fd3f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000731",
+      "sequence": 731,
+      "startMs": 2266880,
+      "endMs": 2268220,
+      "text": "是着迷吸粉",
+      "rawTextHash": "ffec01800f0a08407f6b6874fe29e913db497eb13e39115da07423221a9cf898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000732",
+      "sequence": 732,
+      "startMs": 2268220,
+      "endMs": 2270380,
+      "text": "你不一样道理吗",
+      "rawTextHash": "f78c1ed7173bebdf27bed6e110809e8e13672250c8f576b11922db10dee3c2e8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000733",
+      "sequence": 733,
+      "startMs": 2270380,
+      "endMs": 2273680,
+      "text": "这种辅音和这种辅音",
+      "rawTextHash": "9258e623452ee00d6bce28257e8e22275dad6cab37eaa714bf6d413f6cd68379"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000734",
+      "sequence": 734,
+      "startMs": 2273680,
+      "endMs": 2276180,
+      "text": "这就是强势家庭",
+      "rawTextHash": "6dde529f27d42eb3b0604cb8e25dceb3a748f362b5cc1d78d5271c6b0e6574f5"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000735",
+      "sequence": 735,
+      "startMs": 2276180,
+      "endMs": 2277740,
+      "text": "这就是弱势人物",
+      "rawTextHash": "e96ec4e1ccaa066953c8398af4d268f000800f0da6f2d837b733e48cef1c88e4"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000736",
+      "sequence": 736,
+      "startMs": 2277740,
+      "endMs": 2278400,
+      "text": "消失",
+      "rawTextHash": "9b949a5c73ff8c60c5c2000c8eddaefb7525243b3d7f5a842e191970288857fa"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000737",
+      "sequence": 737,
+      "startMs": 2278400,
+      "endMs": 2280440,
+      "text": "一说我也不行",
+      "rawTextHash": "5b872dff3ed70a704445d326c75998a624bf0b8a5cc436884766a6a6c718603f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000738",
+      "sequence": 738,
+      "startMs": 2280440,
+      "endMs": 2283000,
+      "text": "我那个哥们读音更强",
+      "rawTextHash": "3a48b86ba2b57f5445ad7e99a7c8ab9f339d08bf27c3305d3df2452cfc4c79c0"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000739",
+      "sequence": 739,
+      "startMs": 2283000,
+      "endMs": 2283520,
+      "text": "特",
+      "rawTextHash": "25bd63d817d756acb3eb3fd1531610ff85f154c388cbfdfb6159a0363a8bed54"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000740",
+      "sequence": 740,
+      "startMs": 2283520,
+      "endMs": 2284880,
+      "text": "所以他消失",
+      "rawTextHash": "dd00e885c4eed5632c9338ab02a4a18d53855e52165fcff1727eb50a193e3d10"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000741",
+      "sequence": 741,
+      "startMs": 2284880,
+      "endMs": 2286440,
+      "text": "所以这就是名词后罪",
+      "rawTextHash": "b41794f0a843e97ac5d4a45562c0ce51346767c7c35eb523ea7b52555fa2a436"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000742",
+      "sequence": 742,
+      "startMs": 2286440,
+      "endMs": 2287680,
+      "text": "这是个站着",
+      "rawTextHash": "53f13c22949308348c2e321beea27224cf00d54b9b8d47a89f83a1cef9824b6a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000743",
+      "sequence": 743,
+      "startMs": 2287680,
+      "endMs": 2289420,
+      "text": "这是个站着的东西",
+      "rawTextHash": "5f5ceeb6fcd466912e278117b12434e050db5fcc7b45290205b4ee98f65aca57"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000744",
+      "sequence": 744,
+      "startMs": 2289420,
+      "endMs": 2291220,
+      "text": "老师那站着东西多了",
+      "rawTextHash": "3418ff3bfb5ce0c0202ece104b7acbe238887aeb8e44111ea1bf8f84e9e791ca"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000745",
+      "sequence": 745,
+      "startMs": 2291220,
+      "endMs": 2293020,
+      "text": "你凭啥说站着的",
+      "rawTextHash": "246d8c70b013037c3530c88b63cc730fe8516d6f59890c2095f710a837a74997"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000746",
+      "sequence": 746,
+      "startMs": 2293020,
+      "endMs": 2294440,
+      "text": "就一定是雕像啊",
+      "rawTextHash": "b53678b0ea9309ddf165820acb6f234deb4c1ab68a1add6b1ffe7965e4404d31"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000747",
+      "sequence": 747,
+      "startMs": 2294440,
+      "endMs": 2295100,
+      "text": "对不对啊",
+      "rawTextHash": "c1306e85aaaa69f3e91df7314a509d24d2afc43361f81ec407eac7bd304f866a"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000748",
+      "sequence": 748,
+      "startMs": 2295100,
+      "endMs": 2296780,
+      "text": "首先雕像肯定站着呀",
+      "rawTextHash": "e4da320edc35687d7da752618692df7023cedda1da5c62fab2ac052e76c929c8"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000749",
+      "sequence": 749,
+      "startMs": 2296780,
+      "endMs": 2298340,
+      "text": "那优异怎么办呢",
+      "rawTextHash": "a09336555a9b8ff3516d628b0b5595ec8fbd1d2f2b3c786d4bc4c058f6737443"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000750",
+      "sequence": 750,
+      "startMs": 2298340,
+      "endMs": 2299880,
+      "text": "把优异联想一下",
+      "rawTextHash": "859a10656a70fe6f29e1499ce925d97423cd12f0efd2c46327b62f1555df6667"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000751",
+      "sequence": 751,
+      "startMs": 2299880,
+      "endMs": 2301980,
+      "text": "把他想象成优异吧",
+      "rawTextHash": "96527a45229768c244324da1401cf15a75a0462b6679c0de7b25391f1d7a720f"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000752",
+      "sequence": 752,
+      "startMs": 2301980,
+      "endMs": 2304280,
+      "text": "把他想成优异吧",
+      "rawTextHash": "48bd110a3232951ba0cd2527a38a0d727bfadfa71037a12288f344c5daf4cb57"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000753",
+      "sequence": 753,
+      "startMs": 2304280,
+      "endMs": 2304780,
+      "text": "啊",
+      "rawTextHash": "7c2c50fbaf7b274733d5fa623040492ef299c898075f8fc47fd28356c7e08898"
+    },
+    {
+      "id": "source-b7a5f1e565950e5b:s000754",
+      "sequence": 754,
+      "startMs": 2304780,
+      "endMs": 2306820,
+      "text": "说哪是随便谁都有",
+      "rawTextHash": "150832497f3469c7a6af0ff6125578d359604f1e6fd046727f8644bff21e17e2"
+    }
+  ]
+}

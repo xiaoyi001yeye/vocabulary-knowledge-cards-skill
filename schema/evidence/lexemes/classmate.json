@@ -1,0 +1,33 @@
+{
+  "id": "classmate",
+  "headword": "classmate",
+  "status": "confirmed",
+  "cardId": "classmate",
+  "mentionIds": [
+    "source-632feac3831b11d8:1272:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1278:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1303:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1304:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1305:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1310:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "classmate",
+    "label": "同班同学",
+    "meaning": "classmate",
+    "family": "compound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用 class（班）+ mate（伙伴）得出“同班的伙伴”。",
+    "rehearsal": "找一位同学，指着他说 My classmate。",
+    "caution": "classmate 强调同班关系，不等于所有学校同学。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "compound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/classmate.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

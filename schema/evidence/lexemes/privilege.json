@@ -1,0 +1,29 @@
+{
+  "id": "privilege",
+  "headword": "privilege",
+  "status": "confirmed",
+  "cardId": "privilege",
+  "mentionIds": [
+    "source-43876b3383b9858d:307:0:deterministic-srt-v1",
+    "source-43876b3383b9858d:308:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "privilege",
+    "label": "特权",
+    "meaning": "特权",
+    "family": "society",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以某一群体内部享有的特殊权利讲解 privilege。",
+    "rehearsal": "说 privilege，再口述“特权”。",
+    "caution": "课堂情境只作理解入口；实际语体和搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "society",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/privilege.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

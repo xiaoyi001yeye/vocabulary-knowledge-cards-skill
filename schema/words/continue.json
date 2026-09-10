@@ -7,5 +7,14 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 continue，用“不断往前”的动作帮助记忆。",
   "rehearsal": "做一个持续向前的手势，说 continue，再说“继续”。",
-  "caution": "continue 的及物与不及物搭配以词典为准。"
+  "caution": "continue 的及物与不及物搭配以词典为准。",
+  "evidence": {
+    "lexemeId": "continue",
+    "mentionIds": [
+      "source-366220025a701762:389:0:deterministic-srt-v1",
+      "source-366220025a701762:401:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

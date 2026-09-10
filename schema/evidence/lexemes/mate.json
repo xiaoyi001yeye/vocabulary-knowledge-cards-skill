@@ -1,0 +1,32 @@
+{
+  "id": "mate",
+  "headword": "mate",
+  "status": "confirmed",
+  "cardId": "mate",
+  "mentionIds": [
+    "source-632feac3831b11d8:1268:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1270:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1313:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1314:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1317:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "mate",
+    "label": "伙伴；同伴",
+    "meaning": "mate",
+    "family": "meaning",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 match（匹配）引出“彼此合得来、相配的人”是 mate。",
+    "rehearsal": "说 match → mate 的课堂联想，再说 my classmate。",
+    "caution": "mate 有伙伴、配偶等不同义；它与 match 的关系不能当作严格词源。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/mate.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -4,8 +4,27 @@
   "meaning": "矿；矿山",
   "family": "roots",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课程把 mine 当作词族起点，后续词都保留矿的核心。",
   "rehearsal": "说矿山，再按箭头说派生词。",
   "caution": "词族总锚点。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "mine",
+    "mentionIds": [
+      "source-1da33e32e5e8d7ff:217:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2202:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2203:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2210:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2224:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2257:0:deterministic-srt-v1",
+      "source-270fd0178a19029e:2259:0:deterministic-srt-v1",
+      "source-622171f243572270:887:0:deterministic-srt-v1",
+      "source-622171f243572270:1405:0:deterministic-srt-v1",
+      "source-622171f243572270:1407:0:deterministic-srt-v1",
+      "source-622171f243572270:1408:0:deterministic-srt-v1",
+      "source-622171f243572270:1409:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,29 @@
+{
+  "id": "compare",
+  "headword": "compare",
+  "status": "confirmed",
+  "cardId": "compare",
+  "mentionIds": [
+    "source-9f7314f00761b13d:372:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:373:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "compare",
+    "label": "比较；对比",
+    "meaning": "compare",
+    "family": "scene",
+    "lessonId": "vocabulary-023",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 pair 视作“一双一对”，把 compare 想成“把两个东西放到一起成一对再比较”。",
+    "rehearsal": "随手拿两个物品并列，朗读 compare，说出它们的一个区别。",
+    "caution": "pair 的课堂联想用于记忆；compare 的固定搭配和构词依据请以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-023",
+  "legacyMnemonicCategory": "scene",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/compare.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

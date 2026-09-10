@@ -4,8 +4,14 @@
   "meaning": "沙拉",
   "family": "meaning",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用拌凉菜、加盐、搅拌的动作和声音帮助联想 salad。",
   "rehearsal": "想一碗凉菜，做撒盐和搅拌手势。",
   "caution": "精确字母拆分不可靠。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "salad",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

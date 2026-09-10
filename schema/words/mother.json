@@ -4,8 +4,14 @@
   "meaning": "mother",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 mother 与熟悉的“妈妈/母亲”对应，先建立最直接的亲属义。",
   "rehearsal": "看见 mother，立即说“母亲/妈妈”，再造句 My mother is kind.",
   "caution": "不同地区发音不同；不要把汉语方言读音当作英语拼写依据。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "mother",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

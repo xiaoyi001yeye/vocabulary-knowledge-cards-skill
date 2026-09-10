@@ -4,8 +4,21 @@
   "meaning": "缺席的；不在场的",
   "family": "contrast",
   "lessonId": "vocabulary-019",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 absent 与 present 成对记忆：一个缺席，一个出席。",
   "rehearsal": "想象点名时一人不在，朗读 absent，再说“缺席”。",
   "caution": "absent 有其他搭配和用法，需按上下文理解。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "absent",
+    "mentionIds": [
+      "source-142ed3e72b9ecbb9:255:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:256:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:260:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:286:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:295:0:deterministic-srt-v1",
+      "source-142ed3e72b9ecbb9:297:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,32 @@
+{
+  "id": "royal",
+  "headword": "royal",
+  "status": "confirmed",
+  "cardId": "royal",
+  "mentionIds": [
+    "source-8e85860baa296563:8:0:deterministic-srt-v1",
+    "source-8e85860baa296563:13:0:deterministic-srt-v1",
+    "source-8e85860baa296563:15:0:deterministic-srt-v1",
+    "source-8e85860baa296563:16:0:deterministic-srt-v1",
+    "source-8e85860baa296563:18:1:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "royal",
+    "label": "王室的；皇家的",
+    "meaning": "royal",
+    "family": "contrast",
+    "lessonId": "vocabulary-033",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 royal 放在“高高在上的王室”画面，并与 loyal 的对照一起反复朗读。",
+    "rehearsal": "先说 royal“王室的”，再说 loyal“忠诚的”，不要混淆拼写。",
+    "caution": "两词的声音对照是课堂助记，不代表词源关系。"
+  },
+  "legacyLessonId": "vocabulary-033",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/royal.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

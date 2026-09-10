@@ -4,8 +4,30 @@
   "meaning": "流动",
   "family": "roots",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "老师把 flow 比作能开枝散叶的树根：水在流，核心意义稳定。",
   "rehearsal": "画水流，再说它能开枝散叶。",
   "caution": "流动词族总锚点。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "flow",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:4082:0:deterministic-srt-v1",
+      "source-465469b62dd00822:547:1:deterministic-srt-v1",
+      "source-612049534432ae7e:875:0:deterministic-srt-v1",
+      "source-612049534432ae7e:879:0:deterministic-srt-v1",
+      "source-612049534432ae7e:1022:0:deterministic-srt-v1",
+      "source-612049534432ae7e:1026:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:1433:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:830:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:830:1:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:831:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:835:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:849:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1037:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1038:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1066:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

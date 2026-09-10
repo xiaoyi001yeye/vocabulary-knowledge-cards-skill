@@ -1,0 +1,31 @@
+{
+  "id": "business",
+  "headword": "business",
+  "status": "confirmed",
+  "cardId": "business",
+  "mentionIds": [
+    "source-fc5804a317f88303:613:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:617:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:618:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:624:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "business",
+    "label": "事务；生意",
+    "meaning": "事务；生意",
+    "family": "场景",
+    "lessonId": "vocabulary-013",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 busy（繁忙）和名词后缀提示出发，把 business 想成每天忙着做的事，包括不挣钱的社区劳动。",
+    "rehearsal": "说出一件“我每天忙的事”，再用 business 复述。",
+    "caution": "课堂拆分与释义扩展用于助记，不替代规范构词分析。"
+  },
+  "legacyLessonId": "vocabulary-013",
+  "legacyMnemonicCategory": "场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/business.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

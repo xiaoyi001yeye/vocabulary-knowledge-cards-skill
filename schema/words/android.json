@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 android 放在像人的机器人这一科技场景中。",
   "rehearsal": "朗读 android，口述“仿人机器人”。",
-  "caution": "android 也常指操作系统；实际义项取决于语境。"
+  "caution": "android 也常指操作系统；实际义项取决于语境。",
+  "evidence": {
+    "lexemeId": "android",
+    "mentionIds": [
+      "source-1286da1d410e31f1:171:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,30 @@
+{
+  "id": "have-a-shower",
+  "headword": "have-a-shower",
+  "status": "confirmed",
+  "cardId": "have-a-shower",
+  "mentionIds": [
+    "source-612f45bb404ee53f:41:0:deterministic-srt-v1",
+    "source-612f45bb404ee53f:54:0:deterministic-srt-v1",
+    "source-612f45bb404ee53f:84:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "have-a-shower",
+    "label": "冲澡",
+    "meaning": "冲澡",
+    "family": "日常场景",
+    "lessonId": "vocabulary-010",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把短语放进早晨正在淋浴的具体画面：看到水从身上落下时说 have a shower。",
+    "rehearsal": "模拟水从头顶落下，完整说 have a shower。",
+    "caution": "这是短语卡；地区和语境中的表达习惯仍应以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-010",
+  "legacyMnemonicCategory": "日常场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/have-a-shower.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "programmer",
+  "headword": "programmer",
+  "status": "confirmed",
+  "cardId": "programmer",
+  "mentionIds": [
+    "source-7f5185c9dd3fe186:223:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "programmer",
+    "label": "程序员",
+    "meaning": "programmer",
+    "family": "family",
+    "lessonId": "vocabulary-031",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂在 program 后加入“做程序的人”的职业画面，记 programmer。",
+    "rehearsal": "指向键盘，口述 program—programmer，然后说“程序员”。",
+    "caution": "职业后缀联想仅作记忆，不替代严格构词分析。"
+  },
+  "legacyLessonId": "vocabulary-031",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/programmer.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

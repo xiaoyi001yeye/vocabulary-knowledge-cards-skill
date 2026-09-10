@@ -1,0 +1,32 @@
+{
+  "id": "oversee",
+  "headword": "oversee",
+  "status": "confirmed",
+  "cardId": "oversee",
+  "mentionIds": [
+    "source-0e8ccb05819e8652:761:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:251:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:269:0:deterministic-srt-v1",
+    "source-1286da1d410e31f1:298:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:502:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "oversee",
+    "label": "监督；监视",
+    "meaning": "监督；监视",
+    "family": "action",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 oversee 放在从上方看管、监督事情的动作中。",
+    "rehearsal": "想象检查一项工作，朗读 oversee，说“监督”。",
+    "caution": "课堂的 over + see 拆分只作助记，不是完整词源分析。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "action",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/oversee.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -7,5 +7,18 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 species 放在“不同种类的动物或植物”的分类画面中讲解。",
   "rehearsal": "任选三种动物，口述它们属于不同 species。",
-  "caution": "分类画面用于记忆基本义；科学定义请以可靠资料为准。"
+  "caution": "分类画面用于记忆基本义；科学定义请以可靠资料为准。",
+  "evidence": {
+    "lexemeId": "species",
+    "mentionIds": [
+      "source-23363ceac2a543da:191:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:195:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:538:0:deterministic-srt-v1",
+      "source-23363ceac2a543da:547:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:802:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:820:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

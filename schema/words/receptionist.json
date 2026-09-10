@@ -4,8 +4,18 @@
   "meaning": "receptionist",
   "family": "family",
   "lessonId": "vocabulary-027",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂在 reception 后补上“做接待的人”的角色，记 receptionist。",
   "rehearsal": "先说 reception“接待”，再指向接待台，说 receptionist“接待员”。",
   "caution": "-ist 的课堂处理只作助记，词义与职业用法以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "receptionist",
+    "mentionIds": [
+      "source-b7a5f1e565950e5b:27:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:32:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:39:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

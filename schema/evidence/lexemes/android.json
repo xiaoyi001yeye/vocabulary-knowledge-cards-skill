@@ -1,0 +1,28 @@
+{
+  "id": "android",
+  "headword": "android",
+  "status": "confirmed",
+  "cardId": "android",
+  "mentionIds": [
+    "source-1286da1d410e31f1:171:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "android",
+    "label": "仿人机器人；安卓系统",
+    "meaning": "仿人机器人；安卓系统",
+    "family": "technology",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 android 放在像人的机器人这一科技场景中。",
+    "rehearsal": "朗读 android，口述“仿人机器人”。",
+    "caution": "android 也常指操作系统；实际义项取决于语境。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "technology",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/android.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "unexpected",
+  "headword": "unexpected",
+  "status": "confirmed",
+  "cardId": "unexpected",
+  "mentionIds": [
+    "source-465469b62dd00822:226:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "unexpected",
+    "label": "意外的；未预料到的",
+    "meaning": "unexpected",
+    "family": "meaning",
+    "lessonId": "vocabulary-030",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 unexpected 放在事情突然发生、没有预料到的画面中。",
+    "rehearsal": "想一个突发小事件，说 unexpected“意外的”。",
+    "caution": "课堂的声音联想不构成词源或构词事实。"
+  },
+  "legacyLessonId": "vocabulary-030",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/unexpected.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

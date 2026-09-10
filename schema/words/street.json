@@ -1,0 +1,43 @@
+{
+  "id": "street",
+  "label": "大街；街道",
+  "meaning": "大街；街道",
+  "family": "画面与形状",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂从“什么叫 street”引出“大街”，并把 street 放进一条笔直的大街画面中理解。",
+  "rehearsal": "用手在空中画一条笔直的街道，朗读 street，并说“大街”。",
+  "caution": "笔直街道是课堂联想，不是严格词源解释；具体用法以词典为准。",
+  "evidence": {
+    "lexemeId": "street",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:613:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:615:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:621:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:622:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:652:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:662:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:743:0:deterministic-srt-v1",
+      "source-465469b62dd00822:653:0:deterministic-srt-v1",
+      "source-8e85860baa296563:429:0:deterministic-srt-v1",
+      "source-8e85860baa296563:438:0:deterministic-srt-v1",
+      "source-8e85860baa296563:442:0:deterministic-srt-v1",
+      "source-8e85860baa296563:445:0:deterministic-srt-v1",
+      "source-8e85860baa296563:446:0:deterministic-srt-v1",
+      "source-8e85860baa296563:466:0:deterministic-srt-v1",
+      "source-8e85860baa296563:467:0:deterministic-srt-v1",
+      "source-8e85860baa296563:471:0:deterministic-srt-v1",
+      "source-8e85860baa296563:473:0:deterministic-srt-v1",
+      "source-8e85860baa296563:474:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:269:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:276:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:278:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:283:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:289:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:291:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1368:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

@@ -7,5 +7,22 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂从 lift 的“举起”画面出发，想象室内被抬高的空间，落到 loft = 阁楼。",
   "rehearsal": "指向头顶，描述一个被抬高的室内空间，再读 loft。",
-  "caution": "lift → loft 是课堂联想，不作严格词源结论。"
+  "caution": "lift → loft 是课堂联想，不作严格词源结论。",
+  "evidence": {
+    "lexemeId": "loft",
+    "mentionIds": [
+      "source-c884a08f37ae1da1:510:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:517:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:549:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:554:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:594:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:597:1:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:2046:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:2048:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:2070:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:2072:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

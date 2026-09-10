@@ -1,0 +1,35 @@
+{
+  "id": "science",
+  "headword": "science",
+  "status": "confirmed",
+  "cardId": "science",
+  "mentionIds": [
+    "source-142ed3e72b9ecbb9:59:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:62:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:65:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:68:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:69:0:deterministic-srt-v1",
+    "source-142ed3e72b9ecbb9:85:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:926:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:937:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "science",
+    "label": "科学",
+    "meaning": "科学",
+    "family": "meaning",
+    "lessonId": "vocabulary-019",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 science 放在“科学”这一明确基本义上，并与 sense 作声音联想。",
+    "rehearsal": "朗读 science，再说“科学”。",
+    "caution": "science 与 sense 的课堂音近联想不等于严格词源或构词关系。"
+  },
+  "legacyLessonId": "vocabulary-019",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/science.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

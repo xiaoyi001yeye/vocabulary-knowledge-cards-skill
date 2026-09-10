@@ -4,8 +4,16 @@
   "meaning": "unfold",
   "family": "movement",
   "lessonId": "vocabulary-026-special",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用把折叠的纸或物品打开的动作讲解 unfold。",
   "rehearsal": "做一次从折起到打开的手势，朗读 unfold。",
   "caution": "课堂动作是助记；抽象义和实际用法以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "unfold",
+    "mentionIds": [
+      "source-366220025a701762:121:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -1,0 +1,28 @@
+{
+  "id": "govern",
+  "headword": "govern",
+  "status": "confirmed",
+  "cardId": "govern",
+  "mentionIds": [
+    "source-9f7314f00761b13d:199:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "govern",
+    "label": "管理；治理",
+    "meaning": "govern",
+    "family": "family",
+    "lessonId": "vocabulary-023",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 government 去掉名词后缀，回到 govern“管理”。",
+    "rehearsal": "用一句话说：A government governs a country；再回忆 government。",
+    "caution": "示例只用于理解基本义；请以可靠词典核对搭配和词性。"
+  },
+  "legacyLessonId": "vocabulary-023",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/govern.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

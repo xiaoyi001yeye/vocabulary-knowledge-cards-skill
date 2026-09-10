@@ -4,8 +4,17 @@
   "meaning": "袖子",
   "family": "字形画面",
   "lessonId": "vocabulary-007",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂注意 sleeve 中的三个 e，把它们画成管状形，并联想到传统长袖动作。",
   "rehearsal": "写出 sleeve，圈出三个 e，再做甩袖动作。",
   "caution": "三个 e 的形状只是拼写助记，不是词源。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "sleeve",
+    "mentionIds": [
+      "source-d9a7b5c2219a9fc4:37:0:deterministic-srt-v1",
+      "source-d9a7b5c2219a9fc4:42:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

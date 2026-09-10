@@ -1,0 +1,28 @@
+{
+  "id": "acceptable",
+  "headword": "acceptable",
+  "status": "confirmed",
+  "cardId": "acceptable",
+  "mentionIds": [
+    "source-43876b3383b9858d:489:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "acceptable",
+    "label": "可接受的",
+    "meaning": "可接受的",
+    "family": "meaning",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接给出 acceptable，用于能被接受的判断。",
+    "rehearsal": "朗读 acceptable，说“可接受的”。",
+    "caution": "acceptable 的程度和搭配依语境而变。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/acceptable.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

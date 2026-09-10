@@ -1,0 +1,29 @@
+{
+  "id": "passage",
+  "headword": "passage",
+  "status": "confirmed",
+  "cardId": "passage",
+  "mentionIds": [
+    "source-0759dd85e8a2a5af:1157:0:deterministic-srt-v1",
+    "source-0759dd85e8a2a5af:1173:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "passage",
+    "label": "通道；（文章）段落",
+    "meaning": "通道；（文章）段落",
+    "family": "画面",
+    "lessonId": "vocabulary-014",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂先想象可通过的通道，再想象依次走过文章中的段落。",
+    "rehearsal": "用手画一条通道，再口述一段文章的 passage。",
+    "caution": "两个义项的连接是课堂画面助记。"
+  },
+  "legacyLessonId": "vocabulary-014",
+  "legacyMnemonicCategory": "画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/passage.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

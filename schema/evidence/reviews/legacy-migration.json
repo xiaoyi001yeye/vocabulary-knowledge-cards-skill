@@ -1,0 +1,7 @@
+{
+  "id": "legacy-migration-v1",
+  "decision": "preserve-without-inventing-evidence",
+  "cards": 342,
+  "candidateTokenMatches": 294,
+  "unmatchedCards": 48
+}

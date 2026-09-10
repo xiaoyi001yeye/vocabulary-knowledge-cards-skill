@@ -4,8 +4,19 @@
   "meaning": "活跃的；积极的",
   "family": "行动相关",
   "lessonId": "vocabulary-002",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂先说 act 是“行动”，再把“行动起来”的状态连到 active，并以身体正在活动的状态作画面。",
   "rehearsal": "朗读 act、active；边说边做一个起身活动的动作。",
   "caution": "act 到 active 是课堂助记，不等同于完整构词或词源结论。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "active",
+    "mentionIds": [
+      "source-632feac3831b11d8:194:0:deterministic-srt-v1",
+      "source-7f5185c9dd3fe186:1664:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:91:0:deterministic-srt-v1",
+      "source-e51c67807adb6e8c:93:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

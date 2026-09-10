@@ -4,8 +4,16 @@
   "meaning": "矿泉水",
   "family": "roots",
   "lessonId": "four-methods",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂接着把 mineral 与 water 组合，得到矿泉水。",
   "rehearsal": "先说矿物质和水，再合成短语。",
   "caution": "这是词组卡。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "mineral-water",
+    "mentionIds": [
+      "source-622171f243572270:901:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

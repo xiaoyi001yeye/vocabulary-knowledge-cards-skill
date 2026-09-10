@@ -4,8 +4,20 @@
   "meaning": "图书馆",
   "family": "课堂助记",
   "lessonId": "vocabulary-015",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 library 与 laboratory 并置：图书馆获得理论知识，实验室获得实践知识。",
   "rehearsal": "说出“理论知识—图书馆；实践知识—实验室”的对照，再答 library。",
   "caution": "这是课堂场景对照，不替代词典释义。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "library",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:412:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:479:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:611:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:603:0:deterministic-srt-v1",
+      "source-85b656cb74ac8c7a:615:1:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

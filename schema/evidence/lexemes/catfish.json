@@ -1,0 +1,26 @@
+{
+  "id": "catfish",
+  "headword": "catfish",
+  "status": "confirmed",
+  "cardId": "catfish",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "catfish",
+    "label": "鲶鱼",
+    "meaning": "鲶鱼",
+    "family": "meaning",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "cat + fish，再用鲶鱼的胡须作为像猫的视觉补充。",
+    "rehearsal": "先想有猫须特征的鱼。",
+    "caution": "直观联想，不是分类定义。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/catfish.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

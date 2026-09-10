@@ -1,0 +1,33 @@
+{
+  "id": "general",
+  "headword": "general",
+  "status": "confirmed",
+  "cardId": "general",
+  "mentionIds": [
+    "source-da443cb0d0c37ebd:40:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:48:1:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:54:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:58:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:60:0:deterministic-srt-v1",
+    "source-da443cb0d0c37ebd:61:1:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "general",
+    "label": "普遍的；总体的；将军",
+    "meaning": "普遍的；总体的；将军",
+    "family": "contrast",
+    "lessonId": "vocabulary-020",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以“全国这个面”与 central 的“中间这个点”作范围对照，记 general 的总体感。",
+    "rehearsal": "先说 central 是中心范围，再说 general 是总体/普遍范围。",
+    "caution": "general 还有“将军”等义项；本卡不把课堂范围画面当全部释义。"
+  },
+  "legacyLessonId": "vocabulary-020",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/general.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

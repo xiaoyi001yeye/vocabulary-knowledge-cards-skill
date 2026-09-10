@@ -1,0 +1,29 @@
+{
+  "id": "psychology",
+  "headword": "psychology",
+  "status": "confirmed",
+  "cardId": "psychology",
+  "mentionIds": [
+    "source-1da33e32e5e8d7ff:14:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:22:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "psychology",
+    "label": "心理学",
+    "meaning": "psychology",
+    "family": "contrast",
+    "lessonId": "vocabulary-035",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 psychology 明确讲为“心理学”，并与 physiology 并排区分。",
+    "rehearsal": "先说 psychology“心理学”，再说 physiology“生理学”，分别指出研究对象。",
+    "caution": "两词的字形对照是课堂复习法，学科定义以可靠资料为准。"
+  },
+  "legacyLessonId": "vocabulary-035",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/psychology.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "dandelion",
+  "headword": "dandelion",
+  "status": "confirmed",
+  "cardId": "dandelion",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:232:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:234:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:236:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:237:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:238:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:239:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:240:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:241:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:242:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:268:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:316:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:317:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:318:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:319:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:320:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:321:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:322:0:deterministic-srt-v1",
+    "source-17a7a82bcbf5d395:328:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "dandelion",
+    "label": "蒲公英",
+    "meaning": "蒲公英",
+    "family": "植物画面",
+    "lessonId": "vocabulary-finale",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂聚焦蒲公英叶片的齿状边缘，把它想成狮子的牙齿，以叶缘而非花朵记忆 dandelion。",
+    "rehearsal": "画一片有锯齿边缘的叶，指着边缘说“像狮子牙齿的 dandelion”。",
+    "caution": "叶缘和狮子牙齿的说明是课堂视觉助记，不作为严格词源断言。"
+  },
+  "legacyLessonId": "vocabulary-finale",
+  "legacyMnemonicCategory": "植物画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/dandelion.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

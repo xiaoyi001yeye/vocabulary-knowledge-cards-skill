@@ -1,0 +1,29 @@
+{
+  "id": "loyal",
+  "headword": "loyal",
+  "status": "confirmed",
+  "cardId": "loyal",
+  "mentionIds": [
+    "source-8e85860baa296563:17:0:deterministic-srt-v1",
+    "source-8e85860baa296563:18:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "loyal",
+    "label": "忠诚的；忠实的",
+    "meaning": "loyal",
+    "family": "contrast",
+    "lessonId": "vocabulary-033",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“对王室忠诚”的小故事，将 loyal 与 royal 并置对照。",
+    "rehearsal": "说出“忠诚于朋友”的情境，再朗读 loyal。",
+    "caution": "课堂故事只帮助区分 loyal 和 royal；语义和搭配以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-033",
+  "legacyMnemonicCategory": "contrast",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/loyal.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

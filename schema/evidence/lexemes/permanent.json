@@ -1,0 +1,28 @@
+{
+  "id": "permanent",
+  "headword": "permanent",
+  "status": "confirmed",
+  "cardId": "permanent",
+  "mentionIds": [
+    "source-1286da1d410e31f1:336:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "permanent",
+    "label": "永久的；长期的",
+    "meaning": "永久的；长期的",
+    "family": "time",
+    "lessonId": "vocabulary-025",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接给出 permanent，并用持续很久的状态帮助理解。",
+    "rehearsal": "说 permanent，再口述“永久的”。",
+    "caution": "permanent 的程度和搭配需以词典例句核对。"
+  },
+  "legacyLessonId": "vocabulary-025",
+  "legacyMnemonicCategory": "time",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/permanent.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

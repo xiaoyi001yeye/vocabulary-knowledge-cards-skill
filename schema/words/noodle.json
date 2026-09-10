@@ -4,8 +4,22 @@
   "meaning": "面条",
   "family": "对比",
   "lessonId": "vocabulary-011",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 noodle 与 needle 对照：读 noodle 时口形更粗、宽，对应较粗的面条。",
   "rehearsal": "交替朗读 noodle / needle，并分别想象粗面条和细针。",
   "caution": "口形与物体粗细只是课堂联想，不是词源说明。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "noodle",
+    "mentionIds": [
+      "source-38da6b51185af49e:841:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:842:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:851:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:852:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:855:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:857:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:870:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

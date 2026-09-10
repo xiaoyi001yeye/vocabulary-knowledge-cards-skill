@@ -1,0 +1,49 @@
+{
+  "id": "market",
+  "headword": "market",
+  "status": "confirmed",
+  "cardId": "market",
+  "mentionIds": [
+    "source-465469b62dd00822:364:0:deterministic-srt-v1",
+    "source-465469b62dd00822:367:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1524:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1526:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1534:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1539:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1565:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1572:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1574:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1619:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1648:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1651:0:deterministic-srt-v1",
+    "source-48d247490d750a6e:1672:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:777:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:778:0:deterministic-srt-v1",
+    "source-fc5804a317f88303:787:1:deterministic-srt-v1",
+    "source-fc5804a317f88303:819:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:280:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:281:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:286:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:287:0:deterministic-srt-v1",
+    "source-fd8941ac9793a0ae:297:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "market",
+    "label": "市场",
+    "meaning": "市场",
+    "family": "语义与场景",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂反复用“市场，市场，market”直接配对朗读，建立 market 与市场的基本对应。",
+    "rehearsal": "想象一个买卖商品的市场，朗读 market，并说“市场”。",
+    "caution": "中英文配对用于课堂记忆；具体搭配以词典为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "语义与场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/market.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "commercial",
+  "headword": "commercial",
+  "status": "confirmed",
+  "cardId": "commercial",
+  "mentionIds": [
+    "source-465469b62dd00822:377:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "commercial",
+    "label": "商业的；广告",
+    "meaning": "commercial",
+    "family": "family",
+    "lessonId": "vocabulary-030",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂从 commerce 的商业活动延伸到 commercial 的“商业的/广告”。",
+    "rehearsal": "先说 commerce“商业”，再说 commercial“商业的；广告”。",
+    "caution": "词族链仅作记忆提示；词性和义项以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-030",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/commercial.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

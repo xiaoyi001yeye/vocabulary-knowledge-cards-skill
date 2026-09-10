@@ -1,0 +1,39 @@
+{
+  "id": "freeze",
+  "headword": "freeze",
+  "status": "confirmed",
+  "cardId": "freeze",
+  "mentionIds": [
+    "source-6160c887bab4dead:223:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:238:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:525:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:530:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:531:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:532:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:550:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:554:0:deterministic-srt-v1",
+    "source-85b656cb74ac8c7a:556:0:deterministic-srt-v1",
+    "source-8e85860baa296563:37:0:deterministic-srt-v1",
+    "source-8e85860baa296563:39:0:deterministic-srt-v1",
+    "source-d9a7b5c2219a9fc4:1542:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "freeze",
+    "label": "冻结",
+    "meaning": "冻结",
+    "family": "课堂助记",
+    "lessonId": "vocabulary-015",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂反复把 freeze 落到“结冰”：把词直接连到水结成冰的状态。",
+    "rehearsal": "先说“结冰”，再朗读 freeze，并想象水面结冰。",
+    "caution": "直接画面为课堂助记；具体用法以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-015",
+  "legacyMnemonicCategory": "课堂助记",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/freeze.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hot-dog",
+  "headword": "hot-dog",
+  "status": "confirmed",
+  "cardId": "hot-dog",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "hot-dog",
+    "label": "热狗",
+    "meaning": "hot dog",
+    "family": "shape",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂让学生观察热狗的黄面包和露出的红色香肠，联想一只趴着、吐红舌头的黄狗。",
+    "rehearsal": "闭眼想“黄面包+红香肠”，再说 hot dog。",
+    "caution": "这是形象联想，不是 hot dog 的严格词源解释。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "shape",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/hot-dog.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

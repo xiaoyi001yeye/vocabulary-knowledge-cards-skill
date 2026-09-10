@@ -7,5 +7,19 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用“丝竹之音”联想弦乐和管乐的声音，落到 instrument = 乐器。",
   "rehearsal": "朗读 instrument，先说“丝竹之音”，再指出一种弦乐器或管乐器。",
-  "caution": "“丝竹之音”是课堂声音联想，不是词源结论。"
+  "caution": "“丝竹之音”是课堂声音联想，不是词源结论。",
+  "evidence": {
+    "lexemeId": "instrument",
+    "mentionIds": [
+      "source-149a15ed602adec6:230:0:deterministic-srt-v1",
+      "source-149a15ed602adec6:232:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:477:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:501:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:521:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:527:0:deterministic-srt-v1",
+      "source-38da6b51185af49e:528:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

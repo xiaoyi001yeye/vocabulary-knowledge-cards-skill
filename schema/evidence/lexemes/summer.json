@@ -1,0 +1,26 @@
+{
+  "id": "summer",
+  "headword": "summer",
+  "status": "confirmed",
+  "cardId": "summer",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "summer",
+    "label": "夏天",
+    "meaning": "summer",
+    "family": "sound",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 summer 放进“太阳很足、很热”的夏日画面，用双写 m 增强“热量多”的记忆感。",
+    "rehearsal": "想烈日，拼写 s-u-m-m-e-r。",
+    "caution": "双写 m 不表示“多个太阳”；这是拼写助记。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "sound",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/summer.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

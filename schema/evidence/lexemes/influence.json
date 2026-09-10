@@ -1,0 +1,28 @@
+{
+  "id": "influence",
+  "headword": "influence",
+  "status": "confirmed",
+  "cardId": "influence",
+  "mentionIds": [
+    "source-85b656cb74ac8c7a:1468:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "influence",
+    "label": "影响；影响力",
+    "meaning": "影响；影响力",
+    "family": "roots",
+    "lessonId": "four-methods",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "按课堂说法，in 是往里，flow 是流；往里流并能渗透的抽象东西，就是影响力。",
+    "rehearsal": "口述往里流 → 渗透 → 影响。",
+    "caution": "课堂助记推导，并非唯一词源。"
+  },
+  "legacyLessonId": "four-methods",
+  "legacyMnemonicCategory": "roots",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/influence.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

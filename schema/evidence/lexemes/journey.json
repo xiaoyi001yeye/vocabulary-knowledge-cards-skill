@@ -1,0 +1,50 @@
+{
+  "id": "journey",
+  "headword": "journey",
+  "status": "confirmed",
+  "cardId": "journey",
+  "mentionIds": [
+    "source-8e85860baa296563:232:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1315:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1317:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1318:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1322:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1410:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1414:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1415:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1420:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1421:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1422:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1454:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1455:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1460:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1472:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1479:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1483:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1493:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1533:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1541:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1552:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1576:0:deterministic-srt-v1",
+    "source-e51c67807adb6e8c:1607:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "journey",
+    "label": "旅行；旅程",
+    "meaning": "旅行；旅程",
+    "family": "词族与对比",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 journey 与 travel 放在一起说明，指出 journey 也表示旅行；先用“旅程”理解它。",
+    "rehearsal": "先说 travel，再说 journey，并口述“journey 是一次旅程”。",
+    "caution": "与 travel 的课堂对照用于辨析；具体词义和搭配以词典为准。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "词族与对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/journey.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

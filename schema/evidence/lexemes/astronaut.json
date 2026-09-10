@@ -1,0 +1,30 @@
+{
+  "id": "astronaut",
+  "headword": "astronaut",
+  "status": "confirmed",
+  "cardId": "astronaut",
+  "mentionIds": [
+    "source-632feac3831b11d8:285:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:295:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:317:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "astronaut",
+    "label": "宇航员",
+    "meaning": "宇航员",
+    "family": "太空画面",
+    "lessonId": "vocabulary-003",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“星星中的船”和驾驶飞船的人建立画面：在太空中驾驶航天器的人是 astronaut。",
+    "rehearsal": "想象自己驾驶飞船穿过星星，朗读 astronaut 并说“宇航员”。",
+    "caution": "星星、飞船的拆分是课堂画面，不作为严格构词或词源结论。"
+  },
+  "legacyLessonId": "vocabulary-003",
+  "legacyMnemonicCategory": "太空画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/astronaut.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

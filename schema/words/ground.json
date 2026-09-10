@@ -4,8 +4,16 @@
   "meaning": "ground",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂让学生看图感受 ground 是一片地或地面，不一定是耕种的田。",
   "rehearsal": "指向脚下说 the ground，再与 field 对比。",
   "caution": "ground 有多种义，如地面、理由、研磨；不能只理解为“地方”。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "ground",
+    "mentionIds": [
+      "source-149a15ed602adec6:251:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

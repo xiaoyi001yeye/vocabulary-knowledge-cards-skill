@@ -4,8 +4,17 @@
   "meaning": "download",
   "family": "contrast",
   "lessonId": "vocabulary-029",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 download 放在把网络内容取到设备里的操作场景，并与 upload 对照。",
   "rehearsal": "做出从上向下拖入手机的手势，说 download“下载”。",
   "caution": "上下方向是课堂助记；实际技术语境和搭配以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "download",
+    "mentionIds": [
+      "source-8e85860baa296563:726:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:152:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

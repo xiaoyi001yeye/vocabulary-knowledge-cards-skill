@@ -1,0 +1,36 @@
+{
+  "id": "sharp",
+  "headword": "sharp",
+  "status": "confirmed",
+  "cardId": "sharp",
+  "mentionIds": [
+    "source-96d8bf479a3cd23d:113:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:115:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:129:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1586:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1597:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1604:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1605:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1606:0:deterministic-srt-v1",
+    "source-c884a08f37ae1da1:1607:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "sharp",
+    "label": "锋利的；尖的",
+    "meaning": "锋利的；尖的",
+    "family": "声音与对比",
+    "lessonId": "vocabulary-018",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用鲨鱼尖头的形象并对比 shark，提示 sharp 的锋利、尖。",
+    "rehearsal": "画出尖头鲨鱼，交替朗读 shark / sharp。",
+    "caution": "声音相近和尖头画面仅作助记。"
+  },
+  "legacyLessonId": "vocabulary-018",
+  "legacyMnemonicCategory": "声音与对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/sharp.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

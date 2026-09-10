@@ -1,0 +1,29 @@
+{
+  "id": "primary",
+  "headword": "primary",
+  "status": "confirmed",
+  "cardId": "primary",
+  "mentionIds": [
+    "source-a07e3afb28e15970:359:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:370:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "primary",
+    "label": "最初的；小学的",
+    "meaning": "最初的；小学的",
+    "family": "场景",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“前面”的提示并锚定 primary school，联想“最初的学校”。",
+    "rehearsal": "说 primary school，再回答它在课堂中的“最初的学校”画面。",
+    "caution": "课堂前缀提示仅作助记，不替代构词规则。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "场景",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/primary.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

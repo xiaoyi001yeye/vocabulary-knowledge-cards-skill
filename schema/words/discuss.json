@@ -4,8 +4,23 @@
   "meaning": "讨论",
   "family": "场景",
   "lessonId": "vocabulary-017",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将一个人连续 talk 与多人“你一嘴我一嘴”的讨论场景对照。",
   "rehearsal": "和同伴模拟两轮来回讨论，并说 discuss。",
   "caution": "这是课堂场景对照，不是严格词源解释。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "discuss",
+    "mentionIds": [
+      "source-a07e3afb28e15970:444:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:452:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:469:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:474:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:475:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1019:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1031:0:deterministic-srt-v1",
+      "source-d748ac8183a6c4bc:1035:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 oxygen，并以空气中的氧气作科学场景。",
   "rehearsal": "深吸一口气，朗读 oxygen，说“氧气”。",
-  "caution": "科学术语的精确定义以教材或词典为准。"
+  "caution": "科学术语的精确定义以教材或词典为准。",
+  "evidence": {
+    "lexemeId": "oxygen",
+    "mentionIds": [
+      "source-366220025a701762:334:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

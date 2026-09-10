@@ -1,0 +1,34 @@
+{
+  "id": "stick",
+  "label": "棍；枝条",
+  "meaning": "棍；枝条",
+  "family": "画面与形状",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂把 stick 描述为“瘦而小”的细长物体，用一根细棍或枝条的形状记住它。",
+  "rehearsal": "用手比出一根细长棍，朗读 stick，并说“棍；枝条”。",
+  "caution": "课堂形状画面用于助记；stick 还有动词等其他用法。",
+  "evidence": {
+    "lexemeId": "stick",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:1743:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1748:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1757:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1759:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:1763:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:680:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:710:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:712:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:716:1:deterministic-srt-v1",
+      "source-632feac3831b11d8:726:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:728:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:764:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:777:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:1307:0:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:1334:1:deterministic-srt-v1",
+      "source-a16e1bfcf6d30d55:1393:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

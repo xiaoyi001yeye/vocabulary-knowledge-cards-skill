@@ -1,0 +1,28 @@
+{
+  "id": "primate",
+  "headword": "primate",
+  "status": "confirmed",
+  "cardId": "primate",
+  "mentionIds": [
+    "source-7f5185c9dd3fe186:118:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "primate",
+    "label": "灵长类动物；灵长目动物",
+    "meaning": "primate",
+    "family": "meaning",
+    "lessonId": "vocabulary-031",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 primate 放在猴子等灵长类动物的类别画面中。",
+    "rehearsal": "想象一只猴子，说 primate“灵长类动物”。",
+    "caution": "课堂拆分只作助记；分类含义以词典或百科资料为准。"
+  },
+  "legacyLessonId": "vocabulary-031",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/primate.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

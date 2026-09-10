@@ -7,5 +7,18 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂明确说明所有有生命的东西可称 creature。",
   "rehearsal": "想一种有生命的动物，朗读 creature，说“生物”。",
-  "caution": "creature 的具体语感和适用范围以词典例句为准。"
+  "caution": "creature 的具体语感和适用范围以词典例句为准。",
+  "evidence": {
+    "lexemeId": "creature",
+    "mentionIds": [
+      "source-9f7314f00761b13d:1339:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1340:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1351:0:deterministic-srt-v1",
+      "source-9f7314f00761b13d:1357:0:deterministic-srt-v1",
+      "source-a5018fd792d84e0f:2:0:deterministic-srt-v1",
+      "source-a5018fd792d84e0f:5:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

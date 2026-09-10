@@ -1,0 +1,26 @@
+{
+  "id": "field",
+  "headword": "field",
+  "status": "confirmed",
+  "cardId": "field",
+  "mentionIds": [],
+  "provenanceStatus": "needs-evidence-link",
+  "legacyCard": {
+    "id": "field",
+    "label": "田地；场地；领域",
+    "meaning": "field",
+    "family": "meaning",
+    "lessonId": "primary-vocabulary-mnemonics-01",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂与 ground 对比：field 更容易联想到种植、农田，也可指一片有用途的场地。",
+    "rehearsal": "想庄稼地，说 a field；再说 football field。",
+    "caution": "field 不只指农田，还可指运动场、学科领域；与 feudal 的词源关系不按课堂类比处理。"
+  },
+  "legacyLessonId": "primary-vocabulary-mnemonics-01",
+  "legacyMnemonicCategory": "meaning",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/field.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

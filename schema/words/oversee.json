@@ -7,5 +7,17 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 oversee 放在从上方看管、监督事情的动作中。",
   "rehearsal": "想象检查一项工作，朗读 oversee，说“监督”。",
-  "caution": "课堂的 over + see 拆分只作助记，不是完整词源分析。"
+  "caution": "课堂的 over + see 拆分只作助记，不是完整词源分析。",
+  "evidence": {
+    "lexemeId": "oversee",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:761:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:251:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:269:0:deterministic-srt-v1",
+      "source-1286da1d410e31f1:298:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:502:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

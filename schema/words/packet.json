@@ -4,8 +4,26 @@
   "meaning": "小包；小袋",
   "family": "物体画面",
   "lessonId": "vocabulary-008",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用方便面里的调料小袋作画面，强调它是小而较扁的包装。",
   "rehearsal": "想象拿起一包调料，读 packet 并说“小包”。",
   "caution": "“扁”的声音联想只是课堂画面。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "packet",
+    "mentionIds": [
+      "source-0e8ccb05819e8652:282:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:288:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:297:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:326:0:deterministic-srt-v1",
+      "source-0e8ccb05819e8652:347:0:deterministic-srt-v1",
+      "source-a07e3afb28e15970:312:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:699:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:701:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:704:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:710:0:deterministic-srt-v1",
+      "source-da443cb0d0c37ebd:739:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

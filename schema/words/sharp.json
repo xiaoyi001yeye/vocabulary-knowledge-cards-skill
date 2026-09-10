@@ -7,5 +7,21 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用鲨鱼尖头的形象并对比 shark，提示 sharp 的锋利、尖。",
   "rehearsal": "画出尖头鲨鱼，交替朗读 shark / sharp。",
-  "caution": "声音相近和尖头画面仅作助记。"
+  "caution": "声音相近和尖头画面仅作助记。",
+  "evidence": {
+    "lexemeId": "sharp",
+    "mentionIds": [
+      "source-96d8bf479a3cd23d:113:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:115:0:deterministic-srt-v1",
+      "source-96d8bf479a3cd23d:129:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1586:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1597:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1604:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1605:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1606:0:deterministic-srt-v1",
+      "source-c884a08f37ae1da1:1607:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

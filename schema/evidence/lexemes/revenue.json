@@ -1,0 +1,28 @@
+{
+  "id": "revenue",
+  "headword": "revenue",
+  "status": "confirmed",
+  "cardId": "revenue",
+  "mentionIds": [
+    "source-9b2057d0a839eee7:37:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "revenue",
+    "label": "收入；收益",
+    "meaning": "revenue",
+    "family": "family",
+    "lessonId": "vocabulary-034",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂在 avenue、venue 的声音对比中明确给出 revenue“收入”。",
+    "rehearsal": "朗读 revenue，并口述“企业或政府得到的收入”。",
+    "caution": "课堂声音对比仅为助记，不可据此推断词源或构词。"
+  },
+  "legacyLessonId": "vocabulary-034",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/revenue.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -7,5 +7,18 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂明确把 enterprise 讲作企业/事业。",
   "rehearsal": "朗读 enterprise，再说“企业”。",
-  "caution": "enterprise 的抽象义和搭配请以词典为准。"
+  "caution": "enterprise 的抽象义和搭配请以词典为准。",
+  "evidence": {
+    "lexemeId": "enterprise",
+    "mentionIds": [
+      "source-43876b3383b9858d:235:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:236:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:240:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:250:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:256:0:deterministic-srt-v1",
+      "source-43876b3383b9858d:261:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

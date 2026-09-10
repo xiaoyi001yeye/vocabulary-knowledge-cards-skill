@@ -1,0 +1,34 @@
+{
+  "id": "office",
+  "headword": "office",
+  "status": "confirmed",
+  "cardId": "office",
+  "mentionIds": [
+    "source-17a7a82bcbf5d395:1281:0:deterministic-srt-v1",
+    "source-366220025a701762:278:0:deterministic-srt-v1",
+    "source-366220025a701762:289:0:deterministic-srt-v1",
+    "source-366220025a701762:306:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:1307:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:1310:0:deterministic-srt-v1",
+    "source-9f7314f00761b13d:1332:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "office",
+    "label": "办公室",
+    "meaning": "办公室",
+    "family": "place",
+    "lessonId": "vocabulary-026-special",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂明确给出 office“办公室”。",
+    "rehearsal": "想象办公桌和工作人员，朗读 office，说“办公室”。",
+    "caution": "office 也可指职位或机构；具体义项依语境而定。"
+  },
+  "legacyLessonId": "vocabulary-026-special",
+  "legacyMnemonicCategory": "place",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/office.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

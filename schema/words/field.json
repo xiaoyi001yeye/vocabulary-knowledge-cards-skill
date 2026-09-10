@@ -4,8 +4,14 @@
   "meaning": "field",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂与 ground 对比：field 更容易联想到种植、农田，也可指一片有用途的场地。",
   "rehearsal": "想庄稼地，说 a field；再说 football field。",
   "caution": "field 不只指农田，还可指运动场、学科领域；与 feudal 的词源关系不按课堂类比处理。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "field",
+    "mentionIds": [],
+    "reviewIds": [],
+    "provenanceStatus": "needs-evidence-link"
+  }
 }

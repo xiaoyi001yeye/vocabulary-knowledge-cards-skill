@@ -1,0 +1,42 @@
+{
+  "id": "ring",
+  "headword": "ring",
+  "status": "confirmed",
+  "cardId": "ring",
+  "mentionIds": [
+    "source-149a15ed602adec6:290:0:deterministic-srt-v1",
+    "source-366220025a701762:975:0:deterministic-srt-v1",
+    "source-366220025a701762:996:0:deterministic-srt-v1",
+    "source-465469b62dd00822:1486:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1549:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1551:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1559:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1590:0:deterministic-srt-v1",
+    "source-9b2057d0a839eee7:1592:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:432:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:435:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:437:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:336:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:351:0:deterministic-srt-v1",
+    "source-d70e0af1dc1fb370:370:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "ring",
+    "label": "环；戒指",
+    "meaning": "环；戒指",
+    "family": "画面",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂直接用耳环的圆环画面提示 ring。",
+    "rehearsal": "指向或想象耳环，朗读 ring。",
+    "caution": "圆环画面用于记忆；ring 的其他义项需按语境学习。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/ring.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

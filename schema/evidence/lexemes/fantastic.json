@@ -1,0 +1,29 @@
+{
+  "id": "fantastic",
+  "headword": "fantastic",
+  "status": "confirmed",
+  "cardId": "fantastic",
+  "mentionIds": [
+    "source-270fd0178a19029e:330:0:deterministic-srt-v1",
+    "source-270fd0178a19029e:342:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "fantastic",
+    "label": "极好的；奇异的",
+    "meaning": "极好的；奇异的",
+    "family": "family",
+    "lessonId": "vocabulary-022",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂在 fantasy 后引出 fantastic，作为相近词形的扩展。",
+    "rehearsal": "先说 fantasy“幻想”，再说 fantastic“极好的/奇异的”。",
+    "caution": "两词字形相近并不表示可机械推导全部词义；按词典核对。"
+  },
+  "legacyLessonId": "vocabulary-022",
+  "legacyMnemonicCategory": "family",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/fantastic.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

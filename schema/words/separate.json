@@ -4,8 +4,16 @@
   "meaning": "分开；使分离",
   "family": "画面",
   "lessonId": "vocabulary-013",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂提示“分开”，并让学习者想象一对东西被拉开后重复 separate。",
   "rehearsal": "一边做向两侧拉开的动作，一边朗读 separate。",
   "caution": "这是课堂动作联想；实际词义与词性以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "separate",
+    "mentionIds": [
+      "source-fc5804a317f88303:46:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

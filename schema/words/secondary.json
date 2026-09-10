@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂以 secondary school 为中学的明确场景记忆 secondary。",
   "rehearsal": "朗读 secondary school，再说“中学”。",
-  "caution": "secondary 还有“次要的”等义项；本卡不覆盖全部用法。"
+  "caution": "secondary 还有“次要的”等义项；本卡不覆盖全部用法。",
+  "evidence": {
+    "lexemeId": "secondary",
+    "mentionIds": [
+      "source-a5018fd792d84e0f:163:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

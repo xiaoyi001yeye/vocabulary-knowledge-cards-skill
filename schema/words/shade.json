@@ -1,0 +1,37 @@
+{
+  "id": "shade",
+  "label": "阴影；阴凉处",
+  "meaning": "阴影；阴凉处",
+  "family": "语义与场景",
+  "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
+  "classroomMethod": "课堂直接把 shade 解释为“阴凉处”，把它放进有遮挡、可以避开阳光的场景中理解。",
+  "rehearsal": "指向一处遮阴的位置，朗读 shade，并说“阴凉处”。",
+  "caution": "课堂场景用于助记；具体搭配和词义以词典为准。",
+  "evidence": {
+    "lexemeId": "shade",
+    "mentionIds": [
+      "source-9b2057d0a839eee7:780:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:781:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:790:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:791:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:795:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:796:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:797:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:798:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:799:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:802:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:805:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:806:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:808:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:814:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:819:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:820:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:821:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:822:0:deterministic-srt-v1",
+      "source-9b2057d0a839eee7:823:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
+}

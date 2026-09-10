@@ -1,0 +1,31 @@
+{
+  "id": "relate",
+  "headword": "relate",
+  "status": "confirmed",
+  "cardId": "relate",
+  "mentionIds": [
+    "source-a07e3afb28e15970:592:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:602:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:609:0:deterministic-srt-v1",
+    "source-a07e3afb28e15970:620:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "relate",
+    "label": "使联系；有关联",
+    "meaning": "使联系；有关联",
+    "family": "画面",
+    "lessonId": "vocabulary-017",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把两件事反复“拉扯”、在中间牵线搭桥，提示 relate = 使发生联系。",
+    "rehearsal": "在两件物品之间画一条线，再说 relate them。",
+    "caution": "“拉线”是课堂画面助记。"
+  },
+  "legacyLessonId": "vocabulary-017",
+  "legacyMnemonicCategory": "画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/relate.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

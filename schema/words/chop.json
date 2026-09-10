@@ -4,8 +4,26 @@
   "meaning": "砍；剁",
   "family": "声音",
   "lessonId": "vocabulary-014",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂以“当当当”的剁切声音和较厚块状物，对比 chip 的薄片画面。",
   "rehearsal": "做三次向下剁切动作并朗读 chop。",
   "caution": "声音和块状物为课堂联想；含义以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "chop",
+    "mentionIds": [
+      "source-0759dd85e8a2a5af:666:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:667:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:689:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:690:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:694:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:696:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:712:0:deterministic-srt-v1",
+      "source-0759dd85e8a2a5af:723:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:677:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:678:0:deterministic-srt-v1",
+      "source-632feac3831b11d8:766:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

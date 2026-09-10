@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将 suitable 放在“合适”的直接判断中。",
   "rehearsal": "挑一件合适的物品，说 suitable，再说“合适”。",
-  "caution": "suitable 与 appropriate 的区别需以词典例句核对。"
+  "caution": "suitable 与 appropriate 的区别需以词典例句核对。",
+  "evidence": {
+    "lexemeId": "suitable",
+    "mentionIds": [
+      "source-43876b3383b9858d:436:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

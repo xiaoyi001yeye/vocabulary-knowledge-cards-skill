@@ -4,8 +4,16 @@
   "meaning": "重拳",
   "family": "声音",
   "lessonId": "vocabulary-017",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂用重重挨一拳的声音和画面记忆 punch，并对比 punch bag 与 sandbag。",
   "rehearsal": "做一个安全的出拳动作，说 punch bag / sandbag。",
   "caution": "课堂声音和画面仅作助记。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "punch",
+    "mentionIds": [
+      "source-a07e3afb28e15970:337:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

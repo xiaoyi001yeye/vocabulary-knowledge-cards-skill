@@ -1,0 +1,31 @@
+{
+  "id": "arch",
+  "headword": "arch",
+  "status": "confirmed",
+  "cardId": "arch",
+  "mentionIds": [
+    "source-a07e3afb28e15970:944:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:45:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:56:0:deterministic-srt-v1",
+    "source-d748ac8183a6c4bc:64:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "arch",
+    "label": "拱；拱形",
+    "meaning": "拱；拱形",
+    "family": "形状对比",
+    "lessonId": "vocabulary-006",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂将 arch 与较短的 arc 对比，把 arch 想成被拉长的弧形。",
+    "rehearsal": "在空中画一条拱，再先读 arc、后读 arch。",
+    "caution": "arc 与 arch 的比较是视觉助记，不是严格词源主张。"
+  },
+  "legacyLessonId": "vocabulary-006",
+  "legacyMnemonicCategory": "形状对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/arch.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

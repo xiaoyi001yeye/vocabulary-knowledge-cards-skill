@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂将一本书的内容抄到另一本书，作为“跨过去写”的转写画面。",
   "rehearsal": "把一句短文从一张纸抄到另一张纸，再说 transcribe。",
-  "caution": "“跨过去写”是课堂记忆图像，不是词源断言。"
+  "caution": "“跨过去写”是课堂记忆图像，不是词源断言。",
+  "evidence": {
+    "lexemeId": "transcribe",
+    "mentionIds": [
+      "source-c884a08f37ae1da1:1043:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

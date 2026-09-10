@@ -1,0 +1,34 @@
+{
+  "id": "expert",
+  "headword": "expert",
+  "status": "confirmed",
+  "cardId": "expert",
+  "mentionIds": [
+    "source-23363ceac2a543da:1705:0:deterministic-srt-v1",
+    "source-23363ceac2a543da:1707:0:deterministic-srt-v1",
+    "source-6160c887bab4dead:270:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:1670:0:deterministic-srt-v1",
+    "source-8e85860baa296563:345:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:10:0:deterministic-srt-v1",
+    "source-96d8bf479a3cd23d:18:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "expert",
+    "label": "专家",
+    "meaning": "专家",
+    "family": "重复经历",
+    "lessonId": "vocabulary-004",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把反复做 experiment 的人想成逐渐熟练、成为 expert 的人。",
+    "rehearsal": "口述“反复实验的人会成为专家”，朗读 expert。",
+    "caution": "experiment 与 expert 的联系是课堂经验联想，不等同于词源。"
+  },
+  "legacyLessonId": "vocabulary-004",
+  "legacyMnemonicCategory": "重复经历",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/expert.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

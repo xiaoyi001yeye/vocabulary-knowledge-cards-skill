@@ -1,0 +1,36 @@
+{
+  "id": "slogan",
+  "headword": "slogan",
+  "status": "confirmed",
+  "cardId": "slogan",
+  "mentionIds": [
+    "source-1da33e32e5e8d7ff:799:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:800:1:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:801:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:811:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:833:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:838:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:839:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:844:0:deterministic-srt-v1",
+    "source-1da33e32e5e8d7ff:852:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "slogan",
+    "label": "标语；口号",
+    "meaning": "标语；口号",
+    "family": "视觉对比",
+    "lessonId": "vocabulary-035",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂把 logo 说成短小视觉标记，把 slogan 说成旁边较长的一句话，以图形和句子的对比记忆。",
+    "rehearsal": "想一个品牌图标和旁边的一句宣传语，读 slogan。",
+    "caution": "logo 与 slogan 的长短对比是教学画面，不是定义边界。"
+  },
+  "legacyLessonId": "vocabulary-035",
+  "legacyMnemonicCategory": "视觉对比",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/slogan.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "insist",
+  "headword": "insist",
+  "status": "confirmed",
+  "cardId": "insist",
+  "mentionIds": [
+    "source-149a15ed602adec6:691:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:703:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:715:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:727:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "insist",
+    "label": "坚持；坚决要求",
+    "meaning": "坚持；坚决要求",
+    "family": "画面",
+    "lessonId": "vocabulary-012",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂用“往里站”、钉子户不让步的画面提示 insist。",
+    "rehearsal": "面对一个要求，先说 I insist，再描述不让步的画面。",
+    "caution": "“往里站”只是课堂联想，不是严格构词分析。"
+  },
+  "legacyLessonId": "vocabulary-012",
+  "legacyMnemonicCategory": "画面",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/insist.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

@@ -4,8 +4,24 @@
   "meaning": "investigate",
   "family": "scene",
   "lessonId": "vocabulary-027",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂把 investigate 放在“去看看到底有什么”的调查场景中反复朗读。",
   "rehearsal": "选一个物品，问“里面有什么？”并说 investigate“调查”。",
   "caution": "这是场景助记；词的构成及正式搭配以词典为准。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "investigate",
+    "mentionIds": [
+      "source-17a7a82bcbf5d395:362:2:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:363:0:deterministic-srt-v1",
+      "source-17a7a82bcbf5d395:363:3:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:227:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:234:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:237:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:241:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:246:0:deterministic-srt-v1",
+      "source-b7a5f1e565950e5b:265:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

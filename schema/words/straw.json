@@ -4,8 +4,16 @@
   "meaning": "straw",
   "family": "meaning",
   "lessonId": "primary-vocabulary-mnemonics-01",
+  "source": "小学英语词汇助记课",
   "classroomMethod": "课堂先把 straw 想成草茎/秸秆，再用“从土里拉水给草叶”的画面过渡到吸管。",
   "rehearsal": "手拿吸管，先说 straw（秸秆），再说 drinking straw（吸管）。",
   "caution": "“草茎拉水”是课堂画面；straw 的词义演变不应据此当作严格词源。",
-  "source": "小学英语词汇助记课"
+  "evidence": {
+    "lexemeId": "straw",
+    "mentionIds": [
+      "source-270fd0178a19029e:1393:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

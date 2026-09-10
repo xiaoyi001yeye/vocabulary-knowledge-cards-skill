@@ -1,0 +1,32 @@
+{
+  "id": "keyboard",
+  "headword": "keyboard",
+  "status": "confirmed",
+  "cardId": "keyboard",
+  "mentionIds": [
+    "source-149a15ed602adec6:864:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:866:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:452:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:495:0:deterministic-srt-v1",
+    "source-632feac3831b11d8:500:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "keyboard",
+    "label": "键盘",
+    "meaning": "键盘",
+    "family": "组合拆分",
+    "lessonId": "vocabulary-003",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂先认 board 是“板”，再想象放着 keys 的一块板，得到 keyboard。",
+    "rehearsal": "指向键盘，分别说 key、board、keyboard。",
+    "caution": "这是复合词画面，不主张所有拼写都能按同一规则拆解。"
+  },
+  "legacyLessonId": "vocabulary-003",
+  "legacyMnemonicCategory": "组合拆分",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/keyboard.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}

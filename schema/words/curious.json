@@ -7,5 +7,13 @@
   "source": "小学英语词汇助记课",
   "classroomMethod": "课堂直接给出 curious，并以想知道更多的状态帮助理解。",
   "rehearsal": "对一个新事物说 I am curious，再口述“好奇的”。",
-  "caution": "curious 与 curiosity 的词形关系只作复习提示。"
+  "caution": "curious 与 curiosity 的词形关系只作复习提示。",
+  "evidence": {
+    "lexemeId": "curious",
+    "mentionIds": [
+      "source-366220025a701762:97:0:deterministic-srt-v1"
+    ],
+    "reviewIds": [],
+    "provenanceStatus": "candidate-token-match"
+  }
 }

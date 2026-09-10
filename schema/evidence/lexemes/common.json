@@ -1,0 +1,35 @@
+{
+  "id": "common",
+  "headword": "common",
+  "status": "confirmed",
+  "cardId": "common",
+  "mentionIds": [
+    "source-149a15ed602adec6:728:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:729:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:733:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:734:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:742:0:deterministic-srt-v1",
+    "source-149a15ed602adec6:761:0:deterministic-srt-v1",
+    "source-366220025a701762:315:0:deterministic-srt-v1",
+    "source-a16e1bfcf6d30d55:807:0:deterministic-srt-v1"
+  ],
+  "provenanceStatus": "candidate-token-match",
+  "legacyCard": {
+    "id": "common",
+    "label": "常见的；共同的",
+    "meaning": "common",
+    "family": "comparison",
+    "lessonId": "vocabulary-026",
+    "source": "小学英语词汇助记课",
+    "classroomMethod": "课堂以多人共有或日常经常见到的事物，建立 common 的“共同/常见”感觉。",
+    "rehearsal": "说出两个人的 one common thing，或说一个 common item。",
+    "caution": "课堂对“共同”和“常见”的并置是助记；具体义项以词典为准。"
+  },
+  "legacyLessonId": "vocabulary-026",
+  "legacyMnemonicCategory": "comparison",
+  "legacySourceLabel": "小学英语词汇助记课",
+  "migration": {
+    "importedFrom": "schema/words/common.json",
+    "strategy": "exact-normalized-token-match-v1"
+  }
+}
