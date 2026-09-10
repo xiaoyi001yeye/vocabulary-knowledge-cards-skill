@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite --config vite.config.ts",
     "build": "tsc --noEmit && vite build --config vite.config.ts",
+    "rebuild:primary-graph": "node scripts/rebuild-primary-graph.mjs",
     "validate:schema": "node scripts/validate-schema.mjs",
     "preview": "vite preview --config vite.config.ts"
   },
